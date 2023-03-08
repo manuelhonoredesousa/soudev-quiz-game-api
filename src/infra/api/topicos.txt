@@ -1,0 +1,23 @@
+#PT
+Geografia mundial           -
+História mundial            -
+Filmes e séries de TV       -
+Música e artistas famosos   -
+Esportes e atletas famosos  -
+Ciência e tecnologia        -
+Animais e vida selvagem     -
+Arte e cultura              -
+Comida e gastronomia        -
+Literatura e autores famosos
+
+#EN
+world geography
+world history
+Movies and TV series
+Music and famous artists
+Famous sports and athletes
+Science and technology
+Animals and wild life
+Art and culture
+food and gastronomy
+Literature and famous authors

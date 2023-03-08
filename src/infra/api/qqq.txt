@@ -1,0 +1,35 @@
+sobre Literatura e autores famosos, gera 5 perguntas e respostas no formato json, exemplo: 
+{
+    "question": "perguntas do quiz?",
+    "options": [
+        "Resposta A",
+        "Resposta B",
+        "Resposta C",
+        "Resposta D"
+    ],
+    "answer": "Resposta B"
+}
+
+faça um quiz de imagem, gera 5 perguntas e respostas no formato json, exemplo: 
+{
+    "question": "imagem do quiz?",
+    "options": [
+        "Resposta A",
+        "Resposta B",
+        "Resposta C",
+        "Resposta D"
+    ],
+    "answer": "Resposta B"
+}
+
+15+15+20
+
+  "developerInfo": {
+    "name": "Manuel de Sousa",
+    "portifolio": "https://soudev.netlify.app/",
+    "linkedIn": "https://www.linkedin.com/in/manuelhonoredesousa/",
+    "github": "https://github.com/manuelhonoredesousa"
+  },
+
+
+  

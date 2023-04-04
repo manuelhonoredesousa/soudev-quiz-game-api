@@ -1,0 +1,5027 @@
+{
+  "quizTitle": "SouDev Quiz Game",
+  "totalTopicsInQuiz": 11,
+  "totalQuestionsForEachTopicInQuiz": 50,
+  "language": "portuguese",
+  "languageCode": "pt",
+  "quiz": {
+    "world_geography": [
+      {
+        "id": 1,
+        "question": "Qual é o maior país do mundo?",
+        "options": ["Rússia", "China", "Índia", "Estados Unidos"],
+        "answer": "Rússia"
+      },
+      {
+        "id": 2,
+        "question": "Qual é o menor país do mundo?",
+        "options": ["Mônaco", "Vaticano", "Nauru", "São Marino"],
+        "answer": "Vaticano"
+      },
+      {
+        "id": 3,
+        "question": "Qual é o país com maior população do mundo?",
+        "options": ["Índia", "China", "Angola", "Brasil"],
+        "answer": "China"
+      },
+      {
+        "id": 4,
+        "question": "Qual é o maior continente do mundo?",
+        "options": ["América", "Europa", "África", "Ásia"],
+        "answer": "Ásia"
+      },
+      {
+        "id": 5,
+        "question": "Qual é o oceano mais extenso do mundo?",
+        "options": [
+          "Oceano Pacífico",
+          "Oceano Atlântico",
+          "Oceano Índico",
+          "Oceano Ártico"
+        ],
+        "answer": "Oceano Pacífico"
+      },
+      {
+        "id": 6,
+        "question": "Qual é o país que possui a maior costa marítima do mundo?",
+        "options": ["Brasil", "Estados Unidos", "Austrália", "Canadá"],
+        "answer": "Canadá"
+      },
+      {
+        "id": 7,
+        "question": "Qual é o ponto mais baixo do mundo?",
+        "options": [
+          "Monte Everest",
+          "Mar Morto",
+          "Vale da Morte",
+          "Lago Baikal"
+        ],
+        "answer": "Mar Morto"
+      },
+      {
+        "id": 8,
+        "question": "Qual é o país que possui a maior área territorial do mundo?",
+        "options": ["Rússia", "Canadá", "China", "Estados Unidos"],
+        "answer": "Rússia"
+      },
+      {
+        "id": 9,
+        "question": "Qual é o rio mais extenso do mundo?",
+        "options": [
+          "Rio Amazonas",
+          "Rio Nilo",
+          "Rio Yangtze",
+          "Rio Mississippi"
+        ],
+        "answer": "Rio Amazonas"
+      },
+      {
+        "id": 10,
+        "question": "Qual é a cidade mais populosa do mundo?",
+        "options": ["Xangai", "Tóquio", "Delhi", "São Paulo"],
+        "answer": "Tóquio"
+      },
+      {
+        "id": 11,
+        "question": "Qual é a capital da Austrália?",
+        "options": ["Melbourne", "Sydney", "Brisbane", "Camberra"],
+        "answer": "Camberra"
+      },
+      {
+        "id": 12,
+        "question": "Qual é o maior deserto do mundo?",
+        "options": ["Sara", "Saara", "Gobi", "Atacama"],
+        "answer": "Saara"
+      },
+      {
+        "id": 13,
+        "question": "Qual é o país com mais vulcões ativos do mundo?",
+        "options": ["Japão", "Indonésia", "Filipinas", "Estados Unidos"],
+        "answer": "Indonésia"
+      },
+      {
+        "id": 14,
+        "question": "Qual é o país que possui a maior barreira de corais do mundo?",
+        "options": ["Brasil", "Austrália", "Indonésia", "Filipinas"],
+        "answer": "Austrália"
+      },
+      {
+        "id": 15,
+        "question": "Qual é o país que possui a maior quantidade de ilhas do mundo?",
+        "options": ["Japão", "Indonésia", "Filipinas", "Austrália"],
+        "answer": "Indonésia"
+      },
+      {
+        "id": 16,
+        "question": "Qual é o país que possui a maior reserva de petróleo do mundo?",
+        "options": ["Arábia Saudita", "Estados Unidos", "Rússia", "Venezuela"],
+        "answer": "Venezuela"
+      },
+      {
+        "id": 17,
+        "question": "Qual é a montanha mais alta da América do Sul?",
+        "options": [
+          "Monte Aconcágua",
+          "Monte Chimborazo",
+          "Monte Cotopaxi",
+          "Monte Everest"
+        ],
+        "answer": "Monte Aconcágua"
+      },
+      {
+        "id": 18,
+        "question": "Qual é o maior lago do mundo?",
+        "options": [
+          "Lago Baikal",
+          "Lago Vitória",
+          "Lago Superior",
+          "Lago Titicaca"
+        ],
+        "answer": "Lago Baikal"
+      },
+      {
+        "id": 19,
+        "question": "Qual é a cidade mais populosa da Europa?",
+        "options": ["Londres", "Moscou", "Paris", "Istambul"],
+        "answer": "Moscou"
+      },
+      {
+        "id": 20,
+        "question": "Qual é o país que possui o maior número de rios do mundo?",
+        "options": ["Brasil", "Canadá", "Rússia", "Índia"],
+        "answer": "Rússia"
+      },
+      {
+        "id": 21,
+        "question": "Qual é a capital do Canadá?",
+        "options": ["Toronto", "Ottawa", "Vancouver", "Montreal"],
+        "answer": "Ottawa"
+      },
+      {
+        "id": 22,
+        "question": "Qual é o rio mais longo do mundo?",
+        "options": ["Rio Nilo", "Rio Amazonas", "Rio Yangtze", "Rio Amarelo"],
+        "answer": "Rio Nilo"
+      },
+      {
+        "id": 23,
+        "question": "Qual é o país que possui o maior número de pirâmides do mundo?",
+        "options": ["Egito", "Sudão", "México", "Peru"],
+        "answer": "Sudão"
+      },
+      {
+        "id": 24,
+        "question": "Qual é o país que possui a maior quantidade de rios?",
+        "options": ["Brasil", "Índia", "Rússia", "China"],
+        "answer": "Brasil"
+      },
+      {
+        "id": 25,
+        "question": "Qual é o país que possui a maior reserva de gás natural do mundo?",
+        "options": ["Canadá", "China", "Rússia", "Estados Unidos"],
+        "answer": "Rússia"
+      },
+      {
+        "id": 26,
+        "question": "Qual é o país que possui a maior quantidade de lagos do mundo?",
+        "options": ["Canadá", "Finlândia", "Rússia", "Suécia"],
+        "answer": "Canadá"
+      },
+      {
+        "id": 27,
+        "question": "Qual é o país que possui a maior extensão de costa no Oceano Índico?",
+        "options": ["Índia", "Indonésia", "Austrália", "África do Sul"],
+        "answer": "Austrália"
+      },
+      {
+        "id": 28,
+        "question": "Qual é o país que possui a maior extensão de costa no Oceano Atlântico?",
+        "options": ["Estados Unidos", "Brasil", "Canadá", "Espanha"],
+        "answer": "Brasil"
+      },
+      {
+        "id": 29,
+        "question": "Qual é o país que possui a maior quantidade de rios navegáveis do mundo?",
+        "options": ["Brasil", "China", "Rússia", "Estados Unidos"],
+        "answer": "Rússia"
+      },
+      {
+        "id": 30,
+        "question": "Qual é o país que possui a maior quantidade de Patrimônios Mundiais da UNESCO?",
+        "options": ["Itália", "China", "Espanha", "França"],
+        "answer": "Itália"
+      },
+      {
+        "id": 31,
+        "question": "Qual é o ponto mais alto do mundo?",
+        "options": [
+          "Monte Everest",
+          "Monte Kilimanjaro",
+          "Monte Denali",
+          "Monte Aconcágua"
+        ],
+        "answer": "Monte Everest"
+      },
+      {
+        "id": 32,
+        "question": "Qual é o país com a maior costa litorânea do mundo?",
+        "options": ["Estados Unidos", "Canadá", "Rússia", "Austrália"],
+        "answer": "Canadá"
+      },
+      {
+        "id": 33,
+        "question": "Qual é o país mais ao sul do mundo?",
+        "options": ["Argentina", "Nova Zelândia", "Chile", "Austrália"],
+        "answer": "Chile"
+      },
+      {
+        "id": 34,
+        "question": "Em qual país encontra-se a ilha de Java?",
+        "options": ["Angola", "Argentina", "China", "Indonésia"],
+        "answer": "Indonésia"
+      },
+      {
+        "id": 35,
+        "question": "Qual é o país com a maior área de floresta do mundo?",
+        "options": ["Brasil", "Canadá", "Austrália", "Rússia"],
+        "answer": "Brasil"
+      },
+      {
+        "id": 36,
+        "question": "Qual é o país com a maior extensão de litoral do mundo?",
+        "options": ["Canadá", "Estados Unidos", "Brasil", "Austrália"],
+        "answer": "Canadá"
+      },
+      {
+        "id": 37,
+        "question": "Qual é o país com a maior quantidade de ilhas do mundo?",
+        "options": ["Filipinas", "Indonésia", "Japão", "Nova Zelândia"],
+        "answer": "Indonésia"
+      },
+      {
+        "id": 38,
+        "question": "Qual é o país com a maior altitude média do mundo?",
+        "options": ["Suíça", "Tibete", "Bolívia", "Nepal"],
+        "answer": "Tibete"
+      },
+      {
+        "id": 39,
+        "question": "Qual é o país mais populoso da África?",
+        "options": ["Nigéria", "Etiópia", "Egito", "Congo"],
+        "answer": "Nigéria"
+      },
+      {
+        "id": 40,
+        "question": "Qual é a capital da Espanha?",
+        "options": ["Barcelona", "Madrid", "Valência", "Sevilha"],
+        "answer": "Madrid"
+      },
+      {
+        "id": 41,
+        "question": "Qual é o maior lago da América do Sul?",
+        "options": [
+          "Lago Maracaibo",
+          "Lago Titicaca",
+          "Lago Poopó",
+          "Lago de Palmas"
+        ],
+        "answer": "Lago Titicaca"
+      },
+      {
+        "id": 42,
+        "question": "Qual é o país mais ao norte do mundo?",
+        "options": ["Noruega", "Canadá", "Groenlândia", "Rússia"],
+        "answer": "Groenlândia"
+      },
+      {
+        "id": 43,
+        "question": "Qual é a maior ilha do mundo?",
+        "options": [
+          "Austrália",
+          "Groenlândia",
+          "Ilha de Baffin",
+          "Ilha de Madagascar"
+        ],
+        "answer": "Groenlândia"
+      },
+      {
+        "id": 44,
+        "question": "Qual é a capital da Rússia?",
+        "options": ["São Petersburgo", "Moscovo", "Kiev", "Cazã"],
+        "answer": "Moscovo"
+      },
+      {
+        "id": 45,
+        "question": "Qual é a maior cachoeira do mundo?",
+        "options": [
+          "Cataratas do Iguaçu",
+          "Cataratas do Niágara",
+          "Cataratas Vitória",
+          "Salto Angel"
+        ],
+        "answer": "Salto Angel"
+      },
+      {
+        "id": 46,
+        "question": "Qual é o continente com a maior população do mundo?",
+        "options": ["África", "Ásia", "Europa", "América do Sul"],
+        "answer": "Ásia"
+      },
+      {
+        "id": 47,
+        "question": "Em que continente encontra-se Angola?",
+        "options": ["África", "Ásia", "Europa", "América do Sul"],
+        "answer": "África"
+      },
+      {
+        "id": 48,
+        "question": "Qual é a capital de Angola?",
+        "options": ["Rio de Janeiro", "Luanda", "Benguela", "Uíge"],
+        "answer": "Luanda"
+      },
+      {
+        "id": 49,
+        "question": "Qual é o menor país do mundo em área territorial?",
+        "options": ["Mônaco", "Vaticano", "San Marino", "Andorra"],
+        "answer": "Vaticano"
+      },
+      {
+        "id": 50,
+        "question": "Qual é o país mais ao leste do mundo?",
+        "options": ["Rússia", "China", "Japão", "Austrália"],
+        "answer": "Austrália"
+      }
+    ],
+
+    "world_history": [
+      {
+        "id": 1,
+        "question": "Qual foi a primeira civilização conhecida?",
+        "options": ["Babilônia", "Egito", "Índia", "Suméria"],
+        "answer": "Suméria"
+      },
+      {
+        "id": 2,
+        "question": "Quem foi o primeiro imperador romano?",
+        "options": ["Julio Cesar", "Nero", "Augusto", "Tito"],
+        "answer": "Augusto"
+      },
+      {
+        "id": 3,
+        "question": "Quem foi o líder da Revolução Russa de 1917?",
+        "options": ["Lenin", "Stalin", "Trotsky", "Khrushchev"],
+        "answer": "Lenin"
+      },
+      {
+        "id": 4,
+        "question": "Em que ano ocorreu a queda do Muro de Berlim?",
+        "options": ["1986", "1987", "1988", "1989"],
+        "answer": "1989"
+      },
+      {
+        "id": 5,
+        "question": "Quem liderou o movimento de independência da Índia?",
+        "options": [
+          "Mahatma Gandhi",
+          "Jawaharlal Nehru",
+          "Indira Gandhi",
+          "Sardar Patel"
+        ],
+        "answer": "Mahatma Gandhi"
+      },
+      {
+        "id": 6,
+        "question": "Qual foi o principal objetivo da Revolução Francesa?",
+        "options": [
+          "Expandir o território francês",
+          "Acabar com a monarquia e instaurar a república",
+          "Manter o poder da nobreza",
+          "Consolidar o poder da Igreja Católica"
+        ],
+        "answer": "Acabar com a monarquia e instaurar a república"
+      },
+      {
+        "id": 7,
+        "question": "Quem foi o líder da independência do Brasil?",
+        "options": [
+          "Dom Pedro II",
+          "José Bonifácio",
+          "Tiradentes",
+          "Dom Pedro I"
+        ],
+        "answer": "Dom Pedro I"
+      },
+      {
+        "id": 8,
+        "question": "Qual foi o evento que desencadeou a Primeira Guerra Mundial?",
+        "options": [
+          "O ataque japonês a Pearl Harbor",
+          "A invasão da Polônia pela Alemanha",
+          "O assassinato do arquiduque Franz Ferdinand da Áustria",
+          "O bombardeio de Hiroshima e Nagasaki"
+        ],
+        "answer": "O assassinato do arquiduque Franz Ferdinand da Áustria"
+      },
+      {
+        "id": 9,
+        "question": "Qual foi a principal consequência da Revolução Industrial?",
+        "options": [
+          "Aumento do desemprego",
+          "Melhoria das condições de trabalho dos operários",
+          "Expansão do comércio internacional",
+          "Aumento das desigualdades sociais"
+        ],
+        "answer": "Expansão do comércio internacional"
+      },
+      {
+        "id": 10,
+        "question": "Quem foi o líder da Revolução Cubana?",
+        "options": ["Fidel Castro", "Che Guevara", "Raul Castro", "Batista"],
+        "answer": "Fidel Castro"
+      },
+      {
+        "id": 11,
+        "question": "Quem foi o líder nazista durante a Segunda Guerra Mundial?",
+        "options": [
+          "Benito Mussolini",
+          "Adolf Hitler",
+          "Hirohito",
+          "Joseph Stalin"
+        ],
+        "answer": "Adolf Hitler"
+      },
+      {
+        "id": 12,
+        "question": "Qual foi a causa principal da Guerra Fria?",
+        "options": [
+          "Disputa por territórios",
+          "Diferenças ideológicas entre Estados Unidos e União Soviética",
+          "Conflitos religiosos",
+          "Disputas comerciais"
+        ],
+        "answer": "Diferenças ideológicas entre Estados Unidos e União Soviética"
+      },
+      {
+        "id": 13,
+        "question": "Quem foi a primeira mulher a ser eleita chefe de Estado em um país?",
+        "options": [
+          "Indira Gandhi",
+          "Golda Meir",
+          "Margaret Thatcher",
+          "Isabel Perón"
+        ],
+        "answer": "Sirimavo Bandaranaike"
+      },
+      {
+        "id": 14,
+        "question": "Qual foi o impacto da Revolução Francesa na Europa?",
+        "options": [
+          "Estabelecimento de monarquias absolutistas",
+          "Fortalecimento do poder da Igreja Católica",
+          "Expansão do Império Francês",
+          "Influência na luta por democracia e direitos civis"
+        ],
+        "answer": "Influência na luta por democracia e direitos civis"
+      },
+      {
+        "id": 15,
+        "question": "Qual foi a primeira cidade a ser atingida por uma bomba atômica?",
+        "options": ["Hiroshima", "Nagasaki", "Tóquio", "Berlim"],
+        "answer": "Hiroshima"
+      },
+      {
+        "id": 16,
+        "question": "Quem liderou a Revolução Russa em 1917?",
+        "options": [
+          "Vladimir Lenin",
+          "Josef Stalin",
+          "Mikhail Gorbachev",
+          "Nikita Khrushchev"
+        ],
+        "answer": "Vladimir Lenin"
+      },
+      {
+        "id": 17,
+        "question": "Quem liderou a independência da Índia em 1947?",
+        "options": [
+          "Mahatma Gandhi",
+          "Jawaharlal Nehru",
+          "Indira Gandhi",
+          "Rajiv Gandhi"
+        ],
+        "answer": "Jawaharlal Nehru"
+      },
+      {
+        "id": 18,
+        "question": "Qual foi o principal objetivo das Cruzadas?",
+        "options": [
+          "Conquistar territórios no Oriente Médio",
+          "Espalhar a religião cristã",
+          "Conquistar territórios na África",
+          "Expansão comercial"
+        ],
+        "answer": "Conquistar territórios no Oriente Médio"
+      },
+      {
+        "id": 19,
+        "question": "Qual foi o período conhecido como Idade das Trevas?",
+        "options": [
+          "Idade Antiga",
+          "Idade Média",
+          "Idade Moderna",
+          "Idade Contemporânea"
+        ],
+        "answer": "Idade Média"
+      },
+      {
+        "id": 20,
+        "question": "Qual foi o líder comunista chinês que estabeleceu a República Popular da China em 1949?",
+        "options": [
+          "Mao Tsé-Tung",
+          "Zhou Enlai",
+          "Deng Xiaoping",
+          "Chiang Kai-shek"
+        ],
+        "answer": "Mao Tsé-Tung"
+      },
+      {
+        "id": 21,
+        "question": "Quem liderou a luta contra o apartheid na África do Sul?",
+        "options": [
+          "Nelson Mandela",
+          "Desmond Tutu",
+          "Steve Biko",
+          "Winnie Mandela"
+        ],
+        "answer": "Nelson Mandela"
+      },
+      {
+        "id": 22,
+        "question": "Qual foi a causa da Primeira Guerra Mundial?",
+        "options": [
+          "Disputa por territórios na América do Sul",
+          "Disputa por territórios na África",
+          "Diferenças ideológicas entre as grandes potências europeias",
+          "Conflitos religiosos"
+        ],
+        "answer": "Diferenças ideológicas entre as grandes potências europeias"
+      },
+      {
+        "id": 23,
+        "question": "Qual foi a primeira dinastia a governar a China?",
+        "options": ["Han", "Shang", "Qin", "Tang"],
+        "answer": "Shang"
+      },
+      {
+        "id": 24,
+        "question": "Qual foi a primeira grande civilização da América Central?",
+        "options": ["Astecas", "Incas", "Maias", "Olmeacas"],
+        "answer": "Olmeacas"
+      },
+      {
+        "id": 25,
+        "question": "Qual foi o conflito que ocorreu entre 1939 e 1945 e envolveu a maioria das nações do mundo, incluindo todas as grandes potências?",
+        "options": [
+          "Guerra Fria",
+          "Primeira Guerra Mundial",
+          "Segunda Guerra Mundial",
+          "Guerra do Golfo"
+        ],
+        "answer": "Segunda Guerra Mundial"
+      },
+      {
+        "id": 26,
+        "question": "Quem foi o imperador romano que tentou fazer a transição do Império Romano do paganismo para o cristianismo?",
+        "options": ["Júlio César", "Nero", "Constantino I", "Trajano"],
+        "answer": "Constantino I"
+      },
+      {
+        "id": 27,
+        "question": "Quem liderou a Revolução Industrial na Grã-Bretanha?",
+        "options": [
+          "Winston Churchill",
+          "Isaac Newton",
+          "James Watt",
+          "Adam Smith"
+        ],
+        "answer": "James Watt"
+      },
+      {
+        "id": 28,
+        "question": "Quem foi o líder soviético responsável por introduzir reformas políticas e econômicas na União Soviética durante os anos 1980?",
+        "options": [
+          "Vladimir Lenin",
+          "Leonid Brezhnev",
+          "Mikhail Gorbachev",
+          "Nikita Khrushchev"
+        ],
+        "answer": "Mikhail Gorbachev"
+      },
+      {
+        "id": 29,
+        "question": "Quem foi o líder norte-americano que assinou a Declaração de Independência dos Estados Unidos em 1776?",
+        "options": [
+          "George Washington",
+          "Thomas Jefferson",
+          "Benjamin Franklin",
+          "John Adams"
+        ],
+        "answer": "Thomas Jefferson"
+      },
+      {
+        "id": 30,
+        "question": "Qual foi a batalha que ocorreu em 1066 na Inglaterra e resultou na conquista normanda da Inglaterra?",
+        "options": [
+          "Batalha de Hastings",
+          "Batalha de Waterloo",
+          "Batalha de Stalingrado",
+          "Batalha de Gettysburg"
+        ],
+        "answer": "Batalha de Hastings"
+      },
+      {
+        "id": 31,
+        "question": "Quem foi o líder militar e político responsável por unificar a Itália no século XIX?",
+        "options": [
+          "Giuseppe Garibaldi",
+          "Camilo di Cavour",
+          "Benito Mussolini",
+          "Victor Emmanuel II"
+        ],
+        "answer": "Camilo di Cavour"
+      },
+      {
+        "id": 32,
+        "question": "Qual foi o conflito que envolveu a Rússia e o Japão em 1904-1905 e foi um dos primeiros conflitos militares do século XX?",
+        "options": [
+          "Guerra do Pacífico",
+          "Primeira Guerra Mundial",
+          "Guerra Franco-Prussiana",
+          "Guerra Civil Russa"
+        ],
+        "answer": "Guerra do Pacífico"
+      },
+      {
+        "id": 33,
+        "question": "Qual foi o primeiro presidente da França após a Revolução Francesa?",
+        "options": [
+          "Napoleão Bonaparte",
+          "Louis XVI",
+          "Maximilien Robespierre",
+          "George Danton"
+        ],
+        "answer": "Napoleão Bonaparte"
+      },
+      {
+        "id": 34,
+        "question": "Quem foi o líder soviético que liderou a União Soviética durante a maior parte da Segunda Guerra Mundial?",
+        "options": [
+          "Nikita Khrushchev",
+          "Vladimir Lenin",
+          "Leonid Brezhnev",
+          "Joseph Stalin"
+        ],
+        "answer": "Joseph Stalin"
+      },
+      {
+        "id": 35,
+        "question": "Qual foi o líder religioso que fundou o islamismo no século VII?",
+        "options": ["Maomé", "Buda", "Jesus Cristo", "Confúcio"],
+        "answer": "Maomé"
+      },
+      {
+        "id": 36,
+        "question": "Quem foi o líder russo responsável pela modernização da Rússia no século XVIII?",
+        "options": [
+          "Ivan, o Terrível",
+          "Catarina, a Grande",
+          "Pedro, o Grande",
+          "Alexandre, o Grande"
+        ],
+        "answer": "Pedro, o Grande"
+      },
+      {
+        "id": 37,
+        "question": "Qual foi o líder britânico que liderou o Reino Unido durante a Segunda Guerra Mundial?",
+        "options": [
+          "Winston Churchill",
+          "Margaret Thatcher",
+          "Tony Blair",
+          "David Cameron"
+        ],
+        "answer": "Winston Churchill"
+      },
+      {
+        "id": 38,
+        "question": "Qual foi o evento que marcou o início da Revolução Francesa em 1789?",
+        "options": [
+          "Queda da Bastilha",
+          "Execução de Maria Antonieta",
+          "Fuga do rei Luís XVI",
+          "Reunião dos Estados Gerais"
+        ],
+        "answer": "Reunião dos Estados Gerais"
+      },
+      {
+        "id": 39,
+        "question": "Quem foi o líder soviético que liderou a União Soviética durante a Guerra Fria?",
+        "options": [
+          "Mikhail Gorbachev",
+          "Nikita Khrushchev",
+          "Leonid Brezhnev",
+          "Joseph Stalin"
+        ],
+        "answer": "Nikita Khrushchev"
+      },
+      {
+        "id": 40,
+        "question": "Qual foi o líder norte-americano que liderou os Estados Unidos durante a Guerra do Vietnã?",
+        "options": [
+          "Richard Nixon",
+          "John F. Kennedy",
+          "Dwight D. Eisenhower",
+          "Lyndon B. Johnson"
+        ],
+        "answer": "Lyndon B. Johnson"
+      },
+      {
+        "id": 41,
+        "question": "Qual foi o líder britânico que liderou o Reino Unido durante a Primeira Guerra Mundial?",
+        "options": [
+          "Winston Churchill",
+          "David Lloyd George",
+          "Neville Chamberlain",
+          "Margaret Thatcher"
+        ],
+        "answer": "David Lloyd George"
+      },
+      {
+        "id": 42,
+        "question": "Qual foi o líder alemão que liderou a Alemanha durante a Primeira Guerra Mundial?",
+        "options": [
+          "Wilhelm II",
+          "Otto von Bismarck",
+          "Adolf Hitler",
+          "Hermann Göring"
+        ],
+        "answer": "Wilhelm II"
+      },
+      {
+        "id": 43,
+        "question": "Qual foi o evento que marcou o início da Primeira Guerra Mundial em 1914?",
+        "options": [
+          "Assassinato do Arquiduque Franz Ferdinand da Áustria",
+          "Invasão da Bélgica pela Alemanha",
+          "Tratado de Versalhes",
+          "Declaração de guerra da Rússia contra a Alemanha"
+        ],
+        "answer": "Assassinato do Arquiduque Franz Ferdinand da Áustria"
+      },
+      {
+        "id": 44,
+        "question": "Qual foi o evento que marcou o início da Segunda Guerra Mundial em 1939?",
+        "options": [
+          "Invasão da Polônia pela Alemanha",
+          "Ataque a Pearl Harbor pelos japoneses",
+          "Declaração de guerra dos Estados Unidos contra a Alemanha",
+          "Invasão da União Soviética pela Alemanha"
+        ],
+        "answer": "Invasão da Polônia pela Alemanha"
+      },
+      {
+        "id": 45,
+        "question": "Qual foi o líder norte-americano que liderou os Estados Unidos durante a Segunda Guerra Mundial?",
+        "options": [
+          "Franklin D. Roosevelt",
+          "Harry S. Truman",
+          "Dwight D. Eisenhower",
+          "John F. Kennedy"
+        ],
+        "answer": "Franklin D. Roosevelt"
+      },
+      {
+        "id": 46,
+        "question": "Qual foi o evento que marcou o início da Guerra Fria?",
+        "options": [
+          "A queda do Muro de Berlim",
+          "O lançamento da bomba atômica em Hiroshima",
+          "A Revolução Russa",
+          "A Conferência de Yalta"
+        ],
+        "answer": "A Revolução Russa"
+      },
+      {
+        "id": 47,
+        "question": "Qual foi o nome do primeiro astronauta a viajar ao espaço?",
+        "options": [
+          "Yuri Gagarin",
+          "Neil Armstrong",
+          "Buzz Aldrin",
+          "Alan Shepard"
+        ],
+        "answer": "Yuri Gagarin"
+      },
+      {
+        "id": 48,
+        "question": "Em que ano Cristóvão Colombo chegou à América?",
+        "options": ["1492", "1500", "1510", "1520"],
+        "answer": "1492"
+      },
+      {
+        "id": 49,
+        "question": "Qual foi o líder egípcio que construiu a Grande Pirâmide de Gizé?",
+        "options": ["Ramsés II", "Tutancâmon", "Khufu", "Akhenaton"],
+        "answer": "Khufu"
+      },
+      {
+        "id": 50,
+        "question": "Em que ano Cristóvão Colombo chegou à América?",
+        "options": ["1492", "1500", "1510", "1520"],
+        "answer": "1492"
+      }
+    ],
+
+    "Movies_and_TV_series": [
+      {
+        "id": 1,
+        "question": "Qual é o nome do personagem principal da série 'Breaking Bad'?",
+        "options": [
+          "Jesse Pinkman",
+          "Saul Goodman",
+          "Walter White",
+          "Hank Schrader"
+        ],
+        "answer": "Walter White"
+      },
+      {
+        "id": 2,
+        "question": "Em que ano foi lançado o filme 'De Volta para o Futuro'?",
+        "options": ["1985", "1987", "1989", "1991"],
+        "answer": "1985"
+      },
+      {
+        "id": 3,
+        "question": "Qual é o nome do protagonista da série 'Game of Thrones'?",
+        "options": [
+          "Daenerys Targaryen",
+          "Jon Snow",
+          "Cersei Lannister",
+          "Tyrion Lannister"
+        ],
+        "answer": "Jon Snow"
+      },
+      {
+        "id": 4,
+        "question": "Quem dirigiu o filme 'A Origem'?",
+        "options": [
+          "Martin Scorsese",
+          "Christopher Nolan",
+          "Quentin Tarantino",
+          "Steven Spielberg"
+        ],
+        "answer": "Christopher Nolan"
+      },
+      {
+        "id": 5,
+        "question": "Qual é o nome da personagem interpretada por Emma Watson na série de filmes 'Harry Potter'?",
+        "options": [
+          "Hermione Granger",
+          "Luna Lovegood",
+          "Ginny Weasley",
+          "Bellatrix Lestrange"
+        ],
+        "answer": "Hermione Granger"
+      },
+      {
+        "id": 6,
+        "question": "Em que ano estreou a série 'Stranger Things' na Netflix?",
+        "options": ["2014", "2015", "2016", "2017"],
+        "answer": "2016"
+      },
+      {
+        "id": 7,
+        "question": "Qual é o nome do vilão principal da série 'Breaking Bad'?",
+        "options": [
+          "Tuco Salamanca",
+          "Gus Fring",
+          "Hector Salamanca",
+          "Walter White"
+        ],
+        "answer": "Gus Fring"
+      },
+      {
+        "id": 8,
+        "question": "Quem interpreta o personagem principal no filme 'O Lobo de Wall Street'?",
+        "options": [
+          "Leonardo DiCaprio",
+          "Brad Pitt",
+          "Tom Cruise",
+          "George Clooney"
+        ],
+        "answer": "Leonardo DiCaprio"
+      },
+      {
+        "id": 9,
+        "question": "Qual é o nome da personagem principal da série 'Jessica Jones' da Marvel?",
+        "options": [
+          "Jessica Jones",
+          "Carol Danvers",
+          "Natasha Romanoff",
+          "Wanda Maximoff"
+        ],
+        "answer": "Jessica Jones"
+      },
+      {
+        "id": 10,
+        "question": "Qual é o nome do robô gigante que aparece no filme 'Círculo de Fogo'?",
+        "options": ["Mazinger Z", "Voltron", "Gipsy Danger", "Optimus Prime"],
+        "answer": "Gipsy Danger"
+      },
+      {
+        "id": 11,
+        "question": "Qual é o nome da personagem interpretada por Gal Gadot nos filmes da DC 'Mulher-Maravilha'?",
+        "options": ["Diana Prince", "Lois Lane", "Harley Quinn", "Catwoman"],
+        "answer": "Diana Prince"
+      },
+      {
+        "id": 12,
+        "question": "Qual é o nome da série da Netflix sobre um grupo de amigos que jogam RPG?",
+        "options": ["Stranger Things", "Sense8", "The OA", "O Clube das Winx"],
+        "answer": "Stranger Things"
+      },
+      {
+        "id": 13,
+        "question": "Quem interpreta o personagem Jack Sparrow na franquia de filmes 'Piratas do Caribe'?",
+        "options": [
+          "Johnny Depp",
+          "Tom Hanks",
+          "Robert Downey Jr.",
+          "Hugh Jackman"
+        ],
+        "answer": "Johnny Depp"
+      },
+      {
+        "id": 14,
+        "question": "Em que ano foi lançado o filme 'Jurassic Park'?",
+        "options": ["1990", "1993", "1996", "1999"],
+        "answer": "1993"
+      },
+      {
+        "id": 15,
+        "question": "Qual é o nome do personagem principal da série 'Stranger Things'?",
+        "options": [
+          "Mike Wheeler",
+          "Dustin Henderson",
+          "Lucas Sinclair",
+          "Will Byers"
+        ],
+        "answer": "Will Byers"
+      },
+      {
+        "id": 16,
+        "question": "Qual é o nome do protagonista do filme 'Forrest Gump - O Contador de Histórias'?",
+        "options": [
+          "Tom Hanks",
+          "Leonardo DiCaprio",
+          "Brad Pitt",
+          "Will Smith"
+        ],
+        "answer": "Tom Hanks"
+      },
+      {
+        "id": 17,
+        "question": "Qual é o nome do personagem principal da série 'Breaking Bad'?",
+        "options": [
+          "Hank Schrader",
+          "Gustavo Fring",
+          "Saul Goodman",
+          "Walter White"
+        ],
+        "answer": "Walter White"
+      },
+      {
+        "id": 18,
+        "question": "Qual é o nome do personagem que é o arqui-inimigo do Batman nos quadrinhos da DC?",
+        "options": ["Lex Luthor", "Coringa", "Pinguim", "Charada"],
+        "answer": "Coringa"
+      },
+      {
+        "id": 19,
+        "question": "Qual é o nome do personagem principal da trilogia 'O Senhor dos Anéis'?",
+        "options": ["Aragorn", "Gandalf", "Frodo Bolseiro", "Legolas"],
+        "answer": "Frodo Bolseiro"
+      },
+      {
+        "id": 20,
+        "question": "Qual é o nome da série de TV que conta a história de um grupo de sobreviventes em um apocalipse zumbi?",
+        "options": [
+          "The Walking Dead",
+          "Fear the Walking Dead",
+          "Z Nation",
+          "iZombie"
+        ],
+        "answer": "The Walking Dead"
+      },
+      {
+        "id": 21,
+        "question": "Qual é o nome do personagem interpretado por Keanu Reeves na franquia de filmes 'Matrix'?",
+        "options": ["Morpheus", "Trinity", "Neo", "Cypher"],
+        "answer": "Neo"
+      },
+      {
+        "id": 22,
+        "question": "Qual é o nome do personagem principal da série 'Game of Thrones'?",
+        "options": [
+          "Jon Snow",
+          "Tyrion Lannister",
+          "Daenerys Targaryen",
+          "Arya Stark"
+        ],
+        "answer": "Não há um personagem principal claro em 'Game of Thrones'"
+      },
+      {
+        "id": 23,
+        "question": "Qual é o nome da série de TV que acompanha as aventuras de um grupo de amigos na cidade de Nova York?",
+        "options": [
+          "How I Met Your Mother",
+          "Friends",
+          "New Girl",
+          "The Big Bang Theory"
+        ],
+        "answer": "Friends"
+      },
+      {
+        "id": 24,
+        "question": "Qual é o nome da personagem interpretada por Emma Watson na franquia de filmes 'Harry Potter'?",
+        "options": [
+          "Hermione Granger",
+          "Luna Lovegood",
+          "Ginny Weasley",
+          "Neville Longbottom"
+        ],
+        "answer": "Hermione Granger"
+      },
+      {
+        "id": 25,
+        "question": "Qual é o nome da série de TV que segue um grupo de personagens da Marvel em Nova York?",
+        "options": ["Daredevil", "Jessica Jones", "Luke Cage", "Os Defensores"],
+        "answer": "Os Defensores"
+      },
+      {
+        "id": 26,
+        "question": "Qual é o nome do personagem interpretado por Tom Hanks em 'Forrest Gump'?",
+        "options": [
+          "Forrest Gump",
+          "Bubba Blue",
+          "Jenny Curran",
+          "Lieutenant Dan"
+        ],
+        "answer": "Forrest Gump"
+      },
+      {
+        "id": 27,
+        "question": "Qual é o nome da série de TV que se passa em um futuro distópico onde mulheres férteis são obrigadas a procriar para a elite estéril?",
+        "options": [
+          "The Walking Dead",
+          "Stranger Things",
+          "The Handmaid's Tale",
+          "Black Mirror"
+        ],
+        "answer": "The Handmaid's Tale"
+      },
+      {
+        "id": 28,
+        "question": "Qual é o nome da personagem interpretada por Angelina Jolie nos filmes da franquia 'Tomb Raider'?",
+        "options": [
+          "Lara Croft",
+          "Alicia Vikander",
+          "Trinity",
+          "Talia al Ghul"
+        ],
+        "answer": "Lara Croft"
+      },
+      {
+        "id": 29,
+        "question": "Qual é o nome da série de TV que acompanha a vida de um professor de química que se torna um traficante de drogas?",
+        "options": ["Breaking Bad", "Narcos", "The Wire", "Ozark"],
+        "answer": "Breaking Bad"
+      },
+      {
+        "id": 30,
+        "question": "Qual é o nome do ator que interpreta o Homem de Ferro nos filmes da Marvel?",
+        "options": [
+          "Robert Downey Jr.",
+          "Chris Evans",
+          "Chris Hemsworth",
+          "Mark Ruffalo"
+        ],
+        "answer": "Robert Downey Jr."
+      },
+      {
+        "id": 31,
+        "question": "Qual é o nome do protagonista da série de TV 'Sherlock', interpretado por Benedict Cumberbatch?",
+        "options": [
+          "Dr. John Watson",
+          "Inspector Lestrade",
+          "Mycroft Holmes",
+          "Sherlock Holmes"
+        ],
+        "answer": "Sherlock Holmes"
+      },
+      {
+        "id": 32,
+        "question": "Qual é o nome do robô interpretado por Rami Malek no filme 'Bumblebee'?",
+        "options": ["Optimus Prime", "Barricade", "Megatron", "Blitzwing"],
+        "answer": "Blitzwing"
+      },
+      {
+        "id": 33,
+        "question": "Qual é o nome da série de TV que acompanha a vida de uma família americana que administra um império midiático?",
+        "options": ["The Sopranos", "Succession", "Mad Men", "The Crown"],
+        "answer": "Succession"
+      },
+      {
+        "id": 34,
+        "question": "Qual é o nome do personagem principal interpretado por Tom Hanks no filme 'Náufrago'?",
+        "options": [
+          "Chuck Noland",
+          "Wilson",
+          "Frank Dixon",
+          "Stanley Yelnats IV"
+        ],
+        "answer": "Chuck Noland"
+      },
+      {
+        "id": 35,
+        "question": "Qual é o nome do personagem principal interpretado por Will Smith no filme 'Eu Sou a Lenda'?",
+        "options": [
+          "Robert Neville",
+          "Anna Montez",
+          "Ethan Hunt",
+          "John McClane"
+        ],
+        "answer": "Robert Neville"
+      },
+      {
+        "id": 36,
+        "question": "Qual é o nome da atriz que interpreta a personagem Eleven na série de TV 'Stranger Things'?",
+        "options": [
+          "Millie Bobby Brown",
+          "Sadie Sink",
+          "Gaten Matarazzo",
+          "Finn Wolfhard"
+        ],
+        "answer": "Millie Bobby Brown"
+      },
+      {
+        "id": 37,
+        "question": "Qual é o nome do vilão interpretado por Joaquin Phoenix no filme 'Coringa'?",
+        "options": [
+          "Arthur Fleck",
+          "Harvey Dent",
+          "Edward Nygma",
+          "Oswald Cobblepot"
+        ],
+        "answer": "Arthur Fleck"
+      },
+      {
+        "id": 38,
+        "question": "Qual é o nome do robô interpretado por Anthony Daniels na franquia 'Star Wars'?",
+        "options": ["BB-8", "C-3PO", "R2-D2", "K-2SO"],
+        "answer": "C-3PO"
+      },
+      {
+        "id": 39,
+        "question": "Qual é o nome da personagem interpretada por Emma Stone no filme 'La La Land - Cantando Estações'?",
+        "options": ["Sebastian Wilder", "Keith", "Mia Dolan", "Caroline"],
+        "answer": "Mia Dolan"
+      },
+      {
+        "id": 40,
+        "question": "Qual é o nome do personagem principal interpretado por Tim Robbins no filme 'Um Sonho de Liberdade'?",
+        "options": ["Tommy Williams", "Andy Dufresne", "Red", "Warden Norton"],
+        "answer": "Andy Dufresne"
+      },
+      {
+        "id": 41,
+        "question": "Qual é o nome do vilão interpretado por Ralph Fiennes na série de filmes 'Harry Potter'?",
+        "options": [
+          "Draco Malfoy",
+          "Lucius Malfoy",
+          "Lord Voldemort",
+          "Severus Snape"
+        ],
+        "answer": "Lord Voldemort"
+      },
+      {
+        "id": 42,
+        "question": "Qual é o nome da atriz que interpretou a personagem Hermione Granger na série de filmes 'Harry Potter'?",
+        "options": [
+          "Emma Watson",
+          "Emma Stone",
+          "Emma Thompson",
+          "Emily Blunt"
+        ],
+        "answer": "Emma Watson"
+      },
+      {
+        "id": 43,
+        "question": "Qual é o nome do personagem principal interpretado por Eddie Redmayne na série de filmes 'Animais Fantásticos'?",
+        "options": [
+          "Gellert Grindelwald",
+          "Newt Scamander",
+          "Percival Graves",
+          "Credence Barebone"
+        ],
+        "answer": "Newt Scamander"
+      },
+      {
+        "id": 44,
+        "question": "Qual é o nome da personagem interpretada por Millie Bobby Brown na série de TV 'Stranger Things'?",
+        "options": ["Max", "Eleven", "Nancy", "Joyce"],
+        "answer": "Eleven"
+      },
+      {
+        "id": 45,
+        "question": "Qual é o nome da série de TV sobre a família de gângsteres italianos em Nova York?",
+        "options": ["The Sopranos", "Breaking Bad", "The Wire", "Narcos"],
+        "answer": "The Sopranos"
+      },
+      {
+        "id": 46,
+        "question": "Qual é o nome do ator que interpretou James Bond em sete filmes entre 1973 e 1985?",
+        "options": [
+          "Sean Connery",
+          "Roger Moore",
+          "Pierce Brosnan",
+          "Timothy Dalton"
+        ],
+        "answer": "Roger Moore"
+      },
+      {
+        "id": 47,
+        "question": "Qual é o nome do filme dirigido por Martin Scorsese que se passa no submundo do crime em Las Vegas?",
+        "options": [
+          "Os Bons Companheiros",
+          "Cassino",
+          "Taxi Driver",
+          "Touro Indomável"
+        ],
+        "answer": "Cassino"
+      },
+      {
+        "id": 48,
+        "question": "Qual é o nome da série de TV de comédia que se passa em um hospital e tem Zach Braff como protagonista?",
+        "options": ["Plantão Médico", "Scrubs", "Grey's Anatomy", "House"],
+        "answer": "Scrubs"
+      },
+      {
+        "id": 49,
+        "question": "Qual é o nome do filme que retrata a vida de um jovem empreendedor chamado Mark Zuckerberg e a criação do Facebook?",
+        "options": [
+          "A Rede Social",
+          "O Jogo da Imitação",
+          "A Teoria de Tudo",
+          "Steve Jobs"
+        ],
+        "answer": "A Rede Social"
+      },
+      {
+        "id": 50,
+        "question": "Qual é o nome da série de TV que se passa em uma cidadezinha fictícia do estado de Washington e acompanha as investigações do agente do FBI Dale Cooper?",
+        "options": ["Breaking Bad", "Fargo", "True Detective", "Twin Peaks"],
+        "answer": "Twin Peaks"
+      }
+    ],
+
+    "Music_and_famous_artists": [
+      {
+        "id": 1,
+        "question": "Qual o nome do álbum da banda Nirvana que foi lançado em 1991 e é considerado um dos melhores álbuns de rock da história?",
+        "options": [
+          "In Utero",
+          "Bleach",
+          "Nevermind",
+          "MTV Unplugged in New York"
+        ],
+        "answer": "Nevermind"
+      },
+      {
+        "id": 2,
+        "question": "Qual o nome do cantor e compositor brasileiro que é considerado o Rei da Música Brasileira?",
+        "options": [
+          "Roberto Carlos",
+          "Chico Buarque",
+          "Gilberto Gil",
+          "Caetano Veloso"
+        ],
+        "answer": "Roberto Carlos"
+      },
+      {
+        "id": 3,
+        "question": "Qual o nome da cantora que é conhecida como a 'Rainha da Soul'?",
+        "options": [
+          "Whitney Houston",
+          "Aretha Franklin",
+          "Tina Turner",
+          "Diana Ross"
+        ],
+        "answer": "Aretha Franklin"
+      },
+      {
+        "id": 4,
+        "question": "Qual o nome do grupo de hip-hop que é formado pelos rappers Dr. Dre e Ice Cube?",
+        "options": ["Public Enemy", "N.W.A.", "Wu-Tang Clan", "Outkast"],
+        "answer": "N.W.A."
+      },
+      {
+        "id": 5,
+        "question": "Qual o nome da cantora que é conhecida como a 'Princesa do Pop'?",
+        "options": [
+          "Britney Spears",
+          "Madonna",
+          "Christina Aguilera",
+          "Beyoncé"
+        ],
+        "answer": "Britney Spears"
+      },
+      {
+        "id": 6,
+        "question": "Qual o nome do cantor e compositor brasileiro que é conhecido por ter sido o criador da bossa nova e teve sucessos como 'Garota de Ipanema' e 'Desafinado'?",
+        "options": [
+          "João Gilberto",
+          "Tom Jobim",
+          "Caetano Veloso",
+          "Chico Buarque"
+        ],
+        "answer": "Tom Jobim"
+      },
+      {
+        "id": 7,
+        "question": "Qual o nome da cantora britânica que é conhecida como a 'Adele' e teve sucessos como 'Someone Like You' e 'Hello'?",
+        "options": ["Adele", "Taylor Swift", "Ariana Grande", "Beyoncé"],
+        "answer": "Adele"
+      },
+      {
+        "id": 8,
+        "question": "Qual o nome da banda de heavy metal que é conhecida por ter sido formada pelo guitarrista Tony Iommi, o vocalista Ozzy Osbourne, o baixista Geezer Butler e o baterista Bill Ward?",
+        "options": [
+          "Black Sabbath",
+          "Iron Maiden",
+          "Judas Priest",
+          "Motorhead"
+        ],
+        "answer": "Black Sabbath"
+      },
+      {
+        "id": 9,
+        "question": "Qual o nome do álbum da banda Pink Floyd que é considerado um dos melhores álbuns de rock progressivo da história e foi lançado em 1973?",
+        "options": [
+          "Wish You Were Here",
+          "The Wall",
+          "Animals",
+          "The Dark Side of the Moon"
+        ],
+        "answer": "The Dark Side of the Moon"
+      },
+      {
+        "id": 10,
+        "question": "Qual o nome da cantora que é conhecida como a 'Rainha do Pop Latino'?",
+        "options": ["Gloria Estefan", "Jennifer Lopez", "Shakira", "Thalía"],
+        "answer": "Shakira"
+      },
+      {
+        "id": 11,
+        "question": "Qual o nome da cantora brasileira que é conhecida como a 'Pimentinha' e teve sucessos como 'Atrás da Porta' e 'Carinhoso'?",
+        "options": [
+          "Gal Costa",
+          "Elis Regina",
+          "Maria Bethânia",
+          "Cássia Eller"
+        ],
+        "answer": "Elis Regina"
+      },
+      {
+        "id": 12,
+        "question": "Qual o nome do cantor e compositor britânico que é conhecido por ter sido o líder da banda Queen e teve sucessos como 'Bohemian Rhapsody' e 'We Are the Champions'?",
+        "options": [
+          "Freddie Mercury",
+          "Elton John",
+          "George Michael",
+          "David Bowie"
+        ],
+        "answer": "Freddie Mercury"
+      },
+      {
+        "id": 13,
+        "question": "Qual o nome da banda britânica de rock alternativo que teve sucessos como 'Karma Police' e 'Creep'?",
+        "options": ["Coldplay", "Radiohead", "Muse", "Oasis"],
+        "answer": "Radiohead"
+      },
+      {
+        "id": 14,
+        "question": "Qual o nome do cantor e compositor brasileiro que é conhecido por ter sido um dos fundadores da bossa nova e teve sucessos como 'Garota de Ipanema' e 'Chega de Saudade'?",
+        "options": [
+          "Tom Jobim",
+          "João Gilberto",
+          "Caetano Veloso",
+          "Chico Buarque"
+        ],
+        "answer": "João Gilberto"
+      },
+      {
+        "id": 15,
+        "question": "Qual o nome da cantora e atriz norte-americana que é conhecida como a 'Diva do Pop' e teve sucessos como 'Vision of Love' e 'Hero'?",
+        "options": [
+          "Beyoncé",
+          "Mariah Carey",
+          "Whitney Houston",
+          "Christina Aguilera"
+        ],
+        "answer": "Mariah Carey"
+      },
+      {
+        "id": 16,
+        "question": "Qual o nome da cantora brasileira que é conhecida como a 'Rainha do Samba' e teve sucessos como 'Pecado Capital' e 'Cotidiano'?",
+        "options": ["Alcione", "Beth Carvalho", "Elza Soares", "Clara Nunes"],
+        "answer": "Beth Carvalho"
+      },
+      {
+        "id": 17,
+        "question": "'Nagrelha dos Lambas', foi cantor de que estilo?",
+        "options": ["Afro-House", "Kuduro", "House", "Hip-Hop"],
+        "answer": "Beth Carvalho"
+      },
+      {
+        "id": 18,
+        "question": "Qual o nome do cantor e compositor britânico que é conhecido por ter sido um dos membros do grupo The Beatles e teve sucessos como 'Imagine' e 'Imagine'?",
+        "options": [
+          "Paul McCartney",
+          "John Lennon",
+          "George Harrison",
+          "Ringo Starr"
+        ],
+        "answer": "John Lennon"
+      },
+      {
+        "id": 19,
+        "question": "Qual o nome da cantora e compositora norte-americana que é conhecida por ter sido influenciada pelo jazz e teve sucessos como 'Rehab' e 'Back to Black'?",
+        "options": ["Adele", "Amy Winehouse", "Lady Gaga", "Beyoncé"],
+        "answer": "Amy Winehouse"
+      },
+      {
+        "id": 20,
+        "question": "Qual o nome da banda de rock que teve como vocalista o cantor Bon Scott e depois Brian Johnson?",
+        "options": ["Led Zeppelin", "AC/DC", "Deep Purple", "Black Sabbath"],
+        "answer": "AC/DC"
+      },
+      {
+        "id": 21,
+        "question": "Qual o nome da banda de rock que tem como vocalista o cantor Eddie Vedder?",
+        "options": ["Pearl Jam", "Soundgarden", "Alice in Chains", "Nirvana"],
+        "answer": "Pearl Jam"
+      },
+      {
+        "id": 22,
+        "question": "Qual o nome da banda de heavy metal que teve como vocalista o cantor Ronnie James Dio?",
+        "options": ["Black Sabbath", "Iron Maiden", "Judas Priest", "Dio"],
+        "answer": "Dio"
+      },
+      {
+        "id": 23,
+        "question": "Qual o nome da banda de rock que é liderada pelo vocalista Dave Grohl?",
+        "options": ["Foo Fighters", "Green Day", "Weezer", "The Offspring"],
+        "answer": "Foo Fighters"
+      },
+      {
+        "id": 24,
+        "question": "Qual o nome da banda de rock que tem como vocalista o cantor Mick Jagger?",
+        "options": [
+          "The Beatles",
+          "The Rolling Stones",
+          "Led Zeppelin",
+          "Pink Floyd"
+        ],
+        "answer": "The Rolling Stones"
+      },
+      {
+        "id": 25,
+        "question": "Qual o nome do álbum de estreia da cantora Billie Eilish lançado em 2019?",
+        "options": [
+          "Happier Than Ever",
+          "When We All Fall Asleep, Where Do We Go?",
+          "Don't Smile at Me",
+          "Bad Guy"
+        ],
+        "answer": "When We All Fall Asleep, Where Do We Go?"
+      },
+      {
+        "id": 26,
+        "question": "Qual o nome da banda de rock que teve como vocalista o cantor Jim Morrison?",
+        "options": ["The Doors", "The Who", "The Kinks", "The Rolling Stones"],
+        "answer": "The Doors"
+      },
+      {
+        "id": 27,
+        "question": "Qual o nome do álbum mais vendido da história da música?",
+        "options": [
+          "Thriller, de Michael Jackson",
+          "The Bodyguard, trilha sonora do filme",
+          "Back in Black, do AC/DC",
+          "The Dark Side of the Moon, do Pink Floyd"
+        ],
+        "answer": "Thriller, de Michael Jackson"
+      },
+      {
+        "id": 28,
+        "question": "Qual o nome do álbum do Pink Floyd que foi lançado em 1979 e é considerado um dos maiores clássicos do rock?",
+        "options": [
+          "Wish You Were Here",
+          "Animals",
+          "The Wall",
+          "Dark Side of the Moon"
+        ],
+        "answer": "The Wall"
+      },
+      {
+        "id": 29,
+        "question": "Quem cantou a musica 'I Want to Know What Love Is'?",
+        "options": ["Michael Jackson", "Black Pink", "Mariah Carey", "BTS"],
+        "answer": "Mariah Carey"
+      },
+      {
+        "id": 30,
+        "question": "Qual o nome da cantora que é conhecida como 'Rainha do Rock'?",
+        "options": ["Tina Turner", "Janis Joplin", "Joan Jett", "Pat Benatar"],
+        "answer": "Tina Turner"
+      },
+      {
+        "id": 31,
+        "question": "Qual o nome da cantora que é conhecida como 'The Voice'?",
+        "options": [
+          "Whitney Houston",
+          "Mariah Carey",
+          "Celine Dion",
+          "Aretha Franklin"
+        ],
+        "answer": "Whitney Houston"
+      },
+      {
+        "id": 32,
+        "question": "Qual o nome da banda de rock formada pelos músicos Axl Rose, Slash e Duff McKagan?",
+        "options": [
+          "Nirvana",
+          "Guns N' Roses",
+          "Metallica",
+          "Red Hot Chili Peppers"
+        ],
+        "answer": "Guns N' Roses"
+      },
+      {
+        "id": 33,
+        "question": "Qual o nome da banda britânica que lançou o álbum 'The Dark Side of the Moon' em 1973?",
+        "options": [
+          "Led Zeppelin",
+          "Pink Floyd",
+          "The Rolling Stones",
+          "The Who"
+        ],
+        "answer": "Pink Floyd"
+      },
+      {
+        "id": 34,
+        "question": "Qual o nome da cantora que lançou o álbum 'Jagged Little Pill' em 1995?",
+        "options": [
+          "Alanis Morissette",
+          "Sheryl Crow",
+          "Jewel",
+          "Tracy Chapman"
+        ],
+        "answer": "Alanis Morissette"
+      },
+      {
+        "id": 35,
+        "question": "Qual o nome da cantora que lançou o álbum 'Lemonade' em 2016?",
+        "options": ["Beyoncé", "Adele", "Rihanna", "Taylor Swift"],
+        "answer": "Beyoncé"
+      },
+      {
+        "id": 36,
+        "question": "Qual o nome do cantor que é conhecido como 'The Prince of Motown'?",
+        "options": [
+          "Smokey Robinson",
+          "Marvin Gaye",
+          "Stevie Wonder",
+          "Otis Redding"
+        ],
+        "answer": "Smokey Robinson"
+      },
+      {
+        "id": 37,
+        "question": "Qual o nome da cantora que é conhecida como 'Queen of Pop'?",
+        "options": [
+          "Madonna",
+          "Britney Spears",
+          "Christina Aguilera",
+          "Celine Dion"
+        ],
+        "answer": "Madonna"
+      },
+      {
+        "id": 38,
+        "question": "Qual o nome do cantor de soul conhecido como 'The Godfather of Soul'?",
+        "options": ["Ray Charles", "Sam Cooke", "Marvin Gaye", "James Brown"],
+        "answer": "James Brown"
+      },
+      {
+        "id": 39,
+        "question": "Qual o nome da banda formada pelos irmãos Liam e Noel Gallagher?",
+        "options": ["The Beatles", "Oasis", "Radiohead", "The Rolling Stones"],
+        "answer": "Oasis"
+      },
+      {
+        "id": 40,
+        "question": "Qual desses artistas é conhecido como 'The King of Pop'?",
+        "options": [
+          "James Brown",
+          "Marvin Gaye",
+          "Stevie Wonder",
+          "Michael Jackson"
+        ],
+        "answer": "Michael Jackson"
+      },
+      {
+        "id": 41,
+        "question": "Qual o nome da cantora que lançou o álbum '1989' em 2014?",
+        "options": ["Taylor Swift", "Ariana Grande", "Beyoncé", "Rihanna"],
+        "answer": "Taylor Swift"
+      },
+      {
+        "id": 42,
+        "question": "Qual desses artistas é conhecido como 'The Boss'?",
+        "options": [
+          "Bruce Springsteen",
+          "Bob Dylan",
+          "Neil Young",
+          "Tom Petty"
+        ],
+        "answer": "Bruce Spring"
+      },
+      {
+        "id": 43,
+        "question": "Qual o nome do rapper que ganhou o Oscar de Melhor Canção Original em 2020?",
+        "options": ["Kendrick Lamar", "Jay-Z", "Eminem", "Lil Nas X"],
+        "answer": "Eminem"
+      },
+      {
+        "id": 44,
+        "question": "Qual o nome do grupo musical que ficou famoso com a música 'Bohemian Rhapsody'?",
+        "options": [
+          "Led Zeppelin",
+          "The Rolling Stones",
+          "Queen",
+          "The Beatles"
+        ],
+        "answer": "Queen"
+      },
+      {
+        "id": 45,
+        "question": "Qual desses artistas é conhecido por ter tocado guitarra com os dentes e fazer solos com a língua?",
+        "options": [
+          "Jimi Hendrix",
+          "Eric Clapton",
+          "Eddie Van Halen",
+          "Jimmy Page"
+        ],
+        "answer": "Jimi Hendrix"
+      },
+      {
+        "id": 46,
+        "question": "Qual o nome da cantora que se apresentou no intervalo do Super Bowl em 2020?",
+        "options": ["Beyoncé", "Jennifer Lopez", "Shakira", "Rihanna"],
+        "answer": "Jennifer Lopez"
+      },
+      {
+        "id": 47,
+        "question": "Qual dessas bandas é considerada pioneira do movimento grunge?",
+        "options": ["Pearl Jam", "Soundgarden", "Alice in Chains", "Nirvana"],
+        "answer": "Nirvana"
+      },
+      {
+        "id": 48,
+        "question": "Qual desses artistas não é conhecido como 'rei' em seu respectivo gênero musical?",
+        "options": [
+          "Elvis Presley",
+          "Michael Jackson",
+          "Frank Sinatra",
+          "Johnny Cash"
+        ],
+        "answer": "Johnny Cash"
+      },
+      {
+        "id": 49,
+        "question": "Qual o nome completo da cantora pop conhecida como Lady Gaga?",
+        "options": [
+          "Stefani Joanne Angelina Germanotta",
+          "Robyn Rihanna Fenty",
+          "Adele Laurie Blue Adkins",
+          "Katheryn Elizabeth Hudson"
+        ],
+        "answer": "Stefani Joanne Angelina Germanotta"
+      },
+      {
+        "id": 50,
+        "question": "Qual é o nome do cantor que lançou o álbum 'Thriller'?",
+        "options": [
+          "Michael Jackson",
+          "Elvis Presley",
+          "John Lennon",
+          "Paul McCartney"
+        ],
+        "answer": "Michael Jackson"
+      }
+    ],
+
+    "Famous_sports_and_athletes": [
+      {
+        "id": 1,
+        "question": "Qual é o nome do jogador de futebol argentino que é considerado um dos melhores jogadores da história?",
+        "options": ["Lionel Messi", "Cristiano Ronaldo", "Neymar Jr.", "Pelé"],
+        "answer": "Lionel Messi"
+      },
+      {
+        "id": 2,
+        "question": "Qual foi o país anfitrião das Olimpíadas de 2016?",
+        "options": ["Brasil", "China", "Japão", "Estados Unidos"],
+        "answer": "Brasil"
+      },
+      {
+        "id": 3,
+        "question": "Qual é o nome do nadador americano que ganhou 23 medalhas de ouro olímpicas?",
+        "options": [
+          "Michael Phelps",
+          "Ryan Lochte",
+          "Katie Ledecky",
+          "Simone Manuel"
+        ],
+        "answer": "Michael Phelps"
+      },
+      {
+        "id": 4,
+        "question": "Qual é o nome da tenista japonesa que ganhou o ouro nas Olimpíadas de Tóquio em 2021?",
+        "options": [
+          "Naomi Osaka",
+          "Simona Halep",
+          "Serena Williams",
+          "Ashleigh Barty"
+        ],
+        "answer": "Naomi Osaka"
+      },
+      {
+        "id": 5,
+        "question": "Qual é o nome do jogador de basquete americano que é considerado um dos melhores jogadores da história?",
+        "options": [
+          "Michael Jordan",
+          "LeBron James",
+          "Kobe Bryant",
+          "Shaquille O'Neal"
+        ],
+        "answer": "Michael Jordan"
+      },
+      {
+        "id": 6,
+        "question": "Qual é o esporte que é praticado em uma pista e campo e inclui eventos como 100m rasos, salto em altura e arremesso de peso?",
+        "options": ["Futebol", "Natação", "Atletismo", "Vôlei"],
+        "answer": "Atletismo"
+      },
+      {
+        "id": 7,
+        "question": "Qual é o nome do esporte em que os jogadores usam raquetes para acertar uma bola por cima da rede?",
+        "options": ["Tênis", "Badminton", "Squash", "Pingue-pongue"],
+        "answer": "Tênis"
+      },
+      {
+        "id": 8,
+        "question": "Qual é o esporte em que os jogadores tentam acertar uma bola em um buraco em um campo usando o menor número de tacadas possível?",
+        "options": ["Golfe", "Beisebol", "Rugby", "Handebol"],
+        "answer": "Golfe"
+      },
+      {
+        "id": 9,
+        "question": "Qual é o nome do esporte em que os jogadores usam seus pés e cabeça para acertar uma bola em uma rede?",
+        "options": ["Vôlei", "Futebol", "Basquete", "Handebol"],
+        "answer": "Futebol"
+      },
+      {
+        "id": 10,
+        "question": "Qual é o esporte em que os jogadores jogam uma bola para cima e para baixo em uma rede usando as mãos?",
+        "options": ["Tênis", "Vôlei", "Basquete", "Handebol"],
+        "answer": "Vôlei"
+      },
+      {
+        "id": 11,
+        "question": "Qual é o nome do esporte em que os jogadores correm enquanto driblam uma bola com suas mãos?",
+        "options": ["Rugby", "Futebol Americano", "Handebol", "Basquete"],
+        "answer": "Handebol"
+      },
+      {
+        "id": 12,
+        "question": "Qual é o nome do esporte em que os jogadores montam em cavalos e usam tacos para acertar uma bola?",
+        "options": ["Polo", "Hóquei no Gelo", "Golfe", "Beisebol"],
+        "answer": "Polo"
+      },
+      {
+        "id": 13,
+        "question": "Qual é o nome do esporte em que os jogadores usam patins para jogar uma bola em uma quadra?",
+        "options": [
+          "Hóquei sobre Patins",
+          "Patinação Artística",
+          "Skate",
+          "Hóquei no Gelo"
+        ],
+        "answer": "Hóquei sobre Patins"
+      },
+      {
+        "id": 14,
+        "question": "Qual é o nome do esporte em que os jogadores tentam acertar uma bola em um alvo usando um arco e flecha?",
+        "options": ["Boxe", "Esgrima", "Arco e Flecha", "Luta Livre"],
+        "answer": "Arco e Flecha"
+      },
+      {
+        "id": 15,
+        "question": "Qual é o nome do jogador de futebol argentino que venceu a Copa do Mundo de 1986?",
+        "options": [
+          "Lionel Messi",
+          "Diego Maradona",
+          "Pele",
+          "Cristiano Ronaldo"
+        ],
+        "answer": "Diego Maradona"
+      },
+      {
+        "id": 16,
+        "question": "Qual é o nome da tenista americana que venceu 23 títulos de Grand Slam durante sua carreira?",
+        "options": [
+          "Serena Williams",
+          "Venus Williams",
+          "Maria Sharapova",
+          "Simona Halep"
+        ],
+        "answer": "Serena Williams"
+      },
+      {
+        "id": 17,
+        "question": "Qual é o nome do jogador de basquete americano que venceu seis títulos da NBA com o Chicago Bulls nos anos 90?",
+        "options": [
+          "Magic Johnson",
+          "Larry Bird",
+          "Michael Jordan",
+          "Kobe Bryant"
+        ],
+        "answer": "Michael Jordan"
+      },
+      {
+        "id": 18,
+        "question": "Qual é o nome do jogador de futebol português que venceu cinco prêmios de Jogador do Ano da FIFA?",
+        "options": [
+          "Lionel Messi",
+          "Neymar Jr.",
+          "Cristiano Ronaldo",
+          "Kylian Mbappé"
+        ],
+        "answer": "Cristiano Ronaldo"
+      },
+      {
+        "id": 19,
+        "question": "Em que país se originou o esporte do tênis de mesa?",
+        "options": ["Japão", "China", "Alemanha", "Reino Unido"],
+        "answer": "China"
+      },
+      {
+        "id": 20,
+        "question": "Qual país sediou os primeiros Jogos Olímpicos modernos em 1896?",
+        "options": ["França", "Alemanha", "Grécia", "Itália"],
+        "answer": "Grécia"
+      },
+      {
+        "id": 21,
+        "question": "Qual é o esporte mais popular no mundo?",
+        "options": ["Futebol", "Basquete", "Beisebol", "Futebol americano"],
+        "answer": "Futebol"
+      },
+      {
+        "id": 22,
+        "question": "Qual é o nome do evento de atletismo que inclui saltos em distância, arremesso de peso e corridas de velocidade?",
+        "options": ["Decatlo", "Heptatlo", "Pentatlo", "Triatlo"],
+        "answer": "Decatlo"
+      },
+      {
+        "id": 23,
+        "question": "Qual é o nome do esquiador americano que ganhou a medalha de ouro no downhill nos Jogos Olímpicos de Inverno de 2010?",
+        "options": [
+          "Bode Miller",
+          "Ted Ligety",
+          "Lindsey Vonn",
+          "Mikaela Shiffrin"
+        ],
+        "answer": "Bode Miller"
+      },
+      {
+        "id": 24,
+
+        "question": "Qual é o nome do boxeador americano que é considerado um dos maiores de todos os tempos e venceu 56 de suas 61 lutas profissionais?",
+        "options": [
+          "Floyd Mayweather Jr.",
+          "Mike Tyson",
+          "Muhammad Ali",
+          "Sugar Ray Robinson"
+        ],
+        "answer": "Sugar Ray Robinson"
+      },
+      {
+        "id": 25,
+        "question": "Qual é o nome do ciclista americano que venceu sete vezes o Tour de France antes de ser desclassificado por doping?",
+        "options": [
+          "Lance Armstrong",
+          "Greg LeMond",
+          "Chris Froome",
+          "Alberto Contador"
+        ],
+        "answer": "Lance Armstrong"
+      },
+      {
+        "id": 26,
+        "question": "Qual é o nome do corredor jamaicano que detém o recorde mundial nos 100 metros e 200 metros rasos?",
+        "options": ["Usain Bolt", "Tyson Gay", "Yohan Blake", "Justin Gatlin"],
+        "answer": "Usain Bolt"
+      },
+      {
+        "id": 27,
+        "question": "Qual esporte é conhecido como 'o esporte da raquete'?",
+        "options": ["Tênis", "Badminton", "Squash", "Pingue-pongue"],
+        "answer": "Tênis"
+      },
+      {
+        "id": 28,
+        "question": "Em qual esporte o movimento 'ollie' é um elemento básico?",
+        "options": ["Surf", "Skate", "Snowboard", "Esqui"],
+        "answer": "Skate"
+      },
+      {
+        "id": 29,
+        "question": "Qual é o recorde de maior quantidade de medalhas olímpicas conquistadas por um atleta?",
+        "options": ["13 medalhas", "18 medalhas", "22 medalhas", "28 medalhas"],
+        "answer": "28 medalhas"
+      },
+      {
+        "id": 30,
+        "question": "Qual é o nome da prova mais longa de atletismo em pista?",
+        "options": [
+          "100 metros rasos",
+          "Maratona",
+          "800 metros rasos",
+          "400 metros com barreiras"
+        ],
+        "answer": "Maratona"
+      },
+      {
+        "id": 31,
+        "question": "Qual é o esporte nacional do Japão?",
+        "options": ["Kendo", "Judo", "Sumô", "Karate"],
+        "answer": "Sumô"
+      },
+      {
+        "id": 32,
+        "question": "Qual é a liga de basquete mais famosa do mundo?",
+        "options": ["NBA", "NBB", "CBA", "LBA"],
+        "answer": "NBA"
+      },
+      {
+        "id": 33,
+        "question": "Quantos jogadores compõem uma equipe de vôlei?",
+        "options": ["5 jogadores", "6 jogadores", "7 jogadores", "8 jogadores"],
+        "answer": "6 jogadores"
+      },
+      {
+        "id": 34,
+        "question": "Qual é o esporte mais praticado no Brasil?",
+        "options": ["Futebol", "Vôlei", "Basquete", "Handebol"],
+        "answer": "Futebol"
+      },
+      {
+        "id": 35,
+        "question": "Qual é a modalidade de natação que envolve os quatro estilos: borboleta, costas, peito e livre?",
+        "options": ["Medley", "Crawl", "Mariposa", "Costas"],
+        "answer": "Medley"
+      },
+      {
+        "id": 36,
+        "question": "Qual é a prova mais longa da natação olímpica?",
+        "options": [
+          "50 metros livre",
+          "100 metros livre",
+          "200 metros livre",
+          "1500 metros livre"
+        ],
+        "answer": "1500 metros livre"
+      },
+      {
+        "id": 37,
+        "question": "Qual jogador de futebol é conhecido como 'O Rei'?",
+        "options": ["Pelé", "Maradona", "Messi", "Neymar"],
+        "answer": "Pelé"
+      },
+      {
+        "id": 38,
+        "question": "Em que país nasceu o futebol?",
+        "options": ["Brasil", "Inglaterra", "Argentina", "Itália"],
+        "answer": "Inglaterra"
+      },
+      {
+        "id": 39,
+        "question": "Qual é o nome do evento que reúne os melhores atletas do mundo a cada 4 anos?",
+        "options": [
+          "Copa do Mundo",
+          "Olimpíadas",
+          "Mundial de Atletismo",
+          "Campeonato Mundial"
+        ],
+        "answer": "Olimpíadas"
+      },
+      {
+        "id": 40,
+        "question": "Qual é o jogador de basquete com mais títulos da NBA?",
+        "options": [
+          "Michael Jordan",
+          "LeBron James",
+          "Kobe Bryant",
+          "Bill Russell"
+        ],
+        "answer": "Bill Russell"
+      },
+      {
+        "id": 41,
+        "question": "Qual é o nome do esporte que é praticado em uma pista com obstáculos?",
+        "options": ["Atletismo", "Ginástica", "Salto com vara", "Esqui alpino"],
+        "answer": "Atletismo"
+      },
+      {
+        "id": 42,
+        "question": "Qual é o nome do jogador de futebol que é conhecido como 'El Pibe'?",
+        "options": ["Pelé", "Maradona", "Messi", "Neymar"],
+        "answer": "Maradona"
+      },
+      {
+        "id": 43,
+        "question": "Qual é o nome do principal campeonato de clubes de futebol da Europa?",
+        "options": [
+          "Copa Libertadores",
+          "Liga dos Campeões da UEFA",
+          "Copa do Mundo de Clubes",
+          "Copa Sul-Americana"
+        ],
+        "answer": "Liga dos Campeões da UEFA"
+      },
+      {
+        "id": 44,
+        "question": "Qual é o nome do lutador irlandês que é uma das maiores estrelas do UFC?",
+        "options": [
+          "Khabib Nurmagomedov",
+          "Jon Jones",
+          "Conor McGregor",
+          "Anderson Silva"
+        ],
+        "answer": "Conor McGregor"
+      },
+      {
+        "id": 45,
+        "question": "Qual é o nome do time de futebol mais bem-sucedido da história?",
+        "options": [
+          "Barcelona",
+          "Manchester United",
+          "Real Madrid",
+          "Bayern de Munique"
+        ],
+        "answer": "Real Madrid"
+      },
+      {
+        "id": 46,
+        "question": "Qual é o nome do tenista suíço que é considerado um dos melhores de todos os tempos?",
+        "options": [
+          "Rafael Nadal",
+          "Novak Djokovic",
+          "Roger Federer",
+          "Andy Murray"
+        ],
+        "answer": "Roger Federer"
+      },
+      {
+        "id": 47,
+        "question": "Qual é o nome do atleta jamaicano que é considerado o homem mais rápido do mundo?",
+        "options": ["Usain Bolt", "Tyson Gay", "Yohan Blake", "Justin Gatlin"],
+        "answer": "Usain Bolt"
+      },
+      {
+        "id": 48,
+        "question": "Qual é o nome do nadador americano que detém o recorde de medalhas olímpicas?",
+        "options": [
+          "Michael Phelps",
+          "Mark Spitz",
+          "Ian Thorpe",
+          "Ryan Lochte"
+        ],
+        "answer": "Michael Phelps"
+      },
+      {
+        "id": 49,
+        "question": "Qual é o nome do evento esportivo mais assistido do mundo?",
+        "options": [
+          "Copa do Mundo FIFA",
+          "Jogos Olímpicos de Verão",
+          "Super Bowl",
+          "Copa do Mundo de Críquete"
+        ],
+        "answer": "Copa do Mundo FIFA"
+      },
+      {
+        "id": 50,
+        "question": "Qual é o nome do esporte que é jogado em um campo oval e tem um taco de madeira para rebater a bola?",
+        "options": [
+          "Futebol americano",
+          "Críquete",
+          "Hóquei no gelo",
+          "Beisebol"
+        ],
+        "answer": "Críquete"
+      }
+    ],
+
+    "Science_and_technology": [
+      {
+        "id": 1,
+        "question": "Qual é o nome do processo de transformação da água líquida em vapor?",
+        "options": ["Evaporação", "Condensação", "Solidificação", "Sublimação"],
+        "answer": "Evaporação"
+      },
+      {
+        "id": 2,
+        "question": "Qual é a unidade de medida da força?",
+        "options": ["Newton", "Joule", "Watt", "Pascal"],
+        "answer": "Newton"
+      },
+      {
+        "id": 3,
+        "question": "Qual é o nome do fenômeno que ocorre quando a luz solar atravessa um prisma e se divide em várias cores?",
+        "options": ["Reflexão", "Refração", "Difração", "Dispersão"],
+        "answer": "Dispersão"
+      },
+      {
+        "id": 4,
+        "question": "Qual é o nome do dispositivo que converte energia elétrica em energia mecânica por meio de um campo magnético?",
+        "options": [
+          "Motor elétrico",
+          "Gerador elétrico",
+          "Transformador elétrico",
+          "Resistor elétrico"
+        ],
+        "answer": "Motor elétrico"
+      },
+      {
+        "id": 5,
+        "question": "Qual é o nome da camada da atmosfera terrestre onde ocorrem os fenômenos meteorológicos?",
+        "options": ["Troposfera", "Estratosfera", "Mesosfera", "Termosfera"],
+        "answer": "Troposfera"
+      },
+      {
+        "id": 6,
+        "question": "Qual é o nome do ramo da biologia que estuda a origem e a evolução dos seres vivos?",
+        "options": ["Genética", "Ecologia", "Fisiologia", "Filogenia"],
+        "answer": "Filogenia"
+      },
+      {
+        "id": 7,
+        "question": "Qual é o nome do órgão que produz a bile no corpo humano?",
+        "options": ["Fígado", "Pâncreas", "Vesícula biliar", "Baço"],
+        "answer": "Fígado"
+      },
+      {
+        "id": 8,
+        "question": "Qual é o nome da tecnologia que permite a comunicação sem fio entre dispositivos eletrônicos por meio de ondas de rádio?",
+        "options": ["Bluetooth", "Wi-Fi", "NFC", "RFID"],
+        "answer": "Bluetooth"
+      },
+      {
+        "id": 9,
+        "question": "Qual é o nome da lei que afirma que a corrente elétrica em um circuito é diretamente proporcional à tensão aplicada e inversamente proporcional à resistência oferecida?",
+        "options": [
+          "Lei de Ohm",
+          "Lei de Kirchhoff",
+          "Lei de Coulomb",
+          "Lei de Faraday"
+        ],
+        "answer": "Lei de Ohm"
+      },
+      {
+        "id": 10,
+        "question": "O que é um algoritmo?",
+        "options": [
+          "Um tipo de software",
+          "Uma sequência de instruções para resolver um problema",
+          "Um componente de hardware",
+          "Um tipo de linguagem de programação"
+        ],
+        "answer": "Uma sequência de instruções para resolver um problema"
+      },
+      {
+        "id": 11,
+        "question": "O que é a computação em nuvem?",
+        "options": [
+          "Um tipo de hardware",
+          "Um tipo de software",
+          "Um serviço que permite armazenar e acessar dados pela internet",
+          "Um tipo de linguagem de programação"
+        ],
+        "answer": "Um serviço que permite armazenar e acessar dados pela internet"
+      },
+      {
+        "id": 12,
+        "question": "O que significa Wi-Fi 6?",
+        "options": [
+          "A sexta geração de redes sem fio",
+          "A sexta versão do protocolo de internet",
+          "A sexta camada do modelo OSI",
+          "A sexta frequência do espectro eletromagnético"
+        ],
+        "answer": "A sexta geração de redes sem fio"
+      },
+      {
+        "id": 13,
+        "question": "Qual é a unidade padrão de medida de tempo?",
+        "options": ["Metro", "Segundo", "Minuto", "Hora"],
+        "answer": "Segundo"
+      },
+      {
+        "id": 14,
+        "question": "Qual é a fórmula química da água?",
+        "options": ["H2O", "CO2", "C6H12O6", "NaCl"],
+        "answer": "H2O"
+      },
+      {
+        "id": 15,
+        "question": "Quem é considerado o pai da computação?",
+        "options": [
+          "Steve Jobs",
+          "Bill Gates",
+          "Alan Turing",
+          "Charles Babbage"
+        ],
+        "answer": "Charles Babbage"
+      },
+      {
+        "id": 16,
+        "question": "Qual é a velocidade da luz?",
+        "options": [
+          "299.792.458 m/s",
+          "3.000.000 m/s",
+          "30.000 km/s",
+          "300.000 km/h"
+        ],
+        "answer": "299.792.458 m/s"
+      },
+      {
+        "id": 17,
+        "question": "Qual é o primeiro computador eletrônico programável?",
+        "options": ["IBM 1401", "ENIAC", "Z3", "Apple I"],
+        "answer": "ENIAC"
+      },
+      {
+        "id": 18,
+        "question": "Qual foi o primeiro canal de televisão a transmitir imagens em cores?",
+        "options": ["BBC", "NBC", "CBS", "ABC"],
+        "answer": "CBS"
+      },
+      {
+        "id": 19,
+        "question": "Qual foi o primeiro sistema operacional baseado em GUI?",
+        "options": ["Windows 95", "Mac OS", "Xerox Alto", "MS-DOS"],
+        "answer": "Xerox Alto"
+      },
+      {
+        "id": 20,
+        "question": "Qual foi o primeiro smartphone a ser lançado?",
+        "options": [
+          "Samsung Galaxy S",
+          "Apple iPhone",
+          "Motorola Razr",
+          "Nokia N95"
+        ],
+        "answer": "Nokia N95"
+      },
+      {
+        "id": 21,
+        "question": "Qual foi o primeiro aplicativo fornecido pela Apple para o iPhone?",
+        "options": ["Safari", "Maps", "App Store", "iTunes"],
+        "answer": "iTunes"
+      },
+      {
+        "id": 22,
+        "question": "Qual é a unidade básica de vida?",
+        "options": ["Célula", "Átomo", "Molécula", "Tecido"],
+        "answer": "Célula"
+      },
+      {
+        "id": 23,
+        "question": "Quem desenvolveu a teoria da relatividade?",
+        "options": [
+          "Isaac Newton",
+          "Albert Einstein",
+          "Nikola Tesla",
+          "Stephen Hawking"
+        ],
+        "answer": "Albert Einstein"
+      },
+      {
+        "id": 24,
+        "question": "O que é um bit?",
+        "options": [
+          "A menor unidade de informação em um computador.",
+          "A unidade básica de medida para distância.",
+          "A unidade básica de medida para peso.",
+          "A unidade básica de medida para tempo."
+        ],
+        "answer": "A menor unidade de informação em um computador."
+      },
+      {
+        "id": 25,
+        "question": "Qual é a teoria que explica a expansão do universo?",
+        "options": [
+          "Lei de Coulomb",
+          "Teoria da Relatividade",
+          "Lei da Gravitação Universal",
+          "Teoria do Big Bang"
+        ],
+        "answer": "Teoria do Big Bang"
+      },
+      {
+        "id": 26,
+        "question": "Qual é o elemento químico mais abundante no universo?",
+        "options": ["Hélio", "Carbono", "Oxigênio", "Hidrogênio"],
+        "answer": "Hidrogênio"
+      },
+      {
+        "id": 27,
+        "question": "Qual é o principal fator que causa o aquecimento global?",
+        "options": [
+          "Emissão de gases de efeito estufa",
+          "Variação da atividade solar",
+          "Explosões vulcânicas",
+          "Desmatamento"
+        ],
+        "answer": "Emissão de gases de efeito estufa"
+      },
+      {
+        "id": 28,
+        "question": "O que é um buraco negro?",
+        "options": [
+          "Uma estrela gigante vermelha",
+          "Um corpo celeste frio e sem luz própria",
+          "Um ponto no espaço com alta concentração de matéria",
+          "Um tipo de asteroide com órbita elíptica"
+        ],
+        "answer": "Um ponto no espaço com alta concentração de matéria"
+      },
+      {
+        "id": 29,
+        "question": "Qual é a unidade básica de informação em um computador?",
+        "options": ["Byte", "Bit", "Pixel", "Hertz"],
+        "answer": "Bit"
+      },
+      {
+        "id": 30,
+        "question": "O que significa a sigla 'AI' em tecnologia?",
+        "options": [
+          "Artificial Intelligence (Inteligência Artificial)",
+          "Automated Information (Informação Automatizada)",
+          "Advanced Interface (Interface Avançada)",
+          "Applied Informatics (Informática Aplicada)"
+        ],
+        "answer": "Artificial Intelligence (Inteligência Artificial)"
+      },
+      {
+        "id": 31,
+        "question": "Onde foi inventado o primeiro computador eletrônico digital?",
+        "options": ["Estados Unidos", "Inglaterra", "Alemanha", "Japão"],
+        "answer": "Estados Unidos"
+      },
+      {
+        "id": 32,
+        "question": "Qual é o maior planeta do sistema solar?",
+        "ptions": ["Saturno", "Júpiter", "Terra", "Marte"],
+        "nswer": "Júpiter"
+      },
+      {
+        "id": 33,
+        "question": "Qual é a diferença entre átomo e molécula?",
+        "options": [
+          "Átomos são partículas subatômicas, enquanto moléculas são conjuntos de átomos",
+          "Átomos são compostos por prótons, elétrons e nêutrons, enquanto moléculas são compostas por prótons e elétrons",
+          "Átomos têm carga elétrica, enquanto moléculas não têm",
+          "Átomos formam compostos químicos, enquanto moléculas não têm essa capacidade"
+        ],
+        "answer": "Átomos são partículas subatômicas, enquanto moléculas são conjuntos de átomos"
+      },
+      {
+        "id": 34,
+        "question": "Qual é a lei da física que descreve a conservação de energia?",
+        "options": [
+          "Lei de Newton",
+          "Lei de Coulomb",
+          "Lei da Conservação da Energia",
+          "Lei de Faraday"
+        ],
+        "answer": "Lei da Conservação da Energia"
+      },
+      {
+        "id": 35,
+        "question": "Qual é o tipo de célula que é capaz de produzir energia por meio de processos de respiração celular?",
+        "options": [
+          "Célula vegetal",
+          "Célula animal",
+          "Célula bacteriana",
+          "Célula eucariótica"
+        ],
+        "answer": "Célula eucariótica"
+      },
+      {
+        "id": 36,
+        "question": "Qual é a diferença entre um vírus e uma bactéria?",
+        "options": [
+          "Vírus têm células, enquanto bactérias não têm",
+          "Bactérias são organismos multicelulares, enquanto vírus são unicelulares",
+          "Vírus são parasitas intracelulares obrigatórios, enquanto bactérias podem ser livres ou parasitas",
+          "Bactérias causam doenças mais graves do que os vírus"
+        ],
+        "answer": "Vírus são parasitas intracelulares obrigatórios, enquanto bactérias podem ser livres ou parasitas"
+      },
+      {
+        "id": 37,
+        "question": "O que é a Internet das Coisas (IoT)?",
+        "options": [
+          "Uma rede de dispositivos conectados à internet que podem coletar e compartilhar dados.",
+          "Um tipo de conexão de internet sem fio.",
+          "Um sistema operacional para dispositivos móveis.",
+          "Um tipo de cabo de rede."
+        ],
+        "answer": "Uma rede de dispositivos conectados à internet que podem coletar e compartilhar dados."
+      },
+      {
+        "id": 38,
+        "question": "O que é a nuvem (cloud) em tecnologia?",
+        "options": [
+          "Armazenamento remoto acessível pela internet.",
+          "Um tipo de conexão sem fio.",
+          "Uma forma física de armazenamento em disco rígido.",
+          "Uma forma física de armazenamento em memória flash."
+        ],
+        "answer": "Armazenamento remoto acessível pela internet."
+      },
+      {
+        "id": 39,
+        "question": "O que é um navegador (browser) na internet?",
+        "options": [
+          "Um programa usado para acessar a World Wide Web (WWW).",
+          "Um dispositivo usado para conectar-se à internet.",
+          "Uma linguagem usada para criar páginas da web.",
+          "Uma ferramenta usada para enviar emails."
+        ],
+        "answer": "Um programa usado para acessar a World Wide Web (WWW)."
+      },
+      {
+        "id": 40,
+        "question": "O que é a teoria da evolução?",
+        "options": [
+          "A teoria que explica como os planetas se formam",
+          "A teoria que explica como as espécies mudam ao longo do tempo",
+          "A teoria que explica como as células funcionam",
+          "A teoria que explica como a matéria se transforma"
+        ],
+        "answer": "A teoria que explica como as espécies mudam ao longo do tempo"
+      },
+      {
+        "id": 41,
+        "question": "Qual é a camada da Terra que abriga a vida?",
+        "options": ["Núcleo", "Manto", "Crosta", "Atmosfera"],
+        "answer": "Crosta"
+      },
+      {
+        "id": 42,
+        "question": "Qual é a função do sistema nervoso?",
+        "options": [
+          "Produzir hormônios",
+          "Controlar o movimento dos músculos",
+          "Regular a temperatura corporal",
+          "Transmitir sinais elétricos para o cérebro"
+        ],
+        "answer": "Transmitir sinais elétricos para o cérebro"
+      },
+      {
+        "id": 43,
+        "question": "Qual é a principal fonte de energia para as células do corpo humano?",
+        "options": [
+          "Proteínas",
+          "Lipídios",
+          "Carboidratos",
+          "Ácidos nucleicos"
+        ],
+        "answer": "Carboidratos"
+      },
+      {
+        "id": 44,
+        "question": "Qual é o maior órgão do corpo humano?",
+        "options": ["Coração", "Fígado", "Pele", "Pulmão"],
+        "answer": "Pele"
+      },
+      {
+        "id": 45,
+        "question": "O que é um pixel?",
+        "options": [
+          "Um ponto de luz em uma tela.",
+          "Uma unidade de medida para a velocidade da internet.",
+          "Um tipo de conexão sem fio.",
+          "Um tipo de software."
+        ],
+        "answer": "Um ponto de luz em uma tela."
+      },
+      {
+        "id": 46,
+        "question": "O que é um banco de dados?",
+        "options": [
+          "Uma coleção organizada de informações.",
+          "Um dispositivo usado para armazenar informações.",
+          "Uma linguagem usada para criar páginas da web.",
+          "Um tipo de conexão à internet."
+        ],
+        "answer": "Uma coleção organizada de informações."
+      },
+      {
+        "id": 47,
+        "question": "O que é um endereço IP?",
+        "options": [
+          "Um número único atribuído a cada dispositivo conectado à internet.",
+          "Um tipo de conexão sem fio.",
+          "Uma forma física de armazenamento em disco rígido.",
+          "Uma forma física de armazenamento em memória flash."
+        ],
+        "answer": "Um número único atribuído a cada dispositivo conectado à internet."
+      },
+      {
+        "id": 48,
+        "question": "O que é a lei da gravitação universal?",
+        "options": [
+          "A lei que descreve como os átomos se comportam",
+          "A lei que descreve como a energia se conserva",
+          "A lei que descreve como os corpos se atraem",
+          "A lei que descreve como a luz se propaga"
+        ],
+        "answer": "A lei que descreve como os corpos se atraem"
+      },
+      {
+        "id": 49,
+        "question": "Qual é a diferença entre uma célula animal e uma célula vegetal?",
+        "options": [
+          "Células vegetais têm parede celular e cloroplastos, enquanto células animais não têm",
+          "Células animais têm parede celular e cloroplastos, enquanto células vegetais não têm",
+          "Células animais têm núcleo, enquanto células vegetais não têm",
+          "Células vegetais têm mitocôndrias, enquanto células animais não têm"
+        ],
+        "answer": "Células vegetais têm parede celular e cloroplastos, enquanto células animais não têm"
+      },
+      {
+        "id": 50,
+        "question": "O que é um processador em um computador?",
+        "options": [
+          "Um chip que executa cálculos e instruções.",
+          "Um dispositivo usado para armazenar informações.",
+          "Uma linguagem usada para criar páginas da web.",
+          "Um tipo de conexão à internet."
+        ],
+        "answer": "Um chip que executa cálculos e instruções."
+      }
+    ],
+
+    "Animals_and_wild_life": [
+      {
+        "id": 1,
+        "question": "Quais so os principais fatores que estão contribuindo para a extinção de animais selvagens?",
+        "options": [
+          "Poluição das águas",
+          "Desmatamento",
+          "Caça ilegal",
+          "Mudanças climáticas"
+        ],
+        "answer": "Desmatamento"
+      },
+      {
+        "id": 2,
+        "question": "Quais são as consequências da extinção de animais selvagens?",
+        "options": [
+          "Diminuição da biodiversidade",
+          "Perda do habitat natural",
+          "Aumento da poluição",
+          "Todas as anteriores"
+        ],
+        "answer": "Todas as anteriores"
+      },
+      {
+        "id": 3,
+        "question": "Qual é o animal que possui o maior número de dentes?",
+        "options": ["Tubarão-branco", "Golfinho", "Crocodilo", "Tatu"],
+        "answer": "Tubarão-branco"
+      },
+      {
+        "id": 4,
+        "question": "O que são animais selvagens?",
+        "options": [
+          "Animais que vivem em zoológicos",
+          "Animais que são domesticados",
+          "Espécies que não são domesticadas e vivem descontroladamente na natureza",
+          "Animais de estimação"
+        ],
+        "answer": "Espécies que não são domesticadas e vivem descontroladamente na natureza"
+      },
+      {
+        "id": 5,
+        "question": "Onde a vida selvagem pode ser encontrada?",
+        "options": [
+          "Apenas em florestas tropicais",
+          "Apenas em desertos",
+          "Em todos os ecossistemas",
+          "Apenas em oceanos"
+        ],
+        "answer": "Em todos os ecossistemas"
+      },
+      {
+        "id": 6,
+        "question": "Qual é o maior mamífero terrestre?",
+        "options": ["Elefante", "Rinoceronte", "Hipopótamo", "Búfalo-africano"],
+        "answer": "Elefante"
+      },
+      {
+        "id": 7,
+        "question": "Qual é o animal mais rápido do mundo?",
+        "options": ["Guepardo", "Leopardo", "Puma", "Lobo"],
+        "answer": "Guepardo"
+      },
+      {
+        "id": 8,
+        "question": "Qual é o maior animal do mundo?",
+        "options": [
+          "Baleia-azul",
+          "Tubarão-branco",
+          "Anaconda-verde",
+          "Girafa"
+        ],
+        "answer": "Baleia-azul"
+      },
+      {
+        "id": 9,
+        "question": "Qual é o animal que tem o maior cérebro em relação ao seu tamanho corporal?",
+        "options": ["Golfinho", "Chimpanzé", "Elefante", "Gato"],
+        "answer": "Golfinho"
+      },
+      {
+        "id": 10,
+        "question": "Qual é o animal mais venenoso do mundo?",
+        "options": ["Cobra", "Aranha", "Água-viva", "Escorpião"],
+        "answer": "Água-viva"
+      },
+      {
+        "id": 11,
+        "question": "Quantos corações têm os polvos?",
+        "options": ["1", "2", "3", "4"],
+        "answer": "3"
+      },
+      {
+        "id": 12,
+        "question": "Qual é o animal mais resistente do planeta?",
+        "options": ["Barata", "Tartaruga", "Camelo", "Urso-polar"],
+        "answer": "Tardígrado"
+      },
+      {
+        "id": 13,
+        "question": "Qual é o animal que tem a maior expectativa de vida?",
+        "options": [
+          "Tartaruga-gigante",
+          "Baleia-da-groenlândia",
+          "Tubarão-do-gelo",
+          "Lagosta"
+        ],
+        "answer": "Tartaruga-gigante"
+      },
+      {
+        "id": 14,
+        "question": "Quais são os animais que formam os 'Cinco Grandes' da África?",
+        "options": [
+          "Elefante, leão, girafa, búfalo-africano e rinoceronte",
+          "Leão, zebra, hipopótamo, girafa e elefante",
+          "Leopardo, crocodilo, rinoceronte, leão e búfalo-africano",
+          "Hipopótamo, elefante, gorila, girafa e leopardo"
+        ],
+        "answer": "Elefante, leão, girafa, búfalo-africano e rinoceronte"
+      },
+      {
+        "id": 15,
+        "question": "Qual é a maior cobra do mundo?",
+        "options": [
+          "Sucuri",
+          "Píton-reticulada",
+          "Cobra-real",
+          "Anaconda-verde"
+        ],
+        "answer": "Píton-reticulada"
+      },
+      {
+        "id": 16,
+        "question": "Qual é o animal mais alto do mundo?",
+        "options": ["Girafa", "Elefante", "Zebra", "Rinoceronte"],
+        "answer": "Girafa"
+      },
+      {
+        "id": 17,
+        "question": "Qual é o animal que tem a maior envergadura de asas?",
+        "options": [
+          "Águia",
+          "Condor-dos-Andes",
+          "Abutre-barbudo",
+          "Albatroz-errante"
+        ],
+        "answer": "Albatroz-errante"
+      },
+      {
+        "id": 18,
+        "question": "Qual é o animal que tem o maior número de espécies?",
+        "options": ["Insetos", "Aves", "Mamíferos", "Répteis"],
+        "answer": "Insetos"
+      },
+      {
+        "id": 19,
+        "question": "Qual é o animal que dorme mais horas por dia?",
+        "options": ["Esquilo", "Coala", "Gato", "Preguiça"],
+        "answer": "Preguiça"
+      },
+      {
+        "id": 20,
+        "question": "Quantos meses até que uma baleia grávida dê à luz?",
+        "options": ["9 meses", "4 meses", "16 meses", "36 meses"],
+        "answer": "16 meses"
+      },
+      {
+        "id": 21,
+        "question": "Qual é o animal que tem a mordida mais forte do mundo?",
+        "options": ["Cocodrilo-de-água-salgada", "Leão", "Tigre", "Hipopótamo"],
+        "answer": "Cocodrilo-de-água-salgada"
+      },
+      {
+        "id": 22,
+        "question": "Qual é o animal que tem o veneno mais potente do mundo?",
+        "options": [
+          "Aranha-armadeira",
+          "Cobra-coral",
+          "Peixe-pedra",
+          "Medusa-caixa"
+        ],
+        "answer": "Medusa-caixa"
+      },
+      {
+        "id": 23,
+        "question": "Qual é o animal que tem a língua mais comprida em relação ao seu tamanho?",
+        "options": ["Camaleão", "Girafa", "Formiga-panda", "Tamanduá-bandeira"],
+        "answer": "Tamanduá-bandeira"
+      },
+      {
+        "id": 24,
+        "question": "Qual é o animal que tem a maior população na Terra?",
+        "options": ["Humano", "Galinha", "Rato", "Formiga"],
+        "answer": "Formiga"
+      },
+      {
+        "id": 25,
+        "question": "Qual é o animal que tem o olfato mais aguçado do mundo?",
+        "options": ["Cão", "Urso-pardo", "Gato", "Elefante"],
+        "answer": "Urso-pardo"
+      },
+      {
+        "id": 26,
+        "question": "Qual é o animal que é capaz de regenerar seus membros?",
+        "options": ["Tubarão", "Lagarto", "Estrela-do-mar", "Caranguejo"],
+        "answer": "Estrela-do-mar"
+      },
+      {
+        "id": 27,
+        "question": "Qual é o animal que é conhecido por nunca dormir?",
+        "options": ["Tubarão", "Girafa", "Elefante", "Urso-pardo"],
+        "answer": "Tubarão"
+      },
+      {
+        "id": 28,
+        "question": "Qual é o animal que é capaz de mudar de cor para se camuflar?",
+        "options": ["Polvo", "Lagarto", "Sapo", "Cobra"],
+        "answer": "Polvo"
+      },
+      {
+        "id": 29,
+        "question": "Qual é o animal que é conhecido por ter a pele mais dura do mundo?",
+        "options": [
+          "Rinoceronte",
+          "Tartaruga-gigante",
+          "Crocodilo-de-água-salgada",
+          "Hipopótamo"
+        ],
+        "answer": "Crocodilo-de-água-salgada"
+      },
+      {
+        "id": 30,
+        "question": "Qual é o animal que é capaz de girar a cabeça em 270 graus?",
+        "options": ["Coruja", "Cisne", "Falcão", "Pombo"],
+        "answer": "Coruja"
+      },
+      {
+        "id": 31,
+        "question": "Qual é o animal que tem a maior população no mundo?",
+        "options": ["Cão", "Gato", "Rato", "Humano"],
+        "answer": "Rato"
+      },
+      {
+        "id": 32,
+        "question": "Qual é o animal que é conhecido por ter a mordida mais forte do mundo?",
+        "options": [
+          "Tubarão-branco",
+          "Hipopótamo",
+          "Leão",
+          "Crocodilo-de-água-salgada"
+        ],
+        "answer": "Crocodilo-de-água-salgada"
+      },
+      {
+        "id": 33,
+        "question": "Qual é o animal mais perigoso da África?",
+        "options": ["Leão", "Elefante", "Rinoceronte", "Hipopótamo"],
+        "answer": "Hipopótamo"
+      },
+      {
+        "id": 34,
+        "question": "Qual é a maior floresta tropical do mundo?",
+        "options": [
+          "Floresta Amazônica",
+          "Floresta do Congo",
+          "Floresta de Bornéu",
+          "Floresta de Madagascar"
+        ],
+        "answer": "Floresta Amazônica"
+      },
+      {
+        "id": 35,
+        "question": "Qual é a ave nacional dos Estados Unidos da América?",
+        "options": [
+          "Águia-americana",
+          "Falcão-peregrino",
+          "Coruja-buraqueira",
+          "Urubu-de-cabeça-vermelha"
+        ],
+        "answer": "Águia-americana"
+      },
+      {
+        "id": 36,
+        "question": "Qual é o animal que representa o signo chinês de 2022?",
+        "options": ["Dragão", "Cavalo", "Cabra", "Tigre"],
+        "answer": "Tigre"
+      },
+      {
+        "id": 37,
+        "question": "Qual é o animal que é símbolo do continente australiano?",
+        "options": ["Canguru", "Coala", "Emu", "Wombat"],
+        "answer": "Canguru"
+      },
+      {
+        "id": 38,
+        "question": "Qual é a maior espécie de macaco do mundo?",
+        "options": ["Chimpanzé", "Orangotango", "Mandril", "Gorila"],
+        "answer": "Gorila"
+      },
+      {
+        "id": 39,
+        "question": "Qual é o animal que é o símbolo da conservação ambiental?",
+        "options": ["Urso-polar", "Tigre", "Panda", "Lobo-ibérico"],
+        "answer": "Panda"
+      },
+      {
+        "id": 40,
+        "question": "Qual é o animal que é famoso por hibernar no inverno?",
+        "options": ["Esquilo", "Morcego", "Urso-pardo", "Tatu"],
+        "answer": "Urso-pardo"
+      },
+      {
+        "id": 41,
+        "question": "Qual é o nome do animal que é conhecido por ser o maior felino das Américas?",
+        "options": ["Onça-pintada", "Leopardo", "Tigre", "Puma"],
+        "answer": "Onça-pintada"
+      },
+      {
+        "id": 42,
+        "question": "Qual é o animal que é capaz de voar, mas não é um pássaro?",
+        "options": [
+          "Morcego",
+          "Esquilo-voador",
+          "Inseto-palito",
+          "Pterossauro"
+        ],
+        "answer": "Morcego"
+      },
+      {
+        "id": 43,
+        "question": "Qual é o animal que é conhecido por sua capacidade de camuflagem?",
+        "options": ["Cobra", "Camaleão", "Tartaruga", "Polvo"],
+        "answer": "Camaleão"
+      },
+      {
+        "id": 44,
+        "question": "Qual é a maior organização de conservação do mundo?",
+        "options": [
+          "O Fundo Internacional para o Bem-Estar Animal - IFAW",
+          "O Fundo Mundial para a Natureza - WWF",
+          "The Nature Conservancy"
+        ],
+        "answer": "O Fundo Mundial para a Natureza - WWF"
+      },
+      {
+        "id": 45,
+        "question": "Qual é a cor da pele de um urso polar?",
+        "options": ["Branco", "Marrom", "Preto"],
+        "answer": "Preto"
+      },
+      {
+        "id": 46,
+        "question": "Qual é o animal que é conhecido por seu poderoso rugido e por ser o rei da selva?",
+        "options": ["Leão", "Tigre", "Leopardo", "Guepardo"],
+        "answer": "Leão"
+      },
+      {
+        "id": 47,
+        "question": "Quantas patas tem uma aranha?",
+        "options": ["4", "6", "8", "10"],
+        "answer": "8"
+      },
+      {
+        "id": 48,
+        "question": "Qual é o animal que é conhecido por ter um olfato extremamente apurado, sendo capaz de farejar presas a grandes distâncias?",
+        "options": ["Cão", "Gato", "Onça", "Urso"],
+        "answer": "Onça"
+      },
+      {
+        "id": 49,
+        "question": "Qual é o animal que é conhecido por ser capaz de caminhar na vertical em troncos de árvores?",
+        "options": ["Gato", "Esquilo", "Preguiça", "Camaleão"],
+        "answer": "Camaleão"
+      },
+      {
+        "id": 50,
+        "question": "Qual é o animal que é conhecido por ser capaz de regenerar partes do seu corpo, como a cauda e as patas?",
+        "options": ["Salamandra", "Lagarto", "Tartaruga", "Cobra"],
+        "answer": "Salamandra"
+      }
+    ],
+
+    "Art_and_culture": [
+      {
+        "id": 1,
+        "question": "Qual artista pintou a obra 'A Noite Estrelada'?",
+        "options": [
+          "Vincent van Gogh",
+          "Pablo Picasso",
+          "Salvador Dalí",
+          "Leonardo da Vinci"
+        ],
+        "answer": "Vincent van Gogh"
+      },
+      {
+        "id": 2,
+        "question": "Qual é o nome do principal festival de cinema do mundo?",
+        "options": [
+          "Festival de Cannes",
+          "Festival de Veneza",
+          "Festival de Sundance",
+          "Festival de Toronto"
+        ],
+        "answer": "Festival de Cannes"
+      },
+      {
+        "id": 3,
+        "question": "Quem é considerado o pai da música brasileira?",
+        "options": [
+          "Tom Jobim",
+          "Chico Buarque",
+          "Heitor Villa-Lobos",
+          "Vinicius de Moraes"
+        ],
+        "answer": "Heitor Villa-Lobos"
+      },
+      {
+        "id": 4,
+        "question": "Qual é o nome da maior escultura já feita por Michelangelo?",
+        "options": ["David", "Moisés", "Pietà", "Tondo Doni"],
+        "answer": "David"
+      },
+
+      {
+        "id": 5,
+        "question": "Qual é o nome do livro escrito por Machado de Assis que conta a história de Bentinho e Capitu?",
+        "options": [
+          "Dom Casmurro",
+          "Memórias Póstumas de Brás Cubas",
+          "Quincas Borba",
+          "Esaú e Jacó"
+        ],
+        "answer": "Dom Casmurro"
+      },
+
+      {
+        "id": 6,
+        "question": "Qual é o nome da bailarina russa que se tornou uma das mais famosas do mundo?",
+        "options": [
+          "Anna Pavlova",
+          "Mikhail Baryshnikov",
+          "Rudolf Nureyev",
+          "Maya Plisetskaya"
+        ],
+        "answer": "Anna Pavlova"
+      },
+
+      {
+        "id": 7,
+        "question": "Qual é o nome do artista que pintou 'Os Girassóis'?",
+        "options": [
+          "Pablo Picasso",
+          "Vincent van Gogh",
+          "Claude Monet",
+          "Salvador Dalí"
+        ],
+        "answer": "Vincent van Gogh"
+      },
+
+      {
+        "id": 8,
+        "question": "Quem é o autor da obra 'O Pequeno Príncipe'?",
+        "options": [
+          "Antoine de Saint-Exupéry",
+          "J.K. Rowling",
+          "Gabriel García Márquez",
+          "George Orwell"
+        ],
+        "answer": "Antoine de Saint-Exupéry"
+      },
+
+      {
+        "id": 9,
+        "question": "Qual é o nome da ópera de Giuseppe Verdi baseada na peça de William Shakespeare?",
+        "options": ["Carmen", "La Traviata", "Rigoletto", "Otello"],
+        "answer": "Otello"
+      },
+
+      {
+        "id": 10,
+        "question": "Quem é o autor da música 'Garota de Ipanema'?",
+        "options": [
+          "João Gilberto",
+          "Tom Jobim",
+          "Chico Buarque",
+          "Vinicius de Moraes"
+        ],
+        "answer": "Tom Jobim"
+      },
+
+      {
+        "id": 11,
+        "question": "Qual é o nome do movimento artístico que teve como um de seus principais representantes Pablo Picasso?",
+        "options": ["Cubismo", "Impressionismo", "Expressionismo", "Realismo"],
+        "answer": "Cubismo"
+      },
+
+      {
+        "id": 12,
+        "question": "Qual é o nome do filme dirigido por Stanley Kubrick que é baseado em um romance de Anthony Burgess?",
+        "options": [
+          "Laranja Mecânica",
+          "2001: Uma Odisseia no Espaço",
+          "De Olhos Bem Fechados",
+          "O Iluminado"
+        ],
+        "answer": "Laranja Mecânica"
+      },
+
+      {
+        "id": 13,
+        "question": "Qual é o nome da cantora americana conhecida como a 'Rainha do Pop'?",
+        "options": ["Madonna", "Beyoncé", "Lady Gaga", "Rihanna"],
+        "answer": "Madonna"
+      },
+
+      {
+        "id": 14,
+        "question": "Qual é o nome da peça de William Shakespeare que é considerada sua obra-prima?",
+        "options": ["Hamlet", "Macbeth", "Romeu e Julieta", "Otelo"],
+        "answer": "Hamlet"
+      },
+
+      {
+        "id": 15,
+        "question": "Qual é o nome do arquiteto brasileiro que projetou Brasília?",
+        "options": [
+          "Lúcio Costa",
+          "Oscar Niemeyer",
+          "Ruy Ohtake",
+          "Paulo Mendes da Rocha"
+        ],
+        "answer": "Lúcio Costa"
+      },
+
+      {
+        "id": 16,
+        "question": "Qual é o nome do músico britânico que é considerado um dos maiores guitarristas de todos os tempos?",
+        "options": [
+          "Jimi Hendrix",
+          "Eric Clapton",
+          "Jimmy Page",
+          "David Gilmour"
+        ],
+        "answer": "Jimi Hendrix"
+      },
+
+      {
+        "id": 17,
+        "question": "Qual é o nome do pintor italiano que criou a obra 'A Última Ceia'?",
+        "options": [
+          "Michelangelo",
+          "Rafael",
+          "Leonardo da Vinci",
+          "Sandro Botticelli"
+        ],
+        "answer": "Leonardo da Vinci"
+      },
+
+      {
+        "id": 18,
+        "question": "Qual é o nome do grupo de teatro que foi fundado por Augusto Boal?",
+        "options": [
+          "Grupo Galpão",
+          "Grupo Tapa",
+          "Companhia de Teatro Os Satyros",
+          "Teatro do Oprimido"
+        ],
+        "answer": "Teatro do Oprimido"
+      },
+
+      {
+        "id": 19,
+        "question": "Qual é o nome da escultura de Auguste Rodin que representa um homem nu sentado com a cabeça apoiada no punho?",
+        "options": [
+          "O Pensador",
+          "O Beijo",
+          "O Homem com a Orelha Cortada",
+          "O Véu"
+        ],
+        "answer": "O Pensador"
+      },
+
+      {
+        "id": 20,
+        "question": "Qual é o nome da autora americana que escreveu o livro 'O Sol é Para Todos'?",
+        "options": [
+          "Harper Lee",
+          "Toni Morrison",
+          "Maya Angelou",
+          "Zora Neale Hurston"
+        ],
+        "answer": "Harper Lee"
+      },
+
+      {
+        "id": 21,
+        "question": "Qual é o nome da obra de William Shakespeare que conta a história de dois jovens amantes que são separados pelas rivalidades de suas famílias?",
+        "options": ["Hamlet", "Macbeth", "Romeu e Julieta", "Otelo"],
+        "answer": "Romeu e Julieta"
+      },
+
+      {
+        "id": 22,
+        "question": "Qual é o nome do cineasta brasileiro que dirigiu 'Central do Brasil'?",
+        "options": [
+          "Fernando Meirelles",
+          "Glauber Rocha",
+          "Walter Salles",
+          "Hector Babenco"
+        ],
+        "answer": "Walter Salles"
+      },
+
+      {
+        "id": 23,
+        "question": "Qual é o nome do escritor francês que escreveu 'Les Misérables'?",
+        "options": [
+          "Victor Hugo",
+          "Gustave Flaubert",
+          "Albert Camus",
+          "Jean-Paul Sartre"
+        ],
+        "answer": "Victor Hugo"
+      },
+
+      {
+        "id": 24,
+        "question": "Qual é o nome do estilo musical que se originou na Jamaica no final da década de 1950?",
+        "options": ["Ska", "Reggae", "Dub", "Rocksteady"],
+        "answer": "Ska"
+      },
+
+      {
+        "id": 25,
+        "question": "Qual é o nome do pintor que criou a famosa obra 'Mona Lisa'?",
+        "options": [
+          "Pablo Picasso",
+          "Leonardo da Vinci",
+          "Vincent van Gogh",
+          "Claude Monet"
+        ],
+        "answer": "Leonardo da Vinci"
+      },
+
+      {
+        "id": 26,
+        "question": "Qual é o nome da atriz que interpretou a personagem Hermione Granger nos filmes da série 'Harry Potter'?",
+        "options": [
+          "Emma Watson",
+          "Emma Stone",
+          "Emma Roberts",
+          "Emma Thompson"
+        ],
+        "answer": "Emma Watson"
+      },
+
+      {
+        "id": 27,
+        "question": "Qual é o nome da cantora que lançou o álbum 'Lemonade' em 2016?",
+        "options": ["Beyoncé", "Rihanna", "Adele", "Taylor Swift"],
+        "answer": "Beyoncé"
+      },
+
+      {
+        "id": 28,
+        "question": "Qual é o nome do escritor que escreveu '1984'?",
+        "options": [
+          "George Orwell",
+          "Aldous Huxley",
+          "J.D. Salinger",
+          "F. Scott Fitzgerald"
+        ],
+        "answer": "George Orwell"
+      },
+
+      {
+        "id": 29,
+        "question": "Qual é o nome do grupo musical britânico que é conhecido por suas músicas como 'Bohemian Rhapsody' e 'We Will Rock You'?",
+        "options": ["The Beatles", "Queen", "Led Zeppelin", "Pink Floyd"],
+        "answer": "Queen"
+      },
+
+      {
+        "id": 30,
+        "question": "Qual é o nome do cineasta que dirigiu os filmes 'Pulp Fiction', 'Kill Bill' e 'Bastardos Inglórios'?",
+        "options": [
+          "Martin Scorsese",
+          "Quentin Tarantino",
+          "Steven Spielberg",
+          "Christopher Nolan"
+        ],
+        "answer": "Quentin Tarantino"
+      },
+
+      {
+        "id": 31,
+        "question": "Qual é o nome do artista conhecido por suas obras de arte com latas de sopa, como 'Campbell's Soup Cans'?",
+        "options": [
+          "Jackson Pollock",
+          "Andy Warhol",
+          "Salvador Dalí",
+          "Pablo Picasso"
+        ],
+        "answer": "Andy Warhol"
+      },
+
+      {
+        "id": 32,
+        "question": "Qual é o nome do movimento artístico que surgiu na Alemanha no início do século XX, caracterizado por formas geométricas e cores primárias?",
+        "options": ["Expressionismo", "Cubismo", "Dadaísmo", "Bauhaus"],
+        "answer": "Bauhaus"
+      },
+
+      {
+        "id": 33,
+        "question": "Qual é o nome do artista conhecido por suas esculturas gigantes de balões em forma de animais?",
+        "options": ["Jeff Koons", "Damien Hirst", "Banksy", "Ai Weiwei"],
+        "answer": "Jeff Koons"
+      },
+
+      {
+        "id": 34,
+        "question": "Qual é o nome do movimento artístico que surgiu no final do século XIX, caracterizado pelo uso de cores puras e brilhantes e pela técnica de divisão da cor?",
+        "options": ["Impressionismo", "Surrealismo", "Fauvismo", "Realismo"],
+        "answer": "Fauvismo"
+      },
+
+      {
+        "id": 35,
+        "question": "Qual é o nome da artista mexicana conhecida por suas obras de arte com cores vibrantes e imagens simbólicas, como 'Autorretrato com Colar de Espinhos'?",
+        "options": [
+          "Frida Kahlo",
+          "Georgia O'Keeffe",
+          "Carmen Herrera",
+          "Yayoi Kusama"
+        ],
+        "answer": "Frida Kahlo"
+      },
+
+      {
+        "id": 36,
+        "question": "Qual é o nome do escultor italiano conhecido por suas obras de mármore, como 'David' e 'Pietà'?",
+        "options": [
+          "Leonardo da Vinci",
+          "Raffaello Sanzio",
+          "Michelangelo Buonarroti",
+          "Donatello di Niccolò di Betto Bardi"
+        ],
+        "answer": "Michelangelo Buonarroti"
+      },
+
+      {
+        "id": 37,
+        "question": "Qual é o nome da artista americana conhecida por suas instalações e esculturas de luz, como 'The Lightning Field'?",
+        "options": [
+          "Barbara Kruger",
+          "Jenny Holzer",
+          "Louise Bourgeois",
+          "Walter De Maria"
+        ],
+        "answer": "Walter De Maria"
+      },
+
+      {
+        "id": 38,
+        "question": "Qual é o nome do pintor holandês conhecido por suas obras de arte com cenas do cotidiano, como 'A Ronda Noturna'?",
+        "options": [
+          "Johannes Vermeer",
+          "Rembrandt van Rijn",
+          "Pieter Bruegel",
+          "Frans Hals"
+        ],
+        "answer": "Rembrandt van Rijn"
+      },
+
+      {
+        "id": 39,
+        "question": "Qual é o nome do artista britânico que criou a escultura 'Angel of the North', localizada em Gateshead, na Inglaterra?",
+        "options": [
+          "Damien Hirst",
+          "Anish Kapoor",
+          "Henry Moore",
+          "Anthony Gormley"
+        ],
+        "answer": "Anthony Gormley"
+      },
+
+      {
+        "id": 40,
+        "question": "Qual é o nome do movimento artístico que surgiu na Inglaterra na década de 1950 e é caracterizado por obras de arte que retratam a vida cotidiana?",
+        "options": ["Arte Pop", "Realismo", "Fauvismo", "Impressionismo"],
+        "answer": "Realismo"
+      },
+
+      {
+        "id": 41,
+        "question": "Qual é o nome da famosa dança tradicional da Espanha, que é frequentemente acompanhada pelo som de guitarras e castanholas?",
+        "options": ["Flamenco", "Samba", "Tango", "Ballet"],
+        "answer": "Flamenco"
+      },
+
+      {
+        "id": 42,
+        "question": "Qual é o nome do grande festival de música realizado anualmente em agosto em Budapeste, na Hungria?",
+        "options": [
+          "Oktoberfest",
+          "Carnaval do Rio",
+          "Festival de Glastonbury",
+          "Sziget Festival"
+        ],
+        "answer": "Sziget Festival"
+      },
+
+      {
+        "id": 43,
+        "question": "Qual é o nome do famoso festival religioso anual que é realizado na cidade indiana de Varanasi e atrai milhões de peregrinos?",
+        "options": [
+          "Festival das Luzes",
+          "Festival Holi",
+          "Kumbh Mela",
+          "Diwali"
+        ],
+        "answer": "Kumbh Mela"
+      },
+
+      {
+        "id": 44,
+        "question": "Qual é o nome da famosa cerimônia anual de premiação de filmes, que é realizada em Hollywood, Califórnia?",
+        "options": ["Festival de Cannes", "Oscar", "Globo de Ouro", "BAFTA"],
+        "answer": "Oscar"
+      },
+
+      {
+        "id": 45,
+        "question": "Qual é o nome do famoso festival de cinema internacional realizado anualmente em Veneza, na Itália?",
+        "options": [
+          "Festival de Cinema de Cannes",
+          "Festival de Cinema de Berlim",
+          "Festival de Cinema de Toronto",
+          "Festival de Cinema de Veneza"
+        ],
+        "answer": "Festival de Cinema de Veneza"
+      },
+
+      {
+        "id": 46,
+        "question": "Qual é o nome do famoso museu localizado em Paris, França, que abriga a famosa obra de Leonardo da Vinci, Mona Lisa?",
+        "options": [
+          "Museu do Louvre",
+          "Museu de Arte Moderna de Nova York",
+          "Museu Britânico",
+          "Museu Nacional do Prado"
+        ],
+        "answer": "Museu do Louvre"
+      },
+
+      {
+        "id": 47,
+        "question": "Qual é o nome do famoso festival de música brasileira que ocorre anualmente em Indaiatuba, São Paulo?",
+        "options": [
+          "Rock in Rio",
+          "Lollapalooza Brasil",
+          "Festival de Verão Salvador",
+          "Festival de MPB de Indaiatuba"
+        ],
+        "answer": "Festival de MPB de Indaiatuba"
+      },
+
+      {
+        "id": 48,
+        "question": "Qual é o nome da famosa banda de rock que é conhecida por seus álbuns conceituais e pela ópera rock 'The Wall'?",
+        "options": ["Led Zeppelin", "Pink Floyd", "The Beatles", "Queen"],
+        "answer": "Pink Floyd"
+      },
+
+      {
+        "id": 49,
+        "question": "Qual é o nome da famosa atriz americana que ganhou o Oscar de Melhor Atriz por sua atuação no filme 'La La Land'?",
+        "options": [
+          "Jennifer Lawrence",
+          "Emma Stone",
+          "Natalie Portman",
+          "Cate Blanchett"
+        ],
+        "answer": "Emma Stone"
+      },
+
+      {
+        "id": 50,
+        "question": "Qual é o nome da famosa ópera de Giuseppe Verdi que conta a história de um escravo etíope?",
+        "options": ["La Bohème", "Aida", "Carmen", "Rigoletto"],
+        "answer": "Aida"
+      }
+    ],
+
+    "food_and_gastronomy": [
+      {
+        "id": 1,
+        "question": "O que é a gastronomia?",
+        "options": [
+          "A arte de cozinhar alimentos",
+          "Um tipo de dieta",
+          "Um estilo de vida",
+          "Um tipo de cozinha"
+        ],
+        "answer": "A arte de cozinhar alimentos"
+      },
+
+      {
+        "id": 2,
+        "question": "Qual é o ingrediente principal da culinária japonesa?",
+        "options": ["Arroz", "Peixe", "Carne", "Macarrão"],
+        "answer": "Arroz"
+      },
+
+      {
+        "id": 3,
+        "question": "O que é um chef de cozinha?",
+        "options": [
+          "Um cozinheiro profissional",
+          "Um especialista em bebidas",
+          "Um sommelier",
+          "Um crítico gastronômico"
+        ],
+        "answer": "Um cozinheiro profissional"
+      },
+
+      {
+        "id": 4,
+        "question": "O que é um food truck?",
+        "options": [
+          "Um caminhão que vende comida",
+          "Um veículo que transporta alimentos",
+          "Uma feira de alimentos",
+          "Um evento de degustação de comida"
+        ],
+        "answer": "Um caminhão que vende comida"
+      },
+
+      {
+        "id": 5,
+        "question": "Qual é o prato nacional do Brasil?",
+        "options": ["Feijoada", "Churrasco", "Pizza", "Sushi"],
+        "answer": "Feijoada"
+      },
+
+      {
+        "id": 6,
+        "question": "O que é um menu degustação?",
+        "options": [
+          "Um menu com várias opções de pratos",
+          "Um menu especial para eventos",
+          "Um menu com pratos em miniatura",
+          "Um menu com uma seleção de pratos escolhidos pelo chef"
+        ],
+        "answer": "Um menu com uma seleção de pratos escolhidos pelo chef"
+      },
+
+      {
+        "id": 7,
+        "question": "O que é a cozinha molecular?",
+        "options": [
+          "Um tipo de cozinha que utiliza ingredientes orgânicos",
+          "Um tipo de cozinha que utiliza equipamentos de alta tecnologia",
+          "Um tipo de cozinha que utiliza ingredientes processados",
+          "Um tipo de cozinha que utiliza ingredientes regionais"
+        ],
+        "answer": "Um tipo de cozinha que utiliza equipamentos de alta tecnologia"
+      },
+
+      {
+        "id": 8,
+        "question": "Qual é o prato mais consumido no mundo?",
+        "options": ["Hambúrguer", "Pizza", "Arroz com feijão", "Sushi"],
+        "answer": "Arroz com feijão"
+      },
+
+      {
+        "id": 9,
+        "question": "O que é um sommelier?",
+        "options": [
+          "Um especialista em bebidas",
+          "Um chef de cozinha",
+          "Um crítico gastronômico",
+          "Um cozinheiro profissional"
+        ],
+        "answer": "Um especialista em bebidas"
+      },
+
+      {
+        "id": 10,
+        "question": "O que é um sous chef?",
+        "options": [
+          "Um assistente de cozinha",
+          "Um cozinheiro especializado em sobremesas",
+          "Um especialista em carnes",
+          "Um chef de cozinha"
+        ],
+        "answer": "Um assistente de cozinha"
+      },
+
+      {
+        "id": 11,
+        "question": "O que é um prato vegetariano?",
+        "options": [
+          "Um prato que não contém carne",
+          "Um prato que não contém vegetais",
+          "Um prato que contém carne e vegetais",
+          "Um prato que contém apenas frutas"
+        ],
+        "answer": "Um prato que não contém carne"
+      },
+
+      {
+        "id": 12,
+        "question": "O que é um prato crudívoro?",
+        "options": [
+          "Um prato que não é cozido",
+          "Um prato que contém apenas alimentos crus",
+          "Um prato que não contém açúcar",
+          "Um prato que contém apenas alimentos orgânicos"
+        ],
+        "answer": "Um prato que contém apenas alimentos crus"
+      },
+
+      {
+        "id": 13,
+        "question": "O que é um sous vide?",
+        "options": [
+          "Um método de cozimento em baixa temperatura",
+          "Um método de cozimento em alta temperatura",
+          "Um método de preparo de alimentos com vinho",
+          "Um método de preparo de alimentos com cerveja"
+        ],
+        "answer": "Um método de cozimento em baixa temperatura"
+      },
+
+      {
+        "id": 14,
+        "question": "O que é um molho hollandaise?",
+        "options": [
+          "Um molho à base de ovos e manteiga",
+          "Um molho de tomate",
+          "Um molho de queijo",
+          "Um molho de ervas"
+        ],
+        "answer": "Um molho à base de ovos e manteiga"
+      },
+
+      {
+        "id": 15,
+        "question": "O que é um molho bechamel?",
+        "options": [
+          "Um molho à base de leite e manteiga",
+          "Um molho de tomate",
+          "Um molho de queijo",
+          "Um molho de ervas"
+        ],
+        "answer": "Um molho à base de leite e manteiga"
+      },
+
+      {
+        "id": 16,
+        "question": "O que é um molho pesto?",
+        "options": [
+          "Um molho à base de manjericão, pinhões, alho e queijo",
+          "Um molho de tomate",
+          "Um molho de queijo",
+          "Um molho de ervas"
+        ],
+        "answer": "Um molho à base de manjericão, pinhões, alho e queijo"
+      },
+
+      {
+        "id": 17,
+        "question": "O que é um molho aioli?",
+        "options": [
+          "Um molho à base de alho e azeite",
+          "Um molho de tomate",
+          "Um molho de queijo",
+          "Um molho de ervas"
+        ],
+        "answer": "Um molho à base de alho e azeite"
+      },
+
+      {
+        "id": 18,
+        "question": "Qual é o principal ingrediente do guacamole?",
+        "options": ["Abacate", "Tomate", "Cebola", "Pimentão"],
+        "answer": "Abacate"
+      },
+
+      {
+        "id": 19,
+        "question": "Qual é o ingrediente principal do sushi?",
+        "options": ["Arroz", "Peixe", "Alga nori", "Molho de soja"],
+        "answer": "Arroz"
+      },
+
+      {
+        "id": 20,
+        "question": "O que é um ceviche?",
+        "options": [
+          "Um prato à base de peixe cru marinado em limão ou outro ácido",
+          "Um prato de carne assada na brasa",
+          "Um prato à base de frango com especiarias",
+          "Um prato à base de legumes assados"
+        ],
+        "answer": "Um prato à base de peixe cru marinado em limão ou outro ácido"
+      },
+
+      {
+        "id": 21,
+        "question": "Qual é o ingrediente principal do hummus?",
+        "options": ["Grão de bico", "Carne", "Arroz", "Pimentão"],
+        "answer": "Grão de bico"
+      },
+
+      {
+        "id": 22,
+        "question": "O que é um falafel?",
+        "options": [
+          "Uma bola frita de grão de bico ou fava",
+          "Um tipo de pão árabe",
+          "Um prato à base de carne assada na brasa",
+          "Um prato à base de legumes cozidos"
+        ],
+        "answer": "Uma bola frita de grão de bico ou fava"
+      },
+
+      {
+        "id": 23,
+        "question": "O que é um churrasco?",
+        "options": [
+          "Um método de assar carne em fogo alto",
+          "Um método de cozinhar carne em água fervente",
+          "Um método de cozinhar carne em baixa temperatura",
+          "Um método de cozinhar carne em alta temperatura"
+        ],
+        "answer": "Um método de assar carne em fogo alto"
+      },
+
+      {
+        "id": 24,
+        "question": "O que é um fondue?",
+        "options": [
+          "Um prato de origem suíça à base de queijo derretido",
+          "Um prato à base de peixe cru",
+          "Um prato à base de carne assada na brasa",
+          "Um prato à base de legumes cozidos"
+        ],
+        "answer": "Um prato de origem suíça à base de queijo derretido"
+      },
+
+      {
+        "id": 25,
+        "question": "O que é um crepe?",
+        "options": [
+          "Um tipo de panqueca fina e dobrável",
+          "Um tipo de pão francês",
+          "Um tipo de tortilla mexicana",
+          "Um tipo de massa italiana"
+        ],
+        "answer": "Um tipo de panqueca fina e dobrável"
+      },
+
+      {
+        "id": 26,
+        "question": "O que é um sushi bar?",
+        "options": [
+          "Um restaurante que serve sushi e outros pratos japoneses",
+          "Um bar que serve apenas bebidas",
+          "Um bar que serve apenas sushi",
+          "Um tipo de barra de chocolate"
+        ],
+        "answer": "Um restaurante que serve sushi e outros pratos japoneses"
+      },
+
+      {
+        "id": 27,
+        "question": "O que é um brunch?",
+        "options": [
+          "Uma refeição que combina elementos do café da manhã e do almoço",
+          "Um tipo de sobremesa",
+          "Um tipo de coquetel",
+          "Um prato à base de frutos do mar"
+        ],
+        "answer": "Uma refeição que combina elementos do café da manhã e do almoço"
+      },
+
+      {
+        "id": 28,
+        "question": "O que é um croissant?",
+        "options": [
+          "Um tipo de pão francês em forma de meia-lua",
+          "Um tipo de bolo americano",
+          "Um tipo de tortilla mexicana",
+          "Um tipo de massa italiana"
+        ],
+        "answer": "Um tipo de pão francês em forma de meia-lua"
+      },
+
+      {
+        "id": 29,
+        "question": "O que é um calzone?",
+        "options": [
+          "Um tipo de pizza fechada em forma de meia-lua",
+          "Um tipo de macarrão",
+          "Um tipo de sobremesa",
+          "Um tipo de sanduíche"
+        ],
+        "answer": "Um tipo de pizza fechada em forma de meia-lua"
+      },
+
+      {
+        "id": 30,
+        "question": "O que é uma baguete?",
+        "options": [
+          "Um tipo de pão francês comprido e crocante",
+          "Um tipo de tortilha mexicana",
+          "Um tipo de sobremesa italiana",
+          "Um tipo de sushi"
+        ],
+        "answer": "Um tipo de pão francês comprido e crocante"
+      },
+
+      {
+        "id": 31,
+        "question": "O que é um fondue?",
+        "options": [
+          "Um prato suíço à base de queijo derretido e pão",
+          "Um prato francês à base de massa",
+          "Um prato japonês à base de arroz e legumes",
+          "Um prato mexicano à base de carne e tortilhas"
+        ],
+        "answer": "Um prato suíço à base de queijo derretido e pão"
+      },
+
+      {
+        "id": 32,
+        "question": "O que é uma paella?",
+        "options": [
+          "Um prato espanhol à base de arroz, frutos do mar e legumes",
+          "Um prato mexicano à base de milho",
+          "Um prato francês à base de carne",
+          "Um prato chinês à base de arroz e legumes"
+        ],
+        "answer": "Um prato espanhol à base de arroz, frutos do mar e legumes"
+      },
+
+      {
+        "id": 33,
+        "question": "O que é um ceviche?",
+        "options": [
+          "Um prato peruano à base de peixe cru marinado em suco de limão",
+          "Um tipo de tortilha mexicana",
+          "Um prato francês à base de massa",
+          "Um prato chinês à base de arroz e legumes"
+        ],
+        "answer": "Um prato peruano à base de peixe cru marinado em suco de limão"
+      },
+
+      {
+        "id": 34,
+        "question": "O que é um guacamole?",
+        "options": [
+          "Um prato mexicano à base de abacate, tomate, cebola e coentro",
+          "Um prato italiano à base de massa",
+          "Um tipo de sobremesa",
+          "Um prato chinês à base de arroz e legumes"
+        ],
+        "answer": "Um prato mexicano à base de abacate, tomate, cebola e coentro"
+      },
+
+      {
+        "id": 35,
+        "question": "O que é uma picanha?",
+        "options": [
+          "Um corte de carne bovina muito popular no Brasil",
+          "Um tipo de peixe",
+          "Um tipo de massa italiana",
+          "Um tipo de pão"
+        ],
+        "answer": "Um corte de carne bovina muito popular no Brasil"
+      },
+
+      {
+        "id": 36,
+        "question": "O que é um molho pesto?",
+        "options": [
+          "Um molho italiano à base de manjericão, pinhões, azeite, queijo e alho",
+          "Um molho francês à base de vinho tinto",
+          "Um molho chinês à base de soja e gengibre",
+          "Um molho mexicano à base de tomate e pimenta"
+        ],
+        "answer": "Um molho italiano à base de manjericão, pinhões, azeite, queijo e alho"
+      },
+
+      {
+        "id": 37,
+        "question": "O que é um tiramisu?",
+        "options": [
+          "Uma sobremesa italiana à base de biscoitos champanhe, café, queijo mascarpone e cacau",
+          "Um prato francês à base de carne",
+          "Um prato mexicano à base de milho",
+          "Um prato chinês à base de arroz e legumes"
+        ],
+        "answer": "Uma sobremesa italiana à base de biscoitos champanhe, café, queijo mascarpone e cacau"
+      },
+
+      {
+        "id": 38,
+        "question": "O que é um risoto?",
+        "options": [
+          "Um prato italiano à base de arroz e caldo de carne ou legumes",
+          "Um prato francês à base de massa",
+          "Um prato mexicano à base de milho",
+          "Um prato chinês à base de arroz e legumes"
+        ],
+        "answer": "Um prato italiano à base de arroz e caldo de carne ou legumes"
+      },
+
+      {
+        "id": 39,
+        "question": "O que é um ceviche?",
+        "options": [
+          "Um prato peruano à base de peixe cru marinado em limão e temperos",
+          "Um tipo de massa italiana",
+          "Um prato francês à base de carne",
+          "Um tipo de sopa mexicana"
+        ],
+        "answer": "Um prato peruano à base de peixe cru marinado em limão e temperos"
+      },
+
+      {
+        "id": 40,
+        "question": "O que é um guacamole?",
+        "options": [
+          "Um prato mexicano à base de abacate, tomate, cebola e limão",
+          "Um prato italiano à base de massa",
+          "Um prato francês à base de carne",
+          "Um prato chinês à base de arroz e legumes"
+        ],
+        "answer": "Um prato mexicano à base de abacate, tomate, cebola e limão"
+      },
+
+      {
+        "id": 41,
+        "question": "O que é um pato à Pequim?",
+        "options": [
+          "Um prato chinês à base de pato assado e panquecas finas",
+          "Um prato italiano à base de massa",
+          "Um prato francês à base de carne",
+          "Um prato mexicano à base de milho"
+        ],
+        "answer": "Um prato chinês à base de pato assado e panquecas finas"
+      },
+
+      {
+        "id": 42,
+        "question": "O que é uma feijoada?",
+        "options": [
+          "Um prato brasileiro à base de feijão preto, carne seca e linguiça",
+          "Um prato francês à base de massa",
+          "Um prato mexicano à base de milho",
+          "Um prato chinês à base de arroz e legumes"
+        ],
+        "answer": "Um prato brasileiro à base de feijão preto, carne seca e linguiça"
+      },
+
+      {
+        "id": 43,
+        "question": "O que é um churrasco?",
+        "options": [
+          "Um método de cozimento de carne em fogo aberto muito popular no Brasil",
+          "Um prato francês à base de massa",
+          "Um prato mexicano à base de milho",
+          "Um prato chinês à base de arroz e legumes"
+        ],
+        "answer": "Um método de cozimento de carne em fogo aberto muito popular no Brasil"
+      },
+
+      {
+        "id": 44,
+        "question": "O que é uma lasanha?",
+        "options": [
+          "Um prato italiano à base de massa em camadas com molho de tomate, carne e queijo",
+          "Um prato francês à base de peixe",
+          "Um prato mexicano à base de milho",
+          "Um prato chinês à base de arroz e legumes"
+        ],
+        "answer": "Um prato italiano à base de massa em camadas com molho de tomate, carne e queijo"
+      },
+
+      {
+        "id": 45,
+
+        "question": "O que é uma mousse?",
+        "options": [
+          "Uma sobremesa aerada à base de creme de leite e claras em neve",
+          "Um prato francês à base de carne",
+          "Um prato mexicano à base de milho",
+          "Um prato chinês à base de arroz e legumes"
+        ],
+        "answer": "Uma sobremesa aerada à base de creme de leite e claras em neve"
+      },
+
+      {
+        "id": 46,
+        "question": "O que é uma pizza?",
+        "options": [
+          "Um prato italiano à base de massa coberta com molho de tomate e queijo",
+          "Um prato francês à base de peixe",
+          "Um prato mexicano à base de milho",
+          "Um prato chinês à base de arroz e legumes"
+        ],
+        "answer": "Um prato italiano à base de massa coberta com molho de tomate e queijo"
+      },
+
+      {
+        "id": 47,
+        "question": "O que é um kimchi?",
+        "options": [
+          "Um prato coreano à base de repolho fermentado e temperado",
+          "Um prato francês à base de massa",
+          "Um prato mexicano à base de milho",
+          "Um prato chinês à base de arroz e legumes"
+        ],
+        "answer": "Um prato coreano à base de repolho fermentado e temperado"
+      },
+
+      {
+        "id": 48,
+        "question": "O que é um falafel?",
+        "options": [
+          "Um bolinho frito à base de grão de bico temperado, com origem no Oriente Médio",
+          "Um prato francês à base de carne",
+          "Um prato mexicano à base de milho",
+          "Um prato chinês à base de arroz e legumes"
+        ],
+        "answer": "Um bolinho frito à base de grão de bico temperado, com origem no Oriente Médio"
+      },
+
+      {
+        "id": 49,
+        "question": "O que é uma yakisoba?",
+        "options": [
+          "Um prato japonês à base de macarrão, legumes e carne",
+          "Um prato francês à base de peixe",
+          "Um prato mexicano à base de milho",
+          "Um prato chinês à base de arroz e legumes"
+        ],
+        "answer": "Um prato japonês à base de macarrão, legumes e carne"
+      },
+
+      {
+        "id": 50,
+        "question": "O que é uma caldeirada?",
+        "options": [
+          "Um prato português à base de peixe cozido com batatas, tomate e pimentão",
+          "Um prato francês à base de massa",
+          "Um prato mexicano à base de milho",
+          "Um prato chinês à base de arroz e legumes"
+        ],
+        "answer": "Um prato português à base de peixe cozido com batatas, tomate e pimentão"
+      }
+    ],
+
+    "Literature_and_famous_authors": [
+      {
+        "id": 1,
+        "question": "Quem escreveu o livro 'Dom Quixote'?",
+        "options": [
+          "Miguel de Cervantes",
+          "William Shakespeare",
+          "Jorge Luis Borges",
+          "Gabriel García Márquez"
+        ],
+        "answer": "Miguel de Cervantes"
+      },
+
+      {
+        "id": 2,
+        "question": "Qual é a obra mais famosa de William Shakespeare?",
+        "options": ["Romeu e Julieta", "Hamlet", "Macbeth", "Otelo"],
+        "answer": "Hamlet"
+      },
+
+      {
+        "id": 3,
+        "question": "Quem escreveu o livro 'Cem Anos de Solidão'?",
+        "options": [
+          "Gabriel García Márquez",
+          "Isabel Allende",
+          "Pablo Neruda",
+          "Mario Vargas Llosa"
+        ],
+        "answer": "Gabriel García Márquez"
+      },
+
+      {
+        "id": 4,
+        "question": "Qual é o pseudônimo de Eric Arthur Blair, autor de '1984'?",
+        "options": [
+          "George Orwell",
+          "Ernest Hemingway",
+          "J.D. Salinger",
+          "F. Scott Fitzgerald"
+        ],
+        "answer": "George Orwell"
+      },
+
+      {
+        "id": 5,
+        "question": "Qual é a obra mais famosa de Franz Kafka?",
+        "options": ["A Metamorfose", "O Processo", "O Castelo", "Carta ao Pai"],
+        "answer": "A Metamorfose"
+      },
+
+      {
+        "id": 6,
+        "question": "Quem escreveu o livro 'Guerra e Paz'?",
+        "options": [
+          "Fiódor Dostoiévski",
+          "Lev Tolstói",
+          "Ivan Turguêniev",
+          "Anton Tchekhov"
+        ],
+        "answer": "Lev Tolstói"
+      },
+
+      {
+        "id": 7,
+        "question": "Qual é a obra mais famosa de Jane Austen?",
+        "options": [
+          "Orgulho e Preconceito",
+          "Emma",
+          "Mansfield Park",
+          "Persuasão"
+        ],
+        "answer": "Orgulho e Preconceito"
+      },
+
+      {
+        "id": 8,
+        "question": "Quem escreveu o livro 'A Divina Comédia'?",
+        "options": [
+          "Dante Alighieri",
+          "Petrarca",
+          "Giovanni Boccaccio",
+          "Francesco Petrarca"
+        ],
+        "answer": "Dante Alighieri"
+      },
+
+      {
+        "id": 9,
+        "question": "Qual é a obra mais famosa de Virginia Woolf?",
+        "options": [
+          "Mrs. Dalloway",
+          "Orlando",
+          "As Ondas",
+          "Um Quarto Só Dela"
+        ],
+        "answer": "Mrs. Dalloway"
+      },
+
+      {
+        "id": 10,
+        "question": "Quem escreveu o livro 'O Processo'?",
+        "options": [
+          "Franz Kafka",
+          "Thomas Mann",
+          "Hermann Hesse",
+          "Robert Musil"
+        ],
+        "answer": "Franz Kafka"
+      },
+
+      {
+        "id": 11,
+        "question": "Quem escreveu o livro 'O Apanhador no Campo de Centeio'?",
+        "options": [
+          "J.D. Salinger",
+          "Ernest Hemingway",
+          "F. Scott Fitzgerald",
+          "John Steinbeck"
+        ],
+        "answer": "J.D. Salinger"
+      },
+
+      {
+        "id": 12,
+        "question": "Qual é a obra mais famosa de Gabriel García Márquez?",
+        "options": [
+          "Cem Anos de Solidão",
+          "O Amor nos Tempos do Cólera",
+          "Crônica de uma Morte Anunciada",
+          "Ninguém Escreve ao Coronel"
+        ],
+        "answer": "Cem Anos de Solidão"
+      },
+
+      {
+        "id": 13,
+        "question": "Quem escreveu o livro '1984'?",
+        "options": [
+          "George Orwell",
+          "Aldous Huxley",
+          "Ray Bradbury",
+          "Arthur C. Clarke"
+        ],
+        "answer": "George Orwell"
+      },
+
+      {
+        "id": 14,
+        "question": "Qual é a obra mais famosa de Ernest Hemingway?",
+        "options": [
+          "O Velho e o Mar",
+          "Por Quem os Sinos Dobram",
+          "O Sol Também se Levanta",
+          "Paris é uma Festa"
+        ],
+        "answer": "O Velho e o Mar"
+      },
+
+      {
+        "id": 15,
+        "question": "Quem escreveu o livro 'A Revolução dos Bichos'?",
+        "options": [
+          "George Orwell",
+          "Aldous Huxley",
+          "Ray Bradbury",
+          "Arthur C. Clarke"
+        ],
+        "answer": "George Orwell"
+      },
+
+      {
+        "id": 16,
+        "question": "Qual é a obra mais famosa de Franz Schubert?",
+        "options": [
+          "A Bela Adormecida",
+          "O Quebra-Nozes",
+          "O Lago dos Cisnes",
+          "Nenhuma das opçõe"
+        ],
+        "answer": "Nenhuma das opçõe"
+      },
+
+      {
+        "id": 17,
+        "question": "Quem escreveu o livro 'A Letra Escarlate'?",
+        "options": [
+          "Nathaniel Hawthorne",
+          "Edgar Allan Poe",
+          "Washington Irving",
+          "Henry David Thoreau"
+        ],
+        "answer": "Nathaniel Hawthorne"
+      },
+
+      {
+        "id": 18,
+        "question": "Qual é a obra mais famosa de Harper Lee?",
+        "options": [
+          "O Sol é para Todos",
+          "Vá, Coloque um Vigia",
+          "Matar um Rouxinol",
+          "Nenhum desses"
+        ],
+        "answer": "O Sol é para Todos"
+      },
+
+      {
+        "id": 19,
+        "question": "Quem escreveu o livro 'O Morro dos Ventos Uivantes'?",
+        "options": [
+          "Emily Brontë",
+          "Charlotte Brontë",
+          "Anne Brontë",
+          "Jane Austen"
+        ],
+        "answer": "Emily Brontë"
+      },
+
+      {
+        "id": 20,
+        "question": "Qual é a obra mais famosa de Herman Melville?",
+        "options": ["Moby Dick", "Billy Budd", "Bartleby, o Escrivão", "Typee"],
+        "answer": "Moby Dick"
+      },
+
+      {
+        "id": 21,
+        "question": "Quem escreveu o livro 'O Retrato de Dorian Gray'?",
+        "options": [
+          "Oscar Wilde",
+          "Edgar Allan Poe",
+          "Robert Louis Stevenson",
+          "Bram Stoker"
+        ],
+        "answer": "Oscar Wilde"
+      },
+
+      {
+        "id": 22,
+        "question": "Qual é a obra mais famosa de Virginia Woolf?",
+        "options": ["Mrs. Dalloway", "Orlando", "As Ondas", "Para o Farol"],
+        "answer": "Mrs. Dalloway"
+      },
+
+      {
+        "id": 23,
+        "question": "Qual é a obra mais famosa de Agatha Christie?",
+        "options": [
+          "Assassinato no Expresso do Oriente",
+          "O Caso dos Dez Negrinhos",
+          "O Assassinato de Roger Ackroyd",
+          "Morte no Nilo"
+        ],
+        "answer": "O Caso dos Dez Negrinhos"
+      },
+
+      {
+        "id": 24,
+        "question": "Qual é a obra mais famosa de William Faulkner?",
+        "options": [
+          "O Som e a Fúria",
+          "Luz em Agosto",
+          "Enquanto Agonizo",
+          "Absalão, Absalão!"
+        ],
+        "answer": "O Som e a Fúria"
+      },
+
+      {
+        "id": 25,
+        "question": "Quem escreveu o livro 'A Montanha Mágica'?",
+        "options": [
+          "Thomas Mann",
+          "Franz Kafka",
+          "Hermann Hesse",
+          "Robert Musil"
+        ],
+        "answer": "Thomas Mann"
+      },
+
+      {
+        "id": 26,
+        "question": "Qual é a obra mais famosa de Toni Morrison?",
+        "options": ["Amada", "O Olho Mais Azul", "Jazz", "Paraíso"],
+        "answer": "Amada"
+      },
+
+      {
+        "id": 27,
+        "question": "Quem escreveu o livro 'O Apanhador no Campo de Centeio'?",
+        "options": [
+          "J.D. Salinger",
+          "Ernest Hemingway",
+          "F. Scott Fitzgerald",
+          "John Steinbeck"
+        ],
+        "answer": "J.D. Salinger"
+      },
+
+      {
+        "id": 28,
+        "question": "Qual é a obra mais famosa de Machado de Assis?",
+        "options": [
+          "Dom Casmurro",
+          "Memórias Póstumas de Brás Cubas",
+          "Quincas Borba",
+          "O Alienista"
+        ],
+        "answer": "Dom Casmurro"
+      },
+
+      {
+        "id": 29,
+        "question": "Quem escreveu o livro 'A Metamorfose'?",
+        "options": [
+          "Franz Kafka",
+          "Albert Camus",
+          "Samuel Beckett",
+          "Jean-Paul Sartre"
+        ],
+        "answer": "Franz Kafka"
+      },
+
+      {
+        "id": 30,
+        "question": "Qual é a obra mais famosa de Fernando Pessoa?",
+        "options": [
+          "Mensagem",
+          "O Livro do Desassossego",
+          "Os Lusíadas",
+          "O Guardador de Rebanhos"
+        ],
+        "answer": "Mensagem"
+      },
+
+      {
+        "id": 31,
+        "question": "Quem escreveu o livro 'Os Miseráveis'?",
+        "options": [
+          "Victor Hugo",
+          "Gustave Flaubert",
+          "Émile Zola",
+          "Stendhal"
+        ],
+        "answer": "Victor Hugo"
+      },
+
+      {
+        "id": 32,
+        "question": "Qual é a obra mais famosa de Jorge Luis Borges?",
+        "options": [
+          "Ficções",
+          "O Aleph",
+          "O Jardim dos Caminhos que se Bifurcam",
+          "O Livro de Areia"
+        ],
+        "answer": "Ficções"
+      },
+
+      {
+        "id": 33,
+        "question": "Quem escreveu o livro 'Guerra e Paz'?",
+        "options": [
+          "Liev Tolstói",
+          "Fiódor Dostoiévski",
+          "Nikolai Gógol",
+          "Anton Tchekhov"
+        ],
+        "answer": "Liev Tolstói"
+      },
+
+      {
+        "id": 34,
+        "question": "Qual é a obra mais famosa de Emily Brontë?",
+        "options": [
+          "O Morro dos Ventos Uivantes",
+          "Jane Eyre",
+          "Agnes Grey",
+          "Villette"
+        ],
+        "answer": "O Morro dos Ventos Uivantes"
+      },
+
+      {
+        "id": 35,
+        "question": "Quem escreveu o livro 'Os Irmãos Karamazov'?",
+        "options": [
+          "Fiódor Dostoiévski",
+          "Liev Tolstói",
+          "Anton Tchekhov",
+          "Nikolai Gógol"
+        ],
+        "answer": "Fiódor Dostoiévski"
+      },
+
+      {
+        "id": 36,
+        "question": "Quem escreveu o livro 'O Grande Gatsby'?",
+        "options": [
+          "F. Scott Fitzgerald",
+          "Ernest Hemingway",
+          "William Faulkner",
+          "John Steinbeck"
+        ],
+        "answer": "F. Scott Fitzgerald"
+      },
+
+      {
+        "id": 37,
+        "question": "Qual é a obra mais famosa de Jules Verne?",
+        "options": [
+          "Vinte Mil Léguas Submarinas",
+          "A Volta ao Mundo em 80 Dias",
+          "Viagem ao Centro da Terra",
+          "Da Terra à Lua"
+        ],
+        "answer": "Vinte Mil Léguas Submarinas"
+      },
+
+      {
+        "id": 38,
+
+        "question": "Quem é o autor de 'As Crônicas de Nárnia'?",
+        "options": [
+          "C.S. Lewis",
+          "J.R.R. Tolkien",
+          "J.K. Rowling",
+          "George R.R. Martin"
+        ],
+        "answer": "C.S. Lewis"
+      },
+
+      {
+        "id": 39,
+        "question": "Qual é a obra mais famosa de Charles Dickens?",
+        "options": [
+          "Oliver Twist",
+          "David Copperfield",
+          "Grandes Esperanças",
+          "Um Conto de Natal"
+        ],
+        "answer": "Um Conto de Natal"
+      },
+
+      {
+        "id": 40,
+        "question": "Quem escreveu o livro 'O Vermelho e o Negro'?",
+        "options": [
+          "Stendhal",
+          "Gustave Flaubert",
+          "Victor Hugo",
+          "Émile Zola"
+        ],
+        "answer": "Stendhal"
+      },
+
+      {
+        "id": 41,
+        "question": "Qual é a obra mais famosa de Truman Capote?",
+        "options": [
+          "A Sangue Frio",
+          "Bonequinha de Luxo",
+          "Música para Camaleões",
+          "O Verão de 42"
+        ],
+        "answer": "A Sangue Frio"
+      },
+
+      {
+        "id": 42,
+        "question": "Qual é a obra mais famosa de Albert Camus?",
+        "options": ["O Estrangeiro", "A Peste", "O Mito de Sísifo", "A Queda"],
+        "answer": "O Estrangeiro"
+      },
+
+      {
+        "id": 43,
+        "question": "Qual foi o livro mais vendido do ano de 2018?",
+        "options": [
+          "A Sutil Arte de Ligar o Fda-se - Mark Manson",
+          "Origem - Dan Brown",
+          "Como Fazer Amigos e Influenciar Pessoas - Dale Carnegie",
+          "O Poder da Ação - Paulo Vieira"
+        ],
+        "answer": "A Sutil Arte de Ligar o Fda-se - Mark Manson"
+      },
+
+      {
+        "id": 44,
+
+        "question": "Qual autor brasileiro ganhou o Prêmio Camões em 2018?",
+        "options": [
+          "Ferreira Gullar",
+          "Chico Buarque",
+          "Lygia Fagundes Telles",
+          "Raduan Nassar"
+        ],
+        "answer": "Chico Buarque"
+      },
+
+      {
+        "id": 45,
+        "question": "Qual escritora brasileira lançou o livro 'O Livro dos Ressignificados' em 2018?",
+        "options": [
+          "Conceição Evaristo",
+          "Carolina Maria de Jesus",
+          "Ana Maria Machado",
+          "Lya Luft"
+        ],
+        "answer": "Conceição Evaristo"
+      },
+
+      {
+        "id": 46,
+        "question": "Qual escritor britânico lançou o livro 'Máquinas Como Eu' em 2018?",
+        "options": [
+          "Ian McEwan",
+          "J.K. Rowling",
+          "Neil Gaiman",
+          "Salman Rushdie"
+        ],
+        "answer": "Ian McEwan"
+      },
+
+      {
+        "id": 47,
+        "question": "Qual livro de ficção mais vendido em 2018?",
+        "options": [
+          "A Origem - Dan Brown",
+          "O Homem Mais Inteligente da História - Augusto Cury",
+          "As Aventuras na Netoland com Luccas Neto - Luccas Neto",
+          "A Coragem de Ser Imperfeito - Brené Brown"
+        ],
+        "answer": "A Origem - Dan Brown"
+      },
+
+      {
+        "id": 48,
+        "question": "Qual livro de não-ficção mais vendido em 2018?",
+        "options": [
+          "Sapiens - Yuval Noah Harari",
+          "Minha História - Michelle Obama",
+          "21 Lições Para o Século 21 - Yuval Noah Harari",
+          "Deus - Uma Breve História da Humanidade - Yuval Noah Harari"
+        ],
+        "answer": "Sapiens - Yuval Noah Harari"
+      },
+
+      {
+        "id": 49,
+        "question": "Qual livro do autor Stephen King foi adaptado para o cinema em 2018?",
+        "options": [
+          "It: A Coisa",
+          "O Iluminado",
+          "Carrie, A Estranha",
+          "Cemitério Maldito"
+        ],
+        "answer": "Cemitério Maldito"
+      },
+
+      {
+        "id": 50,
+        "question": "Qual foi o livro infantil mais vendido em 2018?",
+        "options": [
+          "A Pequena Sereia - Hans Christian Andersen",
+          "O Pequeno Príncipe - Antoine de Saint-Exupéry",
+          "A Casa dos Espíritos - Isabel Allende",
+          "Diário de um Banana - Jeff Kinney"
+        ],
+        "answer": "Diário de um Banana - Jeff Kinney"
+      }
+    ],
+    "Image_quiz": [
+      {
+        "id": 1,
+        "question": "https://i.imgur.com/DBbtjie.jpeg",
+        "options": ["Gato", "Cachorro", "Leão", "Tigre"],
+        "answer": "Cachorro"
+      },
+
+      {
+        "id": 2,
+        "question": "https://i.imgur.com/ojIftag.jpeg",
+        "options": ["Girafa", "Zebra", "Cavalo", "Rinoceronte"],
+        "answer": "Girafa"
+      },
+
+      {
+        "id": 3,
+        "question": "https://i.imgur.com/LqI4KHE.jpeg",
+        "options": ["Elefante", "Camelo", "Passaro", "Rinoceronte"],
+        "answer": "Passaro"
+      },
+
+      {
+        "id": 4,
+        "question": "https://i.imgur.com/lieB2Nu.png",
+        "options": ["Mapa", "Brasil", "China", "Home"],
+        "answer": "Mapa"
+      },
+
+      {
+        "id": 5,
+        "question": "https://i.imgur.com/dOIbBGL.jpeg",
+        "options": ["5 Gatos", "15 Gatos", "1 Gato", "2 Gatos"],
+        "answer": "2 Gatos"
+      },
+
+      {
+        "id": 6,
+        "question": "https://i.imgur.com/HPshbOd.jpeg",
+        "options": [
+          "Passaro no ar",
+          "Passaro no fogo",
+          "Passaro na água",
+          "Passaro na lama"
+        ],
+        "answer": "Passaro na água"
+      },
+
+      {
+        "id": 7,
+
+        "question": "https://i.imgur.com/MrQUYjl.jpeg",
+        "options": ["Girafa", "Cavalo", "Cavalo", "Rinoceronte"],
+        "answer": "Cavalo"
+      },
+
+      {
+        "id": 8,
+        "question": "https://i.imgur.com/5H8Pg2u.jpeg",
+        "options": ["Andando", "Voando", "Nadando", "Surfando"],
+        "answer": "Voando"
+      },
+
+      {
+        "id": 9,
+        "question": "https://i.imgur.com/CnlnRgK.jpeg",
+        "options": ["Veado", "Tigre", "Caderno", "Rinoceronte"],
+        "answer": "Veado"
+      },
+
+      {
+        "id": 10,
+        "question": "https://i.imgur.com/SMsTvEk.jpeg",
+        "options": ["Borboleta", "Abelha", "Leão", "Mosquito"],
+        "answer": "Leão"
+      },
+
+      {
+        "id": 11,
+        "question": "https://i.imgur.com/yob62ve.jpeg",
+        "options": ["Pinguim", "Macaco", "Pelicano", "Albatroz"],
+        "answer": "Macaco"
+      },
+
+      {
+        "id": 12,
+        "question": "https://i.imgur.com/heU7vbV.jpeg",
+        "options": [
+          "Instrumentos musicais",
+          "Instrumentos medicinais",
+          "Instrumentos de construção",
+          "Instrumentos de culinária"
+        ],
+        "answer": "Instrumentos musicais"
+      },
+
+      {
+        "id": 13,
+        "question": "https://i.imgur.com/yzCEwR6.png",
+        "options": ["Girafa", "Pessoa", "Cavalo", "Leão"],
+        "answer": "Pessoa"
+      },
+
+      {
+        "id": 14,
+        "question": "https://i.imgur.com/QylKEoK.jpeg",
+        "options": ["Cegonha", "Burro", "Macaco", "Rinoceronte"],
+        "answer": "Cegonha"
+      },
+
+      {
+        "id": 15,
+        "question": "https://i.imgur.com/NpRZmR3.jpeg",
+        "options": ["Gato", "Carros", "Avião", "Cão"],
+        "answer": "Gato"
+      },
+
+      {
+        "id": 16,
+        "question": "https://i.imgur.com/MMxtZAU.png",
+        "options": ["Asiaticos", "Africanos", "Americanos", "Europeus"],
+        "answer": "Asiaticos"
+      },
+
+      {
+        "id": 17,
+        "question": "https://cdn.pixabay.com/photo/2023/01/31/05/59/zebra-7757193_960_720.jpg",
+        "options": ["Girafa", "Elefante", "Zebra", "Pato"],
+        "answer": "Zebra"
+      },
+
+      {
+        "id": 18,
+        "question": "https://images.unsplash.com/photo-1677761215878-1030a5840dd3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+        "options": ["Salão", "Estrada", "Aeroporto", "Carro"],
+        "answer": "Estrada"
+      },
+
+      {
+        "id": 19,
+        "question": "https://images.unsplash.com/photo-1612225330812-01a9c6b355ec?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+        "options": ["Violino", "Guitarra", "Piano", "Flauta"],
+        "answer": "Violino"
+      },
+
+      {
+        "id": 20,
+        "question": "https://images.unsplash.com/photo-1524567248408-cbfd37e65e2d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+        "options": ["Guitarra", "Piano", "Violino", "Flauta"],
+        "answer": "Guitarra"
+      },
+
+      {
+        "id": 21,
+        "question": "https://images.unsplash.com/photo-1539888554388-a6c923ee102e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+        "options": ["Baixo yamaha", "Piano", "Carro", "Vioão"],
+        "answer": "Baixo yamaha"
+      },
+
+      {
+        "id": 22,
+        "question": "https://images.unsplash.com/photo-1538402074774-8e624f3f7e5d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=735&q=80",
+        "options": ["Saxofone", "Teclado", "Guitarra", "Música"],
+        "answer": "Teclado"
+      },
+
+      {
+        "id": 23,
+        "question": "https://images.unsplash.com/photo-1548690596-f1722c190938?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1474&q=80",
+        "options": ["Ábaco", "Calculadora científica", "Hp", "Gp"],
+        "answer": "Ábaco"
+      },
+
+      {
+        "id": 24,
+        "question": "https://images.unsplash.com/photo-1613905780946-26b73b6f6e11?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1472&q=80",
+        "options": ["5", "9", "4", "1"],
+        "answer": "4"
+      },
+
+      {
+        "id": 25,
+        "question": "https://images.unsplash.com/photo-1636466497217-26a8cbeaf0aa?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80",
+        "options": [
+          "Teoria de Einstein",
+          "Teoria de Newton",
+          "Teoria de Curie",
+          "Teoria de Hawking"
+        ],
+        "answer": "Teoria de Einstein"
+      },
+
+      {
+        "id": 26,
+        "question": "https://images.unsplash.com/photo-1509228627152-72ae9ae6848d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+        "options": ["27", "17", "15", "22"],
+        "answer": "17"
+      },
+
+      {
+        "id": 27,
+        "question": "https://images.unsplash.com/photo-1503789101408-444b37749472?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80",
+        "options": ["Compasso", "Regua", "Esferografica", "Lápis"],
+        "answer": "Compasso"
+      },
+
+      {
+        "id": 28,
+        "question": "https://images.unsplash.com/photo-1632571401005-458e9d244591?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1471&q=80",
+        "options": ["Ábaco", "Calculadora científica", "Hp", "Lápis"],
+        "answer": "Calculadora científica"
+      },
+
+      {
+        "id": 29,
+        "question": "https://images.unsplash.com/photo-1542621323-be453184db76?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+        "options": ["Regua", "Esferografica", "Caderno", "Livro"],
+        "answer": "Regua"
+      },
+
+      {
+        "id": 30,
+        "question": "https://images.unsplash.com/photo-1497633762265-9d179a990aa6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1473&q=80",
+        "options": ["Regua", "Esferografica", "Caderno", "Livro"],
+        "answer": "Livro"
+      },
+
+      {
+        "id": 31,
+        "question": "https://images.unsplash.com/photo-1520050206274-a1ae44613e6d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+        "options": ["Mustang", "McLaren", "Corvete", "Audi"],
+        "answer": "Audi"
+      },
+
+      {
+        "id": 32,
+        "question": "https://images.unsplash.com/photo-1547038577-da80abbc4f19?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1055&q=80",
+        "options": ["Mustang", "McLaren", "Corvete", "Ferrari"],
+        "answer": "Mustang"
+      },
+
+      {
+        "id": 33,
+        "question": "https://images.unsplash.com/photo-1555626906-fcf10d6851b4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+        "options": ["GTR", "McLaren", "Corvete", "Ferrari"],
+        "answer": "McLaren"
+      },
+
+      {
+        "id": 34,
+        "question": "https://images.unsplash.com/photo-1471174617910-3e9c04f58ff5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+        "options": ["Mercedes", "BMW", "Tesla", "GTR"],
+        "answer": "Mercedes"
+      },
+
+      {
+        "id": 35,
+        "question": "https://images.unsplash.com/photo-1622621746668-59fb299bc4d7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=933&q=80",
+        "options": ["Morango", "Limão", "Uva", "Abacaxi"],
+        "answer": "Morango"
+      },
+
+      {
+        "id": 36,
+        "question": "https://images.unsplash.com/photo-1514316454349-750a7fd3da3a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+        "options": ["GTX", "BMW", "Tesla", "Benz"],
+        "answer": "Benz"
+      },
+
+      {
+        "id": 37,
+        "question": "https://images.unsplash.com/photo-1580273916550-e323be2ae537?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1364&q=80",
+        "options": ["BMW", "BMX", "Tesla", "Panamera"],
+        "answer": "BMW"
+      },
+
+      {
+        "id": 38,
+        "question": "https://images.unsplash.com/photo-1605466237773-ed648bb87197?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1332&q=80",
+        "options": ["Morango", "Limão", "Uva", "Abacaxi"],
+        "answer": "Limão"
+      },
+
+      {
+        "id": 39,
+        "question": "https://images.unsplash.com/photo-1596726648434-e6d14dd3f21d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1331&q=80",
+        "options": ["Cakes", "Pudim", "Morango", "Chocolate"],
+        "answer": "Cakes"
+      },
+
+      {
+        "id": 40,
+        "question": "https://images.unsplash.com/photo-1508996369280-b9165f545b08?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+        "options": ["Milho", "Maçã", "Morango", "Abacaxi"],
+        "answer": "Milho"
+      },
+
+      {
+        "id": 41,
+        "question": "https://images.unsplash.com/photo-1506813713591-56fc5e539b80?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1467&q=80",
+        "options": ["Laranja", "Maçã", "Morango", "Abacaxi"],
+        "answer": "Maçã"
+      },
+
+      {
+        "id": 42,
+        "question": "https://images.unsplash.com/photo-1589606663923-283bbd309229?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+        "options": ["Morango", "Laranja", "Uva", "Abacaxi"],
+        "answer": "Abacaxi"
+      },
+
+      {
+        "id": 43,
+        "question": "https://images.unsplash.com/photo-1601004890684-d8cbf643f5f2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=715&q=80",
+        "options": ["Morango", "Laranja", "Uva", "Chocolate"],
+        "answer": "Morango"
+      },
+
+      {
+        "id": 44,
+        "question": "https://images.unsplash.com/photo-1598357850625-6264d49ace9f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+        "options": ["Ovo", "Banana", "Manga", "Laranja"],
+        "answer": "Laranja"
+      },
+
+      {
+        "id": 45,
+        "question": "https://images.unsplash.com/photo-1581952976147-5a2d15560349?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1471&q=80",
+        "options": ["Alcateia", "Cardume", "Multido", "Rebanho"],
+        "answer": "Multido"
+      },
+
+      {
+        "id": 46,
+        "question": "https://images.unsplash.com/photo-1579273166674-bea9b40ba0f7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=730&q=80",
+        "options": ["Gaivota", "Aguia", "Rola", "Pica-pau"],
+        "answer": "Aguia"
+      },
+
+      {
+        "id": 47,
+        "question": "https://images.unsplash.com/photo-1616119693151-347fa7b46411?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+        "options": ["Girafa", "Cavalo", "Macaco", "Rinoceronte"],
+        "answer": "Macaco"
+      },
+
+      {
+        "id": 48,
+        "question": "https://images.unsplash.com/photo-1578316194305-1faa802f936c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+        "options": ["Probin", "Tesla", "Correos", "Dell"],
+        "answer": "Correos"
+      },
+
+      {
+        "id": 49,
+        "question": "https://images.unsplash.com/photo-1662153480513-cfb0815bce2c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=720&q=80",
+        "options": ["2015", "2022", "2023", "2010"],
+        "answer": "2022"
+      },
+
+      {
+        "id": 50,
+        "question": "https://plus.unsplash.com/premium_photo-1677187301535-b46cec7b2cc8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1223&q=80",
+        "options": [
+          "Violeta, Azul, Amarelo, vermelho",
+          "Preto, Azul, Violeta, Verde",
+          "Castanho, Azul, Violeta, Amarelo",
+          "Violeta, Verde, Amarelo, Preto"
+        ],
+        "answer": "Violeta, Azul, Amarelo, vermelho"
+      }
+    ]
+  }
+}

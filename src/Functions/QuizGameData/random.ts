@@ -13,15 +13,15 @@ function randomNumber({ startAt, endAt }: IRandomNumber): number {
   return randomNumber;
 }
 
-// interface IGetRandomQuestion {
-//   quiz: QuestionEntity[];
-//   numberOfAvaliableTopics: number;
-// }
+interface IGetRandomQuestion {
+  quiz: QuestionEntity[];
+  topic: string;
+}
 
-export function getRandomQuestion(randomTopic: QuestionEntity[]) {
-    const numberOfAvaliableQuestions = randomTopic.length
+export function getRandomQuestion({quiz, topic}:IGetRandomQuestion) {
+    const numberOfAvaliableQuestions = quiz.length
     const randomIndex = randomNumber({ startAt: 1, endAt: numberOfAvaliableQuestions });
-    return randomTopic[randomIndex]
+    return { topic: topic, quiz: quiz[randomIndex] }
 }
 
 export function getRandomTopic(allTopicForQuizGame: IQuizGameLanguageFile) {

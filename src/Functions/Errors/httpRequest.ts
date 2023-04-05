@@ -18,13 +18,9 @@ interface ICheckInputParams {
 export function checkInputParam({verifyContent,verifyOption}: ICheckInputParam) {
 
   let contentList = Array();
-  if (verifyOption === 'language code') {
-    contentList = languageCodeList;
-  }
 
-  if (verifyOption === 'topic') {
-    contentList = topicList;
-  }
+  if (verifyOption === 'language code') contentList = languageCodeList;
+  if (verifyOption === 'topic') contentList = topicList;
 
   if (verifyOption === 'page') {
     const isOnlyNumbers = /^[0-9]+$/.test(verifyContent);
@@ -38,9 +34,7 @@ export function checkInputParam({verifyContent,verifyOption}: ICheckInputParam) 
     return;
   }
 
-  const notFound = !(
-    contentList.filter((content) => content === verifyContent).length > 0
-  );
+  const notFound = !(contentList.filter((content) => content === verifyContent).length > 0);
 
   if (notFound) {
     return errorMessage({
@@ -59,7 +53,7 @@ export function checkInputParams({ languageCode, topic, openPage}: ICheckInputPa
       verifyContent: languageCode,
       verifyOption: 'language code',
     });
-
+    
     if (invalidLanguageCode) return invalidLanguageCode;
   }
   

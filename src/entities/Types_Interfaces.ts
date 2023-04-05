@@ -40,28 +40,3 @@ export const languageCodeList: languageCodeTypes[] = [
   'ko',
   'ja',
 ];
-
-// export function convertLanguageCodeToExtendLanguage(languageCode: languageCodeTypes): languageTypes {
-//   switch (languageCode) {
-//     case 'ar':
-//       return 'arabic';
-//     case 'en':
-//       return 'english';
-//     case 'es':
-//       return 'spanish';
-//     case 'fr':
-//       return 'french';
-//     case 'hi':
-//       return 'hindi';
-//     case 'ja':
-//       return 'japanese';
-//     case 'ko':
-//       return 'korean';
-//     case 'pt': 
-//       return 'portuguese';
-//     case 'ru':
-//      return 'russian';
-//     case 'zh':
-//       return 'mandarin';
-//   }
-// }

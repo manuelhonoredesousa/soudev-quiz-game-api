@@ -12,11 +12,9 @@ import { getRandomQuestion, getRandomTopic } from './Functions/QuizGameData/rand
 export class AppService {
   quizGameByLanguageAndTopic( languageCode: languageCodeTypes, topic: topicsTypes, openPageParm: string) {
     const inputValidations = checkInputParams({ languageCode , topic, openPage: openPageParm });
-    
     if (inputValidations) return inputValidations;
         
     const allTopicForQuizGame: IQuizGameLanguageFile = getQuizGame(languageCode);
-    
     if (!allTopicForQuizGame) {
       return errorMessage({
         statusCode: 404,
@@ -24,6 +22,7 @@ export class AppService {
         help: 'Contact Support, or go to official website to see the available topics.',
       });
     }
+
     
     const openPage = parseInt(openPageParm);
     const topicForQuizGame = selectTopicOnQuizGameMapper(allTopicForQuizGame, { pickTopic: topic, getAllQuestion: false, openPage });
@@ -35,7 +34,7 @@ export class AppService {
         help: `Contact Support or visite the official site ${apiInformation.officialPageURL}`,
       });
     }
-
+    
     return topicForQuizGame;
   }
 
@@ -54,7 +53,6 @@ export class AppService {
     }
 
     const randomTopic = getRandomTopic(allTopicForQuizGame)
-
     return randomTopic
   }
 
@@ -73,8 +71,7 @@ export class AppService {
     }
 
     const randomTopic = getRandomTopic(allTopicForQuizGame)
-    const randomQuestion = getRandomQuestion(randomTopic.quiz)
-  
+    const randomQuestion = getRandomQuestion(randomTopic)
     return randomQuestion
   }
 }

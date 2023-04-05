@@ -12,7 +12,7 @@ import { languageCodeList } from './../../entities/Types_Interfaces';
 import { languageCodeTypes } from 'src/entities/Types_Interfaces';
 import { IQuizGameLanguageFile } from './types';
 import { selectFileByLanguageMapper } from './mappers';
-import { errorMessage, IErrorMessageResponse } from '../Errors/httpResponse';
+import { IErrorMessageResponse } from '../Errors/httpResponse';
 
 export type selectFileByLanguageResponseType = IQuizGameLanguageFile | IErrorMessageResponse 
 
@@ -55,15 +55,8 @@ export function selectFileByLanguage(
   }
 
   if (!selectedFile) {
-    const statusCode = 500;
-    const smsContent = `'${languageCode}' file not found or is lefting '${languageCode}' KEY in file`;
-    const availableOptions = [];
-
-
     console.log(`> Error\n>'${languageCode}' file not found or is lefting '${languageCode}' KEY in file`);
     return undefined;
-    
-    // return errorMessage({ availableOptions, smsContent, statusCode });
   }
   
   return selectFileByLanguageMapper({
@@ -79,7 +72,5 @@ export function selectFileByLanguage(
 
 function selectFile(file = Object()) {
   const response = Object.assign({}, file);
-  if (languageCodeList.includes(response.languageCode)) {
-    return response;
-  } 
+  if (languageCodeList.includes(response.languageCode)) return response; 
 }

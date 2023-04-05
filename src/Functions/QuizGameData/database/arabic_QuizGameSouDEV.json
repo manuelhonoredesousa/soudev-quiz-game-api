@@ -1,1 +1,366 @@
-{}
+{
+  "quizTitle": "SouDev Quiz Game",
+  "totalTopicsInQuiz": 11,
+  "totalQuestionsForEachTopicInQuiz": 50,
+  "language": "arabic",
+  "languageCode": "ar",
+  "quiz": {
+    "world_geography": [],
+    "world_history": [
+      {
+        "id": 1,
+        "question": "Qual é o maior país do mundo?",
+        "options": ["Rússia", "China", "Índia", "Estados Unidos"],
+        "answer": "Rússia"
+      },
+      {
+        "id": 2,
+        "question": "Qual é o menor país do mundo?",
+        "options": ["Mônaco", "Vaticano", "Nauru", "São Marino"],
+        "answer": "Vaticano"
+      },
+      {
+        "id": 3,
+        "question": "Qual é o país com maior população do mundo?",
+        "options": ["Índia", "China", "Angola", "Brasil"],
+        "answer": "China"
+      },
+      {
+        "id": 4,
+        "question": "Qual é o maior continente do mundo?",
+        "options": ["América", "Europa", "África", "Ásia"],
+        "answer": "Ásia"
+      },
+      {
+        "id": 5,
+        "question": "Qual é o oceano mais extenso do mundo?",
+        "options": [
+          "Oceano Pacífico",
+          "Oceano Atlântico",
+          "Oceano Índico",
+          "Oceano Ártico"
+        ],
+        "answer": "Oceano Pacífico"
+      },
+      {
+        "id": 6,
+        "question": "Qual é o país que possui a maior costa marítima do mundo?",
+        "options": ["Brasil", "Estados Unidos", "Austrália", "Canadá"],
+        "answer": "Canadá"
+      },
+      {
+        "id": 7,
+        "question": "Qual é o ponto mais baixo do mundo?",
+        "options": [
+          "Monte Everest",
+          "Mar Morto",
+          "Vale da Morte",
+          "Lago Baikal"
+        ],
+        "answer": "Mar Morto"
+      },
+      {
+        "id": 8,
+        "question": "Qual é o país que possui a maior área territorial do mundo?",
+        "options": ["Rússia", "Canadá", "China", "Estados Unidos"],
+        "answer": "Rússia"
+      },
+      {
+        "id": 9,
+        "question": "Qual é o rio mais extenso do mundo?",
+        "options": [
+          "Rio Amazonas",
+          "Rio Nilo",
+          "Rio Yangtze",
+          "Rio Mississippi"
+        ],
+        "answer": "Rio Amazonas"
+      },
+      {
+        "id": 10,
+        "question": "Qual é a cidade mais populosa do mundo?",
+        "options": ["Xangai", "Tóquio", "Delhi", "São Paulo"],
+        "answer": "Tóquio"
+      },
+      {
+        "id": 11,
+        "question": "Qual é a capital da Austrália?",
+        "options": ["Melbourne", "Sydney", "Brisbane", "Camberra"],
+        "answer": "Camberra"
+      },
+      {
+        "id": 12,
+        "question": "Qual é o maior deserto do mundo?",
+        "options": ["Sara", "Saara", "Gobi", "Atacama"],
+        "answer": "Saara"
+      },
+      {
+        "id": 13,
+        "question": "Qual é o país com mais vulcões ativos do mundo?",
+        "options": ["Japão", "Indonésia", "Filipinas", "Estados Unidos"],
+        "answer": "Indonésia"
+      },
+      {
+        "id": 14,
+        "question": "Qual é o país que possui a maior barreira de corais do mundo?",
+        "options": ["Brasil", "Austrália", "Indonésia", "Filipinas"],
+        "answer": "Austrália"
+      },
+      {
+        "id": 15,
+        "question": "Qual é o país que possui a maior quantidade de ilhas do mundo?",
+        "options": ["Japão", "Indonésia", "Filipinas", "Austrália"],
+        "answer": "Indonésia"
+      },
+      {
+        "id": 16,
+        "question": "Qual é o país que possui a maior reserva de petróleo do mundo?",
+        "options": ["Arábia Saudita", "Estados Unidos", "Rússia", "Venezuela"],
+        "answer": "Venezuela"
+      },
+      {
+        "id": 17,
+        "question": "Qual é a montanha mais alta da América do Sul?",
+        "options": [
+          "Monte Aconcágua",
+          "Monte Chimborazo",
+          "Monte Cotopaxi",
+          "Monte Everest"
+        ],
+        "answer": "Monte Aconcágua"
+      },
+      {
+        "id": 18,
+        "question": "Qual é o maior lago do mundo?",
+        "options": [
+          "Lago Baikal",
+          "Lago Vitória",
+          "Lago Superior",
+          "Lago Titicaca"
+        ],
+        "answer": "Lago Baikal"
+      },
+      {
+        "id": 19,
+        "question": "Qual é a cidade mais populosa da Europa?",
+        "options": ["Londres", "Moscou", "Paris", "Istambul"],
+        "answer": "Moscou"
+      },
+      {
+        "id": 20,
+        "question": "Qual é o país que possui o maior número de rios do mundo?",
+        "options": ["Brasil", "Canadá", "Rússia", "Índia"],
+        "answer": "Rússia"
+      },
+      {
+        "id": 21,
+        "question": "Qual é a capital do Canadá?",
+        "options": ["Toronto", "Ottawa", "Vancouver", "Montreal"],
+        "answer": "Ottawa"
+      },
+      {
+        "id": 22,
+        "question": "Qual é o rio mais longo do mundo?",
+        "options": ["Rio Nilo", "Rio Amazonas", "Rio Yangtze", "Rio Amarelo"],
+        "answer": "Rio Nilo"
+      },
+      {
+        "id": 23,
+        "question": "Qual é o país que possui o maior número de pirâmides do mundo?",
+        "options": ["Egito", "Sudão", "México", "Peru"],
+        "answer": "Sudão"
+      },
+      {
+        "id": 24,
+        "question": "Qual é o país que possui a maior quantidade de rios?",
+        "options": ["Brasil", "Índia", "Rússia", "China"],
+        "answer": "Brasil"
+      },
+      {
+        "id": 25,
+        "question": "Qual é o país que possui a maior reserva de gás natural do mundo?",
+        "options": ["Canadá", "China", "Rússia", "Estados Unidos"],
+        "answer": "Rússia"
+      },
+      {
+        "id": 26,
+        "question": "Qual é o país que possui a maior quantidade de lagos do mundo?",
+        "options": ["Canadá", "Finlândia", "Rússia", "Suécia"],
+        "answer": "Canadá"
+      },
+      {
+        "id": 27,
+        "question": "Qual é o país que possui a maior extensão de costa no Oceano Índico?",
+        "options": ["Índia", "Indonésia", "Austrália", "África do Sul"],
+        "answer": "Austrália"
+      },
+      {
+        "id": 28,
+        "question": "Qual é o país que possui a maior extensão de costa no Oceano Atlântico?",
+        "options": ["Estados Unidos", "Brasil", "Canadá", "Espanha"],
+        "answer": "Brasil"
+      },
+      {
+        "id": 29,
+        "question": "Qual é o país que possui a maior quantidade de rios navegáveis do mundo?",
+        "options": ["Brasil", "China", "Rússia", "Estados Unidos"],
+        "answer": "Rússia"
+      },
+      {
+        "id": 30,
+        "question": "Qual é o país que possui a maior quantidade de Patrimônios Mundiais da UNESCO?",
+        "options": ["Itália", "China", "Espanha", "França"],
+        "answer": "Itália"
+      },
+      {
+        "id": 31,
+        "question": "Qual é o ponto mais alto do mundo?",
+        "options": [
+          "Monte Everest",
+          "Monte Kilimanjaro",
+          "Monte Denali",
+          "Monte Aconcágua"
+        ],
+        "answer": "Monte Everest"
+      },
+      {
+        "id": 32,
+        "question": "Qual é o país com a maior costa litorânea do mundo?",
+        "options": ["Estados Unidos", "Canadá", "Rússia", "Austrália"],
+        "answer": "Canadá"
+      },
+      {
+        "id": 33,
+        "question": "Qual é o país mais ao sul do mundo?",
+        "options": ["Argentina", "Nova Zelândia", "Chile", "Austrália"],
+        "answer": "Chile"
+      },
+      {
+        "id": 34,
+        "question": "Em qual país encontra-se a ilha de Java?",
+        "options": ["Angola", "Argentina", "China", "Indonésia"],
+        "answer": "Indonésia"
+      },
+      {
+        "id": 35,
+        "question": "Qual é o país com a maior área de floresta do mundo?",
+        "options": ["Brasil", "Canadá", "Austrália", "Rússia"],
+        "answer": "Brasil"
+      },
+      {
+        "id": 36,
+        "question": "Qual é o país com a maior extensão de litoral do mundo?",
+        "options": ["Canadá", "Estados Unidos", "Brasil", "Austrália"],
+        "answer": "Canadá"
+      },
+      {
+        "id": 37,
+        "question": "Qual é o país com a maior quantidade de ilhas do mundo?",
+        "options": ["Filipinas", "Indonésia", "Japão", "Nova Zelândia"],
+        "answer": "Indonésia"
+      },
+      {
+        "id": 38,
+        "question": "Qual é o país com a maior altitude média do mundo?",
+        "options": ["Suíça", "Tibete", "Bolívia", "Nepal"],
+        "answer": "Tibete"
+      },
+      {
+        "id": 39,
+        "question": "Qual é o país mais populoso da África?",
+        "options": ["Nigéria", "Etiópia", "Egito", "Congo"],
+        "answer": "Nigéria"
+      },
+      {
+        "id": 40,
+        "question": "Qual é a capital da Espanha?",
+        "options": ["Barcelona", "Madrid", "Valência", "Sevilha"],
+        "answer": "Madrid"
+      },
+      {
+        "id": 41,
+        "question": "Qual é o maior lago da América do Sul?",
+        "options": [
+          "Lago Maracaibo",
+          "Lago Titicaca",
+          "Lago Poopó",
+          "Lago de Palmas"
+        ],
+        "answer": "Lago Titicaca"
+      },
+      {
+        "id": 42,
+        "question": "Qual é o país mais ao norte do mundo?",
+        "options": ["Noruega", "Canadá", "Groenlândia", "Rússia"],
+        "answer": "Groenlândia"
+      },
+      {
+        "id": 43,
+        "question": "Qual é a maior ilha do mundo?",
+        "options": [
+          "Austrália",
+          "Groenlândia",
+          "Ilha de Baffin",
+          "Ilha de Madagascar"
+        ],
+        "answer": "Groenlândia"
+      },
+      {
+        "id": 44,
+        "question": "Qual é a capital da Rússia?",
+        "options": ["São Petersburgo", "Moscovo", "Kiev", "Cazã"],
+        "answer": "Moscovo"
+      },
+      {
+        "id": 45,
+        "question": "Qual é a maior cachoeira do mundo?",
+        "options": [
+          "Cataratas do Iguaçu",
+          "Cataratas do Niágara",
+          "Cataratas Vitória",
+          "Salto Angel"
+        ],
+        "answer": "Salto Angel"
+      },
+      {
+        "id": 46,
+        "question": "Qual é o continente com a maior população do mundo?",
+        "options": ["África", "Ásia", "Europa", "América do Sul"],
+        "answer": "Ásia"
+      },
+      {
+        "id": 47,
+        "question": "Em que continente encontra-se Angola?",
+        "options": ["África", "Ásia", "Europa", "América do Sul"],
+        "answer": "África"
+      },
+      {
+        "id": 48,
+        "question": "Qual é a capital de Angola?",
+        "options": ["Rio de Janeiro", "Luanda", "Benguela", "Uíge"],
+        "answer": "Luanda"
+      },
+      {
+        "id": 49,
+        "question": "Qual é o menor país do mundo em área territorial?",
+        "options": ["Mônaco", "Vaticano", "San Marino", "Andorra"],
+        "answer": "Vaticano"
+      },
+      {
+        "id": 50,
+        "question": "Qual é o país mais ao leste do mundo?",
+        "options": ["Rússia", "China", "Japão", "Austrália"],
+        "answer": "Austrália"
+      }
+    ],
+    "Movies_and_TV_series": [],
+    "Music_and_famous_artists": [],
+    "Famous_sports_and_athletes": [],
+    "Science_and_technology": [],
+    "Animals_and_wild_life": [],
+    "Art_and_culture": [],
+    "food_and_gastronomy": [],
+    "Literature_and_famous_authors": [],
+    "Image_quiz": []
+  }
+}

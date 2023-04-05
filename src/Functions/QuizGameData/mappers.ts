@@ -14,6 +14,7 @@ export function selectTopicOnQuizGameMapper(
   const pickedTopic = QuizGameFile.quiz[pickTopic];
 
   if (getAllQuestion) {
+    //Not in use yet//
     return {
       quizGameTopic: pickTopic,
       totalQuestions: QuizGameFile.totalQuestionsForEachTopicInQuiz,
@@ -28,6 +29,7 @@ export function selectTopicOnQuizGameMapper(
       content: pickedTopic,
       numberOfContentOnPage: 10,
     });
+
 
     const selectedPage = pickPage({
       pages: quiz.pages,

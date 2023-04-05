@@ -10,9 +10,5 @@ export interface IErrorMessageResponse {
 }
 
 export function errorMessage({ statusCode, smsContent, help }: IEntries) {
-  return {
-    status: statusCode,
-    sms: smsContent,
-    help
-  };
+  return { status: statusCode, sms: smsContent, help };
 }

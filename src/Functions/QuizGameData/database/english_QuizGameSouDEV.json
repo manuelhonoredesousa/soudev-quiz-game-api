@@ -2406,8 +2406,8 @@
       {
         "id": 32,
         "question": "What is the largest planet in the solar system?",
-        "ptions": ["Saturn", "Jupiter", "Earth", "Mars"],
-        "nswer": "Jupiter"
+        "options": ["Saturn", "Jupiter", "Earth", "Mars"],
+        "answer": "Jupiter"
       },
       {
         "id": 33,

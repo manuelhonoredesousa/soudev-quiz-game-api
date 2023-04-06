@@ -2431,7 +2431,7 @@
       {
         "id": 32,
         "question": "Quelle est la plus grosse planète du système solaire ?",
-        "ptions": ["Saturne", "Jupiter", "Terre", "Mars"],
+        "options": ["Saturne", "Jupiter", "Terre", "Mars"],
         "answer": "Jupiter"
       },
       {
@@ -2717,7 +2717,7 @@
       {
         "id": 11,
         "question": "Combien de cœurs ont les pieuvres ?",
-        "choix": ["1", "2", "3", "4"],
+        "options": ["1", "2", "3", "4"],
         "answer": "3"
       },
       {
@@ -4430,7 +4430,7 @@
           "Les Lusiades",
           "Le gardien du troupeau"
         ],
-        "répondre": "Message"
+        "answer": "Message"
       },
       {
         "id": 31,

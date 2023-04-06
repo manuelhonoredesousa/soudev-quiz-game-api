@@ -2421,7 +2421,7 @@
       {
         "id": 32,
         "question": "¿Cuál es el planeta más grande del sistema solar?",
-        "pciones": ["Saturno", "Júpiter", "Tierra", "Marte"],
+        "options": ["Saturno", "Júpiter", "Tierra", "Marte"],
         "answer": "Júpiter"
       },
       {

@@ -2416,8 +2416,8 @@
       {
         "id": 32,
         "question": "Qual é o maior planeta do sistema solar?",
-        "ptions": ["Saturno", "Júpiter", "Terra", "Marte"],
-        "nswer": "Júpiter"
+        "options": ["Saturno", "Júpiter", "Terra", "Marte"],
+        "answer": "Júpiter"
       },
       {
         "id": 33,

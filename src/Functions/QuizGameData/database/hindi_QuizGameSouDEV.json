@@ -1,369 +1,4865 @@
 {
-    "quizTitle": "SouDev Quiz Game",
-    "totalTopicsInQuiz": 11,
-    "totalQuestionsForEachTopicInQuiz": 50,
-    "language": "arabic",
-    "languageCode": "ar",
-    "quiz": {
-      "world_geography": [
-        {
-            "id": 1,
-            "question": "Qual é o maior país do mundo?",
-            "options": ["Rússia", "China", "Índia", "Estados Unidos"],
-            "answer": "Rússia"
-          },
-          {
-            "id": 2,
-            "question": "Qual é o menor país do mundo?",
-            "options": ["Mônaco", "Vaticano", "Nauru", "São Marino"],
-            "answer": "Vaticano"
-          },
-          {
-            "id": 3,
-            "question": "Qual é o país com maior população do mundo?",
-            "options": ["Índia", "China", "Angola", "Brasil"],
-            "answer": "China"
-          },
-          {
-            "id": 4,
-            "question": "Qual é o maior continente do mundo?",
-            "options": ["América", "Europa", "África", "Ásia"],
-            "answer": "Ásia"
-          },
-          {
-            "id": 5,
-            "question": "Qual é o oceano mais extenso do mundo?",
-            "options": [
-              "Oceano Pacífico",
-              "Oceano Atlântico",
-              "Oceano Índico",
-              "Oceano Ártico"
-            ],
-            "answer": "Oceano Pacífico"
-          },
-          {
-            "id": 6,
-            "question": "Qual é o país que possui a maior costa marítima do mundo?",
-            "options": ["Brasil", "Estados Unidos", "Austrália", "Canadá"],
-            "answer": "Canadá"
-          },
-          {
-            "id": 7,
-            "question": "Qual é o ponto mais baixo do mundo?",
-            "options": [
-              "Monte Everest",
-              "Mar Morto",
-              "Vale da Morte",
-              "Lago Baikal"
-            ],
-            "answer": "Mar Morto"
-          },
-          {
-            "id": 8,
-            "question": "Qual é o país que possui a maior área territorial do mundo?",
-            "options": ["Rússia", "Canadá", "China", "Estados Unidos"],
-            "answer": "Rússia"
-          },
-          {
-            "id": 9,
-            "question": "Qual é o rio mais extenso do mundo?",
-            "options": [
-              "Rio Amazonas",
-              "Rio Nilo",
-              "Rio Yangtze",
-              "Rio Mississippi"
-            ],
-            "answer": "Rio Amazonas"
-          },
-          {
-            "id": 10,
-            "question": "Qual é a cidade mais populosa do mundo?",
-            "options": ["Xangai", "Tóquio", "Delhi", "São Paulo"],
-            "answer": "Tóquio"
-          },
-          {
-            "id": 11,
-            "question": "Qual é a capital da Austrália?",
-            "options": ["Melbourne", "Sydney", "Brisbane", "Camberra"],
-            "answer": "Camberra"
-          },
-          {
-            "id": 12,
-            "question": "Qual é o maior deserto do mundo?",
-            "options": ["Sara", "Saara", "Gobi", "Atacama"],
-            "answer": "Saara"
-          },
-          {
-            "id": 13,
-            "question": "Qual é o país com mais vulcões ativos do mundo?",
-            "options": ["Japão", "Indonésia", "Filipinas", "Estados Unidos"],
-            "answer": "Indonésia"
-          },
-          {
-            "id": 14,
-            "question": "Qual é o país que possui a maior barreira de corais do mundo?",
-            "options": ["Brasil", "Austrália", "Indonésia", "Filipinas"],
-            "answer": "Austrália"
-          },
-          {
-            "id": 15,
-            "question": "Qual é o país que possui a maior quantidade de ilhas do mundo?",
-            "options": ["Japão", "Indonésia", "Filipinas", "Austrália"],
-            "answer": "Indonésia"
-          },
-          {
-            "id": 16,
-            "question": "Qual é o país que possui a maior reserva de petróleo do mundo?",
-            "options": ["Arábia Saudita", "Estados Unidos", "Rússia", "Venezuela"],
-            "answer": "Venezuela"
-          },
-          {
-            "id": 17,
-            "question": "Qual é a montanha mais alta da América do Sul?",
-            "options": [
-              "Monte Aconcágua",
-              "Monte Chimborazo",
-              "Monte Cotopaxi",
-              "Monte Everest"
-            ],
-            "answer": "Monte Aconcágua"
-          },
-          {
-            "id": 18,
-            "question": "Qual é o maior lago do mundo?",
-            "options": [
-              "Lago Baikal",
-              "Lago Vitória",
-              "Lago Superior",
-              "Lago Titicaca"
-            ],
-            "answer": "Lago Baikal"
-          },
-          {
-            "id": 19,
-            "question": "Qual é a cidade mais populosa da Europa?",
-            "options": ["Londres", "Moscou", "Paris", "Istambul"],
-            "answer": "Moscou"
-          },
-          {
-            "id": 20,
-            "question": "Qual é o país que possui o maior número de rios do mundo?",
-            "options": ["Brasil", "Canadá", "Rússia", "Índia"],
-            "answer": "Rússia"
-          },
-          {
-            "id": 21,
-            "question": "Qual é a capital do Canadá?",
-            "options": ["Toronto", "Ottawa", "Vancouver", "Montreal"],
-            "answer": "Ottawa"
-          },
-          {
-            "id": 22,
-            "question": "Qual é o rio mais longo do mundo?",
-            "options": ["Rio Nilo", "Rio Amazonas", "Rio Yangtze", "Rio Amarelo"],
-            "answer": "Rio Nilo"
-          },
-          {
-            "id": 23,
-            "question": "Qual é o país que possui o maior número de pirâmides do mundo?",
-            "options": ["Egito", "Sudão", "México", "Peru"],
-            "answer": "Sudão"
-          },
-          {
-            "id": 24,
-            "question": "Qual é o país que possui a maior quantidade de rios?",
-            "options": ["Brasil", "Índia", "Rússia", "China"],
-            "answer": "Brasil"
-          },
-          {
-            "id": 25,
-            "question": "Qual é o país que possui a maior reserva de gás natural do mundo?",
-            "options": ["Canadá", "China", "Rússia", "Estados Unidos"],
-            "answer": "Rússia"
-          },
-          {
-            "id": 26,
-            "question": "Qual é o país que possui a maior quantidade de lagos do mundo?",
-            "options": ["Canadá", "Finlândia", "Rússia", "Suécia"],
-            "answer": "Canadá"
-          },
-          {
-            "id": 27,
-            "question": "Qual é o país que possui a maior extensão de costa no Oceano Índico?",
-            "options": ["Índia", "Indonésia", "Austrália", "África do Sul"],
-            "answer": "Austrália"
-          },
-          {
-            "id": 28,
-            "question": "Qual é o país que possui a maior extensão de costa no Oceano Atlântico?",
-            "options": ["Estados Unidos", "Brasil", "Canadá", "Espanha"],
-            "answer": "Brasil"
-          },
-          {
-            "id": 29,
-            "question": "Qual é o país que possui a maior quantidade de rios navegáveis do mundo?",
-            "options": ["Brasil", "China", "Rússia", "Estados Unidos"],
-            "answer": "Rússia"
-          },
-          {
-            "id": 30,
-            "question": "Qual é o país que possui a maior quantidade de Patrimônios Mundiais da UNESCO?",
-            "options": ["Itália", "China", "Espanha", "França"],
-            "answer": "Itália"
-          },
-          {
-            "id": 31,
-            "question": "Qual é o ponto mais alto do mundo?",
-            "options": [
-              "Monte Everest",
-              "Monte Kilimanjaro",
-              "Monte Denali",
-              "Monte Aconcágua"
-            ],
-            "answer": "Monte Everest"
-          },
-          {
-            "id": 32,
-            "question": "Qual é o país com a maior costa litorânea do mundo?",
-            "options": ["Estados Unidos", "Canadá", "Rússia", "Austrália"],
-            "answer": "Canadá"
-          },
-          {
-            "id": 33,
-            "question": "Qual é o país mais ao sul do mundo?",
-            "options": ["Argentina", "Nova Zelândia", "Chile", "Austrália"],
-            "answer": "Chile"
-          },
-          {
-            "id": 34,
-            "question": "Em qual país encontra-se a ilha de Java?",
-            "options": ["Angola", "Argentina", "China", "Indonésia"],
-            "answer": "Indonésia"
-          },
-          {
-            "id": 35,
-            "question": "Qual é o país com a maior área de floresta do mundo?",
-            "options": ["Brasil", "Canadá", "Austrália", "Rússia"],
-            "answer": "Brasil"
-          },
-          {
-            "id": 36,
-            "question": "Qual é o país com a maior extensão de litoral do mundo?",
-            "options": ["Canadá", "Estados Unidos", "Brasil", "Austrália"],
-            "answer": "Canadá"
-          },
-          {
-            "id": 37,
-            "question": "Qual é o país com a maior quantidade de ilhas do mundo?",
-            "options": ["Filipinas", "Indonésia", "Japão", "Nova Zelândia"],
-            "answer": "Indonésia"
-          },
-          {
-            "id": 38,
-            "question": "Qual é o país com a maior altitude média do mundo?",
-            "options": ["Suíça", "Tibete", "Bolívia", "Nepal"],
-            "answer": "Tibete"
-          },
-          {
-            "id": 39,
-            "question": "Qual é o país mais populoso da África?",
-            "options": ["Nigéria", "Etiópia", "Egito", "Congo"],
-            "answer": "Nigéria"
-          },
-          {
-            "id": 40,
-            "question": "Qual é a capital da Espanha?",
-            "options": ["Barcelona", "Madrid", "Valência", "Sevilha"],
-            "answer": "Madrid"
-          },
-          {
-            "id": 41,
-            "question": "Qual é o maior lago da América do Sul?",
-            "options": [
-              "Lago Maracaibo",
-              "Lago Titicaca",
-              "Lago Poopó",
-              "Lago de Palmas"
-            ],
-            "answer": "Lago Titicaca"
-          },
-          {
-            "id": 42,
-            "question": "Qual é o país mais ao norte do mundo?",
-            "options": ["Noruega", "Canadá", "Groenlândia", "Rússia"],
-            "answer": "Groenlândia"
-          },
-          {
-            "id": 43,
-            "question": "Qual é a maior ilha do mundo?",
-            "options": [
-              "Austrália",
-              "Groenlândia",
-              "Ilha de Baffin",
-              "Ilha de Madagascar"
-            ],
-            "answer": "Groenlândia"
-          },
-          {
-            "id": 44,
-            "question": "Qual é a capital da Rússia?",
-            "options": ["São Petersburgo", "Moscovo", "Kiev", "Cazã"],
-            "answer": "Moscovo"
-          },
-          {
-            "id": 45,
-            "question": "Qual é a maior cachoeira do mundo?",
-            "options": [
-              "Cataratas do Iguaçu",
-              "Cataratas do Niágara",
-              "Cataratas Vitória",
-              "Salto Angel"
-            ],
-            "answer": "Salto Angel"
-          },
-          {
-            "id": 46,
-            "question": "Qual é o continente com a maior população do mundo?",
-            "options": ["África", "Ásia", "Europa", "América do Sul"],
-            "answer": "Ásia"
-          },
-          {
-            "id": 47,
-            "question": "Em que continente encontra-se Angola?",
-            "options": ["África", "Ásia", "Europa", "América do Sul"],
-            "answer": "África"
-          },
-          {
-            "id": 48,
-            "question": "Qual é a capital de Angola?",
-            "options": ["Rio de Janeiro", "Luanda", "Benguela", "Uíge"],
-            "answer": "Luanda"
-          },
-          {
-            "id": 49,
-            "question": "Qual é o menor país do mundo em área territorial?",
-            "options": ["Mônaco", "Vaticano", "San Marino", "Andorra"],
-            "answer": "Vaticano"
-          },
-          {
-            "id": 50,
-            "question": "Qual é o país mais ao leste do mundo?",
-            "options": ["Rússia", "China", "Japão", "Austrália"],
-            "answer": "Austrália"
-          }
-      ],
-      "world_history": [
-          
-      ],
-      "Movies_and_TV_series": [],
-      "Music_and_famous_artists": [],
-      "Famous_sports_and_athletes": [],
-      "Science_and_technology": [],
-      "Animals_and_wild_life": [],
-      "Art_and_culture": [],
-      "food_and_gastronomy": [],
-      "Literature_and_famous_authors": [],
-      "Image_quiz": []
-    }
+  "quizTitle": "SouDev Quiz Game",
+  "totalTopicsInQuiz": 11,
+  "totalQuestionsForEachTopicInQuiz": 50,
+  "language": "hindi",
+  "languageCode": "hi",
+  "quiz": {
+    "world_geography": [
+      {
+        "id": 1,
+        "question": "विश्व का सबसे बड़ा देश कौन सा है?",
+        "options": ["रूस", "चीन", "भारत", "संयुक्त राज्य अमेरिका"],
+        "answer": "रूस"
+      },
+      {
+        "id": 2,
+        "question": "दुनिया का सबसे छोटा देश कौन सा है?",
+        "options": ["मोनाको", "वेटिकन", "नाउरू", "सैन मैरिनो"],
+        "answer": "वेटिकन"
+      },
+      {
+        "id": 3,
+        "question": "दुनिया में सबसे अधिक आबादी वाला देश कौन सा है?",
+        "options": ["भारत", "चीन", "अंगोला", "ब्राजील"],
+        "answer": "चीन"
+      },
+      {
+        "id": 4,
+        "question": "विश्व का सबसे बड़ा महाद्वीप कौन सा है?",
+        "options": ["अमेरिका", "यूरोप", "अफ्रीका", "एशिया"],
+        "answer": "एशिया"
+      },
+      {
+        "id": 5,
+        "question": "दुनिया का सबसे लंबा महासागर कौन सा है?",
+        "options": [
+          "प्रशांत महासागर",
+          "अटलांटिक महासागर",
+          "हिंद महासागर",
+          "आर्कटिक महासागर"
+        ],
+        "answer": "प्रशांत महासागर"
+      },
+      {
+        "id": 6,
+        "question": "किस देश की समुद्र तट दुनिया में सबसे लंबी है?",
+        "options": ["ब्राजील", "संयुक्त राज्य अमेरिका", "ऑस्ट्रेलिया", "कनाडा"],
+        "answer": "कनाडा"
+      },
+      {
+        "id": 7,
+        "question": "दुनिया का सबसे निचला बिंदु कौन सा है?",
+        "options": ["माउंट एवरेस्ट", "मृत सागर", "डेथ वैली", "बैकल झील"],
+        "answer": "मृत सागर"
+      },
+      {
+        "id": 8,
+        "question": "किस देश का क्षेत्रफल विश्व में सबसे बड़ा है?",
+        "options": ["रूस", "कनाडा", "चीन", "संयुक्त राज्य अमेरिका"],
+        "answer": "रूस"
+      },
+      {
+        "id": 9,
+        "question": "दुनिया की सबसे लंबी नदी कौन सी है?",
+        "options": ["एमेज़न नदी", "निलो नदी", "यांग्ज़ी नदी", "मिसिसिपी नदी"],
+        "answer": "अमेज़ॅन नदी"
+      },
+      {
+        "id": 10,
+        "question": "दुनिया में सबसे अधिक आबादी वाला शहर कौन सा है?",
+        "options": ["शंघाई", "टोक्यो", "दिल्ली", "साओ पाउलो"],
+        "answer": "टोक्यो"
+      },
+      {
+        "id": 11,
+        "question": "ऑस्ट्रेलिया की राजधानी क्या है?",
+        "options": ["मेलबोर्न", "सिडनी", "ब्रिस्बेन", "कैनबरा"],
+        "answer": "कैनबरा"
+      },
+      {
+        "id": 12,
+        "question": "दुनिया का सबसे बड़ा रेगिस्तान कौन सा है?",
+        "options": ["सारा", "सारा", "गोबी", "अटाकामा"],
+        "answer": "सहारा"
+      },
+      {
+        "id": 13,
+        "question": "विश्व में किस देश में सबसे अधिक सक्रिय ज्वालामुखी हैं?",
+        "options": ["जापान", "इंडोनेशिया", "फिलीपींस", "संयुक्त राज्य अमेरिका"],
+        "answer": "इंडोनेशिया"
+      },
+
+      {
+        "id": 14,
+        "question": "किस देश में दुनिया का सबसे बड़ा बैरियर रीफ है?",
+        "options": ["ब्राजील", "ऑस्ट्रेलिया", "इंडोनेशिया", "फिलीपींस"],
+        "answer": "ऑस्ट्रेलिया"
+      },
+      {
+        "id": 15,
+        "question": "किस देश में दुनिया में सबसे अधिक द्वीप हैं?",
+        "options": ["जापान", "इंडोनेशिया", "फिलीपींस", "ऑस्ट्रेलिया"],
+        "answer": "इंडोनेशिया"
+      },
+      {
+        "id": 16,
+        "question": "किस देश के पास दुनिया का सबसे बड़ा तेल भंडार है?",
+        "options": ["सऊदी अरब", "संयुक्त राज्य अमेरिका", "रूस", "वेनेजुएला"],
+        "answer": "वेनेजुएला"
+      },
+      {
+        "id": 17,
+        "question": "दक्षिण अमेरिका का सबसे ऊँचा पर्वत कौन सा है?",
+        "options": [
+          "माउंट एकॉनकागुआ",
+          "माउंट चिम्बोराज़ो",
+          "माउंट कोटोपेक्सी",
+          "माउंट एवरेस्ट"
+        ],
+        "answer": "माउंट एकांकागुआ"
+      },
+      {
+        "id": 18,
+        "question": "विश्व की सबसे बड़ी झील कौन सी है?",
+        "options": ["बैकल झील", "झील विक्टोरिया", "लेक अपर", "टिटिकाका झील"],
+        "answer": "लेक बैकल"
+      },
+      {
+        "id": 19,
+        "question": "यूरोप में सबसे अधिक आबादी वाला शहर कौन सा है?",
+        "options": ["लंदन", "मॉस्को", "पेरिस", "इस्तांबुल"],
+        "answer": "मास्को"
+      },
+      {
+        "id": 20,
+        "question": "विश्व में किस देश में सबसे अधिक नदियाँ हैं?",
+        "options": ["ब्राजील", "कनाडा", "रूस", "भारत"],
+        "answer": "रूस"
+      },
+      {
+        "id": 21,
+        "question": "कनाडा की राजधानी क्या है?",
+        "options": ["टोरंटो", "ओटावा", "वैंकूवर", "मॉन्ट्रियल"],
+        "answer": "ओटावा"
+      },
+      {
+        "id": 22,
+        "question": "दुनिया की सबसे लंबी नदी कौन सी है?",
+        "options": ["नील नदी", "अमेज़ॅन नदी", "यांग्त्ज़ी नदी", "पीली नदी"],
+        "answer": "नील नदी"
+      },
+      {
+        "id": 23,
+        "question": "किस देश में दुनिया में सबसे अधिक पिरामिड हैं?",
+        "options": ["मिस्र", "सूडान", "मेक्सिको", "पेरू"],
+        "answer": "सूडान"
+      },
+      {
+        "id": 24,
+        "question": "किस देश में सबसे अधिक नदियाँ हैं?",
+        "options": ["ब्राजील", "भारत", "रूस", "चीन"],
+        "answer": "ब्राज़ील"
+      },
+      {
+        "id": 25,
+        "question": "किस देश के पास दुनिया का सबसे बड़ा प्राकृतिक गैस भंडार है?",
+        "options": ["कनाडा", "चीन", "रूस", "संयुक्त राज्य अमेरिका"],
+        "answer": "रूस"
+      },
+      {
+        "id": 26,
+        "question": "किस देश में दुनिया में सबसे अधिक झीलें हैं?",
+        "options": ["कनाडा", "फिनलैंड", "रूस", "स्वीडन"],
+        "answer": "कनाडा"
+      },
+
+      {
+        "id": 27,
+        "question": "किस देश की हिंद महासागर पर सबसे लंबी तटरेखा है?",
+        "options": ["भारत", "इंडोनेशिया", "ऑस्ट्रेलिया", "दक्षिण अफ्रीका"],
+        "answer": "ऑस्ट्रेलिया"
+      },
+      {
+        "id": 28,
+        "question": "अटलांटिक महासागर पर किस देश की तटरेखा सबसे लंबी है?",
+        "options": ["संयुक्त राज्य अमेरिका", "ब्राजील", "कनाडा", "स्पेन"],
+        "answer": "ब्राज़ील"
+      },
+      {
+        "id": 29,
+        "question": "किस देश में दुनिया में सबसे अधिक नौगम्य नदियाँ हैं?",
+        "options": ["ब्राजील", "चीन", "रूस", "संयुक्त राज्य अमेरिका"],
+        "answer": "रूस"
+      },
+      {
+        "id": 30,
+        "question": "किस देश में सबसे अधिक यूनेस्को विश्व धरोहर स्थल हैं?",
+        "options": ["इटली", "चीन", "स्पेन", "फ्रांस"],
+        "answer": "इटली"
+      },
+      {
+        "id": 31,
+        "question": "दुनिया में उच्चतम बिंदु क्या है?",
+        "options": [
+          "माउंट एवरेस्ट",
+          "माउंट किलिमंजारो",
+          "माउंट डेनाली",
+          "माउंट एकॉनकागुआ"
+        ],
+        "answer": "माउंट एवरेस्ट"
+      },
+      {
+        "id": 32,
+        "question": "किस देश की समुद्र तट दुनिया में सबसे लंबी है?",
+        "options": ["संयुक्त राज्य", "कनाडा", "रूस", "ऑस्ट्रेलिया"],
+        "answer": "कनाडा"
+      },
+      {
+        "id": 33,
+        "question": "दुनिया का सबसे दक्षिणी देश कौन सा है?",
+        "options": ["अर्जेंटीना", "न्यूजीलैंड", "चिली", "ऑस्ट्रेलिया"],
+        "answer": "चिली"
+      },
+      {
+        "id": 34,
+        "question": "जावा द्वीप किस देश में स्थित है?",
+        "options": ["अंगोला", "अर्जेंटीना", "चीन", "इंडोनेशिया"],
+        "answer": "इंडोनेशिया"
+      },
+      {
+        "id": 35,
+        "question": "विश्व में वनों का सबसे बड़ा क्षेत्र वाला देश कौन सा है?",
+        "options": ["ब्राजील", "कनाडा", "ऑस्ट्रेलिया", "रूस"],
+        "answer": "ब्राज़ील"
+      },
+      {
+        "id": 36,
+        "question": "किस देश की समुद्र तट दुनिया में सबसे लंबी है?",
+        "options": ["कनाडा", "संयुक्त राज्य अमेरिका", "ब्राजील", "ऑस्ट्रेलिया"],
+        "answer": "कनाडा"
+      },
+      {
+        "id": 37,
+        "question": "किस देश में दुनिया में सबसे अधिक द्वीप हैं?",
+        "options": ["फिलीपींस", "इंडोनेशिया", "जापान", "न्यूजीलैंड"],
+        "answer": "इंडोनेशिया"
+      },
+
+      {
+        "id": 38,
+        "question": "दुनिया में सबसे अधिक औसत ऊंचाई वाला देश कौन सा है?",
+        "options": ["स्विट्जरलैंड", "तिब्बत", "बोलीविया", "नेपाल"],
+        "answer": "तिब्बत"
+      },
+      {
+        "id": 39,
+        "question": "अफ्रीका में सबसे अधिक आबादी वाला देश कौन सा है?",
+        "options": ["नाइजीरिया", "इथियोपिया", "मिस्र", "कांगो"],
+        "answer": "नाइजीरिया"
+      },
+      {
+        "id": 40,
+        "question": "स्पेन की राजधानी क्या है?",
+        "options": ["बार्सिलोना", "मैड्रिड", "वालेंसिया", "सेविले"],
+        "answer": "मैड्रिड"
+      },
+      {
+        "id": 41,
+        "question": "दक्षिण अमेरिका की सबसे बड़ी झील कौन सी है?",
+        "options": ["लेक माराकाइबो", "टिटिकाका झील", "लेक पूपो", "ताड़ की झील"],
+        "answer": "झील टिटिकाका"
+      },
+      {
+        "id": 42,
+        "question": "दुनिया में सबसे उत्तरी देश कौन सा है?",
+        "options": ["नॉर्वे", "कनाडा", "ग्रीनलैंड", "रूस"],
+        "answer": "ग्रीनलैंड"
+      },
+      {
+        "id": 43,
+        "question": "दुनिया का सबसे बड़ा द्वीप कौन सा है?",
+        "options": [
+          "ऑस्ट्रेलिया",
+          "ग्रीनलैंड",
+          "बाफिन द्वीप",
+          "मेडागास्कर द्वीप"
+        ],
+        "answer": "ग्रीनलैंड"
+      },
+      {
+        "id": 44,
+        "question": "रूस की राजधानी क्या है?",
+        "options": ["सेंट पीटर्सबर्ग", "मॉस्को", "कीव", "कज़ान"],
+        "answer": "मास्को"
+      },
+      {
+        "id": 45,
+        "question": "दुनिया का सबसे ऊंचा जलप्रपात कौन सा है?",
+        "options": [
+          "इगुआकू के झरने",
+          "नायग्रा फॉल्स",
+          "विक्टोरिया फ़ॉल्स",
+          "एंजेल लीप"
+        ],
+        "answer": "एंजेल लीप"
+      },
+      {
+        "id": 46,
+        "question": "विश्व में किस महाद्वीप की जनसंख्या सबसे अधिक है?",
+        "options": ["अफ्रीका", "एशिया", "यूरोप", "दक्षिण अमेरिका"],
+        "answer": "एशिया"
+      },
+      {
+        "id": 47,
+        "question": "अंगोला किस महाद्वीप पर है?",
+        "options": ["अफ्रीका", "एशिया", "यूरोप", "दक्षिण अमेरिका"],
+        "answer": "अफ्रीका"
+      },
+      {
+        "id": 48,
+        "question": "अंगोला की राजधानी क्या है?",
+        "options": ["रियो डी जनेरियो", "लुआंडा", "बेंगुएला", "उइगे"],
+        "answer": "लुआंडा"
+      },
+      {
+        "id": 49,
+        "question": "क्षेत्रफल के हिसाब से दुनिया का सबसे छोटा देश कौन सा है?",
+        "options": ["मोनाको", "वेटिकन", "सैन मैरिनो", "अंडोरा"],
+        "answer": "वेटिकन"
+      },
+      {
+        "id": 50,
+        "question": "दुनिया का सबसे पूर्वी देश कौन सा है?",
+        "options": ["रूस", "चीन", "जापान", "ऑस्ट्रेलिया"],
+        "answer": "ऑस्ट्रेलिया"
+      }
+    ],
+
+    "world_history": [
+      {
+        "id": 1,
+        "question": "पहली ज्ञात सभ्यता कौन सी थी?",
+        "options": ["बाबुल", "मिस्र", "भारत", "सुमेरिया"],
+        "answer": "सुमेरियन"
+      },
+      {
+        "id": 2,
+        "question": "पहला रोमन सम्राट कौन था?",
+        "options": ["जूलियो सीजर", "नीरो", "ऑगस्टस", "टाइटस"],
+        "answer": "अगस्त"
+      },
+      {
+        "id": 3,
+        "question": "1917 की रूसी क्रांति के नेता कौन थे?",
+        "options": ["लेनिन", "स्टालिन", "ट्रॉट्स्की", "ख्रुश्चेव"],
+        "answer": "लेनिन"
+      },
+      {
+        "id": 4,
+        "question": "बर्लिन की दीवार किस वर्ष गिरी थी?",
+        "options": ["1986", "1987", "1988", "1989"],
+        "answer": "1989"
+      },
+      {
+        "id": 5,
+        "question": "भारतीय स्वतंत्रता आंदोलन का नेतृत्व किसने किया?",
+        "options": [
+          "महात्मा गांधी",
+          "जवाहर लाल नेहरू",
+          "इंदिरा गांधी",
+          "सरदार पटेल"
+        ],
+        "answer": "महात्मा गांधी"
+      },
+      {
+        "id": 6,
+        "question": "फ्रांसीसी क्रांति का मुख्य उद्देश्य क्या था?",
+        "options": [
+          "फ्रांसीसी क्षेत्र का विस्तार करें",
+          "राजशाही को खत्म करो और गणतंत्र की स्थापना करो",
+          "बड़प्पन की शक्ति बनाए रखें",
+          "कैथोलिक चर्च की शक्ति को मजबूत करें"
+        ],
+        "answer": "राजशाही को समाप्त करें और गणतंत्र की स्थापना करें"
+      },
+      {
+        "id": 7,
+        "question": "ब्राज़ील की स्वतंत्रता के नेता कौन थे?",
+        "options": [
+          "डोम पेड्रो II",
+          "जोस बोनिफेसियो",
+          "तिरदंत",
+          "डोम पेड्रो मैं"
+        ],
+        "answer": "डोम पेड्रो मैं"
+      },
+      {
+        "id": 8,
+        "question": "वह कौन सी घटना थी जिसने प्रथम विश्व युद्ध को जन्म दिया?",
+        "options": [
+          "पर्ल हार्बर पर जापानी हमला",
+          "जर्मनी द्वारा पोलैंड पर आक्रमण",
+          "ऑस्ट्रिया के आर्कड्यूक फ्रांज फर्डिनेंड की हत्या",
+          "हिरोशिमा और नागासाकी की बमबारी"
+        ],
+        "answer": "ऑस्ट्रिया के आर्कड्यूक फ्रांज फर्डिनेंड की हत्या"
+      },
+      {
+        "id": 9,
+        "question": "औद्योगिक क्रांति का मुख्य परिणाम क्या था?",
+        "options": [
+          "बढ़ती बेरोजगारी",
+          "श्रमिकों की कार्य स्थितियों में सुधार",
+          "अंतर्राष्ट्रीय व्यापार का विस्तार",
+          "बढ़ती सामाजिक असमानता"
+        ],
+        "answer": "अंतर्राष्ट्रीय व्यापार विस्तार"
+      },
+      {
+        "id": 10,
+        "question": "क्यूबा क्रांति के नेता कौन थे?",
+        "options": ["फिदेल कास्त्रो", "चे ग्वेरा", "राउल कास्त्रो", "बतिस्ता"],
+        "answer": "फिदेल कास्त्रो"
+      },
+      {
+        "id": 11,
+        "question": "द्वितीय विश्व युद्ध के दौरान नाज़ी नेता कौन था?",
+        "options": [
+          "बेनिटो मुसोलिनी",
+          "एडॉल्फ हिटलर",
+          "हिरोहितो",
+          "जोसेफ स्टालिन"
+        ],
+        "answer": "एडॉल्फ हिटलर"
+      },
+      {
+        "id": 12,
+        "question": "शीत युद्ध का मुख्य कारण क्या था?",
+        "options": [
+          "क्षेत्रों के लिए विवाद",
+          "संयुक्त राज्य अमेरिका और सोवियत संघ के बीच वैचारिक मतभेद",
+          "धार्मिक संघर्ष",
+          "वाणिज्यिक विवाद"
+        ],
+        "answer": "संयुक्त राज्य अमेरिका और सोवियत संघ के बीच वैचारिक मतभेद"
+      },
+      {
+        "id": 13,
+        "question": "किसी देश में राज्य की प्रमुख निर्वाचित होने वाली पहली महिला कौन थी?",
+        "options": [
+          "इंदिरा गांधी",
+          "गोल्डा मीर",
+          "मार्ग्रेट थैचर",
+          "इसाबेल पेरोन"
+        ],
+        "answer": "सिरीमावो भंडारनायके"
+      },
+      {
+        "id": 14,
+        "question": "फ्रांसीसी क्रांति का यूरोप पर क्या प्रभाव पड़ा?",
+        "options": [
+          "निरपेक्ष राजशाही की स्थापना",
+          "कैथोलिक चर्च की शक्ति को मजबूत करना",
+          "फ्रांसीसी साम्राज्य का विस्तार",
+          "लोकतंत्र और नागरिक अधिकारों के लिए संघर्ष में प्रभाव"
+        ],
+        "answer": "लोकतंत्र और नागरिक अधिकारों के लिए संघर्ष में प्रभाव"
+      },
+      {
+        "id": 15,
+        "question": "परमाणु बम की चपेट में आने वाला पहला शहर कौन सा था?",
+        "options": ["हिरोशिमा", "नागासाकी", "टोक्यो", "बर्लिन"],
+        "answer": "हिरोशिमा"
+      },
+      {
+        "id": 16,
+        "question": "1917 में रूसी क्रांति का नेतृत्व किसने किया?",
+        "options": [
+          "व्लादमीर लेनिन",
+          "जोसेफ स्टालिन",
+          "मिखाइल गोर्बाचेव",
+          "निकिता ख्रुश्चेव"
+        ],
+        "answer": "व्लादिमीर लेनिन"
+      },
+      {
+        "id": 17,
+        "question": "1947 में भारत की स्वतंत्रता का नेतृत्व किसने किया?",
+        "options": [
+          "महात्मा गांधी",
+          "जवाहर लाल नेहरू",
+          "इंदिरा गांधी",
+          "राजीव गांधी"
+        ],
+        "answer": "जवाहरलाल नेहरू"
+      },
+      {
+        "id": 18,
+        "question": "धर्मयुद्ध का मुख्य उद्देश्य क्या था?",
+        "options": [
+          "मध्य पूर्व में प्रदेशों को जीत",
+          "ईसाई धर्म का प्रसार करें",
+          "अफ्रीका में क्षेत्रों पर विजय",
+          "वाणिज्यिक विस्तार"
+        ],
+        "answer": "मध्य पूर्व में क्षेत्रों पर विजय प्राप्त करें"
+      },
+      {
+        "id": 19,
+        "question": "किस काल को अंधकार युग के रूप में जाना जाता था?",
+        "options": ["पृौढ अबस्था", "मध्य युग", "आधुनिक युग", "समकालीन युग"],
+        "answer": "मध्य युग"
+      },
+      {
+        "id": 20,
+        "question": "1949 में पीपुल्स रिपब्लिक ऑफ चाइना की स्थापना करने वाला चीनी कम्युनिस्ट नेता कौन था?",
+        "options": [
+          "माओ ज़ेडॉन्ग",
+          "झोउ एनलाई",
+          "डेंग जियाओपींग",
+          "च्यांग काई शेक"
+        ],
+        "answer": "माओ जेडोंग"
+      },
+      {
+        "id": 21,
+        "question": "दक्षिण अफ्रीका में रंगभेद के खिलाफ लड़ाई का नेतृत्व किसने किया?",
+        "options": [
+          "नेल्सन मंडेला",
+          "डेसमंड टूटू",
+          "स्टीव बाइको",
+          "विनी मंडेला"
+        ],
+        "answer": "नेल्सन मंडेला"
+      },
+      {
+        "id": 22,
+        "question": "प्रथम विश्व युद्ध का कारण क्या था?",
+        "options": [
+          "दक्षिण अमेरिका में क्षेत्रों के लिए विवाद",
+          "अफ्रीका में क्षेत्रों के लिए विवाद",
+          "महान यूरोपीय शक्तियों के बीच वैचारिक मतभेद",
+          "धार्मिक संघर्ष"
+        ],
+        "answer": "प्रमुख यूरोपीय शक्तियों के बीच वैचारिक मतभेद"
+      },
+      {
+        "id": 23,
+        "question": "चीन पर शासन करने वाला पहला राजवंश कौन सा था?",
+        "options": ["हान", "शांग", "किन", "तांग"],
+        "answer": "शांग"
+      },
+      {
+        "id": 24,
+        "question": "मध्य अमेरिका में पहली महान सभ्यता कौन सी थी?",
+        "options": ["एज़्टेक", "इंकस", "मायन्स", "ओल्मेक्स"],
+        "answer": "ओल्मीकास"
+      },
+      {
+        "id": 25,
+        "question": "वह कौन सा संघर्ष था जो 1939 और 1945 के बीच हुआ था और जिसमें सभी प्रमुख शक्तियों सहित दुनिया के अधिकांश राष्ट्र शामिल थे?",
+        "options": [
+          "शीत युद्ध",
+          "प्रथम विश्व युद्ध",
+          "द्वितीय विश्व युद्ध",
+          "खाड़ी युद्ध"
+        ],
+        "answer": "द्वितीय विश्व युद्ध"
+      },
+      {
+        "id": 26,
+        "question": "रोमन सम्राट कौन था जिसने रोमन साम्राज्य को बुतपरस्ती से ईसाई धर्म में बदलने की कोशिश की?",
+        "options": ["जूलियस सीज़र", "नीरो", "कॉन्स्टेंटाइन I", "ट्राजन"],
+        "answer": "कॉन्स्टेंटाइन I"
+      },
+      {
+        "id": 27,
+        "question": "ब्रिटेन में औद्योगिक क्रांति का नेतृत्व किसने किया?",
+        "options": ["विंस्टन चर्चिल", "आइजैक न्यूटन", "जेम्स वॉट", "एडम स्मिथ"],
+        "answer": "जेम्स वाट"
+      },
+      {
+        "id": 28,
+        "question": "1980 के दशक के दौरान सोवियत संघ में राजनीतिक और आर्थिक सुधार शुरू करने के लिए जिम्मेदार सोवियत नेता कौन था?",
+        "options": [
+          "व्लादमीर लेनिन",
+          "लियोनिद ब्रेझनेव",
+          "मिखाइल गोर्बाचेव",
+          "निकिता ख्रुश्चेव"
+        ],
+        "answer": "मिखाइल गोर्बाचेव"
+      },
+      {
+        "id": 29,
+        "question": "1776 में संयुक्त राज्य अमेरिका की स्वतंत्रता की घोषणा पर हस्ताक्षर करने वाला अमेरिकी नेता कौन था?",
+        "options": [
+          "जॉर्ज वाशिंगटन",
+          "थॉमस जेफरसन",
+          "बेंजामिन फ्रैंकलिन",
+          "जॉन एडम्स"
+        ],
+        "answer": "थॉमस जेफरसन"
+      },
+      {
+        "id": 30,
+        "question": "इंग्लैंड में 1066 में हुई लड़ाई क्या थी और जिसके परिणामस्वरूप इंग्लैंड की नॉर्मन विजय हुई?",
+        "options": [
+          "हेस्टिंग्स की लड़ाई",
+          "वाटरलू की लड़ाई",
+          "स्टेलिनग्राद की लड़ाई",
+          "गेटिसबर्ग की लड़ाई"
+        ],
+        "answer": "हेस्टिंग्स की लड़ाई"
+      },
+      {
+        "id": 31,
+        "question": "19वीं शताब्दी में इटली को एकीकृत करने के लिए जिम्मेदार सैन्य और राजनीतिक नेता कौन था?",
+        "options": [
+          "ग्यूसेप गैरीबाल्डी",
+          "कैमिलो डी कैवोर",
+          "बेनिटो मुसोलिनी",
+          "विक्टर इमैनुएल द्वितीय"
+        ],
+        "answer": "कैमिलो डी कैवोर"
+      },
+      {
+        "id": 32,
+        "question": "1904-1905 में रूस और जापान के बीच कौन सा संघर्ष 20वीं शताब्दी के पहले सैन्य संघर्षों में से एक था?",
+        "options": [
+          "प्रशांत युद्ध",
+          "प्रथम विश्व युद्ध",
+          "फ्रेंको-प्रशिया युद्ध",
+          "रूसी नागरिक युद्ध"
+        ],
+        "answer": "प्रशांत युद्ध"
+      },
+      {
+        "id": 33,
+        "question": "फ्रांस की क्रांति के बाद फ्रांस के पहले राष्ट्रपति कौन थे?",
+        "options": [
+          "नेपोलियन बोनापार्ट",
+          "लुई XVI",
+          "मैक्सिमिलियन रोबेस्पिएरे",
+          "जॉर्ज डेंटन"
+        ],
+        "answer": "नेपोलियन बोनापार्ट"
+      },
+      {
+        "id": 34,
+        "question": "द्वितीय विश्व युद्ध के अधिकांश समय में सोवियत संघ का नेतृत्व करने वाला सोवियत नेता कौन था?",
+        "options": [
+          "निकिता ख्रुश्चेव",
+          "व्लादमीर लेनिन",
+          "लियोनिद ब्रेझनेव",
+          "जोसेफ स्टालिन"
+        ],
+        "answer": "जोसेफ स्टालिन"
+      },
+      {
+        "id": 35,
+        "question": "किस धर्मगुरु ने 7वीं शताब्दी में इस्लाम की स्थापना की?",
+        "options": ["मोहम्मद", "बुद्ध", "यीशु मसीह", "कन्फ्यूशियस"],
+        "answer": "मोहम्मद"
+      },
+      {
+        "id": 36,
+        "question": "18वीं शताब्दी में रूस के आधुनिकीकरण के लिए जिम्मेदार रूसी नेता कौन था?",
+        "options": ["इवान भयानक", "कैथरीन द ग्रेट", "महान पीटर", "सिकंदर महान"],
+        "answer": "पीटर द ग्रेट"
+      },
+      {
+        "id": 37,
+        "question": "द्वितीय विश्व युद्ध के दौरान यूनाइटेड किंगडम का नेतृत्व करने वाला ब्रिटिश नेता कौन था?",
+        "options": [
+          "विंस्टन चर्चिल",
+          "मार्ग्रेट थैचर",
+          "टोनी ब्लेयर",
+          "डेविड कैमरून"
+        ],
+        "answer": "विंस्टन चर्चिल"
+      },
+      {
+        "id": 38,
+        "question": "1789 में फ्रांसीसी क्रांति की शुरुआत किस घटना से हुई?",
+        "options": [
+          "बैस्टिल का पतन",
+          "मैरी एंटोनेट का निष्पादन",
+          "राजा लुई सोलहवें का पलायन",
+          "राज्य जनरल की बैठक"
+        ],
+        "answer": "स्टेट्स जनरल की बैठक"
+      },
+      {
+        "id": 39,
+        "question": "शीत युद्ध के दौरान सोवियत संघ का नेतृत्व करने वाला सोवियत नेता कौन था?",
+        "options": [
+          "मिखाइल गोर्बाचेव",
+          "निकिता ख्रुश्चेव",
+          "लियोनिद ब्रेझनेव",
+          "जोसेफ स्टालिन"
+        ],
+        "answer": "निकिता ख्रुश्चेव"
+      },
+      {
+        "id": 40,
+        "question": "वियतनाम युद्ध के दौरान अमेरिका का नेतृत्व करने वाला अमेरिकी नेता कौन था?",
+        "options": [
+          "रिचर्ड निक्सन",
+          "जॉन एफ़ कैनेडी",
+          "ड्वाइट डी. आइजनहावर",
+          "लिंडन बी. जॉनसन"
+        ],
+        "answer": "लिंडन बी. जॉनसन"
+      },
+      {
+        "id": 41,
+        "question": "प्रथम विश्व युद्ध के दौरान यूनाइटेड किंगडम का नेतृत्व करने वाला ब्रिटिश नेता कौन था?",
+        "options": [
+          "विंस्टन चर्चिल",
+          "डेविड लॉयड जॉर्ज",
+          "नेविल चेम्बरलेन",
+          "मार्ग्रेट थैचर"
+        ],
+        "answer": "डेविड लॉयड जॉर्ज"
+      },
+      {
+        "id": 42,
+        "question": "प्रथम विश्व युद्ध के दौरान जर्मनी का नेतृत्व करने वाला जर्मन नेता कौन था?",
+        "options": [
+          "विल्हेम द्वितीय",
+          "ओटो वॉन बिस्मार्क",
+          "एडॉल्फ हिटलर",
+          "हरमन गोरिंग"
+        ],
+        "answer": "विल्हेम द्वितीय"
+      },
+      {
+        "id": 43,
+        "question": "1914 में प्रथम विश्व युद्ध की शुरुआत को चिह्नित करने वाली घटना क्या थी?",
+        "options": [
+          "ऑस्ट्रिया के आर्कड्यूक फ्रांज फर्डिनेंड की हत्या",
+          "बेल्जियम पर जर्मन आक्रमण",
+          "वर्साय की संधि",
+          "जर्मनी के खिलाफ रूस की युद्ध की घोषणा"
+        ],
+        "answer": "ऑस्ट्रिया के आर्कड्यूक फ्रांज फर्डिनेंड की हत्या"
+      },
+      {
+        "id": 44,
+        "question": "1939 में द्वितीय विश्व युद्ध की शुरुआत को चिह्नित करने वाली घटना क्या थी?",
+        "options": [
+          "पोलैंड पर जर्मन आक्रमण",
+          "जापानी द्वारा पर्ल हार्बर पर हमला",
+          "जर्मनी के खिलाफ संयुक्त राज्य अमेरिका द्वारा युद्ध की घोषणा",
+          "सोवियत संघ पर जर्मनी का आक्रमण"
+        ],
+        "answer": "पोलैंड पर जर्मन आक्रमण"
+      },
+      {
+        "id": 45,
+        "question": "द्वितीय विश्व युद्ध के दौरान संयुक्त राज्य अमेरिका का नेतृत्व करने वाला अमेरिकी नेता कौन था?",
+        "options": [
+          "फ्रैंकलिन डी. रूजवेल्ट",
+          "हैरी एस. ट्रूमैन",
+          "ड्वाइट डी. आइजनहावर",
+          "जॉन एफ़ कैनेडी"
+        ],
+        "answer": "फ्रैंकलिन डी. रूजवेल्ट"
+      },
+      {
+        "id": 46,
+        "question": "वह कौन सी घटना थी जिसने शीत युद्ध की शुरुआत को चिह्नित किया?",
+        "options": [
+          "बर्लिन की दीवार का पतन",
+          "हिरोशिमा पर परमाणु बम गिराना",
+          "रूसी क्रांति",
+          "याल्टा सम्मेलन"
+        ],
+        "answer": "रूसी क्रांति"
+      },
+      {
+        "id": 47,
+        "question": "अंतरिक्ष की यात्रा करने वाले पहले अंतरिक्ष यात्री का नाम क्या था?",
+        "options": [
+          "यूरी गागरिन",
+          "नील आर्मस्ट्रांग",
+          "बज़ एल्ड्रिन",
+          "एलन शेपर्ड"
+        ],
+        "answer": "यूरी गगारिन"
+      },
+      {
+        "id": 48,
+        "question": "क्रिस्टोफर कोलंबस किस वर्ष अमेरिका पहुंचे?",
+        "options": ["1492", "1500", "1510", "1520"],
+        "answer": "1492"
+      },
+      {
+        "id": 49,
+        "question": "किस मिस्र के नेता ने गीज़ा के महान पिरामिड का निर्माण किया?",
+        "options": ["रामसेस II", "तुतनखामुन", "खुफु", "अखेनातेन"],
+        "answer": "खुफु"
+      },
+      {
+        "id": 50,
+        "question": "क्रिस्टोफर कोलंबस किस वर्ष अमेरिका पहुंचे?",
+        "options": ["1492", "1500", "1510", "1520"],
+        "answer": "1492"
+      }
+    ],
+
+    "Movies_and_TV_series": [
+      {
+        "id": 1,
+        "question": "श्रृंखला 'ब्रेकिंग बैड' के मुख्य पात्र का नाम क्या है?",
+        "options": ["जेसी पिंकमैन", "शाऊल गुडमैन", "वॉटर वाइट", "हैंक श्रेडर"],
+        "answer": "वाल्टर व्हाइट"
+      },
+      {
+        "id": 2,
+        "question": "फ़िल्म 'बैक टू द फ़्यूचर' किस वर्ष रिलीज़ हुई थी?",
+        "options": ["1985", "1987", "1989", "1991"],
+        "answer": "1985"
+      },
+      {
+        "id": 3,
+        "question": "'गेम ऑफ थ्रोन्स' श्रृंखला के नायक का नाम क्या है?",
+        "options": [
+          "डेनेरीज़ टार्गैरियन",
+          "जॉन स्नो",
+          "सेर्सी लैनिस्टर",
+          "टायरियन लैनिस्टर"
+        ],
+        "answer": "जॉन स्नो"
+      },
+      {
+        "id": 4,
+        "question": "फिल्म 'इंसेप्शन' का निर्देशन किसने किया?",
+        "options": [
+          "मार्टिन स्कोरसेस",
+          "क्रिस्टोफर नोलन",
+          "क्वेंटिन टैरेंटिनो",
+          "स्टीवन स्पीलबर्ग"
+        ],
+        "answer": "क्रिस्टोफर नोलन"
+      },
+      {
+        "id": 5,
+        "question": "'हैरी पॉटर' फ़िल्म श्रृंखला में एम्मा वाटसन द्वारा निभाए गए किरदार का नाम क्या है?",
+        "options": [
+          "हर्माइनी ग्रेंजर",
+          "लूना लवगुड",
+          "गिन्नी वीस्ली",
+          "बेलाट्रिक्स लेस्ट्रेंज"
+        ],
+        "answer": "हरमाइन ग्रेंजर"
+      },
+      {
+        "id": 6,
+        "question": "नेटफ्लिक्स पर 'स्ट्रेंजर थिंग्स' का प्रीमियर किस वर्ष हुआ था?",
+        "options": ["2014", "2015", "2016", "2017"],
+        "answer": "2016"
+      },
+      {
+        "id": 7,
+        "question": "'ब्रेकिंग बैड' श्रृंखला के मुख्य खलनायक का नाम क्या है?",
+        "options": [
+          "ट्युको सलामांका",
+          "गस फ्रिंज",
+          "हेक्टर सलामांका",
+          "वॉटर वाइट"
+        ],
+        "answer": "गुस फ्रिंज"
+      },
+      {
+        "id": 8,
+        "question": "फिल्म 'द वुल्फ ऑफ़ वॉल स्ट्रीट' में मुख्य किरदार कौन निभाता है?",
+        "options": [
+          "लियोनार्डो डिकैप्रियो",
+          "ब्रैड पिट",
+          "टॉम क्रूज",
+          "जॉर्ज क्लूनी"
+        ],
+        "answer": "लियोनार्डो डिकैप्रियो"
+      },
+      {
+        "id": 9,
+        "question": "मार्वल की 'जेसिका जोन्स' श्रृंखला में मुख्य पात्र का नाम क्या है?",
+        "options": [
+          "जेसिका जोन्स",
+          "कैरोल डेनवर",
+          "नताशा रोमानोफ़",
+          "वांडा मैक्सिमॉफ़"
+        ],
+        "answer": "जेसिका जोन्स"
+      },
+      {
+        "id": 10,
+        "question": "फिल्म 'पैसिफ़िक रिम' में दिखाई देने वाले विशाल रोबोट का नाम क्या है?",
+        "options": [
+          "मेजिंगर जेड",
+          "वोल्ट्रॉन",
+          "जिप्सी डेंजर",
+          "ऑप्टिमस प्राइम"
+        ],
+        "answer": "जिप्सी खतरा"
+      },
+      {
+        "id": 11,
+        "question": "डीसी 'वंडर वुमन' फिल्मों में गैल गैडोट द्वारा निभाए गए किरदार का नाम क्या है?",
+        "options": ["डायना प्रिंस", "लोइस लेन", "हार्ले क्विन", "कैटवूमन"],
+        "answer": "डायना प्रिंस"
+      },
+      {
+        "id": 12,
+        "question": "आरपीजी खेलने वाले दोस्तों के समूह के बारे में नेटफ्लिक्स श्रृंखला का नाम क्या है?",
+        "options": ["स्ट्रेंजर थिंग्स", "सेंस8", "द ओए", "द विंक्स क्लब"],
+        "answer": "अजनबी चीजें"
+      },
+      {
+        "id": 13,
+        "question": "'पाइरेट्स ऑफ द कैरेबियन' फिल्म फ्रेंचाइजी में जैक स्पैरो का किरदार कौन निभा रहा है?",
+        "options": [
+          "जॉनी डेप",
+          "टौम हैंक्स",
+          "रॉबर्ट डाउने जूनियर।",
+          "ह्यूग जैकमैन"
+        ],
+        "answer": "जॉनी डेप"
+      },
+      {
+        "id": 14,
+        "question": "फ़िल्म 'जुरासिक पार्क' किस वर्ष रिलीज़ हुई थी?",
+        "options": ["1990", "1993", "1996", "1999"],
+        "answer": "1993"
+      },
+      {
+        "id": 15,
+        "question": "श्रृंखला 'स्ट्रेंजर थिंग्स' के मुख्य पात्र का नाम क्या है?",
+        "options": [
+          "माइक व्हीलर",
+          "डस्टिन हेंडरसन",
+          "लुकास सिंक्लेयर",
+          "विल बायर्स"
+        ],
+        "answer": "विल बायर्स"
+      },
+      {
+        "id": 16,
+        "question": "'फॉरेस्ट गंप - द स्टोरीटेलर' फिल्म के नायक का नाम क्या है?",
+        "options": [
+          "टौम हैंक्स",
+          "लियोनार्डो डिकैप्रियो",
+          "ब्रैड पिट",
+          "विल स्मिथ"
+        ],
+        "answer": "टॉम हैंक्स"
+      },
+      {
+        "id": 17,
+        "question": "श्रृंखला 'ब्रेकिंग बैड' के मुख्य पात्र का नाम क्या है?",
+        "options": [
+          "हैंक श्रेडर",
+          "गुस्तावो फ्रिंज",
+          "शाऊल गुडमैन",
+          "वॉटर वाइट"
+        ],
+        "answer": "वाल्टर व्हाइट"
+      },
+      {
+        "id": 18,
+        "question": "उस पात्र का नाम क्या है जो DC कॉमिक्स में बैटमैन का प्रमुख शत्रु है?",
+        "options": ["लेक्स लूथर", "जोकर", "पेंगुइन", "पहेली"],
+        "answer": "जोकर"
+      },
+      {
+        "id": 19,
+        "question": "'लॉर्ड ऑफ़ द रिंग्स' त्रयी में मुख्य पात्र का नाम क्या है?",
+        "options": ["अरागॉर्न", "गंडालफ", "फ्रोडो बैगिन्स", "लेगोलस"],
+        "answer": "फ्रोडो बैगिन्स"
+      },
+      {
+        "id": 20,
+        "question": "टीवी श्रृंखला का नाम क्या है जो एक ज़ोंबी सर्वनाश में बचे लोगों के एक समूह की कहानी कहता है?",
+        "options": ["द वाकिंग डेड", "फियर द वॉकिंग डेड", "जेड नेशन", "ज़ोंबी"],
+        "answer": "द वॉकिंग डेड"
+      },
+      {
+        "id": 21,
+        "question": "कीनू रीव्स द्वारा 'मैट्रिक्स' फिल्म फ्रेंचाइजी में निभाए गए किरदार का नाम क्या है?",
+        "options": ["मॉर्फियस", "ट्रिनिटी", "नियो", "साइफर"],
+        "answer": "नव"
+      },
+      {
+        "id": 22,
+        "question": "'गेम ऑफ थ्रोन्स' श्रृंखला के मुख्य पात्र का नाम क्या है?",
+        "options": [
+          "जॉन स्नो",
+          "टायरियन लैनिस्टर",
+          "डेनेरीज़ टार्गैरियन",
+          "आर्य स्टार्क"
+        ],
+        "answer": "'गेम ऑफ थ्रोन्स' में कोई स्पष्ट मुख्य किरदार नहीं है"
+      },
+      {
+        "id": 23,
+        "question": "टीवी श्रृंखला का नाम क्या है जो न्यूयॉर्क शहर में दोस्तों के एक समूह के कारनामों का अनुसरण करता है?",
+        "options": [
+          "मेरी आपकी मम्मी के साथ कैसे मुलाकात हुई थी",
+          "दोस्त",
+          "नई लड़की",
+          "बिग बैंग थ्योरी"
+        ],
+        "answer": "मित्र"
+      },
+      {
+        "id": 24,
+        "question": "'हैरी पॉटर' फिल्म फ्रेंचाइजी में एम्मा वाटसन द्वारा निभाए गए चरित्र का नाम क्या है?",
+        "options": [
+          "हर्माइनी ग्रेंजर",
+          "लूना लवगुड",
+          "गिन्नी वीस्ली",
+          "नेविल लॉन्गबॉटम"
+        ],
+        "answer": "हरमाइन ग्रेंजर"
+      },
+      {
+        "id": 25,
+        "question": "न्यूयॉर्क में मार्वल पात्रों के एक समूह का अनुसरण करने वाली टीवी श्रृंखला का नाम क्या है?",
+        "options": ["डेयरडेविल", "जेसिका जोन्स", "ल्यूक केज", "द डिफेंडर्स"],
+        "answer": "रक्षकों"
+      },
+      {
+        "id": 26,
+        "question": "'फ़ॉरेस्ट गंप' में टॉम हैंक्स द्वारा निभाए गए किरदार का नाम क्या है?",
+        "options": [
+          "फ़ॉरेस्ट गंप",
+          "बुब्बा ब्लू",
+          "जेनी कुरान",
+          "लेफ्टिनेंट डैन"
+        ],
+        "answer": "फॉरेस्ट गंप"
+      },
+      {
+        "id": 27,
+        "question": "टीवी श्रृंखला का नाम क्या है जो एक डायस्टोपियन भविष्य में होता है जहां उपजाऊ महिलाओं को बाँझ अभिजात वर्ग के लिए प्रजनन करने के लिए मजबूर किया जाता है?",
+        "options": [
+          "द वाकिंग डेड",
+          "अजनबी चीजें",
+          "द हैंडमेड्स टेल",
+          "काला दर्पण"
+        ],
+        "answer": "द हैंडमेड्स टेल"
+      },
+      {
+        "id": 28,
+        "question": "'टॉम्ब रेडर' फ़िल्मों में एंजेलीना जोली द्वारा निभाए गए किरदार का नाम क्या है?",
+        "options": [
+          "लारा क्रौफ्ट",
+          "एलिसिया विकेंडर",
+          "ट्रिनिटी",
+          "तालिया अल गुलाल"
+        ],
+        "answer": "लारा क्रॉफ्ट"
+      },
+      {
+        "id": 29,
+        "question": "टीवी श्रृंखला का नाम क्या है जो एक रसायन विज्ञान शिक्षक के जीवन का अनुसरण करता है जो ड्रग डीलर बन जाता है?",
+        "options": ["ब्रेकिंग बैड", "नार्कोस", "द वायर", "ओज़ार्क"],
+        "answer": "ब्रेकिंग बैड"
+      },
+      {
+        "id": 30,
+        "question": "मार्वल फिल्मों में आयरन मैन की भूमिका निभाने वाले अभिनेता का नाम क्या है?",
+        "options": [
+          "रॉबर्ट डाउने जूनियर।",
+          "क्रिस इवान",
+          "क्रिस हेम्सवर्थ",
+          "मार्क रफलो"
+        ],
+        "answer": "रॉबर्ट डाउनी जूनियर"
+      },
+      {
+        "id": 31,
+        "question": "बेनेडिक्ट कंबरबैच द्वारा निभाई गई टीवी श्रृंखला 'शर्लक' के नायक का नाम क्या है?",
+        "options": [
+          "डॉ जॉन वाटसन",
+          "इंस्पेक्टर लेस्ट्रेड",
+          "माइक्रॉफ्ट होम्स",
+          "शर्लक होम्स"
+        ],
+        "answer": "शर्लक होम्स"
+      },
+      {
+        "id": 32,
+        "question": "फिल्म 'भौंरा' में रामी मालेक द्वारा निभाए गए रोबोट का नाम क्या है?",
+        "options": ["ऑप्टिमस प्राइम", "बैरिकेड", "मेगाट्रॉन", "ब्लिट्जविंग"],
+        "answer": "ब्लिट्जविंग"
+      },
+      {
+        "id": 33,
+        "question": "टीवी श्रृंखला का नाम क्या है जो मीडिया साम्राज्य चलाने वाले एक अमेरिकी परिवार के जीवन का अनुसरण करता है?",
+        "options": ["द सोप्रानोस", "उत्तराधिकार", "मैड मेन", "द क्राउन"],
+        "answer": "उत्तराधिकार"
+      },
+      {
+        "id": 34,
+        "question": "फिल्म 'कास्ट अवे' में टॉम हैंक्स द्वारा निभाए गए मुख्य किरदार का नाम क्या है?",
+        "options": [
+          "चक नोलैंड",
+          "विल्सन",
+          "फ्रैंक डिक्सन",
+          "स्टेनली येल्नाट्स IV"
+        ],
+        "answer": "चक नोलैंड"
+      },
+      {
+        "id": 35,
+        "question": "विल स्मिथ द्वारा फिल्म 'आई एम लेजेंड' में निभाए गए मुख्य किरदार का नाम क्या है?",
+        "options": ["रॉबर्ट नेविल", "अन्ना मोंटेज़", "एथन हंट", "जॉन मैकक्लेन"],
+        "answer": "रॉबर्ट नेविल"
+      },
+      {
+        "id": 36,
+        "question": "टीवी श्रृंखला 'स्ट्रेंजर थिंग्स' में इलेवन का किरदार निभाने वाली अभिनेत्री का नाम क्या है?",
+        "options": [
+          "मिल्ली बॉबी ब्राउन",
+          "सैडी सिंक",
+          "गैटन मातरज्जो",
+          "फिन वोल्फहार्ड"
+        ],
+        "answer": "मिल्ली बॉबी ब्राउन"
+      },
+      {
+        "id": 37,
+        "question": "फिल्म 'जोकर' में जोआक्विन फीनिक्स द्वारा निभाए गए खलनायक का नाम क्या है?",
+        "options": [
+          "आर्थर फ्लेक",
+          "हार्वे डेंट",
+          "एडवर्ड न्यग्मा",
+          "ओसवाल्ड कोबलपॉट"
+        ],
+        "answer": "आर्थर फ्लेक"
+      },
+      {
+        "id": 38,
+        "question": "'स्टार वार्स' फ़्रैंचाइज़ी में एंथनी डेनियल द्वारा निभाई गई रोबोट का नाम क्या है?",
+        "options": ["बीबी-8", "सी-3पीओ", "आर2-डी2", "के-2एसओ"],
+        "answer": "सी-3PO"
+      },
+      {
+        "id": 39,
+        "question": "फिल्म 'ला ला लैंड - सिंगिंग सीजन्स' में एम्मा स्टोन द्वारा निभाए गए किरदार का नाम क्या है?",
+        "options": ["सेबस्टियन वाइल्डर", "कीथ", "मिया डोलन", "कैरोलिन"],
+        "answer": "मिया डोलन"
+      },
+      {
+        "id": 40,
+        "question": "द शशांक रिडेम्पशन' फिल्म में टिम रॉबिंस द्वारा निभाए गए मुख्य किरदार का नाम क्या है?",
+        "options": ["टॉमी विलियम्स", "एंडी डुफ्रेसने", "रेड", "वार्डन नॉर्टन"],
+        "answer": "एंडी डुफ्रेसने"
+      },
+      {
+        "id": 41,
+        "question": "'हैरी पॉटर' फ़िल्म श्रृंखला में राल्फ़ फ़ीनेस द्वारा निभाए गए खलनायक का नाम क्या है?",
+        "options": [
+          "ड्रैको मालफॉय",
+          "लूसियस मालफॉय",
+          "लॉर्ड वॉल्डेमॉर्ट",
+          "सेवेरस स्नेप"
+        ],
+        "answer": "लॉर्ड वोल्डेमॉर्ट"
+      },
+      {
+        "id": 42,
+        "question": "'हैरी पॉटर' फ़िल्म श्रृंखला में हर्मियोन ग्रेंजर का किरदार निभाने वाली अभिनेत्री का नाम क्या है?",
+        "options": ["एम्मा वाटसन", "एम्मा स्टोन", "एम्मा थॉमसन", "एमिली ब्लंट"],
+        "answer": "एम्मा वाटसन"
+      },
+      {
+        "id": 43,
+        "question": "'फैंटास्टिक बीस्ट्स' फिल्म श्रृंखला में एडी रेडमायने द्वारा निभाए गए मुख्य किरदार का नाम क्या है?",
+        "options": [
+          "गेलर्ट ग्रिंडेलवाल्ड",
+          "न्यूट स्कैमैंडर",
+          "पर्सिवल ग्रेव्स",
+          "बेयरबोन क्रेडेंस"
+        ],
+        "answer": "न्यूट स्कैमैंडर"
+      },
+      {
+        "id": 44,
+        "question": "टीवी श्रृंखला 'स्ट्रेंजर थिंग्स' में मिल्ली बॉबी ब्राउन द्वारा निभाए गए चरित्र का नाम क्या है?",
+        "options": ["मैक्स", "ग्यारह", "नैन्सी", "जॉइस"],
+        "answer": "ग्यारह"
+      },
+      {
+        "id": 45,
+        "question": "न्यूयॉर्क में इतालवी गैंगस्टरों के परिवार के बारे में टीवी श्रृंखला का नाम क्या है?",
+        "options": ["द सोप्रानोस", "ब्रेकिंग बैड", "द वायर", "नारकोस"],
+        "answer": "द सोप्रानोस"
+      },
+      {
+        "id": 46,
+        "question": "1973 और 1985 के बीच सात फिल्मों में जेम्स बॉन्ड की भूमिका निभाने वाले अभिनेता का नाम क्या है?",
+        "options": ["शॉन कॉनरी", "रोजर मूर", "पियर्स ब्रोसनन", "टिमोथी डाल्टन"],
+        "answer": "रोजर मूर"
+      },
+      {
+        "id": 47,
+        "question": "लास वेगास के आपराधिक अंडरवर्ल्ड में होने वाली मार्टिन स्कॉर्सेज़ द्वारा निर्देशित फिल्म का नाम क्या है?",
+        "options": ["गुडफेलाज", "कैसीनो", "टैक्सी ड्राइवर", "भड़के हुए सांड"],
+        "answer": "कैसीनो"
+      },
+      {
+        "id": 48,
+        "question": "कॉमेडी टीवी श्रृंखला का नाम क्या है जो एक अस्पताल में होता है और ज़ैच ब्रैफ अभिनीत करता है?",
+        "options": ["डॉक्टर", "स्क्रब्स", "ग्रे'ज़ एनाटॉमी", "हाउस"],
+        "answer": "स्क्रब"
+      },
+      {
+        "id": 49,
+        "question": "उस फिल्म का नाम क्या है जो मार्क जुकरबर्ग नाम के एक युवा उद्यमी के जीवन और फेसबुक के निर्माण को चित्रित करती है?",
+        "options": [
+          "सोशल नेटवर्क",
+          "नकली खेल",
+          "सब कुछ का सिद्धांत",
+          "स्टीव जॉब्स"
+        ],
+        "answer": "सोशल नेटवर्क"
+      },
+      {
+        "id": 50,
+        "question": "वाशिंगटन राज्य के एक काल्पनिक छोटे शहर में होने वाली टीवी श्रृंखला का नाम क्या है और एफबीआई एजेंट डेल कूपर की जांच का अनुसरण करता है?",
+        "options": ["ब्रेकिंग बैड", "फ़ार्गो", "ट्रू डिटेक्टिव", "ट्विन पीक्स"],
+        "answer": "ट्विन चोटियाँ"
+      }
+    ],
+
+    "Music_and_famous_artists": [
+      {
+        "id": 1,
+        "question": "1991 में रिलीज़ हुए निर्वाण एल्बम का नाम क्या है और इसे इतिहास के सर्वश्रेष्ठ रॉक एल्बमों में से एक माना जाता है?",
+        "options": [
+          "गर्भ में",
+          "विरंजित करना",
+          "कोई बात नहीं",
+          "एमटीवी अनप्लग्ड इन न्यूयॉर्क"
+        ],
+        "answer": "कोई बात नहीं"
+      },
+      {
+        "id": 2,
+        "question": "ब्राज़ीलियाई गायक और संगीतकार का नाम क्या है जिसे ब्राज़ीलियाई संगीत का राजा माना जाता है?",
+        "options": [
+          "रॉबर्टो कार्लोस",
+          "चिको बुर्के",
+          "गिल्बर्टो गिल",
+          "केटानो वेलोसो"
+        ],
+        "answer": "रॉबर्टो कार्लोस"
+      },
+      {
+        "id": 3,
+        "question": "उस गायिका का नाम क्या है जिसे 'आत्मा की रानी' के रूप में जाना जाता है?",
+        "options": [
+          "व्हिटनी ह्यूस्टन",
+          "एरेथा फ्रैंकलिन",
+          "टीना टर्नर",
+          "डायना रॉस"
+        ],
+        "answer": "एरेथा फ्रैंकलिन"
+      },
+      {
+        "id": 4,
+        "question": "हिप-हॉप समूह का नाम क्या है जिसमें रैपर डॉ. ड्रे और आइस क्यूब शामिल हैं?",
+        "options": ["सार्वजनिक शत्रु", "N.W.A.", "वू-तांग कबीले", "आउटकास्ट"],
+        "answer": "N.W.A."
+      },
+      {
+        "id": 5,
+        "question": "उस गायिका का नाम क्या है जिसे 'पॉप की राजकुमारी' के रूप में जाना जाता है?",
+        "options": [
+          "ब्रिटनी स्पीयर्स",
+          "मैडोना",
+          "क्रिस्टीना एगुइलेरा",
+          "बियॉन्से"
+        ],
+        "answer": "ब्रिटनी स्पीयर्स"
+      },
+      {
+        "id": 6,
+        "question": "ब्राज़ीलियाई गायक और संगीतकार का क्या नाम है जो बोसा नोवा के निर्माता और 'गरोटा डी इपनेमा' और 'डेसाफिनाडो' जैसी हिट फिल्मों के लिए जाने जाते हैं?",
+        "options": [
+          "जोआओ गिल्बर्टो",
+          "टॉम जोबिन",
+          "केटानो वेलोसो",
+          "चिको बुर्के"
+        ],
+        "answer": "टॉम जोबिम"
+      },
+      {
+        "id": 7,
+        "question": "ब्रिटिश गायक का नाम क्या है जिसे 'एडेल' के नाम से जाना जाता है और 'समवन लाइक यू' और 'हैलो' जैसी हिट फिल्में दी हैं?",
+        "options": ["एडेल", "टेलर स्विफ्ट", "एरियाना ग्रांडे", "बियॉन्से"],
+        "answer": "एडेल"
+      },
+      {
+        "id": 8,
+        "question": "हैवी मेटल बैंड का नाम क्या है जो गिटारवादक टोनी इयोमी, गायक ओजी ऑस्बॉर्न, बेसिस्ट गीज़र बटलर और ड्रमर बिल वार्ड द्वारा गठित होने के लिए जाना जाता है?",
+        "options": [
+          "ब्लैक सब्बाथ",
+          "लौह खूंटी युक्त यातना बॉक्स",
+          "जुड़स पादरी",
+          "मोटरहेड"
+        ],
+        "answer": "ब्लैक सब्बाथ"
+      },
+      {
+        "id": 9,
+        "question": "पिंक फ़्लॉइड एल्बम का नाम क्या है जिसे इतिहास में सर्वश्रेष्ठ प्रगतिशील रॉक एल्बमों में से एक माना जाता है और 1973 में रिलीज़ किया गया था?",
+        "options": [
+          "काश तुम यहां होते",
+          "दीवार",
+          "जानवरों",
+          "चंद्रमा का अंधेरा पक्ष"
+        ],
+        "answer": "द डार्क साइड ऑफ़ द मून"
+      },
+      {
+        "id": 10,
+        "question": "उस गायिका का नाम क्या है जिसे 'लैटिन पॉप की रानी' के रूप में जाना जाता है?",
+        "options": ["ग्लोरिया एस्टेफन", "जेनिफर लोपेज़", "शकीरा", "थालिया"],
+        "answer": "शकीरा"
+      },
+      {
+        "id": 11,
+        "question": "उस ब्राज़ीलियाई गायक का नाम क्या है जिसे 'पिमेंटिनहा' के नाम से जाना जाता है और जिसने 'अत्रस दा पोर्टा' और 'कारिन्होसो' जैसी हिट फ़िल्में दी हैं?",
+        "options": [
+          "गैल कोस्टा",
+          "एलिस रेजिना",
+          "मारिया बेथानिया",
+          "कैसिया एलर"
+        ],
+        "answer": "एलिस रेजिना"
+      },
+      {
+        "id": 12,
+        "question": "ब्रिटिश गायक-गीतकार का नाम क्या है जो बैंड क्वीन के अग्रदूत होने और 'बोहेमियन रैप्सोडी' और 'वी आर द चैंपियंस' जैसी हिट फिल्मों के लिए जाने जाते हैं?",
+        "options": [
+          "फ्रेडी मर्क्युरी",
+          "एल्टन जॉन",
+          "जार्ज माइकल",
+          "डेविड बॉवी"
+        ],
+        "answer": "फ्रेडी मर्करी"
+      },
+      {
+        "id": 13,
+        "question": "ब्रिटिश वैकल्पिक रॉक बैंड का नाम क्या है जिसने 'कर्मा पुलिस' और 'क्रीप' जैसी हिट फ़िल्में दीं?",
+        "options": ["कोल्डप्ले", "रेडियोहेड", "म्यूज", "ओएसिस"],
+        "answer": "रेडियोहेड"
+      },
+      {
+        "id": 14,
+        "question": "ब्राज़ीलियाई गायक और संगीतकार का नाम क्या है जो बोसा नोवा के संस्थापकों में से एक होने और 'गरोता दे इपनेमा' और 'चेगा दे सौदादे' जैसी हिट फिल्मों के लिए जाने जाते हैं?",
+        "options": [
+          "टॉम जोबिन",
+          "जोआओ गिल्बर्टो",
+          "केटानो वेलोसो",
+          "चिको बुर्के"
+        ],
+        "answer": "जोआओ गिल्बर्टो"
+      },
+      {
+        "id": 15,
+        "question": "उस अमेरिकी गायिका और अभिनेत्री का नाम क्या है जो 'पॉप की दिवा' के रूप में जानी जाती है और जिसने 'विज़न ऑफ़ लव' और 'हीरो' जैसी हिट फ़िल्में दी हैं?",
+        "options": [
+          "बियॉन्से",
+          "मारिया कैरे",
+          "व्हिटनी ह्यूस्टन",
+          "क्रिस्टीना एगुइलेरा"
+        ],
+        "answer": "मारिया केरी"
+      },
+      {
+        "id": 16,
+        "question": "ब्राज़ीलियाई गायक का क्या नाम है जिसे 'सांबा की रानी' के रूप में जाना जाता है और 'पेकाडो कैपिटल' और 'कोटिडियानो' जैसी हिट फ़िल्में दी हैं?",
+        "options": [
+          "Alcione",
+          "बेथ कार्वाल्हो",
+          "एल्ज़ा सोरेस",
+          "क्लारा नून्स"
+        ],
+        "answer": "बेथ कार्वाल्हो"
+      },
+      {
+        "id": 17,
+        "question": "'नागरेल्हा डॉस लाम्बास', वह किस शैली के गायक थे?",
+        "options": ["एफ्रो-हाउस", "कुडुरो", "हाउस", "हिप-हॉप"],
+        "answer": "बेथ कार्वाल्हो"
+      },
+      {
+        "id": 18,
+        "question": "ब्रिटिश गायक-गीतकार का नाम क्या है जो द बीटल्स के सदस्य होने के लिए जाने जाते हैं और 'इमेजिन' और 'इमेजिन' जैसी हिट फिल्में दे चुके हैं?",
+        "options": [
+          "पॉल मेक कार्टनी",
+          "जॉन लेनन",
+          "जॉर्ज हैरिसन",
+          "रिंग स्टार"
+        ],
+        "answer": "जॉन लेनन"
+      },
+      {
+        "id": 19,
+        "question": "अमेरिकी गायक-गीतकार का क्या नाम है जो जैज़ से प्रभावित होने के लिए जाना जाता है और 'रिहैब' और 'बैक टू ब्लैक' जैसी हिट फ़िल्में दी हैं?",
+        "options": ["एडेल", "एमी वाइनहाउस", "लेडी गागा", "बियॉन्से"],
+        "answer": "एमी वाइनहाउस"
+      },
+      {
+        "id": 20,
+        "question": "उस रॉक बैंड का नाम क्या है जिसमें बॉन स्कॉट प्रमुख गायक थे और बाद में ब्रायन जॉनसन?",
+        "options": ["लेड जेप्लिन", "एसी/डीसी", "डीप पर्पल", "ब्लैक सब्बाथ"],
+        "answer": "एसी/डीसी"
+      },
+      {
+        "id": 21,
+        "question": "उस रॉक बैंड का क्या नाम है जिसमें गायक एडी वेडर प्रमुख गायक हैं?",
+        "options": ["पर्ल जैम", "साउंडगार्डन", "एलिस इन चेन्स", "निर्वाण"],
+        "answer": "पर्ल जैम"
+      },
+      {
+        "id": 22,
+        "question": "उस हेवी मेटल बैंड का क्या नाम है जिसमें गायक रॉनी जेम्स डियो प्रमुख गायक थे?",
+        "options": ["ब्लैक सब्बाथ", "आयरन मेडेन", "जुडास प्रीस्ट", "डियो"],
+        "answer": "डियो"
+      },
+      {
+        "id": 23,
+        "question": "डेव ग्रोहल द्वारा प्रस्तुत रॉक बैंड का नाम क्या है?",
+        "options": ["फू फाइटर्स", "ग्रीन डे", "वीजर", "द ऑफस्प्रिंग"],
+        "answer": "फू फाइटर्स"
+      },
+      {
+        "id": 24,
+        "question": "उस रॉक बैंड का क्या नाम है जिसमें गायक मिक जैगर प्रमुख गायक हैं?",
+        "options": ["द बीटल्स", "रोलिंग स्टोन्स", "लेड जेप्लिन", "पिंक फ्लोयड"],
+        "answer": "रोलिंग स्टोन्स"
+      },
+      {
+        "id": 25,
+        "question": "2019 में रिलीज़ हुई बिली इलिश की पहली एल्बम का नाम क्या है?",
+        "options": [
+          "आजतक सबसे खुश",
+          "जब हम सब सो जाते हैं, तो हम कहाँ जाते हैं?",
+          "मुझ पर मुस्कुराओ मत",
+          "बुरा आदमी"
+        ],
+        "answer": "जब हम सब सो जाते हैं, हम कहाँ जाते हैं?"
+      },
+      {
+        "id": 26,
+        "question": "उस रॉक बैंड का नाम क्या है जिसमें जिम मॉरिसन प्रमुख गायक थे?",
+        "options": ["द डोर्स", "द हू", "द किंक्स", "द रोलिंग स्टोन्स"],
+        "answer": "द डोर्स"
+      },
+      {
+        "id": 27,
+        "question": "संगीत के इतिहास में सबसे अधिक बिकने वाले एल्बम का नाम क्या है?",
+        "options": [
+          "माइकल जैक्सन की थ्रिलर",
+          "द बॉडीगार्ड, मूवी साउंडट्रैक",
+          "बैक इन ब्लैक बाई एसी/डीसी",
+          "द डार्क साइड ऑफ़ द मून बाय पिंक फ़्लॉइड"
+        ],
+        "answer": "माइकल जैक्सन की थ्रिलर"
+      },
+      {
+        "id": 28,
+        "question": "पिंक फ़्लॉइड एल्बम का नाम क्या है जो 1979 में रिलीज़ हुआ था और इसे सबसे महान रॉक क्लासिक्स में से एक माना जाता है?",
+        "options": [
+          "काश तुम यहां होते",
+          "जानवरों",
+          "दीवार",
+          "चंद्रमा का अंधकार पक्ष"
+        ],
+        "answer": "दीवार"
+      },
+      {
+        "id": 29,
+        "question": "किसने 'आई वांट टू नो व्हाट लव इज' गाना गाया है?",
+        "options": ["माइकल जैक्सन", "ब्लैक पिंक", "मारिया केरी", "बीटीएस"],
+        "answer": "मारिया केरी"
+      },
+      {
+        "id": 30,
+        "question": "उस गायिका का नाम क्या है जिसे 'रॉक की रानी' के रूप में जाना जाता है?",
+        "options": ["टीना टर्नर", "जेनिस जोप्लिन", "जोन जेट", "पैट बेनटार"],
+        "answer": "टीना टर्नर"
+      },
+      {
+        "id": 31,
+        "question": "उस गायक का नाम क्या है जिसे 'द वॉइस' के नाम से जाना जाता है?",
+        "options": [
+          "व्हिटनी ह्यूस्टन",
+          "मारिया कैरे",
+          "सेलीन डियोन",
+          "एरेथा फ्रैंकलिन"
+        ],
+        "answer": "व्हिटनी ह्यूस्टन"
+      },
+      {
+        "id": 32,
+        "question": "संगीतकारों एक्सल रोज़, स्लैश और डफ मैककगन द्वारा गठित रॉक बैंड का नाम क्या है?",
+        "options": [
+          "निर्वाण",
+          "अरमास ए रोज़ास",
+          "मेटालिका",
+          "तीखी लाल मिर्च कालीमिर्च"
+        ],
+        "answer": "गन्स एन' रोज़ेज़"
+      },
+      {
+        "id": 33,
+        "question": "1973 में 'द डार्क साइड ऑफ़ द मून' एल्बम जारी करने वाले ब्रिटिश बैंड का क्या नाम है?",
+        "options": ["लेड जेप्लिन", "पिंक फ्लोयड", "रोलिंग स्टोन्स", "WHO"],
+        "answer": "पिंक फ़्लॉइड"
+      },
+      {
+        "id": 34,
+        "question": "1995 में 'जैग्ड लिटिल पिल' एल्बम जारी करने वाले गायक का नाम क्या है?",
+        "options": ["अलानिस मोरिसेते", "शेरिल क्रो", "गहना", "ट्रेसी चैपमैन"],
+        "answer": "अलनीस मोरीसेट"
+      },
+      {
+        "id": 35,
+        "question": "उस गायक का नाम क्या है जिसने 2016 में 'लेमोनेड' एल्बम जारी किया?",
+        "options": ["बियॉन्से", "एडेल", "रिहाना", "टेलर स्विफ्ट"],
+        "answer": "बेयॉन्से"
+      },
+      {
+        "id": 36,
+        "question": "उस गायक का नाम क्या है जिसे 'द प्रिंस ऑफ मोटाउन' के नाम से जाना जाता है?",
+        "options": [
+          "स्मोकी रॉबिन्सन",
+          "मार्विन गाये",
+          "स्टीव वंडर",
+          "ओटिस रेडिंग"
+        ],
+        "answer": "स्मोकी रॉबिन्सन"
+      },
+      {
+        "id": 37,
+        "question": "उस गायिका का नाम क्या है जिसे 'पॉप की रानी' के रूप में जाना जाता है?",
+        "options": [
+          "मैडोना",
+          "ब्रिटनी स्पीयर्स",
+          "क्रिस्टीना एगुइलेरा",
+          "सेलीन डियोन"
+        ],
+        "answer": "मैडोना"
+      },
+      {
+        "id": 38,
+        "question": "आत्मा गायक का नाम क्या है जिसे 'द गॉडफादर ऑफ सोल' कहा जाता है?",
+        "options": ["रे चार्ल्स", "सैम कुक", "मार्विन गे", "जेम्स ब्राउन"],
+        "answer": "जेम्स ब्राउन"
+      },
+      {
+        "id": 39,
+        "question": "भाइयों लियाम और नोएल गैलाघेर द्वारा गठित बैंड का नाम क्या है?",
+        "options": ["द बीटल्स", "ओएसिस", "रेडियोहेड", "द रोलिंग स्टोन्स"],
+        "answer": "ओएसिस"
+      },
+      {
+        "id": 40,
+        "question": "इनमें से किस कलाकार को 'द किंग ऑफ़ पॉप' के नाम से जाना जाता है?",
+        "options": [
+          "जेम्स ब्राउन",
+          "मार्विन गाये",
+          "स्टीव वंडर",
+          "माइकल जैक्सन"
+        ],
+        "answer": "माइकल जैक्सन"
+      },
+      {
+        "id": 41,
+        "question": "2014 में '1989' एल्बम जारी करने वाले गायक का नाम क्या है?",
+        "options": ["टेलर स्विफ्ट", "एरियाना ग्रांडे", "बियॉन्से", "रिहाना"],
+        "answer": "टेलर स्विफ्ट"
+      },
+      {
+        "id": 42,
+        "question": "इनमें से किस कलाकार को 'द बॉस' के नाम से जाना जाता है?",
+        "options": ["ब्रूस स्प्रिंग्सटीन", "बॉब डिलन", "नील जवान", "टॉम पेटी"],
+        "answer": "ब्रूस स्प्रिंग"
+      },
+      {
+        "id": 43,
+        "question": "2020 में सर्वश्रेष्ठ मूल गीत के लिए ऑस्कर जीतने वाले रैपर का नाम क्या है?",
+        "options": ["केंड्रिक लैमर", "जे-जेड", "एमिनेम", "लिल नैस एक्स"],
+        "answer": "एमिनेम"
+      },
+      {
+        "id": 44,
+        "question": "उस संगीत समूह का नाम क्या है जो 'बोहेमियन रैप्सोडी' गीत से प्रसिद्ध हुआ?",
+        "options": ["लेड जेप्लिन", "रोलिंग स्टोन्स", "रानी", "द बीटल्स"],
+        "answer": "रानी"
+      },
+      {
+        "id": 45,
+        "question": "इनमें से किस कलाकार को अपने दांतों से गिटार बजाने और अपनी जीभ से एकल करने के लिए जाना जाता है?",
+        "options": [
+          "जिमी हेंड्रिक्स",
+          "एरिक क्लैप्टन",
+          "एडी वैन हेलन",
+          "जिमी पेज"
+        ],
+        "answer": "जिमी हेंड्रिक्स"
+      },
+      {
+        "id": 46,
+        "question": "2020 में सुपर बाउल हॉल्टटाइम में प्रदर्शन करने वाले गायक का नाम क्या है?",
+        "options": ["बियॉन्से", "जेनिफर लोपेज", "शकीरा", "रिहाना"],
+        "answer": "जेनिफर लोपेज"
+      },
+      {
+        "id": 47,
+        "question": "इनमें से किस बैंड को ग्रंज आंदोलन का अग्रणी माना जाता है?",
+        "options": ["पर्ल जैम", "साउंडगार्डन", "एलिस इन चेन्स", "निर्वाण"],
+        "answer": "निर्वाण"
+      },
+      {
+        "id": 48,
+        "question": "इनमें से कौन सा कलाकार अपनी संबंधित संगीत शैली में 'राजा' के रूप में नहीं जाना जाता है?",
+        "options": [
+          "एल्विस प्रेस्ली",
+          "माइकल जैक्सन",
+          "फ्रैंक सिनाट्रा",
+          "जॉनी कैश"
+        ],
+        "answer": "जॉनी कैश"
+      },
+      {
+        "id": 49,
+        "question": "लेडी गागा के नाम से प्रसिद्ध पॉप गायिका का पूरा नाम क्या है?",
+        "options": [
+          "स्फनी जोने एंजेलिना गेरमनोट्टा",
+          "रॉबिन रिहाना फ़ेन्टी",
+          "एडेल लॉरी ब्लू एडकिंस",
+          "कैथरीन एलिजाबेथ हडसन"
+        ],
+        "answer": "स्टेफनी जोआन एंजेलीना जर्मनोटा"
+      },
+      {
+        "id": 50,
+        "question": "थ्रिलर' एल्बम जारी करने वाले गायक का नाम क्या है?",
+        "options": [
+          "माइकल जैक्सन",
+          "एल्विस प्रेस्ली",
+          "जॉन लेनन",
+          "पॉल मेक कार्टनी"
+        ],
+        "answer": "माइकल जैक्सन"
+      }
+    ],
+
+    "Famous_sports_and_athletes": [
+      {
+        "id": 1,
+        "question": "अर्जेंटीना के उस फ़ुटबॉल खिलाड़ी का नाम क्या है जिसे इतिहास के सर्वश्रेष्ठ खिलाड़ियों में से एक माना जाता है?",
+        "options": [
+          "लियोनेल मेस्सी",
+          "क्रिस्टियानो रोनाल्डो",
+          "नेमार जूनियर",
+          "पेले"
+        ],
+        "answer": "लियोनेल मेस्सी"
+      },
+      {
+        "id": 2,
+        "question": "2016 ओलंपिक का मेजबान देश कौन सा था?",
+        "options": ["ब्राजील", "चीन", "जापान", "संयुक्त राज्य अमेरिका"],
+        "answer": "ब्राज़ील"
+      },
+      {
+        "id": 3,
+        "question": "23 ओलंपिक स्वर्ण पदक जीतने वाले अमेरिकी तैराक का क्या नाम है?",
+        "options": [
+          "माइकल फेल्प्स",
+          "रयान लोचटे",
+          "केटी लेडेकी",
+          "सिमोन मैनुअल"
+        ],
+        "answer": "माइकल फेल्प्स"
+      },
+      {
+        "id": 4,
+        "question": "2021 टोक्यो ओलंपिक में स्वर्ण पदक जीतने वाले जापानी टेनिस खिलाड़ी का नाम क्या है?",
+        "options": [
+          "नाओमी ओसाका",
+          "सिमोना हालेप",
+          "सेरेना विलियम्स",
+          "एशले बार्टी"
+        ],
+        "answer": "नाओमी ओसाका"
+      },
+      {
+        "id": 5,
+        "question": "अमेरिकी बास्केटबॉल खिलाड़ी का नाम क्या है जिसे इतिहास के सर्वश्रेष्ठ खिलाड़ियों में से एक माना जाता है?",
+        "options": [
+          "माइकल जॉर्डन",
+          "लैब्रन जेम्स",
+          "कोबे ब्रायंट",
+          "शाकिल ओ नील"
+        ],
+        "answer": "माइकल जॉर्डन"
+      },
+      {
+        "id": 6,
+        "question": "ट्रैक और फील्ड पर कौन सा खेल खेला जाता है और इसमें 100 मीटर डैश, ऊंची कूद और शॉट पुट जैसी घटनाएं शामिल हैं?",
+        "options": ["सॉकर", "तैराकी", "एथलेटिक्स", "वॉलीबॉल"],
+        "answer": "एथलेटिक्स"
+      },
+      {
+        "id": 7,
+        "question": "उस खेल का नाम क्या है जहाँ खिलाड़ी गेंद को नेट पर हिट करने के लिए रैकेट का उपयोग करते हैं?",
+        "options": ["टेनिस", "बैडमिंटन", "स्क्वैश", "पिंग पोंग"],
+        "answer": "स्नीकर्स"
+      },
+      {
+        "id": 8,
+        "question": "वह कौन सा खेल है जिसमें खिलाड़ी कम से कम संभव स्ट्रोक का उपयोग करके एक गेंद को एक छेद में मारने की कोशिश करते हैं?",
+        "options": ["गोल्फ", "बेसबॉल", "रग्बी", "हैंडबॉल"],
+        "answer": "गोल्फ"
+      },
+      {
+        "id": 9,
+        "question": "उस खेल का नाम क्या है जहाँ खिलाड़ी गेंद को नेट पर हिट करने के लिए अपने पैरों और सिर का उपयोग करते हैं?",
+        "options": ["वॉलीबॉल", "सॉकर", "बास्केटबॉल", "हैंडबॉल"],
+        "answer": "फुटबॉल"
+      },
+      {
+        "id": 10,
+        "question": "वह कौन सा खेल है जहाँ खिलाड़ी अपने हाथों से गेंद को नेट पर ऊपर और नीचे फेंकते हैं?",
+        "options": ["टेनिस", "वॉलीबॉल", "बास्केटबॉल", "हैंडबॉल"],
+        "answer": "वॉलीबॉल"
+      },
+      {
+        "id": 11,
+        "question": "उस खेल का नाम क्या है जिसमें खिलाड़ी अपने हाथों से गेंद को ड्रिबल करते हुए दौड़ते हैं?",
+        "options": ["रग्बी", "अमेरिकन फुटबॉल", "हैंडबॉल", "बास्केटबॉल"],
+        "answer": "हैंडबॉल"
+      },
+      {
+        "id": 12,
+        "question": "उस खेल का नाम क्या है जहाँ खिलाड़ी घोड़ों की सवारी करते हैं और गेंद को हिट करने के लिए क्लब का उपयोग करते हैं?",
+        "options": ["पोलो", "आइस हॉकी", "गोल्फ", "बेसबॉल"],
+        "answer": "पोलो"
+      },
+      {
+        "id": 13,
+        "question": "उस खेल का नाम क्या है जहाँ खिलाड़ी गेंद को कोर्ट के पार फेंकने के लिए स्केट्स का उपयोग करते हैं?",
+        "options": ["रोलर हॉकी", "फिगर स्केटिंग", "स्केटबोर्ड", "आइस हॉकी"],
+        "answer": "रोलर हॉकी"
+      },
+      {
+        "id": 14,
+        "question": "उस खेल का नाम क्या है जहाँ खिलाड़ी धनुष और तीर का उपयोग करके गेंद को लक्ष्य पर मारने की कोशिश करते हैं?",
+        "options": ["बॉक्सिंग", "फेंसिंग", "तीरंदाजी", "कुश्ती"],
+        "answer": "धनुष और तीर"
+      },
+      {
+        "id": 15,
+        "question": "1986 विश्व कप जीतने वाले अर्जेंटीना के फुटबॉल खिलाड़ी का नाम क्या है?",
+        "options": [
+          "लियोनेल मेसी",
+          "डिएगो माराडोना",
+          "त्वचा",
+          "क्रिस्टियानो रोनाल्डो"
+        ],
+        "answer": "डिएगो माराडोना"
+      },
+      {
+        "id": 16,
+        "question": "उस अमेरिकी टेनिस खिलाड़ी का नाम क्या है जिसने अपने करियर के दौरान 23 ग्रैंड स्लैम खिताब जीते?",
+        "options": [
+          "सेरेना विलियम्स",
+          "वीनस विलियम्स",
+          "मारिया शारापोवा",
+          "सिमोना हालेप"
+        ],
+        "answer": "सेरेना विलियम्स"
+      },
+      {
+        "id": 17,
+        "question": "90 के दशक में शिकागो बुल्स के साथ छह एनबीए खिताब जीतने वाले अमेरिकी बास्केटबॉल खिलाड़ी का नाम क्या है?",
+        "options": ["मैजिक जॉनसन", "लैरी बर्ड", "माइकल जॉर्डन", "कोबे ब्रायंट"],
+        "answer": "माइकल जॉर्डन"
+      },
+      {
+        "id": 18,
+        "question": "उस पुर्तगाली फुटबॉल खिलाड़ी का नाम क्या है जिसने पांच फीफा वर्ल्ड प्लेयर ऑफ द ईयर पुरस्कार जीते?",
+        "options": [
+          "लियोनेल मेसी",
+          "नेमार जूनियर",
+          "क्रिस्टियानो रोनाल्डो",
+          "किलियन एम्बाप्पे"
+        ],
+        "answer": "क्रिस्टियानो रोनाल्डो"
+      },
+      {
+        "id": 19,
+        "question": "टेबल टेनिस का खेल किस देश में शुरू हुआ?",
+        "options": ["जापान", "चीन", "जर्मनी", "यूनाइटेड किंगडम"],
+        "answer": "चीन"
+      },
+      {
+        "id": 20,
+        "question": "किस देश ने 1896 में पहले आधुनिक ओलंपिक खेलों की मेजबानी की थी?",
+        "options": ["फ्रांस", "जर्मनी", "ग्रीस", "इटली"],
+        "answer": "ग्रीस"
+      },
+      {
+        "id": 21,
+        "question": "दुनिया में सबसे लोकप्रिय खेल कौन सा है?",
+        "options": ["सॉकर", "बास्केटबॉल", "बेसबॉल", "अमेरिकन फुटबॉल"],
+        "answer": "फुटबॉल"
+      },
+      {
+        "id": 22,
+        "question": "ट्रैक एंड फील्ड इवेंट का नाम क्या है जिसमें लंबी कूद, शॉट पुट और स्प्रिंट शामिल हैं?",
+        "options": ["डेकाथलॉन", "हेप्टाथलॉन", "पेंटाथलॉन", "ट्रायथलॉन"],
+        "answer": "डेकाथलॉन"
+      },
+      {
+        "id": 23,
+        "question": "2010 शीतकालीन ओलंपिक में डाउनहिल स्वर्ण पदक जीतने वाले अमेरिकी स्कीयर का नाम क्या है?",
+        "options": ["मिलर बकरी", "टेड लिट्टी", "लिंडसे वॉन", "मिकाएला शिफरीन"],
+        "answer": "मिलर बकरी"
+      },
+      {
+        "id": 24,
+
+        "question": "उस अमेरिकी मुक्केबाज़ का क्या नाम है जिसे अब तक के सबसे महान मुक्केबाजों में से एक माना जाता है और उसने अपने 61 पेशेवर मुकाबलों में से 56 जीते?",
+        "options": [
+          "फ्लोयड मेवेदर जूनियर",
+          "माइक टायसन",
+          "मोहम्मद अली",
+          "चीनी रे रॉबिन्सन"
+        ],
+        "answer": "चीनी रे रॉबिन्सन"
+      },
+      {
+        "id": 25,
+        "question": "डोपिंग के लिए अयोग्य होने से पहले सात बार टूर डी फ्रांस जीतने वाले अमेरिकी साइकिल चालक का नाम क्या है?",
+        "options": [
+          "लैंस आर्मस्ट्रॉन्ग",
+          "ग्रेग लेमंड",
+          "क्रिस फ्रॉम",
+          "अल्बर्टो कोंटाडोर"
+        ],
+        "answer": "लांस आर्मस्ट्रांग"
+      },
+      {
+        "id": 26,
+        "question": "100 मीटर और 200 मीटर डैश में विश्व रिकॉर्ड रखने वाले जमैका के धावक का नाम क्या है?",
+        "options": ["उसेन बोल्ट", "टायसन गे", "योहान ब्लेक", "जस्टिन गैटलिन"],
+        "answer": "उसैन बोल्ट"
+      },
+      {
+        "id": 27,
+        "question": "किस खेल को 'द रैकेट स्पोर्ट' के नाम से जाना जाता है?",
+        "options": ["टेनिस", "बैडमिंटन", "स्क्वैश", "पिंग पोंग"],
+        "answer": "स्नीकर्स"
+      },
+      {
+        "id": 28,
+        "question": "किस खेल में 'ओली' आंदोलन एक बुनियादी तत्व है?",
+        "options": ["सर्फ", "स्केट", "स्नोबोर्ड", "स्की"],
+        "answer": "स्केटबोर्ड"
+      },
+      {
+        "id": 29,
+        "question": "एक एथलीट द्वारा सर्वाधिक ओलंपिक पदक जीतने का रिकॉर्ड क्या है?",
+        "options": ["13 पदक", "18 पदक", "22 पदक", "28 पदक"],
+        "answer": "28 पदक"
+      },
+      {
+        "id": 30,
+        "question": "सबसे लंबे ट्रैक एथलेटिक्स इवेंट का नाम क्या है?",
+        "options": [
+          "100 मीटर पानी का छींटा",
+          "मैराथन",
+          "800 मीटर पानी का छींटा",
+          "400 मीटर बाधा दौड़"
+        ],
+        "answer": "मैराथन"
+      },
+      {
+        "id": 31,
+        "question": "जापान का राष्ट्रीय खेल क्या है?",
+        "options": ["केंडो", "जूडो", "सूमो", "कराटे"],
+        "answer": "सूमो"
+      },
+      {
+        "id": 32,
+        "question": "दुनिया में सबसे प्रसिद्ध बास्केटबॉल लीग कौन सी है?",
+        "options": ["एनबीए", "एनबीबी", "सीबीए", "एलबीए"],
+        "answer": "एनबीए"
+      },
+      {
+        "id": 33,
+        "question": "कितने खिलाड़ी वॉलीबॉल टीम बनाते हैं?",
+        "options": ["5 खिलाड़ी", "6 खिलाड़ी", "7 खिलाड़ी", "8 खिलाड़ी"],
+        "answer": "6 खिलाड़ी"
+      },
+      {
+        "id": 34,
+        "question": "ब्राज़ील में सबसे लोकप्रिय खेल कौन सा है?",
+        "options": ["सॉकर", "वॉलीबॉल", "बास्केटबॉल", "हैंडबॉल"],
+        "answer": "फुटबॉल"
+      },
+      {
+        "id": 35,
+        "question": "वह कौन सी तैराकी पद्धति है जिसमें चार शैलियाँ शामिल हैं: तितली, बैकस्ट्रोक, ब्रेस्टस्ट्रोक और फ़्रीस्टाइल?",
+        "options": ["मेडले", "क्रॉल", "मारिपोसा", "बैक"],
+        "answer": "मेडली"
+      },
+      {
+        "id": 36,
+        "question": "सबसे लंबी ओलंपिक तैराकी प्रतियोगिता कौन सी है?",
+        "options": [
+          "50 मीटर मुक्त",
+          "100 मीटर मुक्त",
+          "200 मीटर फ़्रीस्टाइल",
+          "1500 मीटर मुक्त"
+        ],
+        "answer": "1500 मीटर मुफ़्त"
+      },
+      {
+        "id": 37,
+        "question": "किस फुटबॉल खिलाड़ी को 'द किंग' के नाम से जाना जाता है?",
+        "options": ["पेले", "माराडोना", "मेसी", "नेमार"],
+        "answer": "पेले"
+      },
+      {
+        "id": 38,
+        "question": "फुटबॉल का जन्म किस देश में हुआ?",
+        "options": ["ब्राजील", "इंग्लैंड", "अर्जेंटीना", "इटली"],
+        "answer": "इंग्लैंड"
+      },
+      {
+        "id": 39,
+        "question": "उस घटना का नाम क्या है जो दुनिया के सर्वश्रेष्ठ एथलीटों को हर 4 साल में एक साथ लाता है?",
+        "options": [
+          "विश्व कप",
+          "ओलंपिक",
+          "विश्व एथलेटिक्स",
+          "विश्व प्रतियोगिता"
+        ],
+        "answer": "ओलंपिक"
+      },
+      {
+        "id": 40,
+        "question": "सबसे अधिक एनबीए खिताब जीतने वाला बास्केटबॉल खिलाड़ी कौन है?",
+        "options": ["माइकल जॉर्डन", "लैब्रन जेम्स", "कोबे ब्रायंट", "बिल रसेल"],
+        "answer": "बिल रसेल"
+      },
+      {
+        "id": 41,
+        "question": "एक बाधा कोर्स पर खेले जाने वाले खेल का नाम क्या है?",
+        "options": [
+          "एथलेटिक्स",
+          "जिमनास्टिक",
+          "पोल वॉल्टिंग",
+          "अल्पाइन स्कीइंग"
+        ],
+        "answer": "एथलेटिक्स"
+      },
+      {
+        "id": 42,
+        "question": "उस फुटबॉल खिलाड़ी का नाम क्या है जिसे 'एल पिबे' के नाम से जाना जाता है?",
+        "options": ["पेले", "माराडोना", "मेसी", "नेमार"],
+        "answer": "मैराडोना"
+      },
+      {
+        "id": 43,
+        "question": "यूरोप में मुख्य फुटबॉल क्लब लीग का नाम क्या है?",
+        "options": [
+          "लिबरेटर्स कप",
+          "यूफ़ा चैम्पियन्स लीग",
+          "क्लब विश्व कप",
+          "दक्षिण अमेरिकी कप"
+        ],
+        "answer": "यूईएफए चैंपियंस लीग"
+      },
+      {
+        "id": 44,
+        "question": "आयरिश सेनानी का नाम क्या है जो UFC के सबसे बड़े सितारों में से एक है?",
+        "options": [
+          "खबीब नूरमगोमेदोव",
+          "जॉन जोन्स",
+          "कोनोर मैकग्रेगर",
+          "एंडरसन सिल्वा"
+        ],
+        "answer": "कोनोर मैकग्रेगर"
+      },
+      {
+        "id": 45,
+        "question": "इतिहास की सबसे सफल फुटबॉल टीम का नाम क्या है?",
+        "options": [
+          "बार्सिलोना",
+          "मैनचेस्टर यूनाइटेड",
+          "वास्तविक मैड्रिड",
+          "बायर्न म्यूनिख"
+        ],
+        "answer": "रियल मैड्रिड"
+      },
+      {
+        "id": 46,
+        "question": "उस स्विस टेनिस खिलाड़ी का नाम क्या है जिसे सर्वकालिक सर्वश्रेष्ठ में से एक माना जाता है?",
+        "options": ["राफेल नडाल", "नोवाक जोकोविच", "रोजर फ़ेडरर", "एंडी मरे"],
+        "answer": "रोजर फेडरर"
+      },
+      {
+        "id": 47,
+        "question": "जमैका के उस एथलीट का नाम क्या है जिसे दुनिया का सबसे तेज आदमी माना जाता है?",
+        "options": ["उसेन बोल्ट", "टायसन गे", "योहान ब्लेक", "जस्टिन गैटलिन"],
+        "answer": "उसैन बोल्ट"
+      },
+      {
+        "id": 48,
+        "question": "सबसे अधिक ओलंपिक पदकों का रिकॉर्ड रखने वाले अमेरिकी तैराक का क्या नाम है?",
+        "options": [
+          "माइकल फेल्प्स",
+          "मार्क स्पिट्ज",
+          "इयान थोर्प",
+          "रयान लोचटे"
+        ],
+        "answer": "माइकल फेल्प्स"
+      },
+      {
+        "id": 49,
+        "question": "दुनिया में सबसे ज्यादा देखे जाने वाले खेल आयोजन का नाम क्या है?",
+        "options": [
+          "फ़ीफ़ा वर्ल्ड कप",
+          "ग्रीष्मकालीन ओलंपिक खेलों",
+          "सुपर बोल",
+          "क्रिकेट विश्व कप"
+        ],
+        "answer": "फीफा विश्व कप"
+      },
+      {
+        "id": 50,
+        "question": "उस खेल का नाम क्या है जो अंडाकार कोर्ट पर खेला जाता है और गेंद को हिट करने के लिए एक लकड़ी का बल्ला होता है?",
+        "options": ["अमेरिकी फुटबॉल", "क्रिकेट", "आइस हॉकी", "बेसबॉल"],
+        "answer": "क्रिकेट"
+      }
+    ],
+
+    "Science_and_technology": [
+      {
+        "id": 1,
+        "question": "तरल पानी को भाप में बदलने की प्रक्रिया का क्या नाम है?",
+        "options": ["वाष्पीकरण", "संक्षेपण", "ठोसकरण", "उच्च बनाने की क्रिया"],
+        "answer": "वाष्पीकरण"
+      },
+      {
+        "id": 2,
+        "question": "बल के लिए माप की इकाई क्या है?",
+        "options": ["न्यूटन", "जूल", "वाट", "पास्कल"],
+        "answer": "न्यूटन"
+      },
+      {
+        "id": 3,
+        "question": "उस घटना का क्या नाम है जो तब होती है जब सूर्य का प्रकाश एक प्रिज्म से होकर गुजरता है और कई रंगों में विभाजित हो जाता है?",
+        "options": ["प्रतिबिंब", "अपवर्तन", "विवर्तन", "फैलाव"],
+        "answer": "फैलाव"
+      },
+      {
+        "id": 4,
+        "question": "चुंबकीय क्षेत्र के माध्यम से विद्युत ऊर्जा को यांत्रिक ऊर्जा में परिवर्तित करने वाले उपकरण का नाम क्या है?",
+        "options": [
+          "विद्युत मोटर",
+          "बिजली पैदा करने वाला",
+          "विद्युत ट्रांसफार्मर",
+          "विद्युत अवरोधक"
+        ],
+        "answer": "बिजली की मोटर"
+      },
+      {
+        "id": 5,
+        "question": "पृथ्वी के वायुमंडल की परत का नाम क्या है जहां मौसम संबंधी घटनाएं होती हैं?",
+        "options": [
+          "ट्रोपोस्फीयर",
+          "स्ट्रैटोस्फीयर",
+          "मेसोस्फीयर",
+          "थर्मोस्फीयर"
+        ],
+        "answer": "क्षोभमंडल"
+      },
+      {
+        "id": 6,
+        "question": "जीव विज्ञान की उस शाखा का क्या नाम है जो जीवित प्राणियों की उत्पत्ति और विकास का अध्ययन करती है?",
+        "options": ["आनुवांशिकी", "पारिस्थितिकी", "फिजियोलॉजी", "फाइलोजेनी"],
+        "answer": "फाइलोजेनी"
+      },
+      {
+        "id": 7,
+        "question": "मानव शरीर में पित्त पैदा करने वाले अंग का क्या नाम है?",
+        "options": ["यकृत", "अग्न्याशय", "पित्ताशय की थैली", "तिल्ली"],
+        "answer": "जिगर"
+      },
+      {
+        "id": 8,
+        "question": "उस तकनीक का नाम क्या है जो रेडियो तरंगों का उपयोग कर इलेक्ट्रॉनिक उपकरणों के बीच बेतार संचार की अनुमति देता है?",
+        "options": ["ब्लूटूथ", "वाई-फाई", "एनएफसी", "आरएफआईडी"],
+        "answer": "ब्लूटूथ"
+      },
+      {
+        "id": 9,
+        "question": "कानून का नाम क्या है जो बताता है कि एक सर्किट में विद्युत प्रवाह लागू वोल्टेज के सीधे आनुपातिक है और प्रस्तावित प्रतिरोध के व्युत्क्रमानुपाती है?",
+        "options": [
+          "ओम कानून",
+          "किरचॉफ का नियम",
+          "कूलम्ब का नियम",
+          "फैराडे का नियम"
+        ],
+        "answer": "ओम का नियम"
+      },
+      {
+        "id": 10,
+        "question": "एल्गोरिदम क्या है?",
+        "options": [
+          "एक प्रकार का सॉफ्टवेयर",
+          "किसी समस्या को हल करने के लिए निर्देशों का क्रम",
+          "एक हार्डवेयर घटक",
+          "प्रोग्रामिंग भाषा का एक प्रकार"
+        ],
+        "answer": "किसी समस्या को हल करने के लिए निर्देशों का क्रम"
+      },
+      {
+        "id": 11,
+        "question": "क्लाउड कंप्यूटिंग क्या है?",
+        "options": [
+          "एक प्रकार का हार्डवेयर",
+          "एक प्रकार का सॉफ्टवेयर",
+          "एक सेवा जो आपको इंटरनेट पर डेटा स्टोर और एक्सेस करने की अनुमति देती है",
+          "प्रोग्रामिंग भाषा का एक प्रकार"
+        ],
+        "answer": "एक सेवा जो आपको इंटरनेट पर डेटा स्टोर और एक्सेस करने की अनुमति देती है"
+      },
+      {
+        "id": 12,
+        "question": "Wi-Fi 6 का क्या अर्थ है?",
+        "options": [
+          "वायरलेस नेटवर्क की छठी पीढ़ी",
+          "इंटरनेट प्रोटोकॉल का छठा संस्करण",
+          "ओएसआई मॉडल की छठी परत",
+          "विद्युत चुम्बकीय वर्णक्रम की छठी आवृत्ति"
+        ],
+        "answer": "वायरलेस नेटवर्किंग की छठी पीढ़ी"
+      },
+      {
+        "id": 13,
+        "question": "समय के मापन की मानक इकाई क्या है?",
+        "options": ["मीटर", "दूसरा", "मिनट", "घंटा"],
+        "answer": "दूसरा"
+      },
+      {
+        "id": 14,
+        "question": "पानी का रासायनिक सूत्र क्या है?",
+        "options": ["H2O", "CO2", "C6H12O6", "NaCl"],
+        "answer": "H2O"
+      },
+      {
+        "id": 15,
+        "question": "कंप्यूटिंग का जनक किसे माना जाता है?",
+        "options": [
+          "स्टीव जॉब्स",
+          "बिल गेट्स",
+          "एलन ट्यूरिंग",
+          "चार्ल्स बैबेज"
+        ],
+        "answer": "चार्ल्स बैबेज"
+      },
+      {
+        "id": 16,
+        "question": "प्रकाश की गति क्या है?",
+        "options": [
+          "299,792,458 मी/से",
+          "3,000,000 मी/से",
+          "30,000 किमी/सेकंड",
+          "300,000 किमी/घंटा"
+        ],
+        "answer": "299,792,458 मी/से"
+      },
+      {
+        "id": 17,
+        "question": "पहला प्रोग्रामयोग्य इलेक्ट्रॉनिक कंप्यूटर कौन सा है?",
+        "options": ["IBM 1401", "ENIAC", "Z3", "Apple I"],
+        "answer": "ENIAC"
+      },
+      {
+        "id": 18,
+        "question": "रंग में छवियों को प्रसारित करने वाला पहला टेलीविजन चैनल कौन सा था?",
+        "options": ["बीबीसी", "एनबीसी", "सीबीएस", "एबीसी"],
+        "answer": "सीबीएस"
+      },
+      {
+        "id": 19,
+        "question": "पहला GUI-आधारित ऑपरेटिंग सिस्टम कौन सा था?",
+        "options": ["विंडोज 95", "मैक ओएस", "जेरोक्स अल्टो", "एमएस-डॉस"],
+        "answer": "ज़ेरॉक्स हाई"
+      },
+      {
+        "id": 20,
+        "question": "लॉन्च होने वाला पहला स्मार्टफोन कौन सा था?",
+        "options": [
+          "सैमसंग गैलेक्सी एस",
+          "एप्पल आईफोन",
+          "मोटोरोला रेजर",
+          "नोकिया N95"
+        ],
+        "answer": "नोकिया N95"
+      },
+      {
+        "id": 21,
+        "question": "iPhone के लिए Apple द्वारा प्रदान किया गया पहला ऐप कौन सा था?",
+        "options": ["सफारी", "मैप्स", "ऐप स्टोर", "आईट्यून्स"],
+        "answer": "आईट्यून्स"
+      },
+      {
+        "id": 22,
+        "question": "जीवन की मूल इकाई क्या है?",
+        "options": ["सेल", "परमाणु", "अणु", "ऊतक"],
+        "answer": "सेल"
+      },
+      {
+        "id": 23,
+        "question": "सापेक्षता का सिद्धांत किसने विकसित किया?",
+        "options": [
+          "आइजैक न्यूटन",
+          "अल्बर्ट आइंस्टीन",
+          "निकोला टेस्ला",
+          "स्टीफन हॉकिंग"
+        ],
+        "answer": "अल्बर्ट आइंस्टीन"
+      },
+      {
+        "id": 24,
+        "question": "थोड़ा क्या है?",
+        "options": [
+          "कंप्यूटर में सूचना की सबसे छोटी इकाई।",
+          "दूरी के लिए माप की मूल इकाई।",
+          "वजन के लिए माप की मूल इकाई।",
+          "समय के लिए माप की मूल इकाई।"
+        ],
+        "answer": "कंप्यूटर पर जानकारी की सबसे छोटी इकाई।"
+      },
+      {
+        "id": 25,
+        "question": "वह कौन सा सिद्धांत है जो ब्रह्मांड के विस्तार की व्याख्या करता है?",
+        "options": [
+          "कूलम्ब का नियम",
+          "सापेक्षता के सिद्धांत",
+          "सार्वभौमिक गुरुत्वाकर्षण का नियम",
+          "बिग बैंग थ्योरी"
+        ],
+        "answer": "बिग बैंग थ्योरी"
+      },
+      {
+        "id": 26,
+        "question": "ब्रह्मांड में सबसे प्रचुर रासायनिक तत्व क्या है?",
+        "options": ["हीलियम", "कार्बन", "ऑक्सीजन", "हाइड्रोजन"],
+        "answer": "हाइड्रोजन"
+      },
+      {
+        "id": 27,
+        "question": "ग्लोबल वार्मिंग का मुख्य कारण क्या है?",
+        "options": [
+          "ग्रीनहाउस गैस का उत्सर्जन",
+          "सौर गतिविधि की भिन्नता",
+          "ज्वालामुखीय विस्फोट",
+          "लॉगिंग"
+        ],
+        "answer": "ग्रीनहाउस गैस उत्सर्जन"
+      },
+      {
+        "id": 28,
+        "question": "ब्लैक होल क्या है?",
+        "options": [
+          "एक लाल विशाल तारा",
+          "एक खगोलीय पिंड ठंडा और अपने स्वयं के प्रकाश के बिना",
+          "पदार्थ की उच्च सांद्रता वाला अंतरिक्ष में एक बिंदु",
+          "अण्डाकार कक्षा के साथ एक प्रकार का क्षुद्रग्रह"
+        ],
+        "answer": "पदार्थ की उच्च सांद्रता वाला अंतरिक्ष में एक बिंदु"
+      },
+      {
+        "id": 29,
+        "question": "कंप्यूटर में सूचना की मूल इकाई क्या है?",
+        "options": ["बाइट", "बिट", "पिक्सेल", "हर्ट्ज"],
+        "answer": "बिट"
+      },
+      {
+        "id": 30,
+        "question": "प्रौद्योगिकी में 'AI' का क्या अर्थ है?",
+        "options": [
+          "कृत्रिम होशियारी",
+          "स्वचालित सूचना",
+          "उन्नत इंटरफ़ेस",
+          "एप्लाइड इंफॉर्मेटिक्स"
+        ],
+        "answer": "आर्टिफिशियल इंटेलिजेंस"
+      },
+      {
+        "id": 31,
+        "question": "पहला डिजिटल इलेक्ट्रॉनिक कंप्यूटर का आविष्कार कहाँ हुआ था?",
+        "options": ["संयुक्त राज्य अमेरिका", "इंग्लैंड", "जर्मनी", "जापान"],
+        "answer": "संयुक्त राज्य अमेरिका"
+      },
+      {
+        "id": 32,
+        "question": "सौरमंडल का सबसे बड़ा ग्रह कौन सा है?",
+        "options": ["शनि", "बृहस्पति", "पृथ्वी", "मंगल"],
+        "answer": "बृहस्पति"
+      },
+      {
+        "id": 33,
+        "question": "परमाणु और अणु में क्या अंतर है?",
+        "options": [
+          "परमाणु उपपरमाण्विक कण होते हैं, जबकि अणु परमाणुओं का संग्रह होते हैं",
+          "परमाणु प्रोटॉन, इलेक्ट्रॉन और न्यूट्रॉन से बने होते हैं, जबकि अणु प्रोटॉन और इलेक्ट्रॉन से बने होते हैं",
+          "परमाणुओं में विद्युत आवेश होता है, जबकि अणुओं में नहीं",
+          "परमाणु रासायनिक यौगिक बनाते हैं, जबकि अणुओं में यह क्षमता नहीं होती"
+        ],
+        "answer": "परमाणु उपपरमाण्विक कण होते हैं, जबकि अणु परमाणुओं के समूह होते हैं"
+      },
+      {
+        "id": 34,
+        "question": "भौतिकी का नियम क्या है जो ऊर्जा के संरक्षण का वर्णन करता है?",
+        "options": [
+          "न्यूटन का नियम",
+          "कूलम्ब का नियम",
+          "ऊर्जा संरक्षण का नियम",
+          "फैराडे का नियम"
+        ],
+        "answer": "ऊर्जा संरक्षण का नियम"
+      },
+      {
+        "id": 35,
+        "question": "किस प्रकार की कोशिका कोशिकीय श्वसन प्रक्रियाओं के माध्यम से ऊर्जा उत्पन्न करने में सक्षम है?",
+        "options": [
+          "पौधा कोशाणु",
+          "पशु सेल",
+          "बैक्टीरिया सेल",
+          "यूकेरियोटिक सेल"
+        ],
+        "answer": "यूकेरियोटिक कोशिका"
+      },
+      {
+        "id": 36,
+        "question": "वायरस और बैक्टीरिया में क्या अंतर है?",
+        "options": [
+          "वायरस में कोशिकाएं होती हैं, जबकि बैक्टीरिया में नहीं",
+          "बैक्टीरिया बहुकोशिकीय जीव हैं, जबकि वायरस एककोशिकीय हैं",
+          "वायरस बाध्यकारी इंट्रासेल्यूलर परजीवी हैं, जबकि बैक्टीरिया मुक्त या परजीवी हो सकते हैं",
+          "बैक्टीरिया वायरस की तुलना में अधिक गंभीर बीमारी का कारण बनता है"
+        ],
+        "answer": "वायरस बाध्यकारी इंट्रासेल्युलर परजीवी हैं, जबकि बैक्टीरिया मुक्त या परजीवी हो सकते हैं"
+      },
+      {
+        "id": 37,
+        "question": "इंटरनेट ऑफ़ थिंग्स (IoT) क्या है?",
+        "options": [
+          "इंटरनेट से जुड़े उपकरणों का एक नेटवर्क जो डेटा एकत्र और साझा कर सकता है।",
+          "वायरलेस इंटरनेट कनेक्शन का एक प्रकार।",
+          "मोबाइल उपकरणों हेतु एक ऑपरेटिंग सिस्टम।",
+          "नेटवर्क केबल का एक प्रकार।"
+        ],
+        "answer": "इंटरनेट से जुड़े उपकरणों का एक नेटवर्क जो डेटा एकत्र और साझा कर सकता है।"
+      },
+      {
+        "id": 38,
+        "question": "प्रौद्योगिकी में बादल (बादल) क्या है?",
+        "options": [
+          "दूरस्थ भंडारण इंटरनेट से पहुँचा जा सकता है।",
+          "वायरलेस कनेक्शन का एक प्रकार।",
+          "हार्ड डिस्क भंडारण का एक भौतिक रूप।",
+          "फ्लैश मेमोरी स्टोरेज का एक भौतिक रूप।"
+        ],
+        "answer": "दूरस्थ भंडारण इंटरनेट से पहुँचा जा सकता है।"
+      },
+      {
+        "id": 39,
+        "question": "वेब ब्राउज़र क्या है?",
+        "options": [
+          "वर्ल्ड वाइड वेब (WWW) तक पहुँचने के लिए प्रयुक्त एक प्रोग्राम",
+          "एक उपकरण जिसका उपयोग इंटरनेट से जुड़ने के लिए किया जाता है।",
+          "वेब पृष्ठ बनाने के लिए प्रयुक्त भाषा।",
+          "ईमेल भेजने के लिए प्रयुक्त एक उपकरण।"
+        ],
+        "answer": "वर्ल्ड वाइड वेब (WWW) तक पहुँचने के लिए उपयोग किया जाने वाला एक कार्यक्रम।"
+      },
+      {
+        "id": 40,
+        "question": "विकास का सिद्धांत क्या है?",
+        "options": [
+          "सिद्धांत जो बताता है कि ग्रह कैसे बनते हैं",
+          "सिद्धांत जो बताता है कि प्रजातियां समय के साथ कैसे बदलती हैं",
+          "सिद्धांत जो बताता है कि कोशिकाएं कैसे काम करती हैं",
+          "सिद्धांत जो बताता है कि पदार्थ कैसे रूपांतरित होता है"
+        ],
+        "answer": "सिद्धांत जो बताता है कि समय के साथ प्रजातियां कैसे बदलती हैं"
+      },
+      {
+        "id": 41,
+        "question": "पृथ्वी की कौन सी परत जीवन का घर है?",
+        "options": ["कोर", "मेंटल", "क्रस्ट", "वातावरण"],
+        "answer": "क्रस्ट"
+      },
+      {
+        "id": 42,
+        "question": "तंत्रिका तंत्र का कार्य क्या है?",
+        "options": [
+          "हार्मोन का उत्पादन",
+          "मांसपेशियों की गति को नियंत्रित करें",
+          "शरीर के तापमान को नियंत्रित करें",
+          "मस्तिष्क को विद्युत संकेतों का संचारण"
+        ],
+        "answer": "मस्तिष्क को विद्युत संकेतों का संचार"
+      },
+      {
+        "id": 43,
+        "question": "मानव शरीर में कोशिकाओं के लिए ऊर्जा का मुख्य स्रोत क्या है?",
+        "options": ["प्रोटीन", "लिपिड्स", "कार्बोहाइड्रेट", "न्यूक्लिक एसिड"],
+        "answer": "कार्ब्स"
+      },
+      {
+        "id": 44,
+        "question": "मानव शरीर में सबसे बड़ा अंग कौन सा है?",
+        "options": ["हृदय", "जिगर", "त्वचा", "फेफड़े"],
+        "answer": "त्वचा"
+      },
+      {
+        "id": 45,
+        "question": "पिक्सेल क्या है?",
+        "options": [
+          "एक स्क्रीन पर प्रकाश का एक बिंदु।",
+          "इंटरनेट गति के लिए माप की एक इकाई।",
+          "वायरलेस कनेक्शन का एक प्रकार।",
+          "एक प्रकार का सॉफ्टवेयर।"
+        ],
+        "answer": "एक स्क्रीन पर प्रकाश का एक बिंदु।"
+      },
+      {
+        "id": 46,
+        "question": "डेटाबेस क्या है?",
+        "options": [
+          "जानकारी का एक संगठित संग्रह।",
+          "जानकारी संग्रहीत करने के लिए उपयोग किया जाने वाला उपकरण।",
+          "वेब पृष्ठ बनाने के लिए प्रयुक्त भाषा।",
+          "एक प्रकार का इंटरनेट कनेक्शन।"
+        ],
+        "answer": "जानकारी का एक संगठित संग्रह।"
+      },
+      {
+        "id": 47,
+        "question": "आईपी पता क्या है?",
+        "options": [
+          "इंटरनेट से जुड़े प्रत्येक उपकरण को निर्दिष्ट एक अद्वितीय संख्या।",
+          "वायरलेस कनेक्शन का एक प्रकार।",
+          "हार्ड डिस्क भंडारण का एक भौतिक रूप।",
+          "फ्लैश मेमोरी स्टोरेज का एक भौतिक रूप।"
+        ],
+        "answer": "इंटरनेट से जुड़े प्रत्येक उपकरण को निर्दिष्ट एक अद्वितीय संख्या।"
+      },
+      {
+        "id": 48,
+        "question": "सार्वभौमिक गुरुत्वाकर्षण का नियम क्या है?",
+        "options": [
+          "कानून जो वर्णन करता है कि परमाणु कैसे व्यवहार करते हैं",
+          "ऊर्जा कैसे संरक्षित है इसका वर्णन करने वाला कानून",
+          "कानून जो वर्णन करता है कि शरीर एक दूसरे को कैसे आकर्षित करते हैं",
+          "प्रकाश कैसे फैलता है इसका वर्णन करने वाला कानून"
+        ],
+        "answer": "कानून जो वर्णन करता है कि शरीर कैसे आकर्षित होते हैं"
+      },
+      {
+        "id": 49,
+        "question": "पशु कोशिका और पादप कोशिका में क्या अंतर है?",
+        "options": [
+          "पादप कोशिकाओं में कोशिका भित्ति और क्लोरोप्लास्ट होते हैं, जबकि पशु कोशिकाओं में नहीं होते हैं",
+          "पशु कोशिकाओं में कोशिका भित्ति और क्लोरोप्लास्ट होते हैं, जबकि पादप कोशिकाएँ नहीं होती हैं",
+          "जानवरों की कोशिकाओं में एक केंद्रक होता है, जबकि पादप कोशिकाओं में नहीं होता",
+          "पौधों की कोशिकाओं में माइटोकॉन्ड्रिया होता है, जबकि पशु कोशिकाओं में नहीं होता"
+        ],
+        "answer": "पादप कोशिकाओं में कोशिका भित्ति और क्लोरोप्लास्ट होते हैं, जबकि पशु कोशिकाओं में नहीं होते हैं"
+      },
+      {
+        "id": 50,
+        "question": "कंप्यूटर में प्रोसेसर क्या है?",
+        "options": [
+          "एक चिप जो गणना और निर्देश करती है।",
+          "जानकारी संग्रहीत करने के लिए उपयोग किया जाने वाला उपकरण।",
+          "वेब पृष्ठ बनाने के लिए प्रयुक्त भाषा।",
+          "एक प्रकार का इंटरनेट कनेक्शन।"
+        ],
+        "answer": "एक चिप जो गणना और निर्देश करती है।"
+      }
+    ],
+
+    "Animals_and_wild_life": [
+      {
+        "id": 1,
+        "question": "जंगली जानवरों के विलुप्त होने में योगदान देने वाले मुख्य कारक क्या हैं?",
+        "options": ["जल प्रदूषण", "लॉगिंग", "अवैध शिकार", "जलवायु परिवर्तन"],
+        "answer": "वनों की कटाई"
+      },
+      {
+        "id": 2,
+        "question": "जंगली जानवरों के विलुप्त होने के क्या परिणाम हैं?",
+        "options": [
+          "कम जैव विविधता",
+          "प्राकृतिक आवास का नुकसान",
+          "बढ़ा प्रदूषण",
+          "सब से ऊपर"
+        ],
+        "answer": "सब ऊपर"
+      },
+      {
+        "id": 3,
+        "question": "किस जानवर के सबसे ज्यादा दांत होते हैं?",
+        "options": ["ग्रेट ग्रेट व्हाइट", "डॉल्फ़िन", "मगरमच्छ", "आर्मडिलो"],
+        "answer": "महान सफेद शार्क"
+      },
+      {
+        "id": 4,
+        "question": "जंगली जानवर क्या होते हैं?",
+        "options": [
+          "जानवर जो चिड़ियाघर में रहते हैं",
+          "जानवर जो पालतू हैं",
+          "प्रजातियां जो पालतू नहीं हैं और जंगली में जंगली चलती हैं",
+          "पालतू जानवर"
+        ],
+        "answer": "प्रजातियां जो पालतू नहीं हैं और जंगली में जंगली हैं"
+      },
+      {
+        "id": 5,
+        "question": "वन्यजीव कहाँ पाया जा सकता है?",
+        "options": [
+          "केवल उष्णकटिबंधीय जंगलों में",
+          "केवल रेगिस्तान में",
+          "सभी पारिस्थितिक तंत्रों में",
+          "केवल महासागरों में"
+        ],
+        "answer": "सभी पारिस्थितिक तंत्रों में"
+      },
+      {
+        "id": 6,
+        "question": "सबसे बड़ा भूमि स्तनपायी क्या है?",
+        "options": ["हाथी", "राइनो", "हिप्पो", "अफ्रीकी भैंस"],
+        "answer": "हाथी"
+      },
+      {
+        "id": 7,
+        "question": "दुनिया का सबसे तेज़ जानवर कौन सा है?",
+        "options": ["चीता", "तेंदुआ", "कौगर", "भेड़िया"],
+        "answer": "चीता"
+      },
+      {
+        "id": 8,
+        "question": "दुनिया का सबसे बड़ा जानवर कौन सा है?",
+        "options": ["नीली व्हेल", "सफेद शार्क", "ग्रीन एनाकोंडा", "जिराफ़"],
+        "answer": "ब्लू व्हेल"
+      },
+      {
+        "id": 9,
+        "question": "किस जानवर के शरीर के आकार के संबंध में सबसे बड़ा मस्तिष्क है?",
+        "options": ["डॉल्फ़िन", "चिंपांज़ी", "हाथी", "बिल्ली"],
+        "answer": "डॉल्फ़िन"
+      },
+      {
+        "id": 10,
+        "question": "दुनिया का सबसे जहरीला जानवर कौन सा है?",
+        "options": ["सांप", "स्पाइडर", "जेलीफ़िश", "बिच्छू"],
+        "answer": "जेलिफ़िश"
+      },
+      {
+        "id": 11,
+        "question": "ऑक्टोपस के कितने दिल होते हैं?",
+        "options": ["1", "2", "3", "4"],
+        "answer": "3"
+      },
+      {
+        "id": 12,
+        "question": "इस ग्रह पर सबसे कठोर जानवर कौन सा है?",
+        "options": ["तिलचट्टा", "कछुआ", "ऊंट", "ध्रुवीय भालू"],
+        "answer": "टार्डीग्रेड"
+      },
+      {
+        "id": 13,
+        "question": "किस जानवर की जीवन प्रत्याशा सबसे लंबी होती है?",
+        "options": [
+          "विशालकाय कछुआ",
+          "स्लोलैंड व्हेल",
+          "आइस शार्क",
+          "झींगा मछली"
+        ],
+        "answer": "विशालकाय कछुआ"
+      },
+      {
+        "id": 14,
+        "question": "कौन से जानवर अफ्रीका के 'बिग फाइव' बनाते हैं?",
+        "options": [
+          "हाथी, शेर, जिराफ, अफ्रीकी भैंस और राइनो",
+          "शेर, ज़ेबरा, हिप्पो, जिराफ़ और हाथी",
+          "तेंदुआ, मगरमच्छ, गैंडा, शेर और अफ्रीकी भैंस",
+          "दरियाई घोड़ा, हाथी, गोरिल्ला, जिराफ़ और तेंदुआ"
+        ],
+        "answer": "हाथी, शेर, जिराफ, अफ्रीकी भैंस और राइनो"
+      },
+      {
+        "id": 15,
+        "question": "दुनिया का सबसे बड़ा सांप कौन सा है?",
+        "options": ["सुकुरी", "जालीदार अजगर", "रॉयल कोबरा", "ग्रीन एनाकोंडा"],
+        "answer": "जालीदार अजगर"
+      },
+      {
+        "id": 16,
+        "question": "दुनिया का सबसे लंबा जानवर कौन सा है?",
+        "options": ["जिराफ़", "हाथी", "ज़ेबरा", "राइनो"],
+        "answer": "जिराफ"
+      },
+      {
+        "id": 17,
+        "question": "किस जानवर के पंखों का फैलाव सबसे लंबा होता है?",
+        "options": [
+          "गरुड़",
+          "एंडियन कोंडोर",
+          "दाढ़ी वाले गिद्ध",
+          "भटकते अल्बाट्रॉस"
+        ],
+        "answer": "भटकते अल्बाट्रॉस"
+      },
+      {
+        "id": 18,
+        "question": "किस जानवर की सबसे अधिक प्रजातियां हैं?",
+        "options": ["कीड़े", "पक्षी", "स्तनधारी", "सरीसृप"],
+        "answer": "कीड़े"
+      },
+      {
+        "id": 19,
+        "question": "कौन सा जानवर एक दिन में सबसे ज्यादा घंटे सोता है?",
+        "options": ["गिलहरी", "कोआला", "बिल्ली", "सुस्ती"],
+        "answer": "आलस्य"
+      },
+      {
+        "id": 20,
+        "question": "गर्भवती व्हेल कितने महीनों तक बच्चे को जन्म देती है?",
+        "options": ["9 महीने", "4 महीने", "16 महीने", "36 महीने"],
+        "answer": "16 महीने"
+      },
+      {
+        "id": 21,
+        "question": "किस जानवर का काटने दुनिया में सबसे मजबूत है?",
+        "options": ["साल्टवाटर कोकोडाइल", "लायन", "टाइगर", "हिप्पो"],
+        "answer": "खारे पानी का कोकोडाइल"
+      },
+      {
+        "id": 22,
+        "question": "किस जानवर का जहर दुनिया में सबसे शक्तिशाली है?",
+        "options": [
+          "आर्मर स्पाइडर",
+          "कोरल स्नेक",
+          "स्टोन फिश",
+          "बॉक्स जेलीफ़िश"
+        ],
+        "answer": "बॉक्स जेलीफ़िश"
+      },
+      {
+        "id": 23,
+        "question": "किस जानवर के आकार के संबंध में सबसे लंबी जीभ होती है?",
+        "options": ["गिरगिट", "जिराफ", "चींटी पांडा", "टैग एंटीटर"],
+        "answer": "एंटीटर-फ्लैग"
+      },
+      {
+        "id": 24,
+        "question": "पृथ्वी पर किस जानवर की आबादी सबसे अधिक है?",
+        "options": ["मानव", "चिकन", "माउस", "चींटी"],
+        "answer": "चींटी"
+      },
+      {
+        "id": 25,
+        "question": "दुनिया में किस जानवर की सूंघने की क्षमता सबसे अधिक होती है?",
+        "options": ["कुत्ता", "भूरा भालू", "बिल्ली", "हाथी"],
+        "answer": "भूरा भालू"
+      },
+      {
+        "id": 26,
+        "question": "कौन सा जानवर अपने अंगों को पुन: उत्पन्न करने में सक्षम है?",
+        "options": ["शार्क", "छिपकली", "तारा मछली", "केकड़ा"],
+        "answer": "तारा मछली"
+      },
+      {
+        "id": 27,
+        "question": "कौन सा जानवर कभी नहीं सोने के लिए जाना जाता है?",
+        "options": ["शार्क", "जिराफ़", "हाथी", "भूरा भालू"],
+        "answer": "शार्क"
+      },
+      {
+        "id": 28,
+        "question": "कौन सा जानवर छलावरण के लिए रंग बदलने में सक्षम है?",
+        "options": ["ऑक्टोपस", "छिपकली", "मेंढक", "साँप"],
+        "answer": "ऑक्टोपस"
+      },
+      {
+        "id": 29,
+        "question": "दुनिया में किस जानवर की त्वचा सबसे सख्त होती है?",
+        "options": [
+          "राइनो",
+          "विशालकाय कछुआ",
+          "खारे पानी का मगरमच्छ",
+          "हिप्पोपोटामस"
+        ],
+        "answer": "खारे पानी का मगरमच्छ"
+      },
+      {
+        "id": 30,
+        "question": "कौन सा जानवर अपना सिर 270 डिग्री घुमा सकता है?",
+        "options": ["उल्लू", "हंस", "बाज़", "कबूतर"],
+        "answer": "उल्लू"
+      },
+      {
+        "id": 31,
+        "question": "विश्व में किस जानवर की जनसंख्या सबसे अधिक है?",
+        "options": ["कुत्ते", "बिल्ली", "माउस", "मानव"],
+        "answer": "माउस"
+      },
+      {
+        "id": 32,
+        "question": "किस जानवर को दुनिया में सबसे मजबूत काटने के लिए जाना जाता है?",
+        "options": [
+          "सफेद शार्क",
+          "हिप्पोपोटामस",
+          "शेर",
+          "खारे पानी का मगरमच्छ"
+        ],
+        "answer": "खारे पानी का मगरमच्छ"
+      },
+      {
+        "id": 33,
+        "question": "अफ्रीका में सबसे खतरनाक जानवर कौन सा है?",
+        "options": ["शेर", "हाथी", "राइनो", "हिप्पो"],
+        "answer": "हिप्पो"
+      },
+      {
+        "id": 34,
+        "question": "विश्व का सबसे बड़ा वर्षावन कौन सा है?",
+        "options": [
+          "अमेज़न वर्षावन",
+          "कांगो वन",
+          "बोर्नियो के वन",
+          "मेडागास्कर के वन"
+        ],
+        "answer": "अमेज़ॅन वर्षावन"
+      },
+      {
+        "id": 35,
+        "question": "संयुक्त राज्य अमेरिका का राष्ट्रीय पक्षी क्या है?",
+        "options": [
+          "अमेरिकी चील",
+          "घुमन्तु बाज",
+          "बुरोइंग उल्लू",
+          "लाल सिर वाला गिद्ध"
+        ],
+        "answer": "बाल्ड ईगल"
+      },
+      {
+        "id": 36,
+        "question": "कौन सा जानवर 2022 के चीनी राशि चिन्ह का प्रतिनिधित्व करता है?",
+        "options": ["ड्रैगन", "घोड़ा", "बकरी", "टाइगर"],
+        "answer": "टाइगर"
+      },
+      {
+        "id": 37,
+        "question": "कौन सा जानवर ऑस्ट्रेलियाई महाद्वीप का प्रतीक है?",
+        "options": ["कंगारू", "कोआला", "एमु", "वॉम्बैट"],
+        "answer": "कंगारू"
+      },
+      {
+        "id": 38,
+        "question": "दुनिया में बंदरों की सबसे बड़ी प्रजाति कौन सी है?",
+        "options": ["चिंपांज़ी", "ऑरंगुटान", "मैंड्रिल", "गोरिल्ला"],
+        "answer": "गोरिल्ला"
+      },
+      {
+        "id": 39,
+        "question": "कौन सा जानवर पर्यावरण संरक्षण का प्रतीक है?",
+        "options": ["ध्रुवीय भालू", "टाइगर", "पांडा", "इबेरियन वुल्फ"],
+        "answer": "पांडा"
+      },
+      {
+        "id": 40,
+        "question": "कौन सा जानवर सर्दियों में हाइबरनेट करने के लिए प्रसिद्ध है?",
+        "options": ["गिलहरी", "चमगादड़", "ग्रिज़ली भालू", "आर्मडिलो"],
+        "answer": "भूरा भालू"
+      },
+      {
+        "id": 41,
+        "question": "उस जानवर का नाम क्या है जिसे अमेरिका में सबसे बड़ी बिल्ली के रूप में जाना जाता है?",
+        "options": ["जगुआर", "तेंदुआ", "टाइगर", "प्यूमा"],
+        "answer": "जगुआर"
+      },
+      {
+        "id": 42,
+        "question": "कौन सा जानवर उड़ने में सक्षम है लेकिन पक्षी नहीं है?",
+        "options": ["बल्ला", "उड़ने वाली गिलहरी", "छड़ी कीट", "पटरोसौर"],
+        "answer": "चमगादड़"
+      },
+      {
+        "id": 43,
+        "question": "कौन सा जानवर अपनी छलावरण क्षमता के लिए जाना जाता है?",
+        "options": ["साँप", "गिरगिट", "कछुआ", "ऑक्टोपस"],
+        "answer": "गिरगिट"
+      },
+      {
+        "id": 44,
+        "question": "दुनिया में सबसे बड़ा संरक्षण संगठन कौन सा है?",
+        "options": [
+          "द इंटरनेशनल फंड फॉर एनिमल वेलफेयर - IFAW",
+          "द वर्ल्ड वाइड फंड फॉर नेचर - डब्ल्यूडब्ल्यूएफ",
+          "प्रकृति संरक्षण"
+        ],
+        "answer": "प्रकृति के लिए वर्ल्ड वाइड फंड - डब्ल्यूडब्ल्यूएफ"
+      },
+      {
+        "id": 45,
+        "question": "ध्रुवीय भालू के फर का रंग क्या होता है?",
+        "options": ["सफ़ेद", "भूरा", "काला"],
+        "answer": "ब्लैक"
+      },
+      {
+        "id": 46,
+        "question": "कौन सा जानवर अपनी दहाड़ के लिए और जंगल का राजा होने के लिए जाना जाता है?",
+        "options": ["शेर", "टाइगर", "तेंदुआ", "चीता"],
+        "answer": "लियो"
+      },
+      {
+        "id": 47,
+        "question": "एक मकड़ी के कितने पैर होते हैं?",
+        "options": ["4", "6", "8", "10"],
+        "answer": "8"
+      },
+      {
+        "id": 48,
+        "question": "किस जानवर को सूंघने की तीव्र क्षमता के लिए जाना जाता है, जो दूर से शिकार को सूंघने में सक्षम है?",
+        "options": ["डॉग", "बिल्ली", "जगुआर", "भालू"],
+        "answer": "ओन्का"
+      },
+      {
+        "id": 49,
+        "question": "कौन सा जानवर पेड़ के तने पर सीधा चलने में सक्षम है?",
+        "options": ["बिल्ली", "गिलहरी", "सुस्ती", "गिरगिट"],
+        "answer": "गिरगिट"
+      },
+      {
+        "id": 50,
+        "question": "कौन सा जानवर अपने शरीर के कुछ हिस्सों, जैसे कि उसकी पूंछ और पंजे को फिर से उगाने में सक्षम है?",
+        "options": ["समन्दर", "छिपकली", "कछुआ", "साँप"],
+        "answer": "समन्दर"
+      }
+    ],
+
+    "Art_and_culture": [
+      {
+        "id": 1,
+        "question": "किस कलाकार ने 'द स्टाररी नाइट' चित्रित किया?",
+        "options": [
+          "विंसेंट वान गाग",
+          "पब्लो पिकासो",
+          "साल्वाडोर डाली",
+          "लियोनार्डो दा विंसी"
+        ],
+        "answer": "विन्सेंट वैन गॉग"
+      },
+      {
+        "id": 2,
+        "question": "दुनिया में मुख्य फिल्म समारोह का नाम क्या है?",
+        "options": [
+          "कान महोत्सव",
+          "वेनिस महोत्सव",
+          "सनडांस फेस्टिवल",
+          "टोरंटो महोत्सव"
+        ],
+        "answer": "कान फिल्म महोत्सव"
+      },
+      {
+        "id": 3,
+        "question": "ब्राज़ीलियाई संगीत का जनक किसे माना जाता है?",
+        "options": [
+          "टॉम जोबिन",
+          "चिको बुर्के",
+          "हीटर विला-लोबोस",
+          "विनीसियस डी मोरेस"
+        ],
+        "answer": "हीटर विला-लोबोस"
+      },
+      {
+        "id": 4,
+        "question": "माइकल एंजेलो द्वारा बनाई गई अब तक की सबसे बड़ी मूर्ति का नाम क्या है?",
+        "options": ["डेविड", "मोइसेस", "पिएटा", "टोंडो डोनी"],
+        "answer": "डेविड"
+      },
+
+      {
+        "id": 5,
+        "question": "मचाडो डी असिस द्वारा लिखी गई पुस्तक का नाम क्या है जो बेंटिन्हो और कैपिटु की कहानी बताती है?",
+        "options": [
+          "डोम कास्मुरो",
+          "ब्रास क्यूबस के मरणोपरांत संस्मरण",
+          "क्विनकास बोरबा",
+          "एसाव और याकूब"
+        ],
+        "answer": "डोम कास्मुरो"
+      },
+
+      {
+        "id": 6,
+        "question": "रूसी बैलेरीना का नाम क्या है जो दुनिया में सबसे प्रसिद्ध में से एक बन गई?",
+        "options": [
+          "अन्ना पावलोवा",
+          "मिखाइल बेरिशनिकोव",
+          "रुडोल्फ नुरेयेव",
+          "माया प्लिस्त्स्काया"
+        ],
+        "answer": "अन्ना पावलोवा"
+      },
+
+      {
+        "id": 7,
+        "question": "उस कलाकार का नाम क्या है जिसने 'ओस गिरासोइस' चित्रित किया?",
+        "options": [
+          "पब्लो पिकासो",
+          "विंसेंट वान गाग",
+          "क्लॉड मोनेट",
+          "साल्वाडोर डाली"
+        ],
+        "answer": "विन्सेंट वैन गॉग"
+      },
+
+      {
+        "id": 8,
+        "question": "'द लिटिल प्रिंस' के लेखक कौन हैं?",
+        "options": [
+          "ओंत्वान डे सेंट - एक्सुपरी",
+          "जेके रॉउलिंग",
+          "गेब्रियल गार्सिया मार्केज़",
+          "जॉर्ज ऑरवेल"
+        ],
+        "answer": "एंटोनी डी सेंट-एक्सुप्री"
+      },
+
+      {
+        "id": 9,
+        "question": "विलियम शेक्सपियर के नाटक पर आधारित ग्यूसेप वर्डी के ओपेरा का नाम क्या है?",
+        "options": ["कारमेन", "ला ट्रैविटा", "रिगोलेटो", "ओटेलो"],
+        "answer": "ओटेलो"
+      },
+
+      {
+        "id": 10,
+        "question": "'गर्ल फ्रॉम इपनेमा' गीत के लेखक कौन हैं?",
+        "options": [
+          "जोआओ गिल्बर्टो",
+          "टॉम जोबिन",
+          "चिको बुर्के",
+          "विनीसियस डी मोरेस"
+        ],
+        "answer": "टॉम जोबिम"
+      },
+
+      {
+        "id": 11,
+        "question": "उस कलात्मक आंदोलन का क्या नाम है जिसके मुख्य प्रतिनिधियों में से एक पाब्लो पिकासो थे?",
+        "options": ["घनवाद", "प्रभाववाद", "अभिव्यक्तिवाद", "यथार्थवाद"],
+        "answer": "घनवाद"
+      },
+
+      {
+        "id": 12,
+        "question": "स्टेनली कुब्रिक द्वारा निर्देशित फिल्म का नाम क्या है जो एंथनी बर्गेस के उपन्यास पर आधारित है?",
+        "options": [
+          "एक यंत्रवत कार्य संतरा",
+          "2001: ए स्पेस ओडिसी",
+          "आइज़ वाइड शट",
+          "प्रकाशित"
+        ],
+        "answer": "ए क्लॉकवर्क ऑरेंज"
+      },
+
+      {
+        "id": 13,
+        "question": "'क्वीन ऑफ़ पॉप' के रूप में विख्यात अमेरिकी गायक का क्या नाम है?",
+        "options": ["मैडोना", "बियॉन्से", "लेडी गागा", "रिहाना"],
+        "answer": "मैडोना"
+      },
+
+      {
+        "id": 14,
+        "question": "विलियम शेक्सपियर के नाटक का क्या नाम है जिसे उनकी उत्कृष्ट कृति माना जाता है?",
+        "options": ["हैमलेट", "मैकबेथ", "रोमियो एंड जूलियट", "ओथेलो"],
+        "answer": "हेमलेट"
+      },
+
+      {
+        "id": 15,
+        "question": "ब्राज़ीलिया को डिज़ाइन करने वाले ब्राज़ीलियाई वास्तुकार का क्या नाम है?",
+        "options": [
+          "लुसियो कोस्टा",
+          "ऑस्कर निमेयर",
+          "रूय ओह्टेक",
+          "पाउलो मेंडेस दा रोचा"
+        ],
+        "answer": "लुसियो कोस्टा"
+      },
+
+      {
+        "id": 16,
+        "question": "ब्रिटिश संगीतकार का नाम क्या है जिसे अब तक के सबसे महान गिटारवादकों में से एक माना जाता है?",
+        "options": [
+          "जिमी हेंड्रिक्स",
+          "एरिक क्लैप्टन",
+          "जिमी पेज",
+          "डेविड गिल्मर"
+        ],
+        "answer": "जिमी हेंड्रिक्स"
+      },
+
+      {
+        "id": 17,
+        "question": "द लास्ट सपर' बनाने वाले इतालवी चित्रकार का नाम क्या है?",
+        "options": [
+          "माइकल एंजेलो",
+          "राफेल",
+          "लियोनार्डो दा विंसी",
+          "सैंड्रो बॉटलिकली"
+        ],
+        "answer": "लियोनार्डो दा विंची"
+      },
+
+      {
+        "id": 18,
+        "question": "ऑगस्टो बोआल द्वारा स्थापित थिएटर समूह का नाम क्या है?",
+        "options": [
+          "सरपट समूह",
+          "समूह टैप करें",
+          "ओएस सैट्रोस थिएटर कंपनी",
+          "पीड़ितों का रंगमंच"
+        ],
+        "answer": "उत्पीड़ित का रंगमंच"
+      },
+
+      {
+        "id": 19,
+        "question": "अगस्टे रोडिन की मूर्तिकला का नाम क्या है जो एक नग्न व्यक्ति को अपनी मुट्ठी पर सिर टिकाए बैठे हुए दर्शाता है?",
+        "options": ["विचारक", "चुंबन", "द मैन विथ द कट ईयर", "परदा"],
+        "answer": "विचारक"
+      },
+
+      {
+        "id": 20,
+        "question": "उस अमेरिकी लेखक का नाम क्या है जिसने 'ओ सोल ए पैरा टोडोस' पुस्तक लिखी?",
+        "options": [
+          "हार्पर ली",
+          "टोनी मॉरिसन",
+          "माया एंजेलो",
+          "ज़ोरा नील हर्स्टन"
+        ],
+        "answer": "हार्पर ली"
+      },
+
+      {
+        "id": 21,
+        "question": "विलियम शेक्सपियर के काम का क्या नाम है जो दो युवा प्रेमियों की कहानी कहता है जो अपने पारिवारिक प्रतिद्वंद्विता से अलग हो जाते हैं?",
+        "options": ["हैमलेट", "मैकबेथ", "रोमियो एंड जूलियट", "ओथेलो"],
+        "answer": "रोमियो और जूलियट"
+      },
+
+      {
+        "id": 22,
+        "question": "ब्राजील के उस फिल्म निर्माता का नाम क्या है जिसने 'सेंट्रल डो ब्रासिल' का निर्देशन किया था?",
+        "options": [
+          "फर्नांडो मीरेल्स",
+          "ग्लॉबर रोचा",
+          "वाल्टर सैल्स",
+          "हेक्टर बेबेंको"
+        ],
+        "answer": "वाल्टर सैल्स"
+      },
+
+      {
+        "id": 23,
+        "question": "फ्रांसीसी लेखक का नाम क्या है जिसने 'लेस मिसरेबल्स' लिखा था?",
+        "options": [
+          "विक्टर ह्युगो",
+          "गुस्ताव फ्लेबर्ट",
+          "एलबर्ट केमस",
+          "जीन-पॉल सार्त्र"
+        ],
+        "answer": "विक्टर ह्यूगो"
+      },
+
+      {
+        "id": 24,
+        "question": "1950 के दशक के अंत में जमैका में उत्पन्न हुई संगीत शैली का क्या नाम है?",
+        "options": ["स्का", "रेगे", "डब", "रॉकस्टेडी"],
+        "answer": "स्का"
+      },
+
+      {
+        "id": 25,
+        "question": "मोना लिसा' नामक प्रसिद्ध कृति बनाने वाले चित्रकार का क्या नाम है?",
+        "options": [
+          "पब्लो पिकासो",
+          "लियोनार्डो दा विंसी",
+          "विंसेंट वान गाग",
+          "क्लॉड मोनेट"
+        ],
+        "answer": "लियोनार्डो दा विंची"
+      },
+
+      {
+        "id": 26,
+        "question": "'हैरी पॉटर' फ़िल्मों में हर्मियोन ग्रेंजर का किरदार निभाने वाली अभिनेत्री का नाम क्या है?",
+        "options": [
+          "एम्मा वाटसन",
+          "एम्मा स्टोन",
+          "एम्मा रॉबर्ट्स",
+          "एम्मा थॉम्पसन"
+        ],
+        "answer": "एम्मा वाटसन"
+      },
+
+      {
+        "id": 27,
+        "question": "उस गायक का नाम क्या है जिसने 2016 में 'लेमोनेड' एल्बम जारी किया?",
+        "options": ["बियॉन्से", "रिहाना", "एडेल", "टेलर स्विफ्ट"],
+        "answer": "बेयॉन्से"
+      },
+
+      {
+        "id": 28,
+        "question": "'1984' लिखने वाले लेखक का नाम क्या है?",
+        "options": [
+          "जॉर्ज ऑरवेल",
+          "ऐलडस हक्सले",
+          "जेडी सालिंगर",
+          "एफ स्कॉट फिट्जगेराल्ड"
+        ],
+        "answer": "जॉर्ज ऑरवेल"
+      },
+
+      {
+        "id": 29,
+        "question": "ब्रिटिश संगीत समूह का क्या नाम है जो 'बोहेमियन रैप्सोडी' और 'वी विल रॉक यू' जैसे गीतों के लिए जाना जाता है?",
+        "options": ["द बीटल्स", "क्वीन", "लेड ज़ेपेलिन", "पिंक फ़्लॉइड"],
+        "answer": "रानी"
+      },
+
+      {
+        "id": 30,
+        "question": "'पल्प फिक्शन', 'किल बिल' और 'इनग्लोरियस बास्टर्ड्स' फिल्मों का निर्देशन करने वाले फिल्म निर्माता का नाम क्या है?",
+        "options": [
+          "मार्टिन स्कोरसेस",
+          "क्वेंटिन टैरेंटिनो",
+          "स्टीवन स्पीलबर्ग",
+          "क्रिस्टोफर नोलन"
+        ],
+        "answer": "क्वेंटिन टारनटिनो"
+      },
+
+      {
+        "id": 31,
+        "question": "उस कलाकार का नाम क्या है जो अपने सूप कैन आर्टवर्क के लिए जाना जाता है, जैसे 'कैम्पबेल्स सूप कैन्स'?",
+        "options": [
+          "जैक्सन पोलक",
+          "एंडी वारहोल",
+          "साल्वाडोर डाली",
+          "पब्लो पिकासो"
+        ],
+        "answer": "एंडी वारहोल"
+      },
+
+      {
+        "id": 32,
+        "question": "बीसवीं शताब्दी की शुरुआत में जर्मनी में उभरे कलात्मक आंदोलन का नाम क्या है, जो ज्यामितीय आकृतियों और प्राथमिक रंगों की विशेषता है?",
+        "options": ["अभिव्यक्तिवाद", "घनवाद", "दादावाद", "बॉहॉस"],
+        "answer": "बॉहॉस"
+      },
+
+      {
+        "id": 33,
+        "question": "उस कलाकार का नाम क्या है जो अपने विशाल गुब्बारों वाली जानवरों की मूर्तियों के लिए जाना जाता है?",
+        "options": ["जेफ़ कून्स", "डेमियन हेयरस्ट", "बैंकी", "ऐ वेईवेई"],
+        "answer": "जेफ कून्स"
+      },
+
+      {
+        "id": 34,
+        "question": "19 वीं शताब्दी के अंत में उभरे कलात्मक आंदोलन का नाम क्या है, जो शुद्ध, चमकीले रंगों और रंग विभाजन की तकनीक के उपयोग की विशेषता है?",
+        "options": ["प्रभाववाद", "अतियथार्थवाद", "Fauvism", "यथार्थवाद"],
+        "answer": "फौविज्म"
+      },
+
+      {
+        "id": 35,
+        "question": "मैक्सिकन कलाकार का नाम क्या है जो जीवंत रंगों और प्रतीकात्मक कल्पना के साथ अपनी कलाकृति के लिए जाना जाता है, जैसे 'सेल्फ-पोर्ट्रेट विथ ए नेकलेस ऑफ़ थ्रोन्स'?",
+        "options": [
+          "फ्रीडा कैहलो",
+          "जॉर्जिया ओ'कीफ़े",
+          "कारमेन हेरेरा",
+          "यायोई कुसमा"
+        ],
+        "answer": "फ्रिडा काहलो"
+      },
+
+      {
+        "id": 36,
+        "question": "'डेविड' और 'पिएटा' जैसे संगमरमर के कार्यों के लिए जाने जाने वाले इतालवी मूर्तिकार का क्या नाम है?",
+        "options": [
+          "लियोनार्डो दा विंसी",
+          "रैफेलो संज़ियो",
+          "माइकल एंजेलो बुओनारोटी",
+          "डोनाटेलो डि निकोलो डि बेट्टो बर्दी"
+        ],
+        "answer": "माइकलएंजेलो बुओनरोती"
+      },
+
+      {
+        "id": 37,
+        "question": "उस अमेरिकी कलाकार का नाम क्या है जो उसके प्रकाश प्रतिष्ठानों और मूर्तियों, जैसे 'द लाइटनिंग फील्ड' के लिए जाना जाता है?",
+        "options": [
+          "बारबरा क्रूगर",
+          "जेनी होल्जर",
+          "लुईस बुर्जुआ",
+          "वाल्टर डेमारिया"
+        ],
+        "answer": "वाल्टर डी मारिया"
+      },
+
+      {
+        "id": 38,
+        "question": "उस डच चित्रकार का नाम क्या है जो दैनिक दृश्यों के साथ अपनी कलाकृति के लिए जाना जाता है, जैसे 'द नाइट वॉच'?",
+        "options": [
+          "जोहान्स वर्मीर",
+          "रेम्ब्रांट वैन रिजन",
+          "पीटर ब्रिगेल",
+          "फ्रैंक हल्स"
+        ],
+        "answer": "रेम्ब्रांट वैन रिजन"
+      },
+
+      {
+        "id": 39,
+        "question": "ब्रिटिश कलाकार का क्या नाम है जिसने गेट्सहेड, इंग्लैंड में स्थित 'एंजेल ऑफ द नॉर्थ' मूर्तिकला बनाई?",
+        "options": [
+          "डेमियन हेयरस्ट",
+          "अनीश कपूर",
+          "हेनरी मूर",
+          "एंथनी गोर्मली"
+        ],
+        "answer": "एंथनी गोर्मली"
+      },
+
+      {
+        "id": 40,
+        "question": "1950 के दशक में इंग्लैंड में उभरे कलात्मक आंदोलन का नाम क्या है और कला के कार्यों की विशेषता है जो रोजमर्रा की जिंदगी को चित्रित करती है?",
+        "options": ["पॉप कला", "यथार्थवाद", "फौविज़्म", "प्रभाववाद"],
+        "answer": "यथार्थवाद"
+      },
+
+      {
+        "id": 41,
+        "question": "स्पेन के प्रसिद्ध पारंपरिक नृत्य का नाम क्या है, जो अक्सर गिटार और कैस्टनेट की आवाज़ के साथ होता है?",
+        "options": ["फ्लैमेंको", "सांबा", "टैंगो", "बैले"],
+        "answer": "फ्लेमेंको"
+      },
+
+      {
+        "id": 42,
+        "question": "बुडापेस्ट, हंगरी में अगस्त में प्रतिवर्ष आयोजित महान संगीत समारोह का नाम क्या है?",
+        "options": [
+          "ओक्टेबरफेस्ट",
+          "रियो कार्निवल",
+          "ग्लैस्टनबरी फेस्टिवल",
+          "स्जिगेट फेस्टिवल"
+        ],
+        "answer": "स्जिगेट फेस्टिवल"
+      },
+
+      {
+        "id": 43,
+        "question": "प्रसिद्ध वार्षिक धार्मिक उत्सव का नाम क्या है जो भारतीय शहर वाराणसी में आयोजित होता है और लाखों तीर्थयात्रियों को आकर्षित करता है?",
+        "options": [
+          "रोशनी का त्योहार",
+          "होली का त्यौहार",
+          "कुंभ मेला",
+          "दिवाली"
+        ],
+        "answer": "कुंभ मेला"
+      },
+
+      {
+        "id": 44,
+        "question": "हॉलीवुड, कैलिफोर्निया में आयोजित होने वाले प्रसिद्ध वार्षिक फिल्म पुरस्कार समारोह का क्या नाम है?",
+        "options": ["कान महोत्सव", "ऑस्कर", "गोल्डन ग्लोब", "बाफ्टा"],
+        "answer": "ऑस्कर"
+      },
+
+      {
+        "id": 45,
+        "question": "वेनिस, इटली में प्रतिवर्ष आयोजित होने वाले प्रसिद्ध अंतरराष्ट्रीय फिल्म समारोह का क्या नाम है?",
+        "options": [
+          "कान फिल्म समारोह",
+          "बर्लिन फिल्म फेस्टिवल",
+          "टोरंटो फिल्म महोत्सव",
+          "वेनिस फिल्म महोत्सव"
+        ],
+        "answer": "वेनिस फिल्म महोत्सव"
+      },
+
+      {
+        "id": 46,
+        "question": "पेरिस, फ्रांस में स्थित प्रसिद्ध संग्रहालय का नाम क्या है, जिसमें लियोनार्डो दा विंची, मोना लिसा का प्रसिद्ध काम है?",
+        "options": [
+          "लौवरे संग्रहालय",
+          "न्यूयॉर्क आधुनिक कला संग्रहालय",
+          "ब्रिटेन का संग्रहालय",
+          "राष्ट्रीय प्राडो संग्रहालय"
+        ],
+        "answer": "लौवर संग्रहालय"
+      },
+
+      {
+        "id": 47,
+        "question": "साओ पाउलो के इंदियातुबा में प्रतिवर्ष होने वाले प्रसिद्ध ब्राज़ीलियाई संगीत समारोह का क्या नाम है?",
+        "options": [
+          "रियो में शिला",
+          "लोलापालूजा ब्रासिल",
+          "साल्वाडोर समर फेस्टिवल",
+          "इंडियाटुबा एमपीबी फेस्टिवल"
+        ],
+        "answer": "इंडियाटुबा एमपीबी फेस्टिवल"
+      },
+
+      {
+        "id": 48,
+        "question": "प्रसिद्ध रॉक बैंड का नाम क्या है जो उनके अवधारणा एल्बम और रॉक ओपेरा 'द वॉल' के लिए जाना जाता है?",
+        "options": ["लेड ज़ेपेलिन", "पिंक फ़्लॉइड", "द बीटल्स", "क्वीन"],
+        "answer": "पिंक फ़्लॉइड"
+      },
+
+      {
+        "id": 49,
+        "question": "फिल्म 'ला ला लैंड' में अपने प्रदर्शन के लिए सर्वश्रेष्ठ अभिनेत्री का अकादमी पुरस्कार जीतने वाली प्रसिद्ध अमेरिकी अभिनेत्री का नाम क्या है?",
+        "options": [
+          "जेनिफर लॉरेंस",
+          "एम्मा स्टोन",
+          "नताली पोर्टमैन",
+          "केट ब्लेन्चेट"
+        ],
+        "answer": "एम्मा स्टोन"
+      },
+
+      {
+        "id": 50,
+        "question": "ग्यूसेप वर्डी द्वारा प्रसिद्ध ओपेरा का नाम क्या है जो एक इथियोपियाई दास की कहानी कहता है?",
+        "options": ["ला बोहेम", "आइडा", "कारमेन", "रिगोलेटो"],
+        "answer": "ऐदा"
+      }
+    ],
+
+    "food_and_gastronomy": [
+      {
+        "id": 1,
+        "question": "भोजन क्या है?",
+        "options": [
+          "भोजन पकाने की कला",
+          "एक प्रकार का आहार",
+          "जीवनशैली",
+          "एक प्रकार का व्यंजन"
+        ],
+        "answer": "खाना पकाने की कला"
+      },
+
+      {
+        "id": 2,
+        "question": "जापानी व्यंजनों में मुख्य सामग्री क्या है?",
+        "options": ["चावल", "मछली", "मांस", "पास्ता"],
+        "answer": "चावल"
+      },
+
+      {
+        "id": 3,
+        "question": "महाराज क्या है?",
+        "options": [
+          "एक पेशेवर रसोइया",
+          "एक पेय विशेषज्ञ",
+          "ए सोमेलियर",
+          "एक खाद्य आलोचक"
+        ],
+        "answer": "एक पेशेवर रसोइया"
+      },
+
+      {
+        "id": 4,
+        "question": "खाद्य ट्रक क्या है?",
+        "options": [
+          "एक ट्रक जो खाना बेचता है",
+          "एक वाहन जो भोजन का परिवहन करता है",
+          "एक भोजन मेला",
+          "एक भोजन चखने की घटना"
+        ],
+        "answer": "एक ट्रक जो खाना बेचता है"
+      },
+
+      {
+        "id": 5,
+        "question": "ब्राज़ील का राष्ट्रीय व्यंजन क्या है?",
+        "options": ["फीजोडा", "चुर्रासको", "पिज्जा", "सुशी"],
+        "answer": "फीजोदा"
+      },
+
+      {
+        "id": 6,
+        "question": "चखने का मेनू क्या है?",
+        "options": [
+          "कई व्यंजन विकल्पों वाला एक मेनू",
+          "घटनाओं के लिए एक विशेष मेनू",
+          "लघु व्यंजनों वाला एक मेनू",
+          "शेफ द्वारा चुने गए व्यंजनों के चयन वाला एक मेनू"
+        ],
+        "answer": "महाराज द्वारा चुने गए व्यंजनों के चयन वाला एक मेनू"
+      },
+
+      {
+        "id": 7,
+        "question": "आण्विक व्यंजन क्या है?",
+        "options": [
+          "एक प्रकार का व्यंजन जो जैविक सामग्री का उपयोग करता है",
+          "एक प्रकार का भोजन जो उच्च तकनीकी उपकरणों का उपयोग करता है",
+          "एक प्रकार का भोजन जो प्रसंस्कृत सामग्री का उपयोग करता है",
+          "एक प्रकार का भोजन जो क्षेत्रीय सामग्री का उपयोग करता है"
+        ],
+        "answer": "एक प्रकार का भोजन जो उच्च तकनीकी उपकरणों का उपयोग करता है"
+      },
+
+      {
+        "id": 8,
+        "question": "दुनिया में सबसे ज्यादा खाया जाने वाला व्यंजन कौन सा है?",
+        "options": ["बर्गर", "पिज़्ज़ा", "चावल और बीन्स", "सुशी"],
+        "answer": "चावल और बीन्स"
+      },
+
+      {
+        "id": 9,
+        "question": "सोमेलियर क्या है?",
+        "options": [
+          "एक पेय विशेषज्ञ",
+          "एक शेफ डी व्यंजन",
+          "एक खाद्य समीक्षक",
+          "एक पेशेवर रसोइया"
+        ],
+        "answer": "एक पेय विशेषज्ञ"
+      },
+
+      {
+        "id": 10,
+        "question": "एक रसोइया क्या है?",
+        "options": [
+          "एक रसोई सहायक",
+          "डेसर्ट में विशेषज्ञता वाला रसोइया",
+          "एक मांस विशेषज्ञ",
+          "मुख्य रसोइया"
+        ],
+        "answer": "एक रसोई सहायक"
+      },
+
+      {
+        "id": 11,
+        "question": "शाकाहारी व्यंजन क्या है?",
+        "options": [
+          "एक व्यंजन जिसमें मांस नहीं होता",
+          "एक व्यंजन जिसमें कोई सब्जी नहीं है",
+          "एक व्यंजन जिसमें मांस और सब्जियां हों",
+          "एक व्यंजन जिसमें केवल फल होते हैं"
+        ],
+        "answer": "एक व्यंजन जिसमें मांस नहीं होता है"
+      },
+
+      {
+        "id": 12,
+        "question": "कच्चा पकवान क्या है?",
+        "options": [
+          "एक व्यंजन जो पकाया नहीं जाता है",
+          "एक व्यंजन जिसमें केवल कच्चा भोजन होता है",
+          "एक व्यंजन जिसमें चीनी नहीं है",
+          "एक व्यंजन जिसमें केवल जैविक भोजन होता है"
+        ],
+        "answer": "एक व्यंजन जिसमें केवल कच्चा भोजन होता है"
+      },
+
+      {
+        "id": 13,
+        "question": "एक सॉस वीडियो क्या है?",
+        "options": [
+          "एक कम तापमान खाना पकाने की विधि",
+          "उच्च तापमान पर खाना पकाने की एक विधि",
+          "शराब के साथ भोजन तैयार करने की एक विधि",
+          "बीयर के साथ भोजन तैयार करने की एक विधि"
+        ],
+        "answer": "एक कम तापमान खाना पकाने की विधि"
+      },
+
+      {
+        "id": 14,
+        "question": "हॉलैंडाइस सॉस क्या है?",
+        "options": [
+          "अंडे और मक्खन पर आधारित सॉस",
+          "टमाटर सॉस",
+          "एक पनीर सॉस",
+          "जड़ी बूटियों का एक गुच्छा"
+        ],
+        "answer": "अंडे और मक्खन पर आधारित सॉस"
+      },
+
+      {
+        "id": 15,
+        "question": "बेकमेल सॉस क्या है?",
+        "options": [
+          "दूध और मक्खन पर आधारित सॉस",
+          "टमाटर सॉस",
+          "एक पनीर सॉस",
+          "जड़ी बूटियों का एक गुच्छा"
+        ],
+        "answer": "दूध और मक्खन पर आधारित सॉस"
+      },
+
+      {
+        "id": 16,
+        "question": "पेस्टो सॉस क्या है?",
+        "options": [
+          "तुलसी, पाइन नट्स, लहसुन और पनीर पर आधारित सॉस",
+          "टमाटर सॉस",
+          "एक पनीर सॉस",
+          "जड़ी बूटियों का एक गुच्छा"
+        ],
+        "answer": "तुलसी, पाइन नट्स, लहसुन और पनीर पर आधारित सॉस"
+      },
+
+      {
+        "id": 17,
+        "question": "एओली सॉस क्या है?",
+        "options": [
+          "लहसुन और जैतून के तेल पर आधारित सॉस",
+          "टमाटर सॉस",
+          "एक पनीर सॉस",
+          "जड़ी बूटियों का एक गुच्छा"
+        ],
+        "answer": "लहसुन और जैतून के तेल पर आधारित सॉस"
+      },
+
+      {
+        "id": 18,
+        "question": "गुआकामोल में मुख्य घटक क्या है?",
+        "options": ["एवोकैडो", "टमाटर", "प्याज", "काली मिर्च"],
+        "answer": "एवोकाडो"
+      },
+
+      {
+        "id": 19,
+        "question": "सुशी में मुख्य सामग्री क्या है?",
+        "options": ["चावल", "मछली", "समुद्री शैवाल नोरी", "सोया सॉस"],
+        "answer": "चावल"
+      },
+
+      {
+        "id": 20,
+        "question": "सेविचे क्या है?",
+        "options": [
+          "नींबू या अन्य एसिड में मैरीनेट की गई कच्ची मछली पर आधारित व्यंजन",
+          "कोयले पर भुना हुआ मांस का एक व्यंजन",
+          "मसाले के साथ चिकन पर आधारित एक व्यंजन",
+          "भुनी हुई सब्जियों पर आधारित व्यंजन"
+        ],
+        "answer": "नींबू या अन्य एसिड में मैरीनेट की गई कच्ची मछली पर आधारित व्यंजन"
+      },
+
+      {
+        "id": 21,
+        "question": "ह्यूमस में मुख्य घटक क्या है?",
+        "options": ["चना", "मांस", "चावल", "मिर्च"],
+        "answer": "चना"
+      },
+
+      {
+        "id": 22,
+        "question": "फ़लाफ़ेल क्या है?",
+        "options": [
+          "चना या फवा बीन्स की एक तली हुई गेंद",
+          "एक प्रकार की अरबी रोटी",
+          "ग्रिल्ड मीट पर आधारित व्यंजन",
+          "उबली हुई सब्जियों पर आधारित व्यंजन"
+        ],
+        "answer": "चना या फवा बीन्स की एक तली हुई गेंद"
+      },
+
+      {
+        "id": 23,
+        "question": "बारबेक्यू क्या है?",
+        "options": [
+          "उच्च ताप पर मांस भूनने की एक विधि",
+          "उबलते पानी में मांस पकाने की एक विधि",
+          "कम तापमान पर मांस पकाने की एक विधि",
+          "उच्च तापमान पर मांस पकाने की एक विधि"
+        ],
+        "answer": "उच्च ताप पर मांस भूनने की एक विधि"
+      },
+
+      {
+        "id": 24,
+        "question": "फोंडू क्या है?",
+        "options": [
+          "पिघले पनीर पर आधारित स्विस मूल का व्यंजन",
+          "कच्ची मछली पर आधारित व्यंजन",
+          "ग्रिल्ड मीट पर आधारित व्यंजन",
+          "उबली हुई सब्जियों पर आधारित व्यंजन"
+        ],
+        "answer": "पिघले पनीर पर आधारित स्विस मूल का व्यंजन"
+      },
+
+      {
+        "id": 25,
+        "question": "क्रेप क्या है?",
+        "options": [
+          "एक प्रकार का पतला, मोड़ने योग्य पैनकेक",
+          "एक प्रकार की फ्रेंच ब्रेड",
+          "मैक्सिकन टॉर्टिला का एक प्रकार",
+          "एक प्रकार का इतालवी पास्ता"
+        ],
+        "answer": "एक प्रकार का पतला, मोड़ने योग्य पैनकेक"
+      },
+
+      {
+        "id": 26,
+        "question": "सुशी बार क्या है?",
+        "options": [
+          "सुशी और अन्य जापानी व्यंजन परोसने वाला एक रेस्तरां",
+          "एक बार जो केवल पेय परोसता है",
+          "एक बार जो केवल सुशी परोसता है",
+          "एक प्रकार का चॉकलेट बार"
+        ],
+        "answer": "सुशी और अन्य जापानी व्यंजन परोसने वाला रेस्तरां"
+      },
+
+      {
+        "id": 27,
+        "question": "ब्रंच क्या है?",
+        "options": [
+          "एक भोजन जो नाश्ते और दोपहर के भोजन के तत्वों को जोड़ता है",
+          "एक प्रकार की मिठाई",
+          "एक प्रकार का कॉकटेल",
+          "एक समुद्री भोजन आधारित व्यंजन"
+        ],
+        "answer": "एक भोजन जो नाश्ते और दोपहर के भोजन के तत्वों को जोड़ता है"
+      },
+
+      {
+        "id": 28,
+        "question": "एक क्रोइसैन क्या है?",
+        "options": [
+          "एक प्रकार की फ्रेंच रोटी एक वर्धमान के आकार में",
+          "एक प्रकार का अमेरिकी केक",
+          "मैक्सिकन टॉर्टिला का एक प्रकार",
+          "एक प्रकार का इतालवी पास्ता"
+        ],
+        "answer": "एक प्रकार की फ्रेंच ब्रेड जिसका आकार आधे चाँद जैसा होता है"
+      },
+
+      {
+        "id": 29,
+        "question": "कैलज़ोन क्या है?",
+        "options": [
+          "एक प्रकार का पिज्जा जो वर्धमान के आकार में बंद होता है",
+          "एक प्रकार का नूडल",
+          "एक प्रकार की मिठाई",
+          "एक प्रकार का सैंडविच"
+        ],
+        "answer": "एक प्रकार का आधा चाँद बंद पिज्जा"
+      },
+
+      {
+        "id": 30,
+        "question": "बैगूएट क्या है?",
+        "options": [
+          "एक लंबी, कुरकुरी प्रकार की फ्रेंच ब्रेड",
+          "मैक्सिकन टॉर्टिला का एक प्रकार",
+          "एक प्रकार की इतालवी मिठाई",
+          "एक प्रकार की सुशी"
+        ],
+        "answer": "एक लंबी, कुरकुरी प्रकार की फ्रेंच ब्रेड"
+      },
+
+      {
+        "id": 31,
+        "question": "फोंडू क्या है?",
+        "options": [
+          "पिघले पनीर और ब्रेड पर आधारित एक स्विस डिश",
+          "पास्ता पर आधारित एक फ्रांसीसी व्यंजन",
+          "चावल और सब्जियों पर आधारित एक जापानी व्यंजन",
+          "मांस और टॉर्टिला पर आधारित एक मेक्सिकन व्यंजन"
+        ],
+        "answer": "पिघले पनीर और ब्रेड पर आधारित एक स्विस डिश"
+      },
+
+      {
+        "id": 32,
+        "question": "पाएला क्या है?",
+        "options": [
+          "चावल, समुद्री भोजन और सब्जियों पर आधारित एक स्पेनिश व्यंजन",
+          "मकई पर आधारित एक मेक्सिकन व्यंजन",
+          "मांस पर आधारित एक फ्रांसीसी व्यंजन",
+          "चावल और सब्जियों पर आधारित एक चीनी व्यंजन"
+        ],
+        "answer": "चावल, समुद्री भोजन और सब्जियों पर आधारित एक स्पेनिश व्यंजन"
+      },
+
+      {
+        "id": 33,
+        "question": "सेविचे क्या है?",
+        "options": [
+          "नींबू के रस में मैरीनेट की गई कच्ची मछली पर आधारित एक पेरूवियन डिश",
+          "मैक्सिकन टॉर्टिला का एक प्रकार",
+          "पास्ता पर आधारित एक फ्रांसीसी व्यंजन",
+          "चावल और सब्जियों पर आधारित एक चीनी व्यंजन"
+        ],
+        "answer": "नींबू के रस में मैरीनेट की गई कच्ची मछली पर आधारित पेरू का व्यंजन"
+      },
+
+      {
+        "id": 34,
+        "question": "ग्वाकामोल क्या है?",
+        "options": [
+          "एवोकाडो, टमाटर, प्याज और धनिया पर आधारित एक मेक्सिकन व्यंजन",
+          "एक इतालवी पास्ता-आधारित डिश",
+          "एक प्रकार की मिठाई",
+          "चावल और सब्जियों पर आधारित एक चीनी व्यंजन"
+        ],
+        "answer": "एवोकाडो, टमाटर, प्याज और धनिया से बनी मैक्सिकन डिश"
+      },
+
+      {
+        "id": 35,
+        "question": "पिकन्हा क्या है?",
+        "options": [
+          "ब्राजील में कटा हुआ एक बहुत ही लोकप्रिय गोमांस",
+          "एक प्रकार की मछली",
+          "एक प्रकार का इतालवी पास्ता",
+          "एक प्रकार की रोटी"
+        ],
+        "answer": "ब्राजील में कटा हुआ एक बहुत ही लोकप्रिय गोमांस"
+      },
+
+      {
+        "id": 36,
+        "question": "पेस्टो सॉस क्या है?",
+        "options": [
+          "तुलसी, पाइन नट्स, जैतून का तेल, पनीर और लहसुन पर आधारित एक इतालवी सॉस",
+          "रेड वाइन पर आधारित एक फ्रेंच सॉस",
+          "सोया और अदरक पर आधारित चीनी चटनी",
+          "टमाटर और काली मिर्च पर आधारित मैक्सिकन सॉस"
+        ],
+        "answer": "तुलसी, पाइन नट्स, जैतून का तेल, पनीर और लहसुन पर आधारित एक इतालवी सॉस"
+      },
+
+      {
+        "id": 37,
+        "question": "तिरामिसु क्या है?",
+        "options": [
+          "शैंपेन बिस्कुट, कॉफी, मस्कारपोन पनीर और कोको पर आधारित एक इतालवी मिठाई",
+          "मांस पर आधारित एक फ्रांसीसी व्यंजन",
+          "मकई पर आधारित एक मेक्सिकन व्यंजन",
+          "चावल और सब्जियों पर आधारित एक चीनी व्यंजन"
+        ],
+        "answer": "शैंपेन बिस्कुट, कॉफी, मस्कारपोन पनीर और कोको पर आधारित एक इतालवी मिठाई"
+      },
+
+      {
+        "id": 38,
+        "question": "रिसोट्टो क्या है?",
+        "options": [
+          "चावल और मांस या सब्जी शोरबा पर आधारित एक इतालवी व्यंजन",
+          "पास्ता पर आधारित एक फ्रांसीसी व्यंजन",
+          "मकई पर आधारित एक मेक्सिकन व्यंजन",
+          "चावल और सब्जियों पर आधारित एक चीनी व्यंजन"
+        ],
+        "answer": "चावल और मांस या सब्जी शोरबा पर आधारित एक इतालवी व्यंजन"
+      },
+
+      {
+        "id": 39,
+        "question": "सेविचे क्या है?",
+        "options": [
+          "नींबू और मसालों में मैरीनेट की गई कच्ची मछली पर आधारित पेरू का एक व्यंजन",
+          "एक प्रकार का इतालवी पास्ता",
+          "मांस पर आधारित एक फ्रांसीसी व्यंजन",
+          "मैक्सिकन सूप का एक प्रकार"
+        ],
+        "answer": "नींबू और मसालों में मैरीनेट की गई कच्ची मछली पर आधारित पेरू का व्यंजन"
+      },
+
+      {
+        "id": 40,
+        "question": "ग्वाकामोल क्या है?",
+        "options": [
+          "एवोकाडो, टमाटर, प्याज और नींबू पर आधारित एक मेक्सिकन व्यंजन",
+          "एक इतालवी पास्ता-आधारित डिश",
+          "मांस पर आधारित एक फ्रांसीसी व्यंजन",
+          "चावल और सब्जियों पर आधारित एक चीनी व्यंजन"
+        ],
+        "answer": "एवोकाडो, टमाटर, प्याज और नींबू से बना एक मेक्सिकन व्यंजन"
+      },
+
+      {
+        "id": 41,
+        "question": "पेकिंग बतख क्या है?",
+        "options": [
+          "रोस्ट डक और थिन पैनकेक्स पर आधारित एक चाइनीज़ डिश",
+          "एक इतालवी पास्ता-आधारित डिश",
+          "मांस पर आधारित एक फ्रांसीसी व्यंजन",
+          "मकई पर आधारित एक मेक्सिकन डिश"
+        ],
+        "answer": "भुनी हुई बत्तख और पतली पेनकेक्स की एक चीनी डिश"
+      },
+
+      {
+        "id": 42,
+        "question": "फीजोडा क्या है?",
+        "options": [
+          "ब्लैक बीन्स, सूखे मांस और सॉसेज पर आधारित एक ब्राज़ीलियाई व्यंजन",
+          "पास्ता पर आधारित एक फ्रांसीसी व्यंजन",
+          "मकई पर आधारित एक मेक्सिकन व्यंजन",
+          "चावल और सब्जियों पर आधारित एक चीनी व्यंजन"
+        ],
+        "answer": "काली बीन्स, सूखे मांस और सॉसेज पर आधारित एक ब्राज़ीलियाई व्यंजन"
+      },
+
+      {
+        "id": 43,
+        "question": "बारबेक्यू क्या है?",
+        "options": [
+          "ब्राजील में खुली आग पर मांस पकाने का एक बहुत ही लोकप्रिय तरीका",
+          "पास्ता पर आधारित एक फ्रांसीसी व्यंजन",
+          "मकई पर आधारित एक मेक्सिकन व्यंजन",
+          "चावल और सब्जियों पर आधारित एक चीनी व्यंजन"
+        ],
+        "answer": "ब्राज़ील में खुली आग पर मांस पकाने का एक बहुत लोकप्रिय तरीका"
+      },
+
+      {
+        "id": 44,
+        "question": "लसग्ना क्या है?",
+        "options": [
+          "टमाटर सॉस, मांस और पनीर के साथ स्तरित पास्ता पर आधारित एक इतालवी व्यंजन",
+          "मछली पर आधारित एक फ्रांसीसी व्यंजन",
+          "मकई पर आधारित एक मेक्सिकन व्यंजन",
+          "चावल और सब्जियों पर आधारित एक चीनी व्यंजन"
+        ],
+        "answer": "टमाटर सॉस, मांस और पनीर के साथ स्तरित पास्ता पर आधारित एक इतालवी व्यंजन"
+      },
+
+      {
+        "id": 45,
+
+        "question": "मूस क्या है?",
+        "options": [
+          "क्रीम और व्हीप्ड अंडे की सफेदी पर आधारित एक हवादार मिठाई",
+          "मांस पर आधारित एक फ्रांसीसी व्यंजन",
+          "मकई पर आधारित एक मेक्सिकन व्यंजन",
+          "चावल और सब्जियों पर आधारित एक चीनी व्यंजन"
+        ],
+        "answer": "फेंटे हुए अंडे की सफेदी के साथ एक हल्की क्रीम आधारित मिठाई"
+      },
+
+      {
+        "id": 46,
+        "question": "पिज्जा क्या है?",
+        "options": [
+          "टमाटर सॉस और पनीर के साथ पास्ता पर आधारित एक इतालवी व्यंजन",
+          "मछली पर आधारित एक फ्रांसीसी व्यंजन",
+          "मकई पर आधारित एक मेक्सिकन व्यंजन",
+          "चावल और सब्जियों पर आधारित एक चीनी व्यंजन"
+        ],
+        "answer": "टमाटर सॉस और पनीर के साथ पास्ता पर आधारित एक इतालवी व्यंजन"
+      },
+
+      {
+        "id": 47,
+        "question": "किम्ची क्या है?",
+        "options": [
+          "किण्वित और अनुभवी गोभी पर आधारित एक कोरियाई व्यंजन",
+          "पास्ता पर आधारित एक फ्रांसीसी व्यंजन",
+          "मकई पर आधारित एक मेक्सिकन व्यंजन",
+          "चावल और सब्जियों पर आधारित एक चीनी व्यंजन"
+        ],
+        "answer": "किण्वित और अनुभवी गोभी पर आधारित एक कोरियाई व्यंजन"
+      },
+
+      {
+        "id": 48,
+        "question": "फ़लाफ़ेल क्या है?",
+        "options": [
+          "मध्य पूर्व में मूल के साथ अनुभवी छोले पर आधारित एक तली हुई गुलगुला",
+          "मांस पर आधारित एक फ्रांसीसी व्यंजन",
+          "मकई पर आधारित एक मेक्सिकन व्यंजन",
+          "चावल और सब्जियों पर आधारित एक चीनी व्यंजन"
+        ],
+        "answer": "मध्य पूर्व में उत्पन्न होने वाला एक मसालेदार छोले-आधारित फ्रिटर"
+      },
+
+      {
+        "id": 49,
+        "question": "यकीसोबा क्या है?",
+        "options": [
+          "नूडल्स, सब्जियों और मांस पर आधारित एक जापानी व्यंजन",
+          "मछली पर आधारित एक फ्रांसीसी व्यंजन",
+          "मकई पर आधारित एक मेक्सिकन व्यंजन",
+          "चावल और सब्जियों पर आधारित एक चीनी व्यंजन"
+        ],
+        "answer": "नूडल्स, सब्जियों और मांस पर आधारित एक जापानी व्यंजन"
+      },
+
+      {
+        "id": 50,
+        "question": "स्टू क्या है?",
+        "options": [
+          "आलू, टमाटर और मिर्च के साथ पकाई गई मछली पर आधारित एक पुर्तगाली व्यंजन",
+          "पास्ता पर आधारित एक फ्रांसीसी व्यंजन",
+          "मकई पर आधारित एक मेक्सिकन व्यंजन",
+          "चावल और सब्जियों पर आधारित एक चीनी व्यंजन"
+        ],
+        "answer": "आलू, टमाटर और मिर्च के साथ पकाई गई मछली पर आधारित एक पुर्तगाली व्यंजन"
+      }
+    ],
+
+    "Literature_and_famous_authors": [
+      {
+        "id": 1,
+        "question": "'डॉन क्विक्सोट' पुस्तक किसने लिखी?",
+        "options": [
+          "मिगुएल डे Cervantes",
+          "विलियम शेक्सपियर",
+          "जॉर्ज लुइस बोर्गेस",
+          "गेब्रियल गार्सिया मार्केज़"
+        ],
+        "answer": "मिगुएल डे Cervantes"
+      },
+
+      {
+        "id": 2,
+        "question": "विलियम शेक्सपियर का सबसे प्रसिद्ध काम क्या है?",
+        "options": ["रोमियो और जूलियट", "हैमलेट", "मैकबेथ", "ओथेलो"],
+        "answer": "हेमलेट"
+      },
+
+      {
+        "id": 3,
+        "question": "'वन हंड्रेड इयर्स ऑफ़ सॉलिट्यूड' पुस्तक किसने लिखी है?",
+        "options": [
+          "गेब्रियल गार्सिया मार्केज़",
+          "इसाबेल अलेंदे",
+          "पाब्लो नेरुदा",
+          "मारियो वर्गास लोसा"
+        ],
+        "answer": "गेब्रियल गार्सिया मार्केज़"
+      },
+
+      {
+        "id": 4,
+        "question": "'1984' के लेखक एरिक आर्थर ब्लेयर का उपनाम क्या है?",
+        "options": [
+          "जॉर्ज ऑरवेल",
+          "अर्नेस्ट हेमिंग्वे",
+          "जेडी सालिंगर",
+          "एफ स्कॉट फिट्जगेराल्ड"
+        ],
+        "answer": "जॉर्ज ऑरवेल"
+      },
+
+      {
+        "id": 5,
+        "question": "फ्रांज काफ्का का सबसे प्रसिद्ध काम क्या है?",
+        "options": ["द मेटामोर्फोसिस", "द प्रोसेस", "द कैसल", "लेटर टू द फादर"],
+        "answer": "कायापलट"
+      },
+
+      {
+        "id": 6,
+        "question": "'वॉर एंड पीस' पुस्तक किसने लिखी?",
+        "options": [
+          "फ्योडोर दोस्तोवस्की",
+          "लेव टॉल्स्टॉय",
+          "इवान तुर्गनेव",
+          "एंटोन चेखव"
+        ],
+        "answer": "लेव टॉल्स्टॉय"
+      },
+
+      {
+        "id": 7,
+        "question": "जेन ऑस्टेन का सबसे प्रसिद्ध काम क्या है?",
+        "options": ["प्राइड एंड प्रीजूडिस", "एम्मा", "मंसफील्ड पार्क", "अनुनय"],
+        "answer": "गौरव और पूर्वाग्रह"
+      },
+
+      {
+        "id": 8,
+        "question": "द डिवाइन कॉमेडी' पुस्तक किसने लिखी है?",
+        "options": [
+          "दांटे अलीघीरी",
+          "पेट्रार्क",
+          "जियोवानी बोकाशियो",
+          "फ्रांसेस्को पेट्रार्क"
+        ],
+        "answer": "दांते एलघिएरी"
+      },
+
+      {
+        "id": 9,
+        "question": "वर्जीनिया वूल्फ का सबसे प्रसिद्ध काम क्या है?",
+        "options": ["श्रीमती डलाय", "ऑरलैंडो", "लहरें", "उसका अपना एक कमरा"],
+        "answer": "श्रीमती डलाय"
+      },
+
+      {
+        "id": 10,
+        "question": "'द प्रोसेस' पुस्तक किसने लिखी है?",
+        "options": ["फ्रांज काफ्का", "थॉमस मान", "हरमन हेस्से", "रॉबर्ट मुसिल"],
+        "answer": "फ्रांज काफ्का"
+      },
+
+      {
+        "id": 11,
+        "question": "द कैचर इन द राई' पुस्तक किसने लिखी?",
+        "options": [
+          "जेडी सालिंगर",
+          "अर्नेस्ट हेमिंग्वे",
+          "एफ स्कॉट फिट्जगेराल्ड",
+          "जॉन स्टीनबेक"
+        ],
+        "answer": "जद सलिंगर"
+      },
+
+      {
+        "id": 12,
+        "question": "गेब्रियल गार्सिया मार्केज़ द्वारा सबसे प्रसिद्ध काम क्या है?",
+        "options": [
+          "एकांत के सौ वर्ष",
+          "हैजा होने के समय प्रेम",
+          "क्रॉनिकल ऑफ़ ए डेथ फोरटोल्ड",
+          "कर्नल को कोई नहीं लिखता"
+        ],
+        "answer": "एक सौ साल का एकांत"
+      },
+
+      {
+        "id": 13,
+        "question": "पुस्तक '1984' किसने लिखी?",
+        "options": [
+          "जॉर्ज ऑरवेल",
+          "ऐलडस हक्सले",
+          "रे ब्रैडबरी",
+          "आर्थर सी. क्लार्क"
+        ],
+        "answer": "जॉर्ज ऑरवेल"
+      },
+
+      {
+        "id": 14,
+        "question": "अर्नेस्ट हेमिंग्वे का सबसे प्रसिद्ध काम क्या है?",
+        "options": [
+          "पुराना और समुद्र",
+          "किनके लिए घंटी बजती है",
+          "सूर्य भी उठता है",
+          "पेरिस एक पार्टी है"
+        ],
+        "answer": "द ओल्ड मैन एंड द सी"
+      },
+
+      {
+        "id": 15,
+        "question": "'जानवरों की क्रांति' पुस्तक किसने लिखी?",
+        "options": [
+          "जॉर्ज ऑरवेल",
+          "ऐलडस हक्सले",
+          "रे ब्रैडबरी",
+          "आर्थर सी. क्लार्क"
+        ],
+        "answer": "जॉर्ज ऑरवेल"
+      },
+
+      {
+        "id": 16,
+        "question": "फ्रांज शूबर्ट का सबसे प्रसिद्ध काम क्या है?",
+        "options": [
+          "स्लीपिंग ब्यूटी",
+          "सरौता",
+          "हंस झील",
+          "विकल्पों में से कोई नहीं"
+        ],
+        "answer": "कोई विकल्प नहीं"
+      },
+
+      {
+        "id": 17,
+        "question": "द स्कार्लेट लेटर' पुस्तक किसने लिखी?",
+        "options": [
+          "नथानिएल हॉथोर्न",
+          "एडगर एलन पो",
+          "वाशिंगटन इरविंग",
+          "हेनरी डेविड थॉरो"
+        ],
+        "answer": "नथानिएल हॉथोर्न"
+      },
+
+      {
+        "id": 18,
+        "question": "हार्पर ली का सबसे प्रसिद्ध काम क्या है?",
+        "options": [
+          "सूर्य सबके लिए है",
+          "जाओ, एक घड़ी रखो",
+          "एक कोकिला की हत्या",
+          "इनमें से कोई नहीं"
+        ],
+        "answer": "सूर्य सबके लिए है"
+      },
+
+      {
+        "id": 19,
+        "question": "'वुथरिंग हाइट्स' पुस्तक किसने लिखी है?",
+        "options": [
+          "एमिली ब्रोंटे",
+          "चार्लोटे ब्रॉन्टा",
+          "ऐनी ब्रोंटे",
+          "जेन ऑस्टेन"
+        ],
+        "answer": "एमिली ब्रोंटे"
+      },
+
+      {
+        "id": 20,
+        "question": "हरमन मेलविल का सबसे प्रसिद्ध काम क्या है?",
+        "options": ["मोबी डिक", "बिली बड", "बार्टलबाई द स्क्रिप्वेनर", "टाइपी"],
+        "answer": "मोबी डिक"
+      },
+
+      {
+        "id": 21,
+        "question": "'द पिक्चर ऑफ़ डोरियन ग्रे' पुस्तक किसने लिखी है?",
+        "options": [
+          "ऑस्कर वाइल्ड",
+          "एडगर एलन पो",
+          "रॉबर्ट लुइस स्टीवेन्सन",
+          "ब्रैम स्टॉकर"
+        ],
+        "answer": "ऑस्कर वाइल्ड"
+      },
+
+      {
+        "id": 22,
+        "question": "वर्जीनिया वूल्फ का सबसे प्रसिद्ध काम क्या है?",
+        "options": ["श्रीमती डलाय", "ऑरलैंडो", "द वेव्स", "टू द लाइटहाउस"],
+        "answer": "श्रीमती डलाय"
+      },
+
+      {
+        "id": 23,
+        "question": "अगाथा क्रिस्टी का सबसे प्रसिद्ध काम क्या है?",
+        "options": [
+          "मर्डर ऑन द ओरिएंट एक्सप्रेस",
+          "द केस ऑफ़ द टेन लिटिल ब्लैक्स",
+          "रोजर एक्रोयड की हत्या",
+          "नील पर मौत"
+        ],
+        "answer": "ओ कैसो डॉस टेन नेग्रिन्होस"
+      },
+
+      {
+        "id": 24,
+        "question": "विलियम फॉकनर का सबसे प्रसिद्ध काम क्या है?",
+        "options": [
+          "ध्वनि और रोष",
+          "अगस्त में प्रकाश",
+          "जबकि मैं लेटा हूँ",
+          "अबशालोम, अबशालोम!"
+        ],
+        "answer": "ध्वनि और रोष"
+      },
+
+      {
+        "id": 25,
+        "question": "द मैजिक माउंटेन' पुस्तक किसने लिखी है?",
+        "options": ["थॉमस मान", "फ्रांज काफ्का", "हरमन हेस्से", "रॉबर्ट मुसिल"],
+        "answer": "थॉमस मान"
+      },
+
+      {
+        "id": 26,
+        "question": "टोनी मॉरिसन का सबसे प्रसिद्ध काम क्या है?",
+        "options": ["प्रिय", "द ब्लूस्ट आई", "जैज़", "पैराडाइज़"],
+        "answer": "प्रिय"
+      },
+
+      {
+        "id": 27,
+        "question": "द कैचर इन द राई' पुस्तक किसने लिखी?",
+        "options": [
+          "जेडी सालिंगर",
+          "अर्नेस्ट हेमिंग्वे",
+          "एफ स्कॉट फिट्जगेराल्ड",
+          "जॉन स्टीनबेक"
+        ],
+        "answer": "जद सलिंगर"
+      },
+
+      {
+        "id": 28,
+        "question": "मचाडो डी असिस द्वारा सबसे प्रसिद्ध काम क्या है?",
+        "options": [
+          "डोम कास्मुरो",
+          "ब्रास क्यूबस के मरणोपरांत संस्मरण",
+          "क्विनकास बोरबा",
+          "द एलियनिस्ट"
+        ],
+        "answer": "डोम कास्मुरो"
+      },
+
+      {
+        "id": 29,
+        "question": "द मेटामोर्फोसिस' पुस्तक किसने लिखी है?",
+        "options": [
+          "फ्रांज काफ्का",
+          "एलबर्ट केमस",
+          "सैमुअल बेकेट",
+          "जीन-पॉल सार्त्र"
+        ],
+        "answer": "फ्रांज काफ्का"
+      },
+
+      {
+        "id": 30,
+        "question": "फर्नांडो पेसोआ का सबसे प्रसिद्ध काम क्या है?",
+        "options": ["संदेश", "बेचैनी की किताब", "द लुसियाड्स", "झुंड कीपर"],
+        "answer": "संदेश"
+      },
+
+      {
+        "id": 31,
+        "question": "किसने 'लेस मिसरेबल्स' पुस्तक लिखी?",
+        "options": [
+          "विक्टर ह्युगो",
+          "गुस्ताव फ्लेबर्ट",
+          "एमिल ज़ोला",
+          "स्टेंडल"
+        ],
+        "answer": "विक्टर ह्यूगो"
+      },
+
+      {
+        "id": 32,
+        "question": "जॉर्ज लुइस बोर्गेस द्वारा सबसे प्रसिद्ध काम क्या है?",
+        "options": [
+          "काल्पनिक",
+          "द एलेफ़",
+          "द गार्डन ऑफ़ फोर्किंग पाथ्स",
+          "रेत की किताब"
+        ],
+        "answer": "काल्पनिक"
+      },
+
+      {
+        "id": 33,
+        "question": "'वॉर एंड पीस' पुस्तक किसने लिखी?",
+        "options": [
+          "लेव टॉल्स्टॉय",
+          "फ्योडोर दोस्तोवस्की",
+          "निकोलाई गोगोल",
+          "एंटोन चेखव"
+        ],
+        "answer": "लेव टॉल्स्टॉय"
+      },
+
+      {
+        "id": 34,
+        "question": "एमिली ब्रोंटे का सबसे प्रसिद्ध काम क्या है?",
+        "options": ["वर्थरिंग हाइट्स", "जेन आयर", "एग्नेस ग्रे", "विलेट"],
+        "answer": "वुथरिंग हाइट्स"
+      },
+
+      {
+        "id": 35,
+        "question": "किसने 'द ब्रदर्स करमाज़ोव' पुस्तक लिखी है?",
+        "options": [
+          "फ्योडोर दोस्तोवस्की",
+          "लेव टॉल्स्टॉय",
+          "एंटोन चेखव",
+          "निकोलाई गोगोल"
+        ],
+        "answer": "फ्योडोर दोस्तोवस्की"
+      },
+
+      {
+        "id": 36,
+        "question": "किसने 'द ग्रेट गैट्सबी' पुस्तक लिखी है?",
+        "options": [
+          "एफ स्कॉट फिट्जगेराल्ड",
+          "अर्नेस्ट हेमिंग्वे",
+          "विलियम फॉल्कनर",
+          "जॉन स्टीनबेक"
+        ],
+        "answer": "एफ स्कॉट फिट्जगेराल्ड"
+      },
+
+      {
+        "id": 37,
+        "question": "जूल्स वर्ने का सबसे प्रसिद्ध काम क्या है?",
+        "options": [
+          "समुद्र के नीचे बीस हजार लीग",
+          "80 दिनों में दुनिया की सैर",
+          "पृथ्वी के केंद्र की यात्रा",
+          "पृथ्वी से चंद्रमा तक"
+        ],
+        "answer": "समुद्र के नीचे बीस हजार लीग"
+      },
+
+      {
+        "id": 38,
+
+        "question": "'द क्रॉनिकल्स ऑफ नार्निया' के लेखक कौन हैं?",
+        "options": [
+          "सी.एस. लुईस",
+          "जे.आर.आर. टोल्किन",
+          "जेके रॉउलिंग",
+          "जॉर्ज आर आर मार्टिन"
+        ],
+        "answer": "सी.एस. लुईस"
+      },
+
+      {
+        "id": 39,
+        "question": "चार्ल्स डिकेंस का सबसे प्रसिद्ध काम क्या है?",
+        "options": [
+          "ओलिवर ट्विस्ट",
+          "डेविड कॉपरफील्ड",
+          "बड़ी उम्मीदें",
+          "एक क्रिसमस कैरोल"
+        ],
+        "answer": "एक क्रिसमस कैरोल"
+      },
+
+      {
+        "id": 40,
+        "question": "किताब 'द रेड एंड द ब्लैक' किसने लिखी?",
+        "options": [
+          "स्टेंडल",
+          "गुस्ताव फ्लेबर्ट",
+          "विक्टर ह्युगो",
+          "एमिल ज़ोला"
+        ],
+        "answer": "स्टेंडल"
+      },
+
+      {
+        "id": 41,
+        "question": "ट्रूमैन कैपोट का सबसे प्रसिद्ध काम क्या है?",
+        "options": [
+          "ठंडा खून",
+          "लक्जरी गुड़िया",
+          "गिरगिट के लिए संगीत",
+          "42 की गर्मी"
+        ],
+        "answer": "कोल्ड ब्लड में"
+      },
+
+      {
+        "id": 42,
+        "question": "अल्बर्ट कैमस का सबसे प्रसिद्ध काम क्या है?",
+        "options": ["द स्ट्रेंजर", "द प्लेग", "द मिथ ऑफ सिसिफस", "द फॉल"],
+        "answer": "अजनबी"
+      },
+
+      {
+        "id": 43,
+        "question": "2018 की सबसे ज्यादा बिकने वाली किताब कौन सी थी?",
+        "options": [
+          "द सटल आर्ट ऑफ़ गिविंग द बकवास - मार्क मैनसन",
+          "मूल - डैन ब्राउन",
+          "दोस्तों को कैसे जीतें और लोगों को प्रभावित करें - डेल कार्नेगी",
+          "कार्रवाई की शक्ति - पाउलो विएरा"
+        ],
+        "answer": "द सटल आर्ट ऑफ़ गिविंग द बकवास - मार्क मैनसन"
+      },
+
+      {
+        "id": 44,
+
+        "question": "किस ब्राज़ीलियाई लेखक ने 2018 में कैमोस पुरस्कार जीता?",
+        "options": [
+          "फ़रेरा गुलर",
+          "चिको बुर्के",
+          "लागिया फागुंडेस टेल्स",
+          "रादुआन नासर"
+        ],
+        "answer": "चिको बुर्के"
+      },
+
+      {
+        "id": 45,
+        "question": "किस ब्राज़ीलियाई लेखक ने 2018 में 'O Livro dos Ressignificados' पुस्तक का विमोचन किया?",
+        "options": [
+          "एवरिस्टो कॉन्सेप्शन",
+          "कैरोलिना मारिया डी जीसस",
+          "एना मारिया मचाडो",
+          "लिया लुफ्ट"
+        ],
+        "answer": "कोनसिकाओ एवरिस्टो"
+      },
+
+      {
+        "id": 46,
+        "question": "किस ब्रिटिश लेखक ने 2018 में 'मशीन लाइक मी' पुस्तक जारी की?",
+        "options": ["इयान मैकएवन", "जेके रॉउलिंग", "नील गैमन", "सलमान रुश्दी"],
+        "answer": "इयान मैकइवान"
+      },
+
+      {
+        "id": 47,
+        "question": "2018 में कौन सी सबसे ज्यादा बिकने वाली फिक्शन किताब है?",
+        "options": [
+          "इंसेप्शन - डैन ब्राउन",
+          "द स्मार्टेस्ट मैन इन हिस्ट्री - ऑगस्टो क्यूरी",
+          "लुकास नेटो के साथ नेटोलैंड में एडवेंचर्स - लुक्कास नेटो",
+          "द करेज टू बी इम्परफेक्ट - ब्रेन ब्राउन"
+        ],
+        "answer": "इंसेप्शन - डैन ब्राउन"
+      },
+
+      {
+        "id": 48,
+        "question": "2018 में कौन सी सबसे ज्यादा बिकने वाली नॉन-फिक्शन किताब है?",
+        "options": [
+          "सेपियन्स - युवल नोआह हरारी",
+          "मेरी कहानी - मिशेल ओबामा",
+          "21वीं सदी के लिए 21 सबक - युवाल नूह हरारी",
+          "ईश्वर - मानव जाति का एक संक्षिप्त इतिहास - युवाल नूह हरारी"
+        ],
+        "answer": "सैपियन्स - युवल नूह हरारी"
+      },
+
+      {
+        "id": 49,
+        "question": "स्टीफन किंग की किस पुस्तक पर 2018 में एक फिल्म बनाई गई थी?",
+        "options": ["इट: द थिंग", "प्रकाशित", "कैरी", "लानत कब्रिस्तान"],
+        "answer": "शापित कब्रिस्तान"
+      },
+
+      {
+        "id": 50,
+        "question": "2018 में बच्चों की सबसे ज्यादा बिकने वाली किताब कौन सी थी?",
+        "options": [
+          "द लिटिल मरमेड - हैंस क्रिश्चियन एंडरसन",
+          "द लिटिल प्रिंस - एंटोनी डी सेंट-एक्सुप्री",
+          "द हाउस ऑफ द स्पिरिट्स - इसाबेल अलेंदे",
+          "एक कायर बच्चे की डायरी - जेफ किन्नी"
+        ],
+        "answer": "डायरी ऑफ़ ए विम्पी किड - जेफ़ किन्नी"
+      }
+    ],
+    "Image_quiz": [
+      {
+        "id": 1,
+        "question": "https://i.imgur.com/DBbtjie.jpeg",
+        "options": ["बिल्ली", "कुत्ता", "शेर", "टाइगर"],
+        "answer": "कुत्ते"
+      },
+
+      {
+        "id": 2,
+        "question": "https://i.imgur.com/ojIftag.jpeg",
+        "options": ["जिराफ़", "ज़ेबरा", "घोड़ा", "राइनो"],
+        "answer": "जिराफ"
+      },
+
+      {
+        "id": 3,
+        "question": "https://i.imgur.com/LqI4KHE.jpeg",
+        "options": ["हाथी", "ऊँट", "पक्षी", "राइनो"],
+        "answer": "पक्षी"
+      },
+
+      {
+        "id": 4,
+        "question": "https://i.imgur.com/lieB2Nu.png",
+        "options": ["नक्शा", "ब्राजील", "चीन", "घर"],
+        "answer": "मानचित्र"
+      },
+
+      {
+        "id": 5,
+        "question": "https://i.imgur.com/dOIbBGL.jpeg",
+        "options": ["5 बिल्लियाँ", "15 बिल्लियाँ", "1 बिल्ली", "2 बिल्लियाँ"],
+        "answer": "2 बिल्लियाँ"
+      },
+
+      {
+        "id": 6,
+        "question": "https://i.imgur.com/HPshbOd.jpeg",
+        "options": [
+          "हवा में पक्षी",
+          "आग में पक्षी",
+          "पानी में पक्षी",
+          "कीचड़ में पक्षी"
+        ],
+        "answer": "पानी में पक्षी"
+      },
+
+      {
+        "id": 7,
+
+        "question": "https://i.imgur.com/MrQUYjl.jpeg",
+        "options": ["जिराफ़", "घोड़ा", "घोड़ा", "राइनो"],
+        "answer": "घोड़ा"
+      },
+
+      {
+        "id": 8,
+        "question": "https://i.imgur.com/5H8Pg2u.jpeg",
+        "options": ["चलना", "उड़ान", "तैराकी", "सर्फिंग"],
+        "answer": "उड़ान"
+      },
+
+      {
+        "id": 9,
+        "question": "https://i.imgur.com/CnlnRgK.jpeg",
+        "options": ["हिरण", "टाइगर", "नोटबुक", "राइनो"],
+        "answer": "हिरण"
+      },
+
+      {
+        "id": 10,
+        "question": "https://i.imgur.com/SMsTvEk.jpeg",
+        "options": ["तितली", "मधुमक्खी", "शेर", "मच्छर"],
+        "answer": "लियो"
+      },
+
+      {
+        "id": 11,
+        "question": "https://i.imgur.com/yob62ve.jpeg",
+        "options": ["पेंगुइन", "बंदर", "पेलिकन", "अल्बाट्रॉस"],
+        "answer": "बंदर"
+      },
+
+      {
+        "id": 12,
+        "question": "https://i.imgur.com/heU7vbV.jpeg",
+        "options": [
+          "संगीत वाद्ययंत्र",
+          "चिकित्सा उपकरण",
+          "बिल्डिंग इंस्ट्रूमेंट्स",
+          "खाना पकाने के उपकरण"
+        ],
+        "answer": "संगीत वाद्ययंत्र"
+      },
+
+      {
+        "id": 13,
+        "question": "https://i.imgur.com/yzCEwR6.png",
+        "options": ["जिराफ़", "व्यक्ति", "घोड़ा", "शेर"],
+        "answer": "व्यक्ति"
+      },
+
+      {
+        "id": 14,
+        "question": "https://i.imgur.com/QylKEoK.jpeg",
+        "options": ["सारस", "गधा", "बंदर", "राइनो"],
+        "answer": "सारस"
+      },
+
+      {
+        "id": 15,
+        "question": "https://i.imgur.com/NpRZmR3.jpeg",
+        "options": ["बिल्ली", "कारें", "हवाई जहाज", "कुत्ते"],
+        "answer": "बिल्ली"
+      },
+
+      {
+        "id": 16,
+        "question": "https://i.imgur.com/MMxtZAU.png",
+        "options": ["एशियाई", "अफ्रीकी", "अमेरिकी", "यूरोपीय"],
+        "answer": "एशियाई"
+      },
+
+      {
+        "id": 17,
+        "question": "https://cdn.pixabay.com/photo/2023/01/31/05/59/zebra-7757193_960_720.jpg",
+        "options": ["जिराफ़", "हाथी", "ज़ेबरा", "बतख"],
+        "answer": "ज़ेबरा"
+      },
+
+      {
+        "id": 18,
+        "question": "https://images.unsplash.com/photo-1677761215878-1030a5840dd3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+        "options": ["सैलून", "सड़क", "हवाई अड्डा", "कार"],
+        "answer": "सड़क"
+      },
+
+      {
+        "id": 19,
+        "question": "https://images.unsplash.com/photo-1612225330812-01a9c6b355ec?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+        "options": ["वायलिन", "गिटार", "पियानो", "बांसुरी"],
+        "answer": "वायलिन"
+      },
+
+      {
+        "id": 20,
+        "question": "https://images.unsplash.com/photo-1524567248408-cbfd37e65e2d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+        "options": ["गिटार", "पियानो", "वायलिन", "बांसुरी"],
+        "answer": "गिटार"
+      },
+
+      {
+        "id": 21,
+        "question": "https://images.unsplash.com/photo-1539888554388-a6c923ee102e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+        "options": ["यामाहा बास", "पियानो", "कार", "ध्वनिक गिटार"],
+        "answer": "यामाहा बास"
+      },
+
+      {
+        "id": 22,
+        "question": "https://images.unsplash.com/photo-1538402074774-8e624f3f7e5d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=735&q=80",
+        "options": ["सैक्सोफोन", "कीबोर्ड", "गिटार", "संगीत"],
+        "answer": "कीबोर्ड"
+      },
+
+      {
+        "id": 23,
+        "question": "https://images.unsplash.com/photo-1548690596-f1722c190938?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1474&q=80",
+        "options": ["अबैकस", "वैज्ञानिक कैलकुलेटर", "एचपी", "जीपी"],
+        "answer": "अबेकस"
+      },
+
+      {
+        "id": 24,
+        "question": "https://images.unsplash.com/photo-1613905780946-26b73b6f6e11?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1472&q=80",
+        "options": ["5", "9", "4", "1"],
+        "answer": "4"
+      },
+
+      {
+        "id": 25,
+        "question": "https://images.unsplash.com/photo-1636466497217-26a8cbeaf0aa?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80",
+        "options": [
+          "आइंस्टीन की थ्योरी",
+          "न्यूटन का सिद्धांत",
+          "क्यूरी थ्योरी",
+          "हॉकिंग्स थ्योरी"
+        ],
+        "answer": "आइंस्टीन का सिद्धांत"
+      },
+
+      {
+        "id": 26,
+        "question": "https://images.unsplash.com/photo-1509228627152-72ae9ae6848d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+        "options": ["27", "17", "15", "22"],
+        "answer": "17"
+      },
+
+      {
+        "id": 27,
+        "question": "https://images.unsplash.com/photo-1503789101408-444b37749472?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80",
+        "options": ["कम्पास", "रूलर", "बॉलपॉइंट", "पेंसिल"],
+        "answer": "कम्पास"
+      },
+
+      {
+        "id": 28,
+        "question": "https://images.unsplash.com/photo-1632571401005-458e9d244591?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1471&q=80",
+        "options": ["अबैकस", "वैज्ञानिक कैलकुलेटर", "एचपी", "पेंसिल"],
+        "answer": "वैज्ञानिक कैलकुलेटर"
+      },
+
+      {
+        "id": 29,
+        "question": "https://images.unsplash.com/photo-1542621323-be453184db76?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+        "options": ["नियम", "बॉलपॉइंट पेन", "नोटबुक", "पुस्तक"],
+        "answer": "शासक"
+      },
+
+      {
+        "id": 30,
+        "question": "https://images.unsplash.com/photo-1497633762265-9d179a990aa6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1473&q=80",
+        "options": ["नियम", "बॉलपॉइंट पेन", "नोटबुक", "पुस्तक"],
+        "answer": "पुस्तक"
+      },
+
+      {
+        "id": 31,
+        "question": "https://images.unsplash.com/photo-1520050206274-a1ae44613e6d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+        "options": ["मस्टैंग", "मैकलेरन", "कोर्वेट", "ऑडी"],
+        "answer": "ऑडी"
+      },
+
+      {
+        "id": 32,
+        "question": "https://images.unsplash.com/photo-1547038577-da80abbc4f19?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1055&q=80",
+        "options": ["मस्टैंग", "मैकलेरन", "कोर्वेट", "फेरारी"],
+        "answer": "मस्टैंग"
+      },
+
+      {
+        "id": 33,
+        "question": "https://images.unsplash.com/photo-1555626906-fcf10d6851b4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+        "options": ["जीटीआर", "मैकलेरन", "कोर्वेट", "फेरारी"],
+        "answer": "मैकलेरन"
+      },
+
+      {
+        "id": 34,
+        "question": "https://images.unsplash.com/photo-1471174617910-3e9c04f58ff5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+        "options": ["मर्सिडीज", "बीएमडब्ल्यू", "टेस्ला", "जीटीआर"],
+        "answer": "मर्सिडीज"
+      },
+
+      {
+        "id": 35,
+        "question": "https://images.unsplash.com/photo-1622621746668-59fb299bc4d7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=933&q=80",
+        "options": ["स्ट्रॉबेरी", "नींबू", "अंगूर", "अनानास"],
+        "answer": "स्ट्रॉबेरी"
+      },
+
+      {
+        "id": 36,
+        "question": "https://images.unsplash.com/photo-1514316454349-750a7fd3da3a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+        "options": ["जीटीएक्स", "बीएमडब्ल्यू", "टेस्ला", "बेंज"],
+        "answer": "बेंज"
+      },
+
+      {
+        "id": 37,
+        "question": "https://images.unsplash.com/photo-1580273916550-e323be2ae537?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1364&q=80",
+        "options": ["बीएमडब्ल्यू", "बीएमएक्स", "टेस्ला", "पनामेरा"],
+        "answer": "बीएमडब्ल्यू"
+      },
+
+      {
+        "id": 38,
+        "question": "https://images.unsplash.com/photo-1605466237773-ed648bb87197?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1332&q=80",
+        "options": ["स्ट्रॉबेरी", "नींबू", "अंगूर", "अनानास"],
+        "answer": "नींबू"
+      },
+
+      {
+        "id": 39,
+        "question": "https://images.unsplash.com/photo-1596726648434-e6d14dd3f21d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1331&q=80",
+        "options": ["केक", "पुडिंग", "स्ट्रॉबेरी", "चॉकलेट"],
+        "answer": "केक"
+      },
+
+      {
+        "id": 40,
+        "question": "https://images.unsplash.com/photo-1508996369280-b9165f545b08?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+        "options": ["मकई", "सेब", "स्ट्रॉबेरी", "अनानास"],
+        "answer": "मकई"
+      },
+
+      {
+        "id": 41,
+        "question": "https://images.unsplash.com/photo-1506813713591-56fc5e539b80?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1467&q=80",
+        "options": ["नारंगी", "सेब", "स्ट्रॉबेरी", "अनानास"],
+        "answer": "सेब"
+      },
+
+      {
+        "id": 42,
+        "question": "https://images.unsplash.com/photo-1589606663923-283bbd309229?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+        "options": ["स्ट्रॉबेरी", "नारंगी", "अंगूर", "अनानास"],
+        "answer": "अनानास"
+      },
+
+      {
+        "id": 43,
+        "question": "https://images.unsplash.com/photo-1601004890684-d8cbf643f5f2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=715&q=80",
+        "options": ["स्ट्रॉबेरी", "ऑरेंज", "अंगूर", "चॉकलेट"],
+        "answer": "स्ट्रॉबेरी"
+      },
+
+      {
+        "id": 44,
+        "question": "https://images.unsplash.com/photo-1598357850625-6264d49ace9f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+        "options": ["अंडा", "केला", "आम", "नारंगी"],
+        "answer": "नारंगी"
+      },
+
+      {
+        "id": 45,
+        "question": "https://images.unsplash.com/photo-1581952976147-5a2d15560349?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1471&q=80",
+        "options": ["पैक", "शोल", "मल्टीड", "झुंड"],
+        "answer": "भीड़"
+      },
+
+      {
+        "id": 46,
+        "question": "https://images.unsplash.com/photo-1579273166674-bea9b40ba0f7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=730&q=80",
+        "options": ["सीगल", "ईगल", "रोला", "कठफोड़वा"],
+        "answer": "ईगल"
+      },
+
+      {
+        "id": 47,
+        "question": "https://images.unsplash.com/photo-1616119693151-347fa7b46411?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+        "options": ["जिराफ़", "घोड़ा", "बंदर", "राइनो"],
+        "answer": "बंदर"
+      },
+
+      {
+        "id": 48,
+        "question": "https://images.unsplash.com/photo-1578316194305-1faa802f936c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+        "options": ["प्रोबिन", "टेस्ला", "कोरियोस", "डेल"],
+        "answer": "कोरियोस"
+      },
+
+      {
+        "id": 49,
+        "question": "https://images.unsplash.com/photo-1662153480513-cfb0815bce2c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=720&q=80",
+        "options": ["2015", "2022", "2023", "2010"],
+        "answer": "2022"
+      },
+
+      {
+        "id": 50,
+        "question": "https://plus.unsplash.com/premium_photo-1677187301535-b46cec7b2cc8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1223&q=80",
+        "options": [
+          "बैंगनी, नीला, पीला, लाल",
+          "काले, नीले, बैंगनी, हरे",
+          "भूरा, नीला, बैंगनी, पीला",
+          "बैंगनी, हरा, पीला, काला"
+        ],
+        "answer": "बैंगनी, नीला, पीला, लाल"
+      }
+    ]
   }
-  
+}

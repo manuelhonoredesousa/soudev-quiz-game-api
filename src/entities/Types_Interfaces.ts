@@ -8,13 +8,13 @@ export type languageTypes =
   | 'portuguese'
   | 'english'
   | 'spanish'
-  | 'arabic'
+  | 'arabic'//
   | 'french'
   | 'hindi'
   | 'russian'
   | 'mandarin'
   | 'korean'
-  | 'japanese';
+  | 'japanese';//
 
 export type languageCodeTypes =
   | 'pt'

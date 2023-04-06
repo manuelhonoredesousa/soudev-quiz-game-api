@@ -21,7 +21,7 @@ interface IGetRandomQuestion {
 export function getRandomQuestion({quiz, topic}:IGetRandomQuestion) {
     const numberOfAvaliableQuestions = quiz.length
     const randomIndex = randomNumber({ startAt: 1, endAt: numberOfAvaliableQuestions });
-    return { topic: topic, quiz: quiz[randomIndex] }
+    return { topic: topic, quiz: quiz[randomIndex - 1] }
 }
 
 export function getRandomTopic(allTopicForQuizGame: IQuizGameLanguageFile) {

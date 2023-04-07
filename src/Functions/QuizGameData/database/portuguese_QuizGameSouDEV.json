@@ -468,7 +468,7 @@
           "Indira Gandhi",
           "Golda Meir",
           "Margaret Thatcher",
-          "Isabel Perón"
+          "Sirimavo Bandaranaike"
         ],
         "answer": "Sirimavo Bandaranaike"
       },
@@ -1030,14 +1030,14 @@
       },
       {
         "id": 22,
-        "question": "Qual é o nome do personagem principal da série 'Game of Thrones'?",
+        "question": "Qual é o nome do personagem com mais tempo de tela na série 'Game of Thrones'?",
         "options": [
           "Jon Snow",
           "Tyrion Lannister",
           "Daenerys Targaryen",
           "Arya Stark"
         ],
-        "answer": "Não há um personagem principal claro em 'Game of Thrones'"
+        "answer": "Jon Snow"
       },
       {
         "id": 23,
@@ -1450,7 +1450,7 @@
         "id": 17,
         "question": "'Nagrelha dos Lambas', foi cantor de que estilo?",
         "options": ["Afro-House", "Kuduro", "House", "Hip-Hop"],
-        "answer": "Beth Carvalho"
+        "answer": "Kuduro"
       },
       {
         "id": 18,
@@ -1665,7 +1665,7 @@
           "Neil Young",
           "Tom Petty"
         ],
-        "answer": "Bruce Spring"
+        "answer": "Bruce Springsteen"
       },
       {
         "id": 43,
@@ -2344,12 +2344,12 @@
         "id": 24,
         "question": "O que é um bit?",
         "options": [
-          "A menor unidade de informação em um computador.",
-          "A unidade básica de medida para distância.",
-          "A unidade básica de medida para peso.",
-          "A unidade básica de medida para tempo."
+          "A menor unidade de informação em um computador",
+          "A unidade básica de medida para distância",
+          "A unidade básica de medida para peso",
+          "A unidade básica de medida para tempo"
         ],
-        "answer": "A menor unidade de informação em um computador."
+        "answer": "A menor unidade de informação em um computador"
       },
       {
         "id": 25,
@@ -2545,12 +2545,12 @@
         "id": 45,
         "question": "O que é um pixel?",
         "options": [
-          "Um ponto de luz em uma tela.",
-          "Uma unidade de medida para a velocidade da internet.",
-          "Um tipo de conexão sem fio.",
-          "Um tipo de software."
+          "Um ponto de luz em uma tela",
+          "Uma unidade de medida para a velocidade da internet",
+          "Um tipo de conexão sem fio",
+          "Um tipo de software"
         ],
-        "answer": "Um ponto de luz em uma tela."
+        "answer": "Um ponto de luz em uma tela"
       },
       {
         "id": 46,
@@ -2704,7 +2704,7 @@
       {
         "id": 12,
         "question": "Qual é o animal mais resistente do planeta?",
-        "options": ["Barata", "Tartaruga", "Camelo", "Urso-polar"],
+        "options": ["Barata", "Tartaruga", "Tardígrado", "Urso-polar"],
         "answer": "Tardígrado"
       },
       {
@@ -4205,8 +4205,8 @@
         "id": 12,
         "question": "Qual é a obra mais famosa de Gabriel García Márquez?",
         "options": [
-          "Cem Anos de Solidão",
           "O Amor nos Tempos do Cólera",
+          "Cem Anos de Solidão",
           "Crônica de uma Morte Anunciada",
           "Ninguém Escreve ao Coronel"
         ],
@@ -4277,9 +4277,9 @@
         "id": 18,
         "question": "Qual é a obra mais famosa de Harper Lee?",
         "options": [
-          "O Sol é para Todos",
           "Vá, Coloque um Vigia",
           "Matar um Rouxinol",
+          "O Sol é para Todos",
           "Nenhum desses"
         ],
         "answer": "O Sol é para Todos"
@@ -4490,8 +4490,8 @@
         "id": 37,
         "question": "Qual é a obra mais famosa de Jules Verne?",
         "options": [
-          "Vinte Mil Léguas Submarinas",
           "A Volta ao Mundo em 80 Dias",
+          "Vinte Mil Léguas Submarinas",
           "Viagem ao Centro da Terra",
           "Da Terra à Lua"
         ],
@@ -4558,12 +4558,12 @@
         "id": 43,
         "question": "Qual foi o livro mais vendido do ano de 2018?",
         "options": [
-          "A Sutil Arte de Ligar o Fda-se - Mark Manson",
+          "A Sutil Arte de Ligar o Foda-se - Mark Manson",
           "Origem - Dan Brown",
           "Como Fazer Amigos e Influenciar Pessoas - Dale Carnegie",
           "O Poder da Ação - Paulo Vieira"
         ],
-        "answer": "A Sutil Arte de Ligar o Fda-se - Mark Manson"
+        "answer": "A Sutil Arte de Ligar o Foda-se - Mark Manson"
       },
 
       {

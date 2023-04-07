@@ -63,8 +63,8 @@
         "id": 9,
         "question": "What is the longest river in the world?",
         "options": [
-          "Amazon river",
-          "Nilo river",
+          "Amazon River",
+          "Nilo River",
           "Yangtze River",
           "Mississippi River"
         ],
@@ -85,7 +85,7 @@
       {
         "id": 12,
         "question": "What is the biggest desert in the world?",
-        "options": ["Sara", "Saara", "Gobi", "Atacama"],
+        "options": ["Sara", "Sahara", "Gobi", "Atacama"],
         "answer": "Sahara"
       },
       {
@@ -356,14 +356,14 @@
       {
         "id": 1,
         "question": "What was the first known civilization?",
-        "options": ["Babylon", "Egypt", "India", "Sumeria"],
+        "options": ["Babylon", "Egypt", "India", "Sumerian"],
         "answer": "Sumerian"
       },
       {
         "id": 2,
         "question": "Who was the first Roman Emperor?",
         "options": ["Julio Cesar", "Nero", "Augustus", "Titus"],
-        "answer": "August"
+        "answer": "Augustus"
       },
       {
         "id": 3,
@@ -419,7 +419,7 @@
           "The Assassination of Archduke Franz Ferdinand of Austria",
           "The Bombing of Hiroshima and Nagasaki"
         ],
-        "answer": "The assassination of Archduke Franz Ferdinand of Austria"
+        "answer": "The Assassination of Archduke Franz Ferdinand of Austria"
       },
       {
         "id": 9,
@@ -430,7 +430,7 @@
           "Expansion of international trade",
           "Increasing social inequalities"
         ],
-        "answer": "International trade expansion"
+        "answer": "Expansion of international trade"
       },
       {
         "id": 10,
@@ -443,7 +443,7 @@
         "question": "Who was the Nazi leader during World War II?",
         "options": [
           "Benito Mussolini",
-          "Adolph Hitler",
+          "Adolf Hitler",
           "Hirohito",
           "Joseph Stalin"
         ],
@@ -458,7 +458,7 @@
           "Religious Conflicts",
           "Commercial Disputes"
         ],
-        "answer": "Ideological differences between the United States and the Soviet Union"
+        "answer": "Ideological Differences Between the United States and the Soviet Union"
       },
       {
         "id": 13,
@@ -467,7 +467,7 @@
           "Indira Gandhi",
           "Golda Meir",
           "Margaret Thatcher",
-          "Isabel Peron"
+          "Sirimavo Bandaranaike"
         ],
         "answer": "Sirimavo Bandaranaike"
       },
@@ -478,9 +478,9 @@
           "Establishment of Absolute Monarchies",
           "Strengthening the Power of the Catholic Church",
           "Expansion of the French Empire",
-          "Influence in the Struggle for Democracy and Civil Rights"
+          "Influence in the struggle for democracy and civil rights"
         ],
-        "answer": "Influence on the struggle for democracy and civil rights"
+        "answer": "Influence in the struggle for democracy and civil rights"
       },
       {
         "id": 15,
@@ -555,10 +555,10 @@
         "options": [
           "Dispute for territories in South America",
           "Dispute for territories in Africa",
-          "Ideological Differences Between the Great European Powers",
+          "Ideological differences between the great European powers",
           "Religious Conflicts"
         ],
-        "answer": "Ideological differences between major European powers"
+        "answer": "Ideological differences between the great European powers"
       },
       {
         "id": 23,
@@ -570,7 +570,7 @@
         "id": 24,
         "question": "What was the first great civilization in Central America?",
         "options": ["Aztecs", "Incas", "Mayans", "Olmecs"],
-        "answer": "Olmeacas"
+        "answer": "Olmecs"
       },
       {
         "id": 25,
@@ -581,7 +581,7 @@
           "Second World War",
           "Gulf War"
         ],
-        "answer": "World War II"
+        "answer": "Second World War"
       },
       {
         "id": 26,
@@ -638,7 +638,7 @@
         "question": "Who was the military and political leader responsible for unifying Italy in the 19th century?",
         "options": [
           "Giuseppe Garibaldi",
-          "Camillo di Cavour",
+          "Camilo di Cavour",
           "Benito Mussolini",
           "Victor Emmanuel II"
         ],
@@ -1023,14 +1023,14 @@
       },
       {
         "id": 22,
-        "question": "What is the name of the main character of the series 'Game of Thrones'?",
+        "question": "What is the name of the character with the most screen time on 'Game of Thrones'?",
         "options": [
           "Jon Snow",
           "Tyrion Lannister",
           "Daenerys Targaryen",
           "Arya Stark"
         ],
-        "answer": "There is no clear main character in 'Game of Thrones'"
+        "answer": "Jon Snow"
       },
       {
         "id": 23,
@@ -1262,9 +1262,9 @@
         "id": 49,
         "question": "What is the name of the movie that portrays the life of a young entrepreneur named Mark Zuckerberg and the creation of Facebook?",
         "options": [
-          "The social network",
+          "The Social Network",
           "The Imitation Game",
-          "The theory of everything",
+          "The Theory of Everything",
           "Steve Jobs"
         ],
         "answer": "The Social Network"
@@ -1331,8 +1331,8 @@
         "id": 6,
         "question": "What is the name of the Brazilian singer and composer who is known for being the creator of bossa nova and having hits like 'Garota de Ipanema' and 'Desafinado'?",
         "options": [
-          "Joao Gilberto",
-          "Tom Jobin",
+          "João Gilberto",
+          "Tom Jobim",
           "Caetano Veloso",
           "Chico Buarque"
         ],
@@ -1432,7 +1432,7 @@
         "id": 17,
         "question": "'Nagrelha dos Lambas', which style was he a singer?",
         "options": ["Afro-House", "Kuduro", "House", "Hip-Hop"],
-        "answer": "Beth Carvalho"
+        "answer": "Kuduro"
       },
       {
         "id": 18,
@@ -1467,7 +1467,7 @@
         "id": 22,
         "question": "What is the name of the heavy metal band that had singer Ronnie James Dio as lead singer?",
         "options": ["Black Sabbath", "Iron Maiden", "Judas Priest", "Dio"],
-        "answer": "dio"
+        "answer": "Dio"
       },
       {
         "id": 23,
@@ -1553,7 +1553,7 @@
         "question": "What is the name of the rock band formed by musicians Axl Rose, Slash and Duff McKagan?",
         "options": [
           "Nirvana",
-          "Armas e Rosas",
+          "Guns N' Roses",
           "Metallica",
           "Red Hot Chili Peppers"
         ],
@@ -1585,7 +1585,7 @@
         "id": 35,
         "question": "What is the name of the singer who released the album 'Lemonade' in 2016?",
         "options": ["Beyoncé", "Adele", "Rihanna", "Taylor Swift"],
-        "answer": "Beyonce"
+        "answer": "Beyoncé"
       },
       {
         "id": 36,
@@ -1647,7 +1647,7 @@
           "Neil Young",
           "Tom Petty"
         ],
-        "answer": "Bruce Spring"
+        "answer": "Bruce Springsteen"
       },
       {
         "id": 43,
@@ -1779,7 +1779,7 @@
         "id": 7,
         "question": "What is the name of the sport where players use rackets to hit a ball over the net?",
         "options": ["Tennis", "Badminton", "Squash", "Ping Pong"],
-        "answer": "Sneakers"
+        "answer": "Tennis"
       },
       {
         "id": 8,
@@ -1791,7 +1791,7 @@
         "id": 9,
         "question": "What is the name of the sport where players use their feet and head to hit a ball over a net?",
         "options": ["Volleyball", "Soccer", "Basketball", "Handball"],
-        "answer": "Football"
+        "answer": "Soccer"
       },
       {
         "id": 10,
@@ -1825,7 +1825,7 @@
       {
         "id": 14,
         "question": "What is the name of the sport where players try to hit a ball at a target using a bow and arrow?",
-        "options": ["Boxing", "Fencing", "Archery", "Wrestling"],
+        "options": ["Boxing", "Fencing", "Bow and Arrow", "Wrestling"],
         "answer": "Bow and Arrow"
       },
       {
@@ -1888,7 +1888,7 @@
         "id": 21,
         "question": "What is the most popular sport in the world?",
         "options": ["Soccer", "Basketball", "Baseball", "American Football"],
-        "answer": "Football"
+        "answer": "Soccer"
       },
       {
         "id": 22,
@@ -1940,13 +1940,13 @@
         "id": 27,
         "question": "Which sport is known as 'the racket sport'?",
         "options": ["Tennis", "Badminton", "Squash", "Ping Pong"],
-        "answer": "Sneakers"
+        "answer": "Tennis"
       },
       {
         "id": 28,
         "question": "In which sport is the 'ollie' movement a basic element?",
         "options": ["Surf", "Skate", "Snowboard", "Ski"],
-        "answer": "Skateboard"
+        "answer": "Snowboard"
       },
       {
         "id": 29,
@@ -1987,7 +1987,7 @@
         "id": 34,
         "question": "What is the most popular sport in Brazil?",
         "options": ["Soccer", "Volleyball", "Basketball", "Handball"],
-        "answer": "Football"
+        "answer": "Soccer"
       },
       {
         "id": 35,
@@ -2122,7 +2122,7 @@
         "id": 49,
         "question": "What is the name of the most watched sporting event in the world?",
         "options": [
-          "FIFA World cup",
+          "FIFA World Cup",
           "Summer Olympic Games",
           "Super Bowl",
           "Cricket World Cup"
@@ -2169,7 +2169,7 @@
           "Electrical transformer",
           "Electrical resistor"
         ],
-        "answer": "Electric motor"
+        "answer": "Electric Motor"
       },
       {
         "id": 5,
@@ -2242,7 +2242,7 @@
           "The Sixth Layer of the OSI Model",
           "The sixth frequency of the electromagnetic spectrum"
         ],
-        "answer": "The sixth generation of wireless networking"
+        "answer": "The sixth generation of wireless networks"
       },
       {
         "id": 13,
@@ -2293,8 +2293,8 @@
       {
         "id": 19,
         "question": "What was the first GUI-based operating system?",
-        "options": ["Windows 95", "Mac OS", "Xerox Alto", "MS-DOS"],
-        "answer": "Xerox High"
+        "options": ["Windows 95", "Mac OS", "High Xerox", "MS-DOS"],
+        "answer": "High Xerox"
       },
       {
         "id": 20,
@@ -2334,12 +2334,12 @@
         "id": 24,
         "question": "What is a bit?",
         "options": [
-          "The smallest unit of information in a computer.",
-          "The basic unit of measurement for distance.",
-          "The basic unit of measurement for weight.",
-          "The basic unit of measurement for time."
+          "The smallest unit of information in a computer",
+          "The basic unit of measurement for distance",
+          "The basic unit of measurement for weight",
+          "The basic unit of measurement for time"
         ],
-        "answer": "The smallest unit of information on a computer."
+        "answer": "The smallest unit of information in a computer"
       },
       {
         "id": 25,
@@ -2413,12 +2413,12 @@
         "id": 33,
         "question": "What is the difference between atom and molecule?",
         "options": [
-          "Atoms are subatomic particles, while molecules are collections of atoms",
+          "Atoms are subatomic particles, while molecules are groups of atoms",
           "Atoms are composed of protons, electrons and neutrons, while molecules are composed of protons and electrons",
           "Atoms have an electrical charge, while molecules do not",
           "Atoms form chemical compounds, while molecules do not have this ability"
         ],
-        "answer": "Atoms are subatomic particles, while molecules are sets of atoms"
+        "answer": "Atoms are subatomic particles, while molecules are groups of atoms"
       },
       {
         "id": 34,
@@ -2501,7 +2501,7 @@
         "id": 41,
         "question": "Which layer of Earth is home to life?",
         "options": ["Core", "Mantle", "Crust", "Atmosphere"],
-        "answer": "crust"
+        "answer": "Crust"
       },
       {
         "id": 42,
@@ -2510,7 +2510,7 @@
           "Produce hormones",
           "Control the movement of muscles",
           "Regulate body temperature",
-          "Transmitting electrical signals to the brain"
+          "Transmit electrical signals to the brain"
         ],
         "answer": "Transmit electrical signals to the brain"
       },
@@ -2518,7 +2518,7 @@
         "id": 43,
         "question": "What is the main source of energy for cells in the human body?",
         "options": ["Proteins", "Lipids", "Carbohydrates", "Nucleic acids"],
-        "answer": "Carbs"
+        "answer": "Carbohydrates"
       },
       {
         "id": 44,
@@ -2530,12 +2530,12 @@
         "id": 45,
         "question": "What is a pixel?",
         "options": [
-          "A point of light on a screen.",
-          "A unit of measurement for internet speed.",
-          "A type of wireless connection.",
-          "A type of software."
+          "A point of light on a screen",
+          "A unit of measurement for internet speed",
+          "A type of wireless connection",
+          "A type of software"
         ],
-        "answer": "A dot of light on a screen."
+        "answer": "A point of light on a screen"
       },
       {
         "id": 46,
@@ -2568,14 +2568,14 @@
           "The law that describes how bodies attract each other",
           "The law describing how light propagates"
         ],
-        "answer": "The law that describes how bodies attract"
+        "answer": "The law that describes how bodies attract each other"
       },
       {
         "id": 49,
         "question": "What is the difference between an animal cell and a plant cell?",
         "options": [
-          "Plant cells have a cell wall and chloroplasts, whereas animal cells don't,",
-          "Animal cells have a cell wall and chloroplasts, while plant cells don't,",
+          "Plant cells have a cell wall and chloroplasts, whereas animal cells do not",
+          "Animal cells have a cell wall and chloroplasts, while plant cells don't",
           "Animal cells have a nucleus, while plant cells do not",
           "Plant cells have mitochondria, whereas animal cells do not"
         ],
@@ -2599,7 +2599,7 @@
         "question": "What are the main factors that are contributing to the extinction of wild animals?",
         "options": [
           "Water pollution",
-          "Logging",
+          "Deforestation",
           "Illegal hunting",
           "Climate changes"
         ],
@@ -2619,8 +2619,8 @@
       {
         "id": 3,
         "question": "Which animal has the most teeth?",
-        "options": ["Great Great White", "Dolphin", "Crocodile", "Armadillo"],
-        "answer": "great white shark"
+        "options": ["White Shark", "Dolphin", "Crocodile", "Armadillo"],
+        "answer": "White Shark"
       },
       {
         "id": 4,
@@ -2683,14 +2683,14 @@
       {
         "id": 12,
         "question": "What is the toughest animal on the planet?",
-        "options": ["Cockroach", "Turtle", "Camel", "Polar Bear"],
+        "options": ["Cockroach", "Turtle", "Tardigrade", "Polar Bear"],
         "answer": "Tardigrade"
       },
       {
         "id": 13,
         "question": "Which animal has the longest life expectancy?",
         "options": ["Giant turtle", "Slowland Whale", "Ice Shark", "Lobster"],
-        "answer": "Giant tortoise"
+        "answer": "Giant turtle"
       },
       {
         "id": 14,
@@ -2740,7 +2740,7 @@
       {
         "id": 19,
         "question": "Which animal sleeps the most hours a day?",
-        "options": ["Squirrel", "Koala", "Cat", "Sloth"],
+        "options": ["Squirrel", "Koala", "Cat", "Laziness"],
         "answer": "Laziness"
       },
       {
@@ -2764,13 +2764,13 @@
           "Stone Fish",
           "Box Jellyfish"
         ],
-        "answer": "box jellyfish"
+        "answer": "Box Jellyfish"
       },
       {
         "id": 23,
         "question": "Which animal has the longest tongue in relation to its size?",
-        "options": ["Chameleon", "Giraffe", "Ant panda", "Tag anteater"],
-        "answer": "Anteater-flag"
+        "options": ["Chameleon", "Giraffe", "Ant panda", "Giant Anteater"],
+        "answer": "Giant Anteater"
       },
       {
         "id": 24,
@@ -2834,7 +2834,7 @@
           "Lion",
           "Saltwater Crocodile"
         ],
-        "answer": "Saltwater crocodile"
+        "answer": "Saltwater Crocodile"
       },
       {
         "id": 33,
@@ -2862,7 +2862,7 @@
           "Burrowing owl",
           "Red-headed Vulture"
         ],
-        "answer": "Bald Eagle"
+        "answer": "American Eagle"
       },
       {
         "id": 36,
@@ -2891,7 +2891,7 @@
       {
         "id": 40,
         "question": "Which animal is famous for hibernating in winter?",
-        "options": ["Squirrel", "Bat", "Grizzly Bear", "Armadillo"],
+        "options": ["Squirrel", "Bat", "Brown Bear", "Armadillo"],
         "answer": "Brown Bear"
       },
       {
@@ -2932,7 +2932,7 @@
         "id": 46,
         "question": "Which animal is known for its mighty roar and for being the king of the jungle?",
         "options": ["Lion", "Tiger", "Leopard", "Cheetah"],
-        "answer": "Leo"
+        "answer": "Lion"
       },
       {
         "id": 47,
@@ -2943,8 +2943,8 @@
       {
         "id": 48,
         "question": "Which animal is known to have an extremely keen sense of smell, being able to sniff out prey at great distances?",
-        "options": ["Dog", "Cat", "Jaguar", "Bear"],
-        "answer": "Onça"
+        "options": ["Dog", "Cat", "Ounce", "Bear"],
+        "answer": "Ounce"
       },
       {
         "id": 49,
@@ -2980,7 +2980,7 @@
           "Sundance Festival",
           "Toronto Festival"
         ],
-        "answer": "Cannes Film Festival"
+        "answer": "Cannes Festival"
       },
       {
         "id": 3,
@@ -3060,7 +3060,7 @@
         "question": "Who is the author of the song 'Girl from Ipanema'?",
         "options": [
           "Joao Gilberto",
-          "Tom Jobin",
+          "Tom Jobim",
           "Chico Buarque",
           "Vinicius de Moraes"
         ],
@@ -3237,7 +3237,7 @@
         "id": 27,
         "question": "What is the name of the singer who released the album 'Lemonade' in 2016?",
         "options": ["Beyoncé", "Rihanna", "Adele", "Taylor Swift"],
-        "answer": "Beyonce"
+        "answer": "Beyoncé"
       },
 
       {
@@ -3334,7 +3334,7 @@
           "Barbara Kruger",
           "Jenny Holzer",
           "Louise Bourgeois",
-          "Walter DeMaria"
+          "Walter De Maria"
         ],
         "answer": "Walter De Maria"
       },
@@ -3479,7 +3479,7 @@
           "A lifestyle",
           "A Kind of Cuisine"
         ],
-        "answer": "The art of cooking food"
+        "answer": "The Art of Cooking Food"
       },
 
       {
@@ -3579,7 +3579,7 @@
         "id": 11,
         "question": "What is a vegetarian dish?",
         "options": [
-          "A dish that contains no meat",
+          "A dish that does not contain meat",
           "A dish that contains no vegetables",
           "A dish containing meat and vegetables",
           "A dish that contains only fruit"
@@ -3688,7 +3688,7 @@
         "id": 21,
         "question": "What is the main ingredient in hummus?",
         "options": ["Chickpea", "Meat", "Rice", "Chili"],
-        "answer": "chickpeas"
+        "answer": "Chickpea"
       },
 
       {
@@ -3767,24 +3767,24 @@
         "id": 28,
         "question": "What is a croissant?",
         "options": [
-          "A type of French bread in the shape of a crescent",
+          "A type of French bread in the shape of a half moon",
           "A type of American cake",
           "A type of Mexican tortilla",
           "A Type of Italian Pasta"
         ],
-        "answer": "A type of French bread shaped like a half moon"
+        "answer": "A type of French bread in the shape of a half moon"
       },
 
       {
         "id": 29,
         "question": "What is a calzone?",
         "options": [
-          "A type of pizza closed in the shape of a crescent",
+          "A half-moon-shaped type of closed pizza",
           "A type of noodle",
           "A Kind of Dessert",
           "A Kind of Sandwich"
         ],
-        "answer": "A kind of half-moon closed pizza"
+        "answer": "A half-moon-shaped type of closed pizza"
       },
 
       {
@@ -3843,7 +3843,7 @@
           "A Kind of Dessert",
           "A Chinese dish based on rice and vegetables"
         ],
-        "answer": "A Mexican dish made with avocado, tomato, onion and cilantro"
+        "answer": "A Mexican dish based on avocado, tomato, onion and cilantro"
       },
 
       {
@@ -3910,24 +3910,24 @@
         "id": 40,
         "question": "What is a guacamole?",
         "options": [
-          "A Mexican dish based on avocado, tomato, onion and lemon",
           "An Italian Pasta-Based Dish",
+          "A Mexican dish based on avocado, tomato, onion and lemon",
           "A French dish based on meat",
           "A Chinese dish based on rice and vegetables"
         ],
-        "answer": "A Mexican dish made with avocado, tomato, onion and lime"
+        "answer": "A Mexican dish based on avocado, tomato, onion and lemon"
       },
 
       {
         "id": 41,
         "question": "What is a Peking duck?",
         "options": [
-          "A Chinese dish based on roast duck and thin pancakes",
           "An Italian Pasta-Based Dish",
           "A French dish based on meat",
+          "A Chinese dish based on roast duck and thin pancakes",
           "A corn-based Mexican dish"
         ],
-        "answer": "A Chinese dish of roast duck and thin pancakes"
+        "answer": "A Chinese dish based on roast duck and thin pancakes"
       },
 
       {
@@ -3970,12 +3970,12 @@
 
         "question": "What is a mousse?",
         "options": [
-          "An airy dessert based on cream and whipped egg whites",
           "A French dish based on meat",
+          "An aerated dessert based on milk cream and whipped egg whites",
           "A corn-based Mexican dish",
           "A Chinese dish based on rice and vegetables"
         ],
-        "answer": "A light cream-based dessert with whipped egg whites"
+        "answer": "An aerated dessert based on milk cream and whipped egg whites"
       },
 
       {
@@ -4006,12 +4006,12 @@
         "id": 48,
         "question": "What is a falafel?",
         "options": [
-          "A fried dumpling based on seasoned chickpeas, with origins in the Middle East",
           "A French dish based on meat",
           "A corn-based Mexican dish",
+          "A fried dumpling based on seasoned chickpeas, originating in the Middle East",
           "A Chinese dish based on rice and vegetables"
         ],
-        "answer": "A spiced chickpea-based fritter originating in the Middle East"
+        "answer": "A fried dumpling based on seasoned chickpeas, originating in the Middle East"
       },
 
       {
@@ -4170,12 +4170,12 @@
         "id": 12,
         "question": "What is the most famous work by Gabriel García Márquez?",
         "options": [
-          "One hundred years of Solitude",
           "Love in the Time of Cholera",
+          "One hundred years of Solitude",
           "Chronicle of a Death Foretold",
           "Nobody Writes to the Colonel"
         ],
-        "answer": "One Hundred Years of Solitude"
+        "answer": "One hundred years of Solitude"
       },
 
       {
@@ -4194,12 +4194,12 @@
         "id": 14,
         "question": "What is Ernest Hemingway's most famous work?",
         "options": [
-          "The old and the sea",
           "For Whom the Bell Tolls",
+          "The old and the sea",
           "The Sun Also Rises",
           "Paris is a Party"
         ],
-        "answer": "The Old Man and the Sea"
+        "answer": "The old and the sea"
       },
 
       {
@@ -4241,21 +4241,21 @@
         "id": 18,
         "question": "What is Harper Lee's most famous work?",
         "options": [
-          "The sun is for everybody",
           "Go, Put a Watch",
           "Killing a Nightingale",
+          "The sun is for everybody",
           "None of those"
         ],
-        "answer": "The Sun is for Everyone"
+        "answer": "The sun is for everybody"
       },
 
       {
         "id": 19,
         "question": "Who wrote the book 'Wuthering Heights'?",
         "options": [
-          "Emily Bronte",
+          "Emily Brontë",
           "Charlotte Brontë",
-          "Anne Bronte",
+          "Anne Brontë",
           "Jane Austen"
         ],
         "answer": "Emily Brontë"
@@ -4306,7 +4306,7 @@
           "The Assassination of Roger Ackroyd",
           "Death on the Nile"
         ],
-        "answer": "O Caso dos Ten Negrinhos"
+        "answer": "The Case of the Ten Little Blacks"
       },
 
       {
@@ -4458,12 +4458,12 @@
         "id": 37,
         "question": "What is Jules Verne's most famous work?",
         "options": [
-          "Twenty thousand Leagues Under the Sea",
           "Around the World in 80 Days",
+          "Twenty thousand Leagues Under the Sea",
           "Journey to the center of the Earth",
           "From Earth to Moon"
         ],
-        "answer": "Twenty Thousand Leagues Under the Sea"
+        "answer": "Twenty thousand Leagues Under the Sea"
       },
 
       {
@@ -4507,12 +4507,12 @@
         "id": 41,
         "question": "What is Truman Capote's most famous work?",
         "options": [
-          "Cold blood",
           "Luxury Doll",
           "Music for Chameleons",
+          "Cold blood",
           "The Summer of 42"
         ],
-        "answer": "In Cold Blood"
+        "answer": "Cold blood"
       },
 
       {
@@ -4556,12 +4556,12 @@
         "id": 45,
         "question": "Which Brazilian writer released the book 'O Livro dos Ressignificados' in 2018?",
         "options": [
-          "Evaristo Conception",
+          "Conceição Evaristo",
           "Carolina Maria de Jesus",
           "Ana Maria Machado",
           "Lya Luft"
         ],
-        "answer": "Conceicao Evaristo"
+        "answer": "Conceição Evaristo"
       },
       {
         "id": 46,
@@ -4603,12 +4603,12 @@
         "id": 49,
         "question": "Which Stephen King book was adapted into a movie in 2018?",
         "options": [
-          "It: The Thing",
-          "The illuminated",
-          "Carrie",
-          "Damn cemetery"
+          "It: A Coisa",
+          "O Iluminado",
+          "Carrie, A Estranha",
+          "Cemitério Maldito"
         ],
-        "answer": "Cursed Graveyard"
+        "answer": "Cemitério Maldito"
       },
 
       {
@@ -4642,7 +4642,7 @@
         "id": 3,
         "question": "https://i.imgur.com/LqI4KHE.jpeg",
         "options": ["Elephant", "Camel", "Bird", "Rhino"],
-        "answer": "bird"
+        "answer": "Bird"
       },
 
       {
@@ -4697,7 +4697,7 @@
         "id": 10,
         "question": "https://i.imgur.com/SMsTvEk.jpeg",
         "options": ["Butterfly", "Bee", "Lion", "Mosquito"],
-        "answer": "Leo"
+        "answer": "Lion"
       },
 
       {
@@ -4778,7 +4778,7 @@
         "id": 21,
         "question": "https://images.unsplash.com/photo-1539888554388-a6c923ee102e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
         "options": ["Yamaha Bass", "Piano", "Car", "Acoustic Guitar"],
-        "answer": "Yamaha bass"
+        "answer": "Yamaha Bass"
       },
 
       {
@@ -4792,7 +4792,7 @@
         "id": 23,
         "question": "https://images.unsplash.com/photo-1548690596-f1722c190938?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1474&q=80",
         "options": ["Abacus", "Scientific Calculator", "Hp", "Gp"],
-        "answer": "abacus"
+        "answer": "Abacus"
       },
 
       {
@@ -4811,7 +4811,7 @@
           "Curie Theory",
           "Hawking's Theory"
         ],
-        "answer": "Einstein's theory"
+        "answer": "Einstein's Theory"
       },
 
       {
@@ -4832,13 +4832,13 @@
         "id": 28,
         "question": "https://images.unsplash.com/photo-1632571401005-458e9d244591?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1471&q=80",
         "options": ["Abacus", "Scientific Calculator", "Hp", "Pencil"],
-        "answer": "Scientific calculator"
+        "answer": "Scientific Calculator"
       },
 
       {
         "id": 29,
         "question": "https://images.unsplash.com/photo-1542621323-be453184db76?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
-        "options": ["Rule", "Ballpoint Pen", "Notebook", "Book"],
+        "options": ["Ruler", "Ballpoint Pen", "Notebook", "Book"],
         "answer": "Ruler"
       },
 
@@ -4908,7 +4908,7 @@
         "id": 39,
         "question": "https://images.unsplash.com/photo-1596726648434-e6d14dd3f21d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1331&q=80",
         "options": ["Cakes", "Pudding", "Strawberry", "Chocolate"],
-        "answer": "Cake"
+        "answer": "Cakes"
       },
 
       {
@@ -4949,8 +4949,8 @@
       {
         "id": 45,
         "question": "https://images.unsplash.com/photo-1581952976147-5a2d15560349?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1471&q=80",
-        "options": ["Pack", "Shoal", "Multid", "Flock"],
-        "answer": "Multitude"
+        "options": ["Pack", "Shoal", "Crowd", "Flock"],
+        "answer": "Crowd"
       },
       {
         "id": 46,

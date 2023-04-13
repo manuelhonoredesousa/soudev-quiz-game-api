@@ -73,7 +73,7 @@
           "Fleuve Yangtsé",
           "Fleuve Mississippi"
         ],
-        "answer": "Fleuve Amazone"
+        "answer": "La rivière Amazone"
       },
       {
         "id": 10,
@@ -90,7 +90,7 @@
       {
         "id": 12,
         "question": "Quel est le plus grand désert du monde?",
-        "options": ["Sara", "Saara", "Gobi", "Atacama"],
+        "options": ["Sara", "Sahara", "Gobi", "Atacama"],
         "answer": "Sahara"
       },
       {
@@ -137,7 +137,7 @@
           "Lac supérieur",
           "Lac Titicaca"
         ],
-        "answer": "Lac Baïkal"
+        "answer": "Lac Baikal"
       },
       {
         "id": 19,
@@ -161,7 +161,7 @@
         "id": 22,
         "question": "Quel est le plus long fleuve du monde?",
         "options": ["Nil", "Fleuve Amazone", "Fleuve Yangtze", "Fleuve Jaune"],
-        "answer": "Le Nil"
+        "answer": "Nil"
       },
       {
         "id": 23,
@@ -268,7 +268,7 @@
         "id": 39,
         "question": "Quel est le pays le plus peuplé d'Afrique ?",
         "options": ["Nigeria", "Ethiopie", "Egypte", "Congo"],
-        "answer": "Nigéria"
+        "answer": "Nigeria"
       },
       {
         "id": 40,
@@ -317,9 +317,9 @@
           "Cascades d'Iguaçu",
           "Chutes du Niagara",
           "Les chutes Victoria",
-          "Le saut de l'ange"
+          "Saut d'Ange"
         ],
-        "answer": "Saut d'ange"
+        "answer": "Saut d'Ange"
       },
       {
         "id": 46,
@@ -356,14 +356,14 @@
       {
         "id": 1,
         "question": "Quelle était la première civilisation connue ?",
-        "options": ["Babylone", "Egypte", "Inde", "Sumérie"],
+        "options": ["Babylone", "Egypte", "Inde", "Sumérien"],
         "answer": "Sumérien"
       },
       {
         "id": 2,
         "question": "Qui était le premier empereur romain ?",
         "options": ["Julio Cesar", "Néron", "Auguste", "Tite"],
-        "answer": "août"
+        "answer": "Julio Cesar"
       },
       {
         "id": 3,
@@ -393,7 +393,7 @@
         "question": "Quel était le but principal de la Révolution française ?",
         "options": [
           "Agrandir le territoire français",
-          "Mettre fin à la monarchie et instaurer la république",
+          "Mettre fin à la monarchie et établir la république",
           "Maintenir le pouvoir de la noblesse",
           "Consolider le pouvoir de l'Église catholique"
         ],
@@ -427,7 +427,7 @@
         "options": [
           "Chômage en hausse",
           "Améliorer les conditions de travail des travailleurs",
-          "L'expansion du commerce international",
+          "Expansion du commerce international",
           "Augmenter les inégalités sociales"
         ],
         "answer": "Expansion du commerce international"
@@ -464,10 +464,10 @@
         "id": 13,
         "question": "Qui a été la première femme à être élue chef d'Etat dans un pays ?",
         "options": [
-          "Indra Gandhi",
+          "Indira Gandhi",
           "Golda Meir",
           "Margaret Thatcher",
-          "Isabelle Péron"
+          "Sirimavo Bandaranaike"
         ],
         "answer": "Sirimavo Bandaranaike"
       },
@@ -478,9 +478,9 @@
           "Etablissement des monarchies absolues",
           "Renforcer le pouvoir de l'Église catholique",
           "L'expansion de l'Empire français",
-          "Influence dans la lutte pour la démocratie et les droits civils"
+          "Influence dans la lutte pour la démocratie et les droits civiques"
         ],
-        "answer": "Influence sur la lutte pour la démocratie et les droits civils"
+        "answer": "Influence dans la lutte pour la démocratie et les droits civiques"
       },
       {
         "id": 15,
@@ -530,7 +530,7 @@
           "Âge moderne",
           "Époque contemporaine"
         ],
-        "answer": "Moyen Âge"
+        "answer": "Moyen-âge"
       },
       {
         "id": 20,
@@ -575,7 +575,7 @@
         "id": 24,
         "question": "Quelle fut la première grande civilisation d'Amérique centrale ?",
         "options": ["Aztèques", "Incas", "Mayas", "Olmèques"],
-        "answer": "Olmeacas"
+        "answer": "Olmèques"
       },
       {
         "id": 25,
@@ -586,13 +586,13 @@
           "Deuxième Guerre mondiale",
           "La guerre du Golfe"
         ],
-        "answer": "Seconde Guerre mondiale"
+        "answer": "Deuxième Guerre mondiale"
       },
       {
         "id": 26,
         "question": "Qui était l'empereur romain qui a tenté de faire passer l'Empire romain du paganisme au christianisme ?",
         "options": ["Jules César", "Néron", "Constantin Ier", "Trajan"],
-        "answer": "Constantin I"
+        "answer": "Constantin Ier"
       },
       {
         "id": 27,
@@ -636,14 +636,14 @@
           "Bataille de Stalingrad",
           "Bataille de Gettysburg"
         ],
-        "answer": "Bataille d'Hastings"
+        "answer": "Bataille de Hastings"
       },
       {
         "id": 31,
         "question": "Qui était le chef militaire et politique responsable de l'unification de l'Italie au XIXe siècle ?",
         "options": [
           "Giuseppe Garibaldi",
-          "Camillo di Cavour",
+          "Camilo di Cavour",
           "Benito Mussolini",
           "Victor Emmanuel II"
         ],
@@ -697,7 +697,7 @@
           "Peter le grand",
           "Alexandre le Grand"
         ],
-        "answer": "Pierre le Grand"
+        "answer": "Peter le grand"
       },
       {
         "id": 37,
@@ -780,12 +780,12 @@
         "id": 44,
         "question": "Quel est l'événement qui a marqué le début de la Seconde Guerre mondiale en 1939 ?",
         "options": [
-          "Invasion allemande de la Pologne",
+          "Invasion de la Pologne par l'Allemagne",
           "Attaque de Pearl Harbor par les Japonais",
           "Déclaration de guerre des États-Unis contre l'Allemagne",
           "L'invasion de l'Union soviétique par l'Allemagne"
         ],
-        "answer": "invasion allemande de la Pologne"
+        "answer": "Invasion de la Pologne par l'Allemagne"
       },
       {
         "id": 45,
@@ -933,7 +933,7 @@
         "id": 10,
         "question": "Quel est le nom du robot géant qui apparaît dans le film 'Pacific Rim'?",
         "options": ["Mazinger Z", "Voltron", "Gipsy Danger", "Optimus Prime"],
-        "answer": "Danger gitan"
+        "answer": "Gipsy Danger"
       },
       {
         "id": 11,
@@ -944,8 +944,8 @@
       {
         "id": 12,
         "question": "Comment s'appelle la série Netflix sur un groupe d'amis qui jouent au RPG?",
-        "options": ["Stranger Things", "Sense8", "The OA", "The Winx Club"],
-        "answer": "Choses étranges"
+        "options": ["Stranger Things", "Sense8", "The OA", "O Clube das Winx"],
+        "answer": "Stranger Things"
       },
       {
         "id": 13,
@@ -978,7 +978,12 @@
       {
         "id": 16,
         "question": "Quel est le nom du protagoniste du film 'Forrest Gump - The Storyteller'?",
-        "options": ["Tom Hank", "Leonardo DiCaprio", "Brad Pitt", "Will Smith"],
+        "options": [
+          "Tom Hanks",
+          "Leonardo DiCaprio",
+          "Brad Pitt",
+          "Will Smith"
+        ],
         "answer": "Tom Hanks"
       },
       {
@@ -1023,14 +1028,14 @@
       },
       {
         "id": 22,
-        "question": "Quel est le nom du personnage principal de la série 'Game of Thrones' ?",
+        "question": "Quel est le nom du personnage avec le plus de temps d'écran dans 'Game of Thrones'?",
         "options": [
           "Jon Snow",
           "Tyrion Lannister",
           "Daenerys Targaryen",
           "Arya Stark"
         ],
-        "answer": "Il n'y a pas de personnage principal clair dans 'Game of Thrones'"
+        "answer": "Jon Snow"
       },
       {
         "id": 23,
@@ -1210,11 +1215,11 @@
         "question": "Comment s'appelle le méchant joué par Ralph Fiennes dans la série de films 'Harry Potter'?",
         "options": [
           "Draco Malfoy",
-          "Lucius Malefoy",
+          "Lucius Malfoy",
           "Lord Voldemort",
-          "Severus Rogue"
+          "Severus Snape"
         ],
-        "answer": "Seigneur Voldemort"
+        "answer": "Lord Voldemort"
       },
       {
         "id": 42,
@@ -1270,8 +1275,8 @@
       {
         "id": 48,
         "question": "Quel est le nom de la série télévisée humoristique qui se déroule dans un hôpital et met en vedette Zach Braff?",
-        "options": ["Docteur", "Scrubs", "Grey's Anatomy", "Maison"],
-        "answer": "Gommages"
+        "options": ["Plantão Médico", "Scrubs", "Grey's Anatomy", "House"],
+        "answer": "Scrubs"
       },
       {
         "id": 49,
@@ -1296,18 +1301,18 @@
         "id": 1,
         "question": "Quel est le nom de l'album Nirvana sorti en 1991 et considéré comme l'un des meilleurs albums rock de l'histoire ?",
         "options": [
-          "In utero",
-          "Eau de Javel",
-          "Pas grave",
-          "MTV débranché à New York"
+          "In Utero",
+          "Bleach",
+          "Nevermind",
+          "MTV Unplugged in New York"
         ],
-        "answer": "Peu importe"
+        "answer": "Nevermind"
       },
       {
         "id": 2,
         "question": "Quel est le nom du chanteur et compositeur brésilien considéré comme le roi de la musique brésilienne ?",
         "options": [
-          "Robert Carlos",
+          "Roberto Carlos",
           "Chico Buarque",
           "Gilberto Gil",
           "Caetano Veloso"
@@ -1319,7 +1324,7 @@
         "question": "Comment s'appelle la chanteuse connue comme la 'Queen of Soul'?",
         "options": [
           "Whitney Houston",
-          "Arétha Franklin",
+          "Aretha Franklin",
           "Tina Turner",
           "Diana Ross"
         ],
@@ -1346,8 +1351,8 @@
         "id": 6,
         "question": "Quel est le nom du chanteur et compositeur brésilien connu pour être le créateur de la bossa nova et avoir des tubes comme 'Garota de Ipanema' et 'Desafinado' ?",
         "options": [
-          "Joao Gilberto",
-          "Tom Jobin",
+          "João Gilberto",
+          "Tom Jobim",
           "Caetano Veloso",
           "Chico Buarque"
         ],
@@ -1363,10 +1368,10 @@
         "id": 8,
         "question": "Quel est le nom du groupe de heavy metal connu pour avoir été formé par le guitariste Tony Iommi, le chanteur Ozzy Osbourne, le bassiste Geezer Butler et le batteur Bill Ward ?",
         "options": [
-          "Sabbat noir",
+          "Black Sabbath",
           "Iron Maiden",
           "Judas Priest",
-          "tête de moteur"
+          "Motorhead"
         ],
         "answer": "Black Sabbath"
       },
@@ -1374,12 +1379,12 @@
         "id": 9,
         "question": "Quel est le nom de l'album de Pink Floyd qui est considéré comme l'un des meilleurs albums de rock progressif de l'histoire et qui est sorti en 1973 ?",
         "options": [
-          "J'aimerais que tu sois ici",
-          "Le mur",
-          "Animaux",
-          "Le côté obscur de la Lune"
+          "Wish You Were Here",
+          "The Wall",
+          "Animals",
+          "The Dark Side of the Moon"
         ],
-        "answer": "La face cachée de la lune"
+        "answer": "The Dark Side of the Moon"
       },
       {
         "id": 10,
@@ -1447,7 +1452,7 @@
         "id": 17,
         "question": "'Nagrelha dos Lambas', dans quel style était-il chanteur ?",
         "options": ["Afro-House", "Kuduro", "House", "Hip-Hop"],
-        "answer": "Beth Carvalho"
+        "answer": "Kuduro"
       },
       {
         "id": 18,
@@ -1470,7 +1475,7 @@
         "id": 20,
         "question": "Quel est le nom du groupe de rock qui avait Bon Scott comme chanteur principal et plus tard Brian Johnson ?",
         "options": ["Led Zeppelin", "AC/DC", "Deep Purple", "Black Sabbath"],
-        "answer": "CA/CC"
+        "answer": "AC/DC"
       },
       {
         "id": 21,
@@ -1482,7 +1487,7 @@
         "id": 22,
         "question": "Quel est le nom du groupe de heavy metal qui avait le chanteur Ronnie James Dio comme chanteur principal ?",
         "options": ["Black Sabbath", "Iron Maiden", "Judas Priest", "Dio"],
-        "answer": "dio"
+        "answer": "Dio"
       },
       {
         "id": 23,
@@ -1494,29 +1499,29 @@
         "id": 24,
         "question": "Quel est le nom du groupe de rock qui a le chanteur Mick Jagger comme chanteur principal ?",
         "options": [
-          "Les Beatles",
-          "Les pierres qui roulent",
+          "The Beatles",
+          "The Rolling Stones",
           "Led Zeppelin",
-          "Floyd rose"
+          "Pink Floyd"
         ],
-        "answer": "Les Rolling Stones"
+        "answer": "The Rolling Stones"
       },
       {
         "id": 25,
         "question": "Quel est le nom du premier album de Billie Eilish sorti en 2019 ?",
         "options": [
-          "Plus heureux que jamais",
-          "Quand nous nous endormons tous, où allons-nous?",
-          "Ne me souris pas",
-          "Mauvais garçon"
+          "Happier Than Ever",
+          "When We All Fall Asleep, Where Do We Go?",
+          "Don't Smile at Me",
+          "Bad Guy"
         ],
-        "answer": "Quand nous nous endormons tous, où allons-nous ?"
+        "answer": "When We All Fall Asleep, Where Do We Go?"
       },
       {
         "id": 26,
         "question": "Quel est le nom du groupe de rock qui avait Jim Morrison comme chanteur principal ?",
-        "options": ["Les Doors", "Les Qui", "Les Kinks", "Les Rolling Stones"],
-        "answer": "Les portes"
+        "options": ["The Doors", "The Who", "The Kinks", "The Rolling Stones"],
+        "answer": "The Doors"
       },
       {
         "id": 27,
@@ -1568,9 +1573,9 @@
         "question": "Quel est le nom du groupe de rock formé par les musiciens Axl Rose, Slash et Duff McKagan ?",
         "options": [
           "Nirvana",
-          "Armes et Roses",
-          "Métallique",
-          "Piments rouges chauds"
+          "Guns N' Roses",
+          "Metallica",
+          "Red Hot Chili Peppers"
         ],
         "answer": "Guns N' Roses"
       },
@@ -1579,9 +1584,9 @@
         "question": "Quel est le nom du groupe britannique qui a sorti l'album 'The Dark Side of the Moon' en 1973 ?",
         "options": [
           "Led Zeppelin",
-          "PinkFloyd",
-          "Les pierres qui roulent",
-          "L'OMS"
+          "Pink Floyd",
+          "The Rolling Stones",
+          "The Who"
         ],
         "answer": "Pink Floyd"
       },
@@ -1660,9 +1665,9 @@
           "Bruce Springsteen",
           "Bob Dylan",
           "Neil Young",
-          "Tom Petit"
+          "Tom Petty"
         ],
-        "answer": "Bruce Spring"
+        "answer": "Bruce Springsteen"
       },
       {
         "id": 43,
@@ -1719,7 +1724,7 @@
         "id": 49,
         "question": "Quel est le nom complet de la chanteuse pop connue sous le nom de Lady Gaga ?",
         "options": [
-          "Stefani joanne angelina germanotta",
+          "Stefani Joanne Angelina Germanotta",
           "Robyn Rihanna Fenty",
           "Adèle Laurie Blue Adkins",
           "Katheryn Elizabeth Hudson"
@@ -1794,7 +1799,7 @@
         "id": 7,
         "question": "Comment s'appelle le sport où les joueurs utilisent des raquettes pour envoyer une balle au-dessus du filet ?",
         "options": ["Tennis", "Badminton", "Squash", "Ping Pong"],
-        "answer": "Baskets"
+        "answer": "Tennis"
       },
       {
         "id": 8,
@@ -1812,7 +1817,7 @@
         "id": 10,
         "question": "Quel est le sport où les joueurs lancent une balle de haut en bas d'un filet en utilisant leurs mains ?",
         "options": ["Tennis", "Volley", "Basket", "Handball"],
-        "answer": "Volley-ball"
+        "answer": "Volley"
       },
       {
         "id": 11,
@@ -1830,7 +1835,7 @@
         "id": 13,
         "question": "Comment s'appelle le sport où les joueurs utilisent des patins pour lancer une balle sur un terrain ?",
         "options": [
-          "Hockey sur roulettes",
+          "Hockey à roulettes",
           "Patinage artistique",
           "Planche à roulette",
           "Hockey sur glace"
@@ -1840,7 +1845,7 @@
       {
         "id": 14,
         "question": "Comment s'appelle le sport où les joueurs essaient de frapper une balle sur une cible à l'aide d'un arc et de flèches ?",
-        "options": ["Boxe", "Escrime", "Tir à l'arc", "Lutte"],
+        "options": ["Boxe", "Escrime", "Arc et flèche", "Lutte"],
         "answer": "Arc et flèche"
       },
       {
@@ -1955,13 +1960,13 @@
         "id": 27,
         "question": "Quel sport est connu comme 'le sport de raquette' ?",
         "options": ["Tennis", "Badminton", "Squash", "Ping Pong"],
-        "answer": "Baskets"
+        "answer": "Tennis"
       },
       {
         "id": 28,
         "question": "Dans quel sport le mouvement 'ollie' est-il un élément de base ?",
         "options": ["Surf", "Skate", "Snowboard", "Ski"],
-        "answer": "Skateboard"
+        "answer": "Skate"
       },
       {
         "id": 29,
@@ -2013,7 +2018,7 @@
         "id": 35,
         "question": "Quelle est la modalité de nage qui implique les quatre styles : papillon, dos, brasse et nage libre ?",
         "options": ["Medley", "Crawl", "Mariposa", "Retour"],
-        "answer": "mélange"
+        "answer": "Medley"
       },
       {
         "id": 36,
@@ -2054,9 +2059,9 @@
         "question": "Qui est le basketteur avec le plus de titres NBA ?",
         "options": [
           "Michael Jordan",
-          "James Lebron",
+          "LeBron James",
           "Kobe Bryant",
-          "Bill Russel"
+          "Bill Russell"
         ],
         "answer": "Bill Russell"
       },
@@ -2086,7 +2091,7 @@
           "Coupe du monde des clubs",
           "Coupe d'Amérique du Sud"
         ],
-        "answer": "Ligue des champions de l'UEFA"
+        "answer": "UEFA Ligue des Champions"
       },
       {
         "id": 44,
@@ -2094,7 +2099,7 @@
         "options": [
           "Khabib Nurmagomedov",
           "Jon Jones",
-          "Conor Mc Gregor",
+          "Conor McGregor",
           "Anderson Silva"
         ],
         "answer": "Conor McGregor"
@@ -2103,12 +2108,12 @@
         "id": 45,
         "question": "Quel est le nom de l'équipe de football la plus titrée de l'histoire ?",
         "options": [
-          "Barcelone",
+          "Barcelona",
           "Manchester United",
           "Real Madrid",
-          "Bayern Munchen"
+          "Bayern de Munique"
         ],
-        "answer": "Réal Madrid"
+        "answer": "Real Madrid"
       },
       {
         "id": 46,
@@ -2142,7 +2147,7 @@
         "id": 49,
         "question": "Quel est le nom de l'événement sportif le plus regardé au monde ?",
         "options": [
-          "Coupe du monde Fifa",
+          "Coupe du Monde FIFA",
           "Jeux olympiques d'été",
           "Super Bowl",
           "Coupe du monde de cricket"
@@ -2158,7 +2163,7 @@
           "Hockey sur glace",
           "Base-ball"
         ],
-        "answer": "Cricket"
+        "answer": "Criquet"
       }
     ],
     "Science_and_technology": [
@@ -2166,7 +2171,7 @@
         "id": 1,
         "question": "Comment s'appelle le processus de transformation de l'eau liquide en vapeur ?",
         "options": [
-          "Evaporation",
+          "Évaporation",
           "Condensation",
           "Solidification",
           "Sublimation"
@@ -2272,7 +2277,7 @@
       {
         "id": 13,
         "question": "Quelle est l'unité standard de mesure du temps ?",
-        "options": ["Mètre", "Seconde", "Minute", "Heure"],
+        "options": ["Mètre", "Deuxième", "Minute", "Heure"],
         "answer": "Deuxième"
       },
       {
@@ -2318,8 +2323,8 @@
       {
         "id": 19,
         "question": "Quel était le premier système d'exploitation basé sur une interface graphique ?",
-        "options": ["Windows 95", "Mac OS", "Xerox Alto", "MS-DOS"],
-        "answer": "Xerox High"
+        "options": ["Windows 95", "Mac OS", "Xérox Élevé", "MS-DOS"],
+        "answer": "Xérox Élevé"
       },
       {
         "id": 20,
@@ -2359,12 +2364,12 @@
         "id": 24,
         "question": "Qu'est-ce qu'un peu ?",
         "options": [
-          "La plus petite unité d'information dans un ordinateur.",
-          "L'unité de mesure de base pour la distance.",
-          "L'unité de mesure de base pour le poids.",
-          "L'unité de mesure de base du temps."
+          "La plus petite unité d'information dans un ordinateur",
+          "L'unité de mesure de base pour la distance",
+          "L'unité de mesure de base pour le poids",
+          "L'unité de mesure de base du temps"
         ],
-        "answer": "La plus petite unité d'information sur un ordinateur."
+        "answer": "La plus petite unité d'information dans un ordinateur"
       },
       {
         "id": 25,
@@ -2375,7 +2380,7 @@
           "Loi de la gravitation universelle",
           "La théorie du Big Bang"
         ],
-        "answer": "Théorie du Big Bang"
+        "answer": "La théorie du Big Bang"
       },
       {
         "id": 26,
@@ -2392,7 +2397,7 @@
           "Explosions volcaniques",
           "Enregistrement"
         ],
-        "answer": "Émissions de gaz à effet de serre"
+        "answer": "Les émissions de gaz à effet de serre"
       },
       {
         "id": 28,
@@ -2409,7 +2414,7 @@
         "id": 29,
         "question": "Quelle est l'unité d'information de base dans un ordinateur ?",
         "options": ["Octet", "Bit", "Pixel", "Hertz"],
-        "answer": "Un peu"
+        "answer": "Bit"
       },
       {
         "id": 30,
@@ -2420,7 +2425,7 @@
           "Interface avancée",
           "Informatique Appliquée"
         ],
-        "answer": "Intelligence Artificielle"
+        "answer": "Intelligence artificielle"
       },
       {
         "id": 31,
@@ -2438,12 +2443,12 @@
         "id": 33,
         "question": "Quelle est la différence entre atome et molécule ?",
         "options": [
-          "Les atomes sont des particules subatomiques, tandis que les molécules sont des collections d'atomes",
+          "Les atomes sont des particules subatomiques, tandis que les molécules sont des groupes d'atomes",
           "Les atomes sont composés de protons, d'électrons et de neutrons, tandis que les molécules sont composées de protons et d'électrons",
           "Les atomes ont une charge électrique, alors que les molécules n'en ont pas",
           "Les atomes forment des composés chimiques, alors que les molécules n'ont pas cette capacité"
         ],
-        "answer": "Les atomes sont des particules subatomiques, tandis que les molécules sont des ensembles d'atomes"
+        "answer": "Les atomes sont des particules subatomiques, tandis que les molécules sont des groupes d'atomes"
       },
       {
         "id": 34,
@@ -2465,7 +2470,7 @@
           "Cellule bactérienne",
           "Cellule eukaryotique"
         ],
-        "answer": "Cellule eucaryote"
+        "answer": "Cellule eukaryotique"
       },
       {
         "id": 36,
@@ -2516,7 +2521,7 @@
         "question": "Qu'est-ce que la théorie de l'évolution ?",
         "options": [
           "La théorie qui explique comment les planètes se forment",
-          "La théorie qui explique comment les espèces changent dans le temps",
+          "La théorie qui explique comment les espèces changent avec le temps",
           "La théorie qui explique le fonctionnement des cellules",
           "La théorie qui explique comment la matière se transforme"
         ],
@@ -2525,8 +2530,8 @@
       {
         "id": 41,
         "question": "Quelle couche de la Terre abrite la vie ?",
-        "options": ["Noyau", "Manteau", "Croute", "Atmosphère"],
-        "answer": "croûte"
+        "options": ["Noyau", "Manteau", "Croûte", "Atmosphère"],
+        "answer": "Croûte"
       },
       {
         "id": 42,
@@ -2548,7 +2553,7 @@
           "Les glucides",
           "Acides nucléiques"
         ],
-        "answer": "Glucides"
+        "answer": "Les glucides"
       },
       {
         "id": 44,
@@ -2571,12 +2576,12 @@
         "id": 46,
         "question": "Qu'est-ce qu'une base de données ?",
         "options": [
-          "Une collecte organisée d'informations.",
-          "Un appareil utilisé pour stocker des informations.",
-          "Un langage utilisé pour créer des pages Web.",
-          "Un type de connexion Internet."
+          "Une collecte organisée d'informations",
+          "Un appareil utilisé pour stocker des informations",
+          "Un langage utilisé pour créer des pages Web",
+          "Un type de connexion Internet"
         ],
-        "answer": "Une collection organisée d'informations."
+        "answer": "Une collecte organisée d'informations"
       },
       {
         "id": 47,
@@ -2629,7 +2634,7 @@
         "question": "Quels sont les principaux facteurs qui contribuent à l'extinction des animaux sauvages ?",
         "options": [
           "Pollution de l'eau",
-          "Enregistrement",
+          "Déforestation",
           "Chasse illégale",
           "Les changements climatiques"
         ],
@@ -2642,15 +2647,15 @@
           "Biodiversité diminuée",
           "Perte d'habitat naturel",
           "Une pollution accrue",
-          "Tout au dessus"
+          "Tout ci-dessus"
         ],
         "answer": "Tout ci-dessus"
       },
       {
         "id": 3,
         "question": "Quel animal a le plus de dents ?",
-        "options": ["Grand Grand Blanc", "Dauphin", "Crocodile", "Tatou"],
-        "answer": "grand requin blanc"
+        "options": ["Requin blanc", "Dauphin", "Crocodile", "Tatou"],
+        "answer": "Requin blanc"
       },
       {
         "id": 4,
@@ -2658,10 +2663,10 @@
         "options": [
           "Les animaux qui vivent dans les zoos",
           "Les animaux qui sont domestiqués",
-          "Des espèces qui ne sont pas domestiquées et qui vivent à l'état sauvage",
+          "Espèces non domestiquées et sauvages à l'état sauvage",
           "Animaux domestiques"
         ],
-        "answer": "Espèces qui ne sont pas domestiquées et qui vivent à l'état sauvage"
+        "answer": "Espèces non domestiquées et sauvages à l'état sauvage"
       },
       {
         "id": 5,
@@ -2723,7 +2728,7 @@
       {
         "id": 12,
         "question": "Quel est l'animal le plus coriace de la planète ?",
-        "options": ["Cafard", "Tortue", "Dromadaire", "Ours Polaire"],
+        "options": ["Cafard", "Tortue", "Tardigrade", "Ours Polaire"],
         "answer": "Tardigrade"
       },
       {
@@ -2785,8 +2790,8 @@
       {
         "id": 19,
         "question": "Quel animal dort le plus d'heures par jour ?",
-        "options": ["Écureuil", "Koala", "Chat", "Paresseux"],
-        "answer": "Paresse"
+        "options": ["Écureuil", "Koala", "Chat", "Paresse"],
+        "answer": "Paresse" 
       },
       {
         "id": 20,
@@ -2807,15 +2812,15 @@
           "Armure Araignée",
           "Serpent corail",
           "Poisson Pierre",
-          "Méduse-boîte"
+          "Méduse-Boîte"
         ],
-        "answer": "boîte méduse"
+        "answer": "Méduse-Boîte"
       },
       {
         "id": 23,
         "question": "Quel animal a la langue la plus longue par rapport à sa taille ?",
-        "options": ["Caméléon", "Girafe", "Ant panda", "Tag fourmilier"],
-        "answer": "Fourmilier-drapeau"
+        "options": ["Caméléon", "Girafe", "Ant panda", "Ipsée géante"],
+        "answer": "Ipsée géante"
       },
       {
         "id": 24,
@@ -2839,7 +2844,7 @@
         "id": 27,
         "question": "Quel animal est connu pour ne jamais dormir ?",
         "options": ["Requin", "Girafe", "Éléphant", "Ours Brun"],
-        "answer": "requin"
+        "answer": "Requin"
       },
       {
         "id": 28,
@@ -2896,7 +2901,7 @@
           "Forêt de Bornéo",
           "Forêt de Madagascar"
         ],
-        "answer": "Forêt amazonienne"
+        "answer": "La forêt Amazonienne"
       },
       {
         "id": 35,
@@ -2907,7 +2912,7 @@
           "Chouette des terriers",
           "Vautour à tête rouge"
         ],
-        "answer": "Pygargue à tête blanche"
+        "answer": "Aigle américain"
       },
       {
         "id": 36,
@@ -2936,7 +2941,7 @@
       {
         "id": 40,
         "question": "Quel animal est réputé pour hiberner en hiver ?",
-        "options": ["Écureuil", "Chauve-souris", "Grizzly", "Tatou"],
+        "options": ["Écureuil", "Chauve-souris", "Ours brun", "Tatou"],
         "answer": "Ours brun"
       },
       {
@@ -2949,7 +2954,7 @@
         "id": 42,
         "question": "Quel animal est capable de voler mais n'est pas un oiseau ?",
         "options": ["Chauve souris", "Écureuil volant", "phasme", "Ptérosaure"],
-        "answer": "Chauve-souris"
+        "answer": "Chauve souris"
       },
       {
         "id": 43,
@@ -2977,7 +2982,7 @@
         "id": 46,
         "question": "Quel animal est connu pour son puissant rugissement et pour être le roi de la jungle ?",
         "options": ["Lion", "Tigre", "Léopard", "Guépard"],
-        "answer": "Léo"
+        "answer": "Lion"
       },
       {
         "id": 47,
@@ -2988,8 +2993,8 @@
       {
         "id": 48,
         "question": "Quel animal est connu pour avoir un odorat extrêmement développé, capable de flairer des proies à de grandes distances ?",
-        "options": ["Chien", "Chat", "Jaguar", "Ours"],
-        "answer": "Onça"
+        "options": ["Chien", "Chat", "Once", "Ours"],
+        "answer": "Once"
       },
       {
         "id": 49,

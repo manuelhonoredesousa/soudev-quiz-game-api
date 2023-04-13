@@ -2556,12 +2556,12 @@
         "id": 46,
         "question": "O que é um banco de dados?",
         "options": [
-          "Uma coleção organizada de informações.",
-          "Um dispositivo usado para armazenar informações.",
-          "Uma linguagem usada para criar páginas da web.",
-          "Um tipo de conexão à internet."
+          "Uma coleção organizada de informações",
+          "Um dispositivo usado para armazenar informações",
+          "Uma linguagem usada para criar páginas da web",
+          "Um tipo de conexão à internet"
         ],
-        "answer": "Uma coleção organizada de informações."
+        "answer": "Uma coleção organizada de informações"
       },
       {
         "id": 47,
@@ -2628,9 +2628,9 @@
           "Diminuição da biodiversidade",
           "Perda do habitat natural",
           "Aumento da poluição",
-          "Todas as anteriores"
+          "Todas as opções"
         ],
-        "answer": "Todas as anteriores"
+        "answer": "Todas as opções"
       },
       {
         "id": 3,
@@ -2949,6 +2949,7 @@
         "options": [
           "O Fundo Internacional para o Bem-Estar Animal - IFAW",
           "O Fundo Mundial para a Natureza - WWF",
+          "Apple",
           "The Nature Conservancy"
         ],
         "answer": "O Fundo Mundial para a Natureza - WWF"
@@ -2956,7 +2957,7 @@
       {
         "id": 45,
         "question": "Qual é a cor da pele de um urso polar?",
-        "options": ["Branco", "Marrom", "Preto"],
+        "options": ["Branco", "Marrom", "Preto", "Azul"],
         "answer": "Preto"
       },
       {
@@ -4205,8 +4206,8 @@
         "id": 12,
         "question": "Qual é a obra mais famosa de Gabriel García Márquez?",
         "options": [
-          "O Amor nos Tempos do Cólera",
           "Cem Anos de Solidão",
+          "O Amor nos Tempos do Cólera",
           "Crônica de uma Morte Anunciada",
           "Ninguém Escreve ao Coronel"
         ],
@@ -4867,8 +4868,8 @@
       {
         "id": 29,
         "question": "https://images.unsplash.com/photo-1542621323-be453184db76?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
-        "options": ["Regua", "Esferografica", "Caderno", "Livro"],
-        "answer": "Regua"
+        "options": ["Régua", "Esferografica", "Caderno", "Livro"],
+        "answer": "Régua"
       },
 
       {

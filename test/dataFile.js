@@ -80,6 +80,6 @@ function verificarSeAnswerBateNasOptions(data = Array()) {
     // })
     
     
-    const dataFile = require('./../src/Functions/QuizGameData/database/french_QuizGameSouDEV.json').quiz;
+    const dataFile = require('./../src/Functions/QuizGameData/database/hindi_QuizGameSouDEV.json').quiz;
     
     verificarSeAnswerBateNasOptions(dataFile)

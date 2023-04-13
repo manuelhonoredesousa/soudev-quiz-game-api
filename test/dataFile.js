@@ -80,6 +80,18 @@ function verificarSeAnswerBateNasOptions(data = Array()) {
     // })
     
     
-    const dataFile = require('./../src/Functions/QuizGameData/database/hindi_QuizGameSouDEV.json').quiz;
+    const dataFile = require('./../src/Functions/QuizGameData/database/russian_QuizGameSouDEV.json').quiz;
     
     verificarSeAnswerBateNasOptions(dataFile)
+
+    
+    // portuguese -  
+    // english    -
+    // spanish    - 
+    // arabic 
+    // french     -   
+    // hindi      -
+    // russian    -
+    // mandarin 
+    // korean 
+    // japanese

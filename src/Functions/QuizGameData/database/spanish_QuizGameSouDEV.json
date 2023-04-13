@@ -73,7 +73,7 @@
           "Río Yangtze",
           "Río Mississippi"
         ],
-        "answer": "Río Amazonas"
+        "answer": "Rió Amazonas"
       },
       {
         "id": 10,
@@ -90,7 +90,7 @@
       {
         "id": 12,
         "question": "¿Cuál es el desierto más grande del mundo?",
-        "options": ["Sara", "Saara", "Gobi", "Atacama"],
+        "options": ["Sara", "Sáhara", "Gobi", "Atacama"],
         "answer": "Sáhara"
       },
       {
@@ -317,9 +317,9 @@
           "Cataratas del Iguazú",
           "Cataratas del Niagara",
           "Cataratas Victoria",
-          "Salto de ángel"
+          "Salto Angel"
         ],
-        "answer": "Ángel Salto"
+        "answer": "Salto Angel"
       },
       {
         "id": 46,
@@ -357,19 +357,19 @@
         "id": 1,
         "question": "¿Cuál fue la primera civilización conocida?",
         "options": ["Babilonia", "Egipto", "India", "Sumeria"],
-        "answer": "sumerio"
+        "answer": "Sumeria"
       },
       {
         "id": 2,
         "question": "¿Quién fue el primer emperador romano?",
         "options": ["Julio César", "Nerón", "Augusto", "Tito"],
-        "answer": "agosto"
+        "answer": "Augusto"
       },
       {
         "id": 3,
         "question": "¿Quién fue el líder de la revolución rusa de 1917?",
         "options": ["Lenin", "Stalin", "Trotsky", "Khrushchev"],
-        "answer": "Lenín"
+        "answer": "Lenin"
       },
       {
         "id": 4,
@@ -443,7 +443,7 @@
         "question": "¿Quién fue el líder nazi durante la Segunda Guerra Mundial?",
         "options": [
           "Benito Mussolini",
-          "Adolfo Hitler",
+          "Adolf Hitler",
           "Hirohito",
           "Joseph Stalin"
         ],
@@ -454,7 +454,7 @@
         "question": "¿Cuál fue la causa principal de la Guerra Fría?",
         "options": [
           "Disputa por Territorios",
-          "Diferencias ideológicas entre los Estados Unidos y la Unión Soviética",
+          "Diferencias ideológicas entre Estados Unidos y la Unión Soviética",
           "Conflictos Religiosos",
           "Disputas Comerciales"
         ],
@@ -467,7 +467,7 @@
           "Indira Gandhi",
           "Golda Meir",
           "Margaret Thatcher",
-          "Isabel Perón"
+          "Sirimavo Bandaranaike"
         ],
         "answer": "Sirimavo Bandaranaike"
       },
@@ -480,7 +480,7 @@
           "Expansión del Imperio Francés",
           "Influencia en la Lucha por la Democracia y los Derechos Civiles"
         ],
-        "answer": "Influencia en la lucha por la democracia y los derechos civiles"
+        "answer": "Influencia en la Lucha por la Democracia y los Derechos Civiles"
       },
       {
         "id": 15,
@@ -563,7 +563,7 @@
           "Diferencias ideológicas entre las grandes potencias europeas",
           "Conflictos Religiosos"
         ],
-        "answer": "Diferencias ideológicas entre las principales potencias europeas"
+        "answer": "Diferencias ideológicas entre las grandes potencias europeas"
       },
       {
         "id": 23,
@@ -575,7 +575,7 @@
         "id": 24,
         "question": "¿Cuál fue la primera gran civilización en América Central?",
         "options": ["Aztecas", "Incas", "Mayas", "Olmecas"],
-        "answer": "Olmeacas"
+        "answer": "Olmecas"
       },
       {
         "id": 25,
@@ -583,7 +583,7 @@
         "options": [
           "Guerra Fría",
           "Primera Guerra Mundial",
-          "II Guerra Mundial",
+          "Segunda Guerra Mundial",
           "Guerra del Golfo"
         ],
         "answer": "Segunda Guerra Mundial"
@@ -643,9 +643,9 @@
         "question": "¿Quién fue el líder militar y político responsable de unificar Italia en el siglo XIX?",
         "options": [
           "Giuseppe Garibaldi",
-          "Camillo de Cavour",
+          "Camilo di Cavour",
           "Benito Mussolini",
-          "Víctor Emmanuel II"
+          "Victor Emmanuel II"
         ],
         "answer": "Camilo di Cavour"
       },
@@ -675,12 +675,12 @@
         "id": 34,
         "question": "¿Quién fue el líder soviético que dirigió a la Unión Soviética durante la mayor parte de la Segunda Guerra Mundial?",
         "options": [
-          "Nikita Jruschov",
+          "Nikita Khrushchev",
           "Vladimir Lenin",
           "Leonid Brezhnev",
           "Joseph Stalin"
         ],
-        "answer": "José Stalin"
+        "answer": "Joseph Stalin"
       },
       {
         "id": 35,
@@ -692,12 +692,12 @@
         "id": 36,
         "question": "¿Quién fue el líder ruso responsable de la modernización de Rusia en el siglo XVIII?",
         "options": [
-          "Ivan el Terrible",
-          "Catalina la grande",
-          "Peter el genial",
-          "Alejandro el Grande"
+          "Ivan, el Terrível",
+          "Catarina, la Grande",
+          "Pedro, el Grande",
+          "Alexandre, el Grande"
         ],
-        "answer": "Pedro el Grande"
+        "answer": "Pedro, el Grande"
       },
       {
         "id": 37,
@@ -737,9 +737,9 @@
         "question": "¿Quién fue el líder estadounidense que dirigió a los Estados Unidos durante la Guerra de Vietnam?",
         "options": [
           "Richard Nixon",
-          "John F Kennedy",
+          "John F. Kennedy",
           "Dwight D. Eisenhower",
-          "Lyndon B Johnson"
+          "Lyndon B. Johnson"
         ],
         "answer": "Lyndon B. Johnson"
       },
@@ -780,12 +780,12 @@
         "id": 44,
         "question": "¿Cuál fue el evento que marcó el comienzo de la Segunda Guerra Mundial en 1939?",
         "options": [
-          "Invasión alemana de Polonia",
+          "Invasión Alemana de Polonia",
           "Ataque a Pearl Harbor por los japoneses",
           "Declaración de guerra de los Estados Unidos contra Alemania",
           "Invasión de Alemania a la Unión Soviética"
         ],
-        "answer": "invasión alemana de Polonia"
+        "answer": "Invasión Alemana de Polonia"
       },
       {
         "id": 45,
@@ -845,8 +845,8 @@
         "question": "¿Cómo se llama el personaje principal de la serie 'Breaking Bad'?",
         "options": [
           "Jesse Pinkman",
-          "Saúl Goodman",
-          "Walter Blanco",
+          "Saul Goodman",
+          "Walter White",
           "Hank Schrader"
         ],
         "answer": "Walter White"
@@ -911,9 +911,9 @@
         "id": 8,
         "question": "¿Quién interpreta al personaje principal en la película 'El lobo de Wall Street'?",
         "options": [
-          "Leonardo Di Caprio",
+          "Leonardo DiCaprio",
           "Brad Pitt",
-          "Tom Crucero",
+          "Tom Cruise",
           "George Clooney"
         ],
         "answer": "Leonardo DiCaprio"
@@ -933,7 +933,7 @@
         "id": 10,
         "question": "¿Cómo se llama el robot gigante que aparece en la película 'Pacific Rim'?",
         "options": ["Mazinger Z", "Voltron", "Gipsy Danger", "Optimus Prime"],
-        "answer": "Peligro gitano"
+        "answer": "Gipsy Danger"
       },
       {
         "id": 11,
@@ -944,8 +944,8 @@
       {
         "id": 12,
         "question": "¿Cómo se llama la serie de Netflix sobre un grupo de amigos que juegan RPG?",
-        "options": ["Stranger Things", "Sense8", "The OA", "The Winx Club"],
-        "answer": "Cosas más extrañas"
+        "options": ["Stranger Things", "Sense8", "The OA", "O Clube das Winx"],
+        "answer": "Stranger Things"
       },
       {
         "id": 13,
@@ -992,16 +992,16 @@
         "options": [
           "Hank Schrader",
           "Gustavo Fring",
-          "Saúl Goodman",
-          "Walter Blanco"
+          "Saul Goodman",
+          "Walter White"
         ],
         "answer": "Walter White"
       },
       {
         "id": 18,
         "question": "¿Cuál es el nombre del personaje que es el archienemigo de Batman en los cómics de DC?",
-        "options": ["Lex Luthor", "Guasón", "Pingüino", "Acertijo"],
-        "answer": "Joker"
+        "options": ["Lex Luthor", "Coringa", "Pinguim", "Charada"],
+        "answer": "Coringa"
       },
       {
         "id": 19,
@@ -1028,14 +1028,14 @@
       },
       {
         "id": 22,
-        "question": "¿Cómo se llama el personaje principal de la serie 'Juego de Tronos'?",
+        "question": "¿Cuál es el nombre del personaje con más tiempo de pantalla en 'Game of Thrones'?",
         "options": [
-          "Jon Nieve",
+          "Jon Snow",
           "Tyrion Lannister",
           "Daenerys Targaryen",
           "Arya Stark"
         ],
-        "answer": "No hay un personaje principal claro en 'Game of Thrones'"
+        "answer": "Jon Snow"
       },
       {
         "id": 23,
@@ -1107,18 +1107,18 @@
         "id": 29,
         "question": "¿Cómo se llama la serie de televisión que sigue la vida de un profesor de química que se convierte en traficante de drogas?",
         "options": ["Breaking Bad", "Narcos", "The Wire", "Ozark"],
-        "answer": "Hacerse malo"
+        "answer": "Breaking Bad"
       },
       {
         "id": 30,
         "question": "¿Cómo se llama el actor que interpreta a Iron Man en las películas de Marvel?",
         "options": [
-          "Robert Downey jr.",
+          "Robert Downey Jr",
           "Chris Evans",
           "Chris Hemsworth",
           "Mark Ruffalo"
         ],
-        "answer": "Robert Downey Jr."
+        "answer": "Robert Downey Jr"
       },
       {
         "id": 31,
@@ -1158,9 +1158,9 @@
         "id": 35,
         "question": "¿Cuál es el nombre del personaje principal interpretado por Will Smith en la película 'Soy leyenda'?",
         "options": [
-          "Roberto Neville",
-          "Ana Montez",
-          "ethan caza",
+          "Robert Neville",
+          "Anna Montez",
+          "Ethan Hunt",
           "John McClane"
         ],
         "answer": "Robert Neville"
@@ -1169,9 +1169,9 @@
         "id": 36,
         "question": "¿Cómo se llama la actriz que interpreta al personaje Once en la serie de televisión 'Stranger Things'?",
         "options": [
-          "Millie bobby brown",
-          "Fregadero Sadie",
-          "Gatén Matarazzo",
+          "Millie Bobby Brown",
+          "Sadie Sink",
+          "Gaten Matarazzo",
           "Finn Wolfhard"
         ],
         "answer": "Millie Bobby Brown"
@@ -1242,7 +1242,7 @@
         "id": 44,
         "question": "¿Cómo se llama el personaje que interpreta Millie Bobby Brown en la serie de televisión 'Stranger Things'?",
         "options": ["Max", "Eleven", "Nancy", "Joyce"],
-        "answer": "Once"
+        "answer": "Eleven"
       },
       {
         "id": 45,
@@ -1255,7 +1255,7 @@
         "question": "¿Cómo se llama el actor que interpretó a James Bond en siete películas entre 1973 y 1985?",
         "options": [
           "Sean Connery",
-          "roger moore",
+          "Roger Moore",
           "Pierce Brosnan",
           "Timothy Dalton"
         ],
@@ -1293,7 +1293,7 @@
         "id": 50,
         "question": "¿Cuál es el nombre de la serie de televisión que tiene lugar en un pequeño pueblo ficticio en el estado de Washington y sigue las investigaciones del agente del FBI Dale Cooper?",
         "options": ["Breaking Bad", "Fargo", "True Detective", "Twin Peaks"],
-        "answer": "picos gemelos"
+        "answer": "Twin Peaks"
       }
     ],
     "Music_and_famous_artists": [
@@ -1346,8 +1346,8 @@
         "id": 6,
         "question": "¿Cómo se llama el cantante y compositor brasileño conocido por ser el creador de la bossa nova y por tener éxitos como 'Garota de Ipanema' y 'Desafinado'?",
         "options": [
-          "Joao Gilberto",
-          "Tom Jobín",
+          "João Gilberto",
+          "Tom Jobim",
           "Caetano Veloso",
           "Chico Buarque"
         ],
@@ -1447,7 +1447,7 @@
         "id": 17,
         "question": "'Nagrelha dos Lambas', ¿de qué estilo era cantante?",
         "options": ["Afro-House", "Kuduro", "House", "Hip-Hop"],
-        "answer": "Beth Carvalho"
+        "answer": "Kuduro"
       },
       {
         "id": 18,
@@ -1470,19 +1470,19 @@
         "id": 20,
         "question": "¿Cuál es el nombre de la banda de rock que tenía a Bon Scott como cantante principal y luego a Brian Johnson?",
         "options": ["Led Zeppelin", "AC/DC", "Deep Purple", "Black Sabbath"],
-        "answer": "CA/CC"
+        "answer": "AC/DC"
       },
       {
         "id": 21,
         "question": "¿Cuál es el nombre de la banda de rock que tiene al cantante Eddie Vedder como cantante principal?",
         "options": ["Pearl Jam", "Soundgarden", "Alice in Chains", "Nirvana"],
-        "answer": "Mermelada de perlas"
+        "answer": "Pearl Jam"
       },
       {
         "id": 22,
         "question": "¿Cuál es el nombre de la banda de heavy metal que tenía al cantante Ronnie James Dio como cantante principal?",
         "options": ["Black Sabbath", "Iron Maiden", "Judas Priest", "Dio"],
-        "answer": "dio"
+        "answer": "Dio"
       },
       {
         "id": 23,
@@ -1516,29 +1516,29 @@
         "id": 26,
         "question": "¿Cuál es el nombre de la banda de rock que tenía a Jim Morrison como cantante principal?",
         "options": ["The Doors", "The Who", "The Kinks", "The Rolling Stones"],
-        "answer": "Las puertas"
+        "answer": "The Doors"
       },
       {
         "id": 27,
         "question": "¿Cuál es el nombre del álbum más vendido en la historia de la música?",
         "options": [
-          "La novela de suspenso de Michael Jackson",
-          "El guardaespaldas, banda sonora de la película",
-          "De vuelta en negro de AC/DC",
-          "El lado oscuro de la luna de Pink Floyd"
+          "Thriller, de Michael Jackson",
+          "The Bodyguard, trilha sonora do filme",
+          "Back in Black, do AC/DC",
+          "The Dark Side of the Moon, do Pink Floyd"
         ],
-        "answer": "Thriller de Michael Jackson"
+        "answer": "Thriller, de Michael Jackson"
       },
       {
         "id": 28,
         "question": "¿Cómo se llama el álbum de Pink Floyd que se lanzó en 1979 y es considerado uno de los grandes clásicos del rock?",
         "options": [
-          "Querría que estés aquí",
-          "Animales",
-          "La pared",
-          "Lado oscuro de la luna"
+          "Wish You Were Here",
+          "Animals",
+          "The Wall",
+          "Dark Side of the Moon"
         ],
-        "answer": "El Muro"
+        "answer": "The Wall"
       },
       {
         "id": 29,
@@ -1568,7 +1568,7 @@
         "question": "¿Cómo se llama la banda de rock formada por los músicos Axl Rose, Slash y Duff McKagan?",
         "options": [
           "Nirvana",
-          "Guns N Roses",
+          "Guns N' Roses",
           "Metallica",
           "Red Hot Chili Peppers"
         ],
@@ -1606,10 +1606,10 @@
         "id": 36,
         "question": "¿Cómo se llama el cantante conocido como 'El príncipe de Motown'?",
         "options": [
-          "robinson ahumado",
+          "Smokey Robinson",
           "Marvin Gaye",
-          "stevie maravilla",
-          "Otis Reding"
+          "Stevie Wonder",
+          "Otis Redding"
         ],
         "answer": "Smokey Robinson"
       },
@@ -1617,10 +1617,10 @@
         "id": 37,
         "question": "¿Cómo se llama la cantante conocida como la 'Reina del pop'?",
         "options": [
-          "Virgen",
+          "Madonna",
           "Britney Spears",
-          "Cristina Aguilera",
-          "Céline Dion"
+          "Christina Aguilera",
+          "Celine Dion"
         ],
         "answer": "Madonna"
       },
@@ -1662,7 +1662,7 @@
           "Neil Young",
           "Tom Petty"
         ],
-        "answer": "Bruce primavera"
+        "answer": "Bruce Springsteen"
       },
       {
         "id": 43,
@@ -1794,7 +1794,7 @@
         "id": 7,
         "question": "¿Cuál es el nombre del deporte en el que los jugadores usan raquetas para golpear una pelota sobre la red?",
         "options": ["Tenis", "Bádminton", "Squash", "Ping Pong"],
-        "answer": "Zapatillas deportivas"
+        "answer": "Tenis"
       },
       {
         "id": 8,
@@ -1818,7 +1818,7 @@
         "id": 11,
         "question": "¿Cómo se llama el deporte en el que los jugadores corren mientras regatean el balón con las manos?",
         "options": ["Rugby", "Fútbol americano", "Balonmano", "Baloncesto"],
-        "answer": "balonmano"
+        "answer": "Balonmano"
       },
       {
         "id": 12,
@@ -1840,7 +1840,7 @@
       {
         "id": 14,
         "question": "¿Cuál es el nombre del deporte en el que los jugadores intentan golpear una pelota en un objetivo usando un arco y una flecha?",
-        "options": ["Boxeo", "Esgrima", "Tiro con arco", "Lucha libre"],
+        "options": ["Boxeo", "Esgrima", "Arco y flecha", "Lucha libre"],
         "answer": "Arco y flecha"
       },
       {
@@ -1955,13 +1955,13 @@
         "id": 27,
         "question": "¿Qué deporte se conoce como 'deporte de raqueta'?",
         "options": ["Tenis", "Bádminton", "Squash", "Ping Pong"],
-        "answer": "Zapatillas deportivas"
+        "answer": "Tenis"
       },
       {
         "id": 28,
         "question": "¿En qué deporte el movimiento 'ollie' es un elemento básico?",
-        "options": ["Surf", "Patinaje", "Snowboard", "Esquí"],
-        "answer": "Monopatín"
+        "options": ["Surf", "Skate", "Snowboard", "Esquí"],
+        "answer": "Skate"
       },
       {
         "id": 29,
@@ -2007,8 +2007,8 @@
       {
         "id": 35,
         "question": "¿Cuál es la modalidad de natación que involucra los cuatro estilos: mariposa, espalda, braza y estilo libre?",
-        "options": ["Medley", "Crawl", "Mariposa", "Atrás"],
-        "answer": "Mezcla"
+        "options": ["Medley", "Crawl", "Mariposa", "Costas"],
+        "answer": "Medley"
       },
       {
         "id": 36,
@@ -2017,14 +2017,14 @@
           "50 metros libres",
           "100 metros libres",
           "200 metros estilo libre",
-          "1500 metros libres"
+          "1500 metros estilo libre"
         ],
-        "answer": "1500 metros gratis"
+        "answer": "1500 metros estilo libre"
       },
       {
         "id": 37,
         "question": "¿Qué jugador de fútbol es conocido como 'El Rey'?",
-        "options": ["Pele", "Maradona", "Messi", "Neymar"],
+        "options": ["Pelé", "Maradona", "Messi", "Neymar"],
         "answer": "Pelé"
       },
       {
@@ -2089,7 +2089,7 @@
         "options": [
           "Khabib Nurmagomedov",
           "Jon Jones",
-          "Conor MacGregor",
+          "Conor McGregor",
           "Anderson Silva"
         ],
         "answer": "Conor McGregor"
@@ -2142,18 +2142,18 @@
           "Super Tazón",
           "Copa Mundial de Críquet"
         ],
-        "answer": "Copa Mundial de la FIFA"
+        "answer": "FIFA Copa del Mundo"
       },
       {
         "id": 50,
         "question": "¿Cómo se llama el deporte que se juega en una cancha ovalada y tiene un bate de madera para golpear la pelota?",
         "options": [
           "Fútbol americano",
-          "Grillo",
+          "Críquete",
           "Hockey sobre hielo",
           "Béisbol"
         ],
-        "answer": "críquet"
+        "answer": "Críquete"
       }
     ],
     "Science_and_technology": [
@@ -2309,16 +2309,16 @@
         "id": 19,
         "question": "¿Cuál fue el primer sistema operativo basado en GUI?",
         "options": ["Windows 95", "Mac OS", "Xerox Alto", "MS-DOS"],
-        "answer": "Xerox alto"
+        "answer": "Xerox Alto"
       },
       {
         "id": 20,
         "question": "¿Cuál fue el primer teléfono inteligente que se lanzó?",
         "options": [
           "Samsung Galaxy S",
-          "Apple iPhone",
+          "iPhone",
           "Motorola razr",
-          "NokiaN95"
+          "Nokia N95"
         ],
         "answer": "Nokia N95"
       },
@@ -2331,8 +2331,8 @@
       {
         "id": 22,
         "question": "¿Cuál es la unidad básica de la vida?",
-        "options": ["Célula", "Átomo", "Molécula", "Tejido"],
-        "answer": "Celular"
+        "options": ["Celúla", "Átomo", "Molécula", "Tejido"],
+        "answer": "Celúla"
       },
       {
         "id": 23,
@@ -2363,7 +2363,7 @@
           "Ley de Coulomb",
           "Teoria de la relatividad",
           "Ley de la Gravitación Universal",
-          "Teoria del Big Bang"
+          "Teoría del Big Bang"
         ],
         "answer": "Teoría del Big Bang"
       },
@@ -2399,7 +2399,7 @@
         "id": 29,
         "question": "¿Cuál es la unidad básica de información en una computadora?",
         "options": ["Byte", "Bit", "Píxel", "Hercio"],
-        "answer": "Un poco"
+        "answer": "Bit"
       },
       {
         "id": 30,
@@ -2428,7 +2428,7 @@
         "id": 33,
         "question": "¿Cuál es la diferencia entre átomo y molécula?",
         "options": [
-          "Los átomos son partículas subatómicas, mientras que las moléculas son colecciones de átomos",
+          "Los átomos son partículas subatómicas, mientras que las moléculas son conjuntos de átomos",
           "Los átomos están compuestos por protones, electrones y neutrones, mientras que las moléculas están compuestas por protones y electrones",
           "Los átomos tienen carga eléctrica, mientras que las moléculas no",
           "Los átomos forman compuestos químicos, mientras que las moléculas no tienen esta capacidad"
@@ -2444,7 +2444,7 @@
           "Ley de la conservación de la energía",
           "Ley de Faraday"
         ],
-        "answer": "Ley de conservación de la energía"
+        "answer": "Ley de la conservación de la energía"
       },
       {
         "id": 35,
@@ -2455,7 +2455,7 @@
           "célula bacteriana",
           "Célula eucariota"
         ],
-        "answer": "célula eucariota"
+        "answer": "Célula eucariota"
       },
       {
         "id": 36,
@@ -2516,7 +2516,7 @@
         "id": 41,
         "question": "¿Qué capa de la Tierra alberga vida?",
         "options": ["Núcleo", "Manto", "Corteza", "Atmósfera"],
-        "answer": "corteza"
+        "answer": "Corteza"
       },
       {
         "id": 42,
@@ -2527,7 +2527,7 @@
           "Regular la temperatura corporal",
           "Transmitiendo señales eléctricas al cerebro"
         ],
-        "answer": "Transmite señales eléctricas al cerebro"
+        "answer": "Transmitiendo señales eléctricas al cerebro"
       },
       {
         "id": 43,
@@ -2588,7 +2588,7 @@
           "La ley que describe cómo los cuerpos se atraen entre sí",
           "La ley que describe cómo se propaga la luz"
         ],
-        "answer": "La ley que describe cómo se atraen los cuerpos"
+        "answer": "La ley que describe cómo los cuerpos se atraen entre sí"
       },
       {
         "id": 49,
@@ -2619,7 +2619,7 @@
         "question": "¿Cuáles son los principales factores que contribuyen a la extinción de los animales salvajes?",
         "options": [
           "La contaminación del agua",
-          "Inicio sesión",
+          "Deforestación",
           "Caza ilegal",
           "Cambios climáticos"
         ],
@@ -2632,15 +2632,15 @@
           "Biodiversidad Disminuida",
           "Pérdida del hábitat natural",
           "Aumento de la contaminación",
-          "Todo lo de arriba"
+          "Todas las opciones"
         ],
-        "answer": "Todo lo anterior"
+        "answer": "Todas las opciones"
       },
       {
         "id": 3,
         "question": "¿Qué animal tiene más dientes?",
-        "options": ["Gran Gran Blanco", "Delfín", "Cocodrilo", "Armadillo"],
-        "answer": "gran tiburón blanco"
+        "options": ["Tiburón blanco", "Delfín", "Cocodrilo", "Armadillo"],
+        "answer": "Tiburón blanco"
       },
       {
         "id": 4,
@@ -2648,7 +2648,7 @@
         "options": [
           "Animales que viven en zoológicos",
           "Animales que son domesticados",
-          "Especies que no están domesticadas y corren salvajes en la naturaleza",
+          "Especies que no están domesticadas y se vuelven salvajes en la naturaleza",
           "Mascotas"
         ],
         "answer": "Especies que no están domesticadas y se vuelven salvajes en la naturaleza"
@@ -2673,7 +2673,7 @@
       {
         "id": 7,
         "question": "¿Cuál es el animal más rápido del mundo?",
-        "options": ["guepardo", "leopardo", "puma", "lobo"],
+        "options": ["Guepardo", "leopardo", "puma", "lobo"],
         "answer": "Guepardo"
       },
       {
@@ -2691,7 +2691,7 @@
         "id": 9,
         "question": "¿Qué animal tiene el cerebro más grande en relación con el tamaño de su cuerpo?",
         "options": ["Delfín", "Chimpancé", "Elefante", "Gato"],
-        "answer": "delfín"
+        "answer": "Delfín"
       },
       {
         "id": 10,
@@ -2708,7 +2708,7 @@
       {
         "id": 12,
         "question": "¿Cuál es el animal más duro del planeta?",
-        "options": ["Cucaracha", "Tortuga", "Camello", "Oso polar"],
+        "options": ["Cucaracha", "Tortuga", "Tardígrado", "Oso polar"],
         "answer": "Tardígrado"
       },
       {
@@ -2738,7 +2738,7 @@
         "question": "¿Cuál es la serpiente más grande del mundo?",
         "options": [
           "Sucurí",
-          "Pitón reticulado",
+          "Pitón reticulada",
           "Cobra Real",
           "Anaconda verde"
         ],
@@ -2770,7 +2770,7 @@
       {
         "id": 19,
         "question": "¿Qué animal duerme más horas al día?",
-        "options": ["Ardilla", "Koala", "Gato", "Perezoso"],
+        "options": ["Ardilla", "Koala", "Gato", "Pereza"],
         "answer": "Pereza"
       },
       {
@@ -2792,9 +2792,9 @@
           "Araña Armadura",
           "Serpiente coral",
           "Pez piedra",
-          "Cuadro de medusas"
+          "Caja de medusas"
         ],
-        "answer": "medusas de caja"
+        "answer": "Caja de medusas"
       },
       {
         "id": 23,
@@ -2803,15 +2803,15 @@
           "Camaleón",
           "Jirafa",
           "Panda hormiga",
-          "Etiqueta oso hormiguero"
+          "Oso hormiguero gigante"
         ],
-        "answer": "bandera de oso hormiguero"
+        "answer": "Oso hormiguero gigante"
       },
       {
         "id": 24,
         "question": "¿Qué animal tiene la mayor población en la Tierra?",
         "options": ["Humano", "Pollo", "Ratón", "Hormiga"],
-        "answer": "hormiga"
+        "answer": "Hormiga"
       },
       {
         "id": 25,
@@ -2829,13 +2829,13 @@
         "id": 27,
         "question": "¿Qué animal se sabe que nunca duerme?",
         "options": ["Tiburón", "Jirafa", "Elefante", "Oso pardo"],
-        "answer": "tiburón"
+        "answer": "Tiburón"
       },
       {
         "id": 28,
         "question": "¿Qué animal es capaz de cambiar de color para camuflarse?",
         "options": ["Pulpo", "Lagarto", "Rana", "Serpiente"],
-        "answer": "pulpo"
+        "answer": "Pulpo"
       },
       {
         "id": 29,
@@ -2869,7 +2869,7 @@
           "León",
           "Cocodrilo de agua salada"
         ],
-        "answer": "cocodrilo de agua salada"
+        "answer": "Cocodrilo de agua salada"
       },
       {
         "id": 33,
@@ -2886,7 +2886,7 @@
           "Bosque de Borneo",
           "Bosque de Madagascar"
         ],
-        "answer": "selva amazónica"
+        "answer": "Selva amazónica"
       },
       {
         "id": 35,
@@ -2897,7 +2897,7 @@
           "Lechuza de madriguera",
           "Buitre de cabeza roja"
         ],
-        "answer": "Águila calva"
+        "answer": "Águila americana"
       },
       {
         "id": 36,
@@ -2909,13 +2909,13 @@
         "id": 37,
         "question": "¿Qué animal es el símbolo del continente australiano?",
         "options": ["Canguro", "Koala", "Emu", "Wombat"],
-        "answer": "canguro"
+        "answer": "Canguro"
       },
       {
         "id": 38,
         "question": "¿Cuál es la especie de mono más grande del mundo?",
         "options": ["Chimpancé", "Orangután", "Mandrill", "Gorilla"],
-        "answer": "gorila"
+        "answer": "Gorilla"
       },
       {
         "id": 39,
@@ -2927,7 +2927,7 @@
         "id": 40,
         "question": "¿Qué animal es famoso por hibernar en invierno?",
         "options": ["Ardilla", "Murciélago", "Oso Grizzly", "Armadillo"],
-        "answer": "Oso Pardo"
+        "answer": "Oso Grizzly"
       },
       {
         "id": 41,
@@ -2944,13 +2944,13 @@
           "insecto palo",
           "Pterosaurio"
         ],
-        "answer": "murciélago"
+        "answer": "Murciélago"
       },
       {
         "id": 43,
         "question": "¿Qué animal es conocido por su capacidad de camuflaje?",
         "options": ["Serpiente", "Camaleón", "Tortuga", "Pulpo"],
-        "answer": "camaleón"
+        "answer": "Camaleón"
       },
       {
         "id": 44,
@@ -2965,14 +2965,14 @@
       {
         "id": 45,
         "question": "¿De qué color es el pelaje de un oso polar?",
-        "options": ["Blanco", "Marrón", "Negro"],
-        "answer": "negro"
+        "options": ["Blanco", "Marrón", "Negro", "Azul"],
+        "answer": "Negro"
       },
       {
         "id": 46,
         "question": "¿Qué animal es conocido por su poderoso rugido y por ser el rey de la selva?",
         "options": ["León", "Tigre", "Leopardo", "Guepardo"],
-        "answer": "Leo"
+        "answer": "León"
       },
       {
         "id": 47,
@@ -2984,13 +2984,13 @@
         "id": 48,
         "question": "¿Qué animal se sabe que tiene un sentido del olfato extremadamente agudo, siendo capaz de olfatear presas a grandes distancias?",
         "options": ["Perro", "Gato", "Jaguar", "Oso"],
-        "answer": "Onça"
+        "answer": "Jaguar"
       },
       {
         "id": 49,
         "question": "¿Qué animal se sabe que puede caminar erguido sobre los troncos de los árboles?",
         "options": ["Gato", "Ardilla", "Perezoso", "Camaleón"],
-        "answer": "camaleón"
+        "answer": "Camaleón"
       },
       {
         "id": 50,
@@ -3009,7 +3009,7 @@
           "Salvador Dali",
           "Leonardo da Vinci"
         ],
-        "answer": "Vincent van Gogh"
+        "answer": "Vincent Van Gogh"
       },
       {
         "id": 2,
@@ -3020,7 +3020,7 @@
           "Festival de Sundance",
           "Festival de Toronto"
         ],
-        "answer": "Festival de Cine de Cannes"
+        "answer": "Festival de Cannes"
       },
       {
         "id": 3,
@@ -3031,7 +3031,7 @@
           "Heitor Villa Lobos",
           "Vinicius de Moraes"
         ],
-        "answer": "Heitor Villa-Lobos"
+        "answer": "Heitor Villa Lobos"
       },
       {
         "id": 4,
@@ -3056,7 +3056,7 @@
         "id": 6,
         "question": "¿Cómo se llama la bailarina rusa que se convirtió en una de las más famosas del mundo?",
         "options": [
-          "Ana Pavlova",
+          "Anna Pavlova",
           "Mijail Baryshnikov",
           "Rudolf Nureyev",
           "Maya Plisetskaya"
@@ -3073,7 +3073,7 @@
           "Claude Monet",
           "Salvador Dali"
         ],
-        "answer": "Vincent van Gogh"
+        "answer": "Vincent Van Gogh"
       },
 
       {
@@ -3092,7 +3092,7 @@
         "id": 9,
         "question": "¿Cómo se llama la ópera de Giuseppe Verdi basada en la obra de William Shakespeare?",
         "options": ["Carmen", "La Traviata", "Rigoletto", "Otello"],
-        "answer": "Otelo"
+        "answer": "Otello"
       },
 
       {
@@ -3100,7 +3100,7 @@
         "question": "¿Quién es el autor de la canción 'Girl from Ipanema'?",
         "options": [
           "Joao Gilberto",
-          "Tom Jobín",
+          "Tom Jobim",
           "Chico Buarque",
           "Vinicius de Moraes"
         ],
@@ -3111,7 +3111,7 @@
         "id": 11,
         "question": "¿Cómo se llama el movimiento artístico que tuvo a Pablo Picasso como uno de sus principales representantes?",
         "options": ["Cubismo", "Impresionismo", "Expresionismo", "Realismo"],
-        "answer": "cubismo"
+        "answer": "Cubismo"
       },
 
       {
@@ -3123,7 +3123,7 @@
           "Ojos bien cerrados",
           "El iluminado"
         ],
-        "answer": "La naranja mecánica"
+        "answer": "Naranja Mecánica"
       },
 
       {
@@ -3182,7 +3182,7 @@
           "Grupo Galope",
           "Grupo de toques",
           "Compañía de Teatro Os Satyros",
-          "Teatro de los Oprimidos"
+          "Teatro del Oprimido"
         ],
         "answer": "Teatro del Oprimido"
       },
@@ -3191,7 +3191,7 @@
         "id": 19,
         "question": "¿Cómo se llama la escultura de Auguste Rodin que representa a un hombre desnudo sentado con la cabeza apoyada en el puño?",
         "options": [
-          "El pensador",
+          "El Pensador",
           "El beso",
           "El hombre de la oreja cortada",
           "El velo"
@@ -3224,8 +3224,8 @@
         "options": [
           "Fernando Meirelles",
           "Glauber Rocha",
-          "Walter Sallés",
-          "Héctor Babenco"
+          "Walter Salles",
+          "Hector Babenco"
         ],
         "answer": "Walter Salles"
       },
@@ -3246,7 +3246,7 @@
         "id": 24,
         "question": "¿Cuál es el nombre del estilo musical que se originó en Jamaica a fines de la década de 1950?",
         "options": ["Ska", "Reggae", "Dub", "Rocksteady"],
-        "answer": "ska"
+        "answer": "Ska"
       },
 
       {
@@ -3295,8 +3295,8 @@
       {
         "id": 29,
         "question": "¿Cuál es el nombre del grupo de música británico conocido por sus canciones como 'Bohemian Rhapsody' y 'We Will Rock You'?",
-        "options": ["Los Beatles", "Queen", "Led Zeppelin", "Pink Floyd"],
-        "answer": "Reina"
+        "options": ["The Beatles", "Queen", "Led Zeppelin", "Pink Floyd"],
+        "answer": "Queen"
       },
 
       {
@@ -3414,7 +3414,7 @@
         "id": 41,
         "question": "¿Cómo se llama el famoso baile tradicional de España, que suele ir acompañado del sonido de guitarras y castañuelas?",
         "options": ["Flamenco", "Samba", "Tango", "Ballet"],
-        "answer": "flamenca"
+        "answer": "Flamenco"
       },
 
       {
@@ -3444,7 +3444,7 @@
       {
         "id": 44,
         "question": "¿Cuál es el nombre de la famosa ceremonia anual de entrega de premios cinematográficos que se lleva a cabo en Hollywood, California?",
-        "options": ["Festival de Cannes", "Oscar", "Globo de Oro", "BAFTA"],
+        "options": ["Festival de Cannes", "Óscar", "Globo de Oro", "BAFTA"],
         "answer": "Óscar"
       },
 
@@ -3478,7 +3478,7 @@
           "Rock in Rio",
           "Lollapalooza Brasil",
           "Festival Salvadoreño de Verano",
-          "Festival MPB Indaiatuba"
+          "Festival MPB de Indaiatuba"
         ],
         "answer": "Festival MPB de Indaiatuba"
       },
@@ -3499,7 +3499,7 @@
           "Natalie Portman",
           "Cate Blanchett"
         ],
-        "answer": "Emma Piedra"
+        "answer": "Emma Stone"
       },
 
       {
@@ -3519,14 +3519,14 @@
           "Un estilo de vida",
           "Un tipo de cocina"
         ],
-        "answer": "El arte de cocinar"
+        "answer": "El arte de cocinar los alimentos"
       },
 
       {
         "id": 2,
         "question": "¿Cuál es el ingrediente principal de la cocina japonesa?",
         "options": ["Arroz", "Pescado", "Carne", "Pasta"],
-        "answer": "arroz"
+        "answer": "Arroz"
       },
 
       {
@@ -3632,7 +3632,7 @@
         "question": "¿Qué es un plato crudo?",
         "options": [
           "Un plato que no se cocina",
-          "Un plato que contiene solo comida cruda",
+          "Un plato que solo contiene alimentos crudos",
           "Un plato que no lleva azúcar",
           "Un plato que contiene solo comida orgánica"
         ],
@@ -3709,7 +3709,7 @@
         "id": 19,
         "question": "¿Cuál es el ingrediente principal del sushi?",
         "options": ["Arroz", "Pescado", "Alga nori", "Salsa de soja"],
-        "answer": "arroz"
+        "answer": "Arroz"
       },
 
       {
@@ -3728,7 +3728,7 @@
         "id": 21,
         "question": "¿Cuál es el ingrediente principal del hummus?",
         "options": ["Garbanzo", "Carne", "Arroz", "Chili"],
-        "answer": "garbanzos"
+        "answer": "Garbanzo"
       },
 
       {
@@ -3759,7 +3759,7 @@
         "id": 24,
         "question": "¿Qué es una fondue?",
         "options": [
-          "Plato de origen suizo a base de queso fundido",
+          "Un plato de origen suizo a base de queso derretido",
           "Un plato a base de pescado crudo",
           "Un plato a base de carne a la brasa",
           "Un plato a base de verduras hervidas"
@@ -3812,14 +3812,14 @@
           "Un tipo de tortilla mexicana",
           "Un tipo de pasta italiana"
         ],
-        "answer": "Un tipo de pan francés con forma de media luna"
+        "answer": "Un tipo de pan francés en forma de media luna"
       },
 
       {
         "id": 29,
         "question": "¿Qué es un calzone?",
         "options": [
-          "Un tipo de pizza cerrada en forma de media luna",
+          "Una especie de pizza cerrada en forma de media luna",
           "Un tipo de fideo",
           "Una especie de postre",
           "Una especie de sándwich"
@@ -3842,7 +3842,7 @@
         "id": 31,
         "question": "¿Qué es una fondue?",
         "options": [
-          "Un plato suizo a base de queso fundido y pan",
+          "Un plato suizo a base de queso derretido y pan",
           "Un plato francés a base de pasta",
           "Un plato japonés a base de arroz y verduras",
           "Un plato mexicano a base de carne y tortillas"
@@ -3854,7 +3854,7 @@
         "id": 32,
         "question": "¿Qué es una paella?",
         "options": [
-          "Plato español a base de arroz, marisco y verduras",
+          "Un plato español a base de arroz, marisco y verduras",
           "Plato mexicano a base de maíz",
           "Un plato francés a base de carne",
           "Un plato chino a base de arroz y verduras"
@@ -3866,7 +3866,7 @@
         "id": 33,
         "question": "¿Qué es el ceviche?",
         "options": [
-          "Plato peruano a base de pescado crudo marinado en jugo de limón",
+          "Un plato peruano a base de pescado crudo marinado en jugo de limón",
           "Un tipo de tortilla mexicana",
           "Un plato francés a base de pasta",
           "Un plato chino a base de arroz y verduras"
@@ -3878,12 +3878,12 @@
         "id": 34,
         "question": "¿Qué es un guacamole?",
         "options": [
-          "Plato mexicano a base de aguacate, tomate, cebolla y cilantro",
+          "Un corte de carne muy popular en Brasil",
           "Un plato a base de pasta italiana",
           "Una especie de postre",
           "Un plato chino a base de arroz y verduras"
         ],
-        "answer": "Plato mexicano hecho con aguacate, tomate, cebolla y cilantro"
+        "answer": "Un corte de carne muy popular en Brasil"
       },
 
       {
@@ -3902,7 +3902,7 @@
         "id": 36,
         "question": "¿Qué es una salsa pesto?",
         "options": [
-          "Salsa italiana a base de albahaca, piñones, aceite de oliva, queso y ajo",
+          "Una salsa italiana a base de albahaca, piñones, aceite de oliva, queso y ajo",
           "Una Salsa Francesa a Base de Vino Tinto",
           "Una salsa china a base de soja y jengibre",
           "Una salsa mexicana a base de tomate y pimiento"
@@ -3914,7 +3914,7 @@
         "id": 37,
         "question": "¿Qué es un tiramisú?",
         "options": [
-          "Un postre italiano a base de bizcochos de champagne, café, queso mascarpone y cacao",
+          "Un postre italiano a base de galletas de champán, café, queso mascarpone y cacao",
           "Un plato francés a base de carne",
           "Plato mexicano a base de maíz",
           "Un plato chino a base de arroz y verduras"
@@ -3926,7 +3926,7 @@
         "id": 38,
         "question": "¿Qué es un risotto?",
         "options": [
-          "Plato italiano a base de arroz y caldo de carne o verduras",
+          "Un plato italiano a base de arroz y carne o caldo de verduras",
           "Un plato francés a base de pasta",
           "Plato mexicano a base de maíz",
           "Un plato chino a base de arroz y verduras"
@@ -3938,7 +3938,7 @@
         "id": 39,
         "question": "¿Qué es el ceviche?",
         "options": [
-          "Plato peruano a base de pescado crudo marinado en limón y especias",
+          "Un plato peruano a base de pescado crudo marinado en limón y especias",
           "Un tipo de pasta italiana",
           "Un plato francés a base de carne",
           "Un tipo de sopa mexicana"
@@ -3950,7 +3950,7 @@
         "id": 40,
         "question": "¿Qué es un guacamole?",
         "options": [
-          "Plato mexicano a base de aguacate, tomate, cebolla y limón",
+          "Un plato mexicano hecho con aguacate, tomate, cebolla y lima",
           "Un plato a base de pasta italiana",
           "Un plato francés a base de carne",
           "Un plato chino a base de arroz y verduras"
@@ -3962,7 +3962,7 @@
         "id": 41,
         "question": "¿Qué es un pato de Pekín?",
         "options": [
-          "Plato chino a base de pato asado y tortitas finas",
+          "Un plato chino de pato asado y tortitas finas",
           "Un plato a base de pasta italiana",
           "Un plato francés a base de carne",
           "Un plato mexicano a base de maíz"
@@ -3997,7 +3997,7 @@
         "id": 44,
         "question": "¿Qué es una lasaña?",
         "options": [
-          "Plato italiano a base de pasta en capas con salsa de tomate, carne y queso",
+          "Un plato italiano a base de pasta en capas con salsa de tomate, carne y queso",
           "Un plato francés a base de pescado",
           "Plato mexicano a base de maíz",
           "Un plato chino a base de arroz y verduras"
@@ -4015,14 +4015,14 @@
           "Plato mexicano a base de maíz",
           "Un plato chino a base de arroz y verduras"
         ],
-        "answer": "Un postre ligero a base de crema con claras de huevo batidas"
+        "answer": "Un postre ligero a base de nata y claras de huevo batidas"
       },
 
       {
         "id": 46,
         "question": "¿Qué es una pizza?",
         "options": [
-          "Plato italiano a base de pasta cubierta con salsa de tomate y queso",
+          "Un plato italiano a base de pasta cubierta con salsa de tomate y queso",
           "Un plato francés a base de pescado",
           "Plato mexicano a base de maíz",
           "Un plato chino a base de arroz y verduras"
@@ -4051,7 +4051,7 @@
           "Plato mexicano a base de maíz",
           "Un plato chino a base de arroz y verduras"
         ],
-        "answer": "Un buñuelo especiado a base de garbanzos originario de Oriente Medio"
+        "answer": "Un dumpling frito a base de garbanzos aliñados, con origen en Oriente Medio"
       },
 
       {
@@ -4131,7 +4131,7 @@
           "El Castillo",
           "Carta al Padre"
         ],
-        "answer": "La metamorfosis"
+        "answer": "La Metamorfosis"
       },
 
       {
@@ -4198,7 +4198,7 @@
         "id": 11,
         "question": "¿Quién escribió el libro 'El guardián entre el centeno'?",
         "options": [
-          "JD Salinger",
+          "J.D. Salinger",
           "Ernest Hemingway",
           "F. Scott Fitzgerald",
           "John Steinbeck"
@@ -4215,7 +4215,7 @@
           "Crónica de una muerte anunciada",
           "Nadie le escribe al coronel"
         ],
-        "answer": "Cien años de soledad"
+        "answer": "Cien Años de Soledad"
       },
 
       {
@@ -4293,9 +4293,9 @@
         "id": 19,
         "question": "¿Quién escribió el libro 'Cumbres Borrascosas'?",
         "options": [
-          "Emily Brontê",
-          "Charlotte Bronte",
-          "Anne Brontê",
+          "Emily Brontë",
+          "Charlotte Brontë",
+          "Anne Brontë",
           "Jane Austen"
         ],
         "answer": "Emily Brontë"
@@ -4341,7 +4341,7 @@
           "El asesinato de Roger Ackroyd",
           "Muerte en el Nilo"
         ],
-        "answer": "O Caso dos Ten Negrinhos"
+        "answer": "El caso de los diez negritos"
       },
 
       {
@@ -4360,10 +4360,10 @@
         "id": 25,
         "question": "¿Quién escribió el libro 'La montaña mágica'?",
         "options": [
-          "Tomás Mann",
+          "Thomas Mann",
           "Franz Kafka",
           "Hermann Hesse",
-          "Roberto Musil"
+          "Robert Musil"
         ],
         "answer": "Thomas Mann"
       },
@@ -4372,14 +4372,14 @@
         "id": 26,
         "question": "¿Cuál es la obra más famosa de Toni Morrison?",
         "options": ["Amada", "El ojo más azul", "Jazz", "Paraíso"],
-        "answer": "Amado"
+        "answer": "Amada"
       },
 
       {
         "id": 27,
         "question": "¿Quién escribió el libro 'El guardián entre el centeno'?",
         "options": [
-          "JD Salinger",
+          "J.D. Salinger",
           "Ernest Hemingway",
           "F. Scott Fitzgerald",
           "John Steinbeck"
@@ -4526,9 +4526,9 @@
           "Oliver Twist",
           "David Copperfield",
           "Grandes esperanzas",
-          "Un villancico"
+          "Un Cuento de Navidad"
         ],
-        "answer": "Cuento de Navidad"
+        "answer": "Un Cuento de Navidad"
       },
 
       {
@@ -4547,7 +4547,7 @@
         "id": 41,
         "question": "¿Cuál es la obra más famosa de Truman Capote?",
         "options": [
-          "Sangre fría",
+          "A sangre fría",
           "Muñeca de lujo",
           "Música para Camaleones",
           "El verano del 42"
@@ -4564,19 +4564,19 @@
           "El Mito de Sísifo",
           "La Caída"
         ],
-        "answer": "El extraño"
+        "answer": "El Extranjero"
       },
 
       {
         "id": 43,
         "question": "¿Cuál fue el libro más vendido de 2018?",
         "options": [
-          "El sutil arte de dar una cogida - Mark Manson",
+          "El sutil arte de que te importe un carajo - Mark Manson",
           "Origen - Dan Brown",
           "Cómo ganar amigos e influir en las personas - Dale Carnegie",
           "El poder de la acción - Paulo Vieira"
         ],
-        "answer": "El sutil arte de dar una cogida - Mark Manson"
+        "answer": "El sutil arte de que te importe un carajo - Mark Manson"
       },
 
       {
@@ -4596,9 +4596,9 @@
         "id": 45,
         "question": "¿Qué escritor brasileño publicó el libro 'O Livro dos Ressignificados' en 2018?",
         "options": [
-          "Evaristo Concepción",
-          "Carolina María de Jesús",
-          "Ana María Machado",
+          "Conceição Evaristo",
+          "Carolina Maria de Jesus",
+          "Ana Maria Machado",
           "Lya Luft"
         ],
         "answer": "Conceição Evaristo"
@@ -4631,7 +4631,7 @@
         "id": 48,
         "question": "¿Qué libro de no ficción más vendido en 2018?",
         "options": [
-          "Sapiens-Yuval Noah Harari",
+          "Sapiens - Yuval Noah Harari",
           "Mi historia - Michelle Obama",
           "21 lecciones para el siglo XXI - Yuval Noah Harari",
           "Dios - Una breve historia de la humanidad - Yuval Noah Harari"
@@ -4646,9 +4646,9 @@
           "Eso: La Cosa",
           "Los iluminados",
           "Carrie",
-          "Maldito cementerio"
+          "Cementerio Maldito"
         ],
-        "answer": "Cementerio maldito"
+        "answer": "Cementerio Maldito"
       },
 
       {
@@ -4660,7 +4660,7 @@
           "La Casa de los Espíritus - Isabel Allende",
           "Diario de un niño debilucho - Jeff Kinney"
         ],
-        "answer": "Diario de Wimpy Kid - Jeff Kinney"
+        "answer": "Diario de un niño debilucho - Jeff Kinney"
       }
     ],
     "Image_quiz": [
@@ -4682,7 +4682,7 @@
         "id": 3,
         "question": "https://i.imgur.com/LqI4KHE.jpeg",
         "options": ["Elefante", "Camello", "Pájaro", "Rinoceronte"],
-        "answer": "pájaro"
+        "answer": "Pájaro"
       },
 
       {
@@ -4696,7 +4696,7 @@
         "id": 5,
         "question": "https://i.imgur.com/dOIbBGL.jpeg",
         "options": ["5 Gatos", "15 Gatos", "1 Gato", "2 Gatos"],
-        "answer": "2 gatos"
+        "answer": "2 Gatos"
       },
 
       {
@@ -4737,7 +4737,7 @@
         "id": 10,
         "question": "https://i.imgur.com/SMsTvEk.jpeg",
         "options": ["Mariposa", "Abeja", "León", "Mosquito"],
-        "answer": "Leo"
+        "answer": "León"
       },
 
       {
@@ -4770,7 +4770,7 @@
         "id": 14,
         "question": "https://i.imgur.com/QylKEoK.jpeg",
         "options": ["Cigüeña", "Burro", "Mono", "Rinoceronte"],
-        "answer": "cigüeña"
+        "answer": "Cigüeña"
       },
 
       {
@@ -4790,14 +4790,14 @@
         "id": 17,
         "question": "https://cdn.pixabay.com/photo/2023/01/31/05/59/zebra-7757193_960_720.jpg",
         "options": ["Jirafa", "Elefante", "Cebra", "Pato"],
-        "answer": "cebra"
+        "answer": "Cebra"
       },
 
       {
         "id": 18,
         "question": "https://images.unsplash.com/photo-1677761215878-1030a5840dd3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
         "options": ["Salón", "Carretera", "Aeropuerto", "Coche"],
-        "answer": "Camino"
+        "answer": "Carretera"
       },
 
       {
@@ -4811,14 +4811,14 @@
         "id": 20,
         "question": "https://images.unsplash.com/photo-1524567248408-cbfd37e65e2d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
         "options": ["Guitarra", "Piano", "Violín", "Flauta"],
-        "answer": "guitarra"
+        "answer": "Guitarra"
       },
 
       {
         "id": 21,
         "question": "https://images.unsplash.com/photo-1539888554388-a6c923ee102e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
         "options": ["Yamaha Bass", "Piano", "Coche", "Guitarra acústica"],
-        "answer": "bajo Yamaha"
+        "answer": "Yamaha Bass"
       },
 
       {
@@ -4832,7 +4832,7 @@
         "id": 23,
         "question": "https://images.unsplash.com/photo-1548690596-f1722c190938?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1474&q=80",
         "options": ["Ábaco", "Calculadora científica", "Hp", "Gp"],
-        "answer": "ábaco"
+        "answer": "Ábaco"
       },
 
       {
@@ -4851,7 +4851,7 @@
           "Teoría de Curie",
           "Teoría de Hawking"
         ],
-        "answer": "teoría de Einstein"
+        "answer": "Teoría de Einstein"
       },
 
       {
@@ -4948,28 +4948,28 @@
         "id": 39,
         "question": "https://images.unsplash.com/photo-1596726648434-e6d14dd3f21d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1331&q=80",
         "options": ["Pasteles", "Pudín", "Fresa", "Chocolate"],
-        "answer": "Pastel"
+        "answer": "Pasteles"
       },
 
       {
         "id": 40,
         "question": "https://images.unsplash.com/photo-1508996369280-b9165f545b08?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
         "options": ["Maíz", "Manzana", "Fresa", "Piña"],
-        "answer": "maíz"
+        "answer": "Maíz"
       },
 
       {
         "id": 41,
         "question": "https://images.unsplash.com/photo-1506813713591-56fc5e539b80?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1467&q=80",
         "options": ["Naranja", "Manzana", "Fresa", "Piña"],
-        "answer": "manzana"
+        "answer": "Manzana"
       },
 
       {
         "id": 42,
         "question": "https://images.unsplash.com/photo-1589606663923-283bbd309229?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
         "options": ["Fresa", "Naranja", "Uva", "Piña"],
-        "answer": "piña"
+        "answer": "Piña"
       },
 
       {
@@ -4983,14 +4983,14 @@
         "id": 44,
         "question": "https://images.unsplash.com/photo-1598357850625-6264d49ace9f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
         "options": ["Huevo", "Plátano", "Mango", "Naranja"],
-        "answer": "naranja"
+        "answer": "Naranja"
       },
 
       {
         "id": 45,
         "question": "https://images.unsplash.com/photo-1581952976147-5a2d15560349?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1471&q=80",
-        "options": ["Paquete", "Bajío", "Multid", "Rebaño"],
-        "answer": "Multitud"
+        "options": ["Paquete", "Bajío", "Gente", "Rebaño"],
+        "answer": "Gente"
       },
       {
         "id": 46,

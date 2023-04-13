@@ -693,12 +693,12 @@
         "id": 36,
         "question": "Quem foi o líder russo responsável pela modernização da Rússia no século XVIII?",
         "options": [
-          "Ivan, o Terrível",
+          "Ivan, O Terrível",
           "Catarina, a Grande",
-          "Pedro, o Grande",
-          "Alexandre, o Grande"
+          "Pedro, O Grande",
+          "Alexandre, O Grande"
         ],
-        "answer": "Pedro, o Grande"
+        "answer": "Pedro, O Grande"
       },
       {
         "id": 37,
@@ -1110,12 +1110,12 @@
         "id": 30,
         "question": "Qual é o nome do ator que interpreta o Homem de Ferro nos filmes da Marvel?",
         "options": [
-          "Robert Downey Jr.",
+          "Robert Downey Jr",
           "Chris Evans",
           "Chris Hemsworth",
           "Mark Ruffalo"
         ],
-        "answer": "Robert Downey Jr."
+        "answer": "Robert Downey Jr"
       },
       {
         "id": 31,
@@ -2311,7 +2311,7 @@
         "question": "Qual foi o primeiro smartphone a ser lançado?",
         "options": [
           "Samsung Galaxy S",
-          "Apple iPhone",
+          "iPhone",
           "Motorola Razr",
           "Nokia N95"
         ],
@@ -2635,8 +2635,8 @@
       {
         "id": 3,
         "question": "Qual é o animal que possui o maior número de dentes?",
-        "options": ["Tubarão-branco", "Golfinho", "Crocodilo", "Tatu"],
-        "answer": "Tubarão-branco"
+        "options": ["Tubarão branco", "Golfinho", "Crocodilo", "Tatu"],
+        "answer": "Tubarão branco"
       },
       {
         "id": 4,
@@ -2785,18 +2785,18 @@
         "id": 22,
         "question": "Qual é o animal que tem o veneno mais potente do mundo?",
         "options": [
-          "Aranha-armadeira",
-          "Cobra-coral",
-          "Peixe-pedra",
-          "Medusa-caixa"
+          "Aranha armadeira",
+          "Cobra coral",
+          "Peixe pedra",
+          "Medusa caixa"
         ],
-        "answer": "Medusa-caixa"
+        "answer": "Medusa caixa"
       },
       {
         "id": 23,
         "question": "Qual é o animal que tem a língua mais comprida em relação ao seu tamanho?",
-        "options": ["Camaleão", "Girafa", "Formiga-panda", "Tamanduá-bandeira"],
-        "answer": "Tamanduá-bandeira"
+        "options": ["Camaleão", "Girafa", "Formiga-panda", "Tamanduá bandeira"],
+        "answer": "Tamanduá bandeira"
       },
       {
         "id": 24,
@@ -2858,9 +2858,9 @@
           "Tubarão-branco",
           "Hipopótamo",
           "Leão",
-          "Crocodilo-de-água-salgada"
+          "Crocodilo de água salgada"
         ],
-        "answer": "Crocodilo-de-água-salgada"
+        "answer": "Crocodilo de água salgada"
       },
       {
         "id": 33,
@@ -3021,10 +3021,10 @@
         "options": [
           "Tom Jobim",
           "Chico Buarque",
-          "Heitor Villa-Lobos",
+          "Heitor Villa Lobos",
           "Vinicius de Moraes"
         ],
-        "answer": "Heitor Villa-Lobos"
+        "answer": "Heitor Villa Lobos"
       },
       {
         "id": 4,
@@ -4980,8 +4980,8 @@
       {
         "id": 45,
         "question": "https://images.unsplash.com/photo-1581952976147-5a2d15560349?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1471&q=80",
-        "options": ["Alcateia", "Cardume", "Multido", "Rebanho"],
-        "answer": "Multido"
+        "options": ["Alcateia", "Cardume", "Pessoas", "Rebanho"],
+        "answer": "Pessoas"
       },
 
       {

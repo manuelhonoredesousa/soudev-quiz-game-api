@@ -3564,9 +3564,9 @@
           "Um menu com várias opções de pratos",
           "Um menu especial para eventos",
           "Um menu com pratos em miniatura",
-          "Um menu com uma seleção de pratos escolhidos pelo chef"
+          "Um menu com uma seleção de pratos escolhidos pelo chefe"
         ],
-        "answer": "Um menu com uma seleção de pratos escolhidos pelo chef"
+        "answer": "Um menu com uma seleção de pratos escolhidos pelo chefe"
       },
 
       {
@@ -4278,9 +4278,9 @@
         "id": 18,
         "question": "Qual é a obra mais famosa de Harper Lee?",
         "options": [
+          "O Sol é para Todos",
           "Vá, Coloque um Vigia",
           "Matar um Rouxinol",
-          "O Sol é para Todos",
           "Nenhum desses"
         ],
         "answer": "O Sol é para Todos"

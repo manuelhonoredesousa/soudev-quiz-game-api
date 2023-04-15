@@ -2331,7 +2331,7 @@
         "question": "Quel a été le premier smartphone à sortir ?",
         "options": [
           "Samsung Galaxy S",
-          "Iphone Apple",
+          "Iphone",
           "Motorola Razr",
           "Nokia N95"
         ],
@@ -2968,6 +2968,7 @@
         "options": [
           "Le Fonds international pour la protection des animaux - IFAW",
           "Le Fonds mondial pour la nature - WWF",
+          "Serpent",
           "La conservation de la nature"
         ],
         "answer": "Le Fonds mondial pour la nature - WWF"
@@ -2975,7 +2976,7 @@
       {
         "id": 45,
         "question": "Quelle est la couleur de la fourrure d'un ours polaire ?",
-        "options": ["Blanc", "Marron", "Noir"],
+        "options": ["Blanc", "Marron", "Noir", "Tigre"],
         "answer": "Noir"
       },
       {

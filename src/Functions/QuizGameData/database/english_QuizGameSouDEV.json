@@ -2301,7 +2301,7 @@
         "question": "What was the first smartphone to be released?",
         "options": [
           "Samsung Galaxy S",
-          "Apple iPhone",
+          "iPhone",
           "Motorola razr",
           "Nokia N95"
         ],
@@ -2918,6 +2918,7 @@
         "options": [
           "The International Fund for Animal Welfare - IFAW",
           "The World Wide Fund for Nature - WWF",
+          "Snake",
           "The Nature Conservancy"
         ],
         "answer": "The World Wide Fund for Nature - WWF"
@@ -2925,7 +2926,7 @@
       {
         "id": 45,
         "question": "What is the color of a polar bear's fur?",
-        "options": ["White", "Brown", "Black"],
+        "options": ["White", "Brown", "Black", "Purple"],
         "answer": "Black"
       },
       {

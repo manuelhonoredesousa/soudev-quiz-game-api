@@ -2944,6 +2944,7 @@
         "options": [
           "国際動物福祉基金 - IFAW",
           "世界自然保護基金 - WWF",
+          "ヘビ",
           "ザ・ネイチャー・コンサーバンシー"
         ],
         "answer": "世界自然保護基金 - WWF"
@@ -2951,7 +2952,7 @@
       {
         "id": 45,
         "question": "ホッキョクグマの毛の色は?",
-        "options": ["White", "Brown", "Black"],
+        "options": ["White", "Brown", "Black", "Tiger"],
         "answer": "黒"
       },
       {

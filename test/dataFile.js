@@ -68,7 +68,6 @@ function verificarSeAnswerBateNasOptions(data = Array()) {
   console.log("Total of errors: " + problem.length);
   console.log(problem);
 }
-
 function verificaSeAsOptionsTemQuatro(data = Array()) {
   const allTitles = Object.keys(data);
   const allTitlesLength = Object.keys(data).length;
@@ -92,7 +91,6 @@ function verificaSeAsOptionsTemQuatro(data = Array()) {
   console.log("Total of errors: " + problem.length);
   console.log(problem);
 }
-
 function verificaSeTemPerguntasIguais(data = Array()) {
   const allTitles = Object.keys(data);
   const allTitlesLength = Object.keys(data).length;
@@ -139,7 +137,6 @@ function verificarSeIDeID(data = Array()) {
   console.log("Total of errors: " + problem.length);
   console.log(problem);
 }
-
 function verificarAsImagens(data = Array()) {
   const images = []
   const ddd = require('./../src/Functions/QuizGameData/database/portuguese_QuizGameSouDEV.json').quiz;
@@ -163,7 +160,8 @@ function verificarAsImagens(data = Array()) {
 
 lang.forEach(lg => {
     const dataFile = require('./../src/Functions/QuizGameData/database/'+lg+'_QuizGameSouDEV.json').quiz;
-    console.log("\n>>> ", lg);
+    // console.log("\n>>> ", lg);
+
     // // verificarAsKeys(dataFile);
     // // verificarSeExisteQuatroKeys(dataFile);
     // // verificaSeAsOptionsTemQuatro(dataFile)
@@ -174,8 +172,8 @@ lang.forEach(lg => {
   })
   
   
-  const dataFile = require('./../src/Functions/QuizGameData/database/mandarin_QuizGameSouDEV.json').quiz;
-  // verificarSeAnswerBateNasOptions(dataFile)
+  const dataFile = require('./../src/Functions/QuizGameData/database/japanese_QuizGameSouDEV.json').quiz;
+  verificarSeAnswerBateNasOptions(dataFile)
   
   // const dataFile = require('./../src/Functions/QuizGameData/database/portuguese_QuizGameSouDEV.json').quiz;
 
@@ -190,8 +188,8 @@ lang.forEach(lg => {
     // hindi      -
     // russian    -
     // mandarin   -
-    // korean 
-    // japanese
+    // korean     -
+    // japanese   -
     // arabic 
 
 

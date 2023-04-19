@@ -3,9 +3,6 @@ import { AppService } from './app.service';
 import { languageCodeTypes } from './entities/Types_Interfaces';
 import { topicsTypes } from './Functions/QuizGameData/types';
 
-import { languageTypes } from 'src/entities/Types_Interfaces';
-import { QuestionEntity } from './entities/Questions-Entity';
-
 @Controller()
 export class AppController {
   constructor(private readonly appService: AppService) {}

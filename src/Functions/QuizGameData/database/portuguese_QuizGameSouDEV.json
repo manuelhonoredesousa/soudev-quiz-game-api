@@ -2467,34 +2467,34 @@
         "id": 37,
         "question": "O que é a Internet das Coisas (IoT)?",
         "options": [
-          "Uma rede de dispositivos conectados à internet que podem coletar e compartilhar dados.",
-          "Um tipo de conexão de internet sem fio.",
-          "Um sistema operacional para dispositivos móveis.",
-          "Um tipo de cabo de rede."
+          "Uma rede de dispositivos conectados à internet que podem coletar e compartilhar dados",
+          "Um tipo de conexão de internet sem fio",
+          "Um sistema operacional para dispositivos móveis",
+          "Um tipo de cabo de rede"
         ],
-        "answer": "Uma rede de dispositivos conectados à internet que podem coletar e compartilhar dados."
+        "answer": "Uma rede de dispositivos conectados à internet que podem coletar e compartilhar dados"
       },
       {
         "id": 38,
         "question": "O que é a nuvem (cloud) em tecnologia?",
         "options": [
-          "Armazenamento remoto acessível pela internet.",
-          "Um tipo de conexão sem fio.",
-          "Uma forma física de armazenamento em disco rígido.",
-          "Uma forma física de armazenamento em memória flash."
+          "Armazenamento remoto acessível pela internet",
+          "Um tipo de conexão sem fio",
+          "Uma forma física de armazenamento em disco rígido",
+          "Uma forma física de armazenamento em memória flash"
         ],
-        "answer": "Armazenamento remoto acessível pela internet."
+        "answer": "Armazenamento remoto acessível pela internet"
       },
       {
         "id": 39,
         "question": "O que é um navegador (browser) na internet?",
         "options": [
-          "Um programa usado para acessar a World Wide Web (WWW).",
-          "Um dispositivo usado para conectar-se à internet.",
-          "Uma linguagem usada para criar páginas da web.",
-          "Uma ferramenta usada para enviar emails."
+          "Um programa usado para acessar a World Wide Web (WWW)",
+          "Um dispositivo usado para conectar-se à internet",
+          "Uma linguagem usada para criar páginas da web",
+          "Uma ferramenta usada para enviar emails"
         ],
-        "answer": "Um programa usado para acessar a World Wide Web (WWW)."
+        "answer": "Um programa usado para acessar a World Wide Web (WWW)"
       },
       {
         "id": 40,
@@ -2567,12 +2567,12 @@
         "id": 47,
         "question": "O que é um endereço IP?",
         "options": [
-          "Um número único atribuído a cada dispositivo conectado à internet.",
-          "Um tipo de conexão sem fio.",
-          "Uma forma física de armazenamento em disco rígido.",
-          "Uma forma física de armazenamento em memória flash."
+          "Um número único atribuído a cada dispositivo conectado à internet",
+          "Um tipo de conexão sem fio",
+          "Uma forma física de armazenamento em disco rígido",
+          "Uma forma física de armazenamento em memória flash"
         ],
-        "answer": "Um número único atribuído a cada dispositivo conectado à internet."
+        "answer": "Um número único atribuído a cada dispositivo conectado à internet"
       },
       {
         "id": 48,
@@ -2600,12 +2600,12 @@
         "id": 50,
         "question": "O que é um processador em um computador?",
         "options": [
-          "Um chip que executa cálculos e instruções.",
-          "Um dispositivo usado para armazenar informações.",
-          "Uma linguagem usada para criar páginas da web.",
-          "Um tipo de conexão à internet."
+          "Um chip que executa cálculos e instruções",
+          "Um dispositivo usado para armazenar informações",
+          "Uma linguagem usada para criar páginas da web",
+          "Um tipo de conexão à internet"
         ],
-        "answer": "Um chip que executa cálculos e instruções."
+        "answer": "Um chip que executa cálculos e instruções"
       }
     ],
 

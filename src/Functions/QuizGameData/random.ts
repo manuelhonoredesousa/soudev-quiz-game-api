@@ -1,3 +1,4 @@
+import { numberOrString, questionsOptionsTypes } from './../../entities/Questions-Entity';
 import { QuestionEntity } from 'src/entities/Questions-Entity';
 import { IQuizGameLanguageFile } from './types';
 
@@ -21,6 +22,7 @@ interface IGetRandomQuestion {
 export function getRandomQuestion({quiz, topic}:IGetRandomQuestion) {
     const numberOfAvaliableQuestions = quiz.length
     const randomIndex = randomNumber({ startAt: 1, endAt: numberOfAvaliableQuestions });
+    //
     return { topic: topic, quiz: quiz[randomIndex - 1] }
 }
 
@@ -29,6 +31,18 @@ export function getRandomTopic(allTopicForQuizGame: IQuizGameLanguageFile) {
   const numberOfAvaliableTopics = Object.keys(allTopicForQuizGame.quiz).length;
   const randomIndex = randomNumber({ startAt: 1, endAt: numberOfAvaliableTopics });
   const randomTopic = avaliableTopics[randomIndex - 1];
-  return { topic: randomTopic, quiz: allTopicForQuizGame.quiz[randomTopic] };
-}
 
+   const selectedTopic = allTopicForQuizGame.quiz[randomTopic]
+   const changedQuestionOptionsOrder = changeQuestionOptionsOrder(selectedTopic)
+   
+   return { topic: randomTopic, quiz: changedQuestionOptionsOrder };
+  }
+  
+  const randomOptions = () => Math.random() - 0.5
+  const alterOptions = (options: questionsOptionsTypes): questionsOptionsTypes => options.sort(randomOptions)
+  
+  export function changeQuestionOptionsOrder(EntryQuiz: QuestionEntity[]) {
+    const quiz = EntryQuiz
+     quiz.forEach(question=> question.options = alterOptions(question.options))
+     return quiz
+  }

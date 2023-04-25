@@ -464,12 +464,7 @@
       {
         "id": 13,
         "question": "Quem foi a primeira mulher a ser eleita chefe de Estado em um país?",
-        "options": [
-          "Indira Gandhi",
-          "Golda Meir",
-          "Margaret Thatcher",
-          "Sirimavo Bandaranaike"
-        ],
+        "options": ["Indira Gandhi","Golda Meir","Margaret Thatcher","Sirimavo Bandaranaike"],
         "answer": "Sirimavo Bandaranaike"
       },
       {
@@ -758,12 +753,7 @@
       {
         "id": 42,
         "question": "Qual foi o líder alemão que liderou a Alemanha durante a Primeira Guerra Mundial?",
-        "options": [
-          "Wilhelm II",
-          "Otto von Bismarck",
-          "Adolf Hitler",
-          "Hermann Göring"
-        ],
+        "options": [ "Wilhelm II", "Otto von Bismarck", "Adolf Hitler", "Hermann Göring" ],
         "answer": "Wilhelm II"
       },
       {
@@ -4491,8 +4481,8 @@
         "id": 37,
         "question": "Qual é a obra mais famosa de Jules Verne?",
         "options": [
-          "A Volta ao Mundo em 80 Dias",
           "Vinte Mil Léguas Submarinas",
+          "A Volta ao Mundo em 80 Dias",
           "Viagem ao Centro da Terra",
           "Da Terra à Lua"
         ],
@@ -4704,7 +4694,7 @@
         "id": 7,
 
         "question": "https://i.imgur.com/MrQUYjl.jpeg",
-        "options": ["Girafa", "Cavalo", "Cavalo", "Rinoceronte"],
+        "options": ["Girafa", "Cavalo", "Leão", "Rinoceronte"],
         "answer": "Cavalo"
       },
 

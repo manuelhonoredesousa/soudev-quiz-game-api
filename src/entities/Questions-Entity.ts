@@ -1,9 +1,10 @@
-type numberOrString = string | number
+export type numberOrString = string | number
+export type questionsOptionsTypes = [numberOrString, numberOrString, numberOrString, numberOrString]
 
 export abstract class QuestionEntity {
     id: number;
     question: string;
-    options: [numberOrString, numberOrString, numberOrString, numberOrString];
+    options: questionsOptionsTypes;
     answer: numberOrString;
 }
 

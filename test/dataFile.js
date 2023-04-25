@@ -91,6 +91,22 @@ function verificaSeAsOptionsTemQuatro(data = Array()) {
   console.log("Total of errors: " + problem.length);
   console.log(problem);
 }
+function verificaSeTopicTemMesmaNumerosDeQuestoes(data = Array()) {
+  const metaPorTopic = 50;
+  const allTitles = Object.keys(data);
+  const allTitlesLength = Object.keys(data).length;
+  const problem = [];
+
+  for (let c = 0; c < allTitlesLength; c++) {
+    const title = allTitles[c];
+    const topicQuestions = data[title];
+    if (topicQuestions.length != metaPorTopic) {
+      console.log({title , numberOfQuestions: topicQuestions.length},);
+    }
+  }
+  console.log("Total of errors: " + problem.length);
+  console.log(problem);
+}
 function verificaSeTemPerguntasIguais(data = Array()) {
   const allTitles = Object.keys(data);
   const allTitlesLength = Object.keys(data).length;
@@ -160,22 +176,26 @@ function verificarAsImagens(data = Array()) {
 
 lang.forEach(lg => {
     const dataFile = require('./../src/Functions/QuizGameData/database/'+lg+'_QuizGameSouDEV.json').quiz;
-    // console.log("\n>>> ", lg);
+    console.log("\n>>> ", lg);
 
-    // // verificarAsKeys(dataFile);
-    // // verificarSeExisteQuatroKeys(dataFile);
-    // // verificaSeAsOptionsTemQuatro(dataFile)
-    // // verificarSeIDeID(dataFile)
-    // // verificarAsImagens(dataFile)
-    
+    // verificarAsKeys(dataFile);
+    // verificarSeExisteQuatroKeys(dataFile);
+    // verificaSeAsOptionsTemQuatro(dataFile)
+    // verificaSeTopicTemMesmaNumerosDeQuestoes(dataFile)
+    // verificarSeIDeID(dataFile)
+    // verificarAsImagens(dataFile)
     // verificarSeAnswerBateNasOptions(dataFile)
+
   })
   
   
-  const dataFile = require('./../src/Functions/QuizGameData/database/japanese_QuizGameSouDEV.json').quiz;
-  verificarSeAnswerBateNasOptions(dataFile)
+  // const dataFile = require('./../src/Functions/QuizGameData/database/arabic_QuizGameSouDEV.json').quiz;
+  // verificarSeAnswerBateNasOptions(dataFile)
   
   // const dataFile = require('./../src/Functions/QuizGameData/database/portuguese_QuizGameSouDEV.json').quiz;
+
+
+
 
 
   
@@ -190,7 +210,7 @@ lang.forEach(lg => {
     // mandarin   -
     // korean     -
     // japanese   -
-    // arabic 
+    // arabic     -
 
 
 

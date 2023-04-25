@@ -31,7 +31,7 @@ export function paginateQuiz({
   return { numberOfPages: myPages.length, pages: myPages };
 }
 
-export function pickPage({ pickPage, pages }: IPickPage) {
+export function pickPage({ pickPage, pages }: IPickPage):QuestionEntity[] {
   const indexOfPage = pickPage - 1;
   return pages[indexOfPage];
 }

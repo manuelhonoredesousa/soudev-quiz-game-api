@@ -1,4 +1,5 @@
 import { paginateQuiz, pickPage } from './pagination';
+import { changeQuestionOptionsOrder } from './random';
 import { IQuizGameLanguageFile, topicsTypes } from './types';
 
 interface ISelectTopicOnQuizGameMapperEntries {
@@ -40,6 +41,8 @@ export function selectTopicOnQuizGameMapper(
       return { error: true, avaliablePages: quiz.numberOfPages };
     }
 
+    const changedQuestionOptionsOrder = changeQuestionOptionsOrder(selectedPage)
+
     return {
       quizGameTopic: pickTopic,
       totalQuestions: QuizGameFile.totalQuestionsForEachTopicInQuiz,
@@ -47,7 +50,7 @@ export function selectTopicOnQuizGameMapper(
       currentPage: pickThisPage,
       language: QuizGameFile.language,
       languageCode: QuizGameFile.languageCode,
-      quiz: selectedPage,
+      quiz: changedQuestionOptionsOrder,
     };
   }
 }
@@ -69,3 +72,5 @@ export function selectFileByLanguageMapper({
     quiz: Object.assign({}, quiz),
   };
 }
+
+

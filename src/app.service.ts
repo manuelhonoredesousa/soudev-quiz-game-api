@@ -1,7 +1,7 @@
 import { Injectable } from '@nestjs/common';
-import { languageCodeTypes } from './entities/Types_Interfaces';
+import { languageCodeList, languageCodeTypes } from './entities/Types_Interfaces';
 import { checkInputParams } from './Functions/Errors/httpRequest';
-import { IQuizGameLanguageFile, topicsTypes } from './Functions/QuizGameData/types';
+import { IQuizGameLanguageFile, topicsTypes, topicList } from './Functions/QuizGameData/types';
 import { getQuizGame } from 'src/Functions/QuizGameData';
 import { selectTopicOnQuizGameMapper } from './Functions/QuizGameData/mappers';
 import { errorMessage } from './Functions/Errors/httpResponse';
@@ -10,6 +10,19 @@ import { getRandomQuestion, getRandomTopic } from './Functions/QuizGameData/rand
 
 @Injectable()
 export class AppService {
+  home(){
+    return {
+      information: 'Hello, to get started, tou can follow the instructions at instructions',
+      instructions: [
+        'For normal game, you can try: http://quiz-game.com/«languageCode»/«topic»',
+        'For random topic, you can try: http://quiz-game.com/«languageCode»/Random-Topic',
+        'For random question, you can try: http://quiz-game.com/«languageCode»/Random-Question'
+      ],
+      languageCode: languageCodeList,
+      topicList
+    }
+  }
+
   quizGameByLanguageAndTopic( languageCode: languageCodeTypes, topic: topicsTypes, openPageParm: string) {
     const inputValidations = checkInputParams({ languageCode , topic, openPage: openPageParm });
     if (inputValidations) return inputValidations;

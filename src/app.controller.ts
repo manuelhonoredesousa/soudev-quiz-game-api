@@ -6,6 +6,9 @@ import { topicsTypes } from './Functions/QuizGameData/types';
 @Controller()
 export class AppController {
   constructor(private readonly appService: AppService) {}
+  @Get()
+  home(){return this.appService.home()}
+
   @Get(':languageCode/:topic/:openPage') 
   playQuizGame( @Param('languageCode') languageCode: languageCodeTypes, @Param('topic') topic: topicsTypes, @Param('openPage') openPage: string) {
     return this.appService.quizGameByLanguageAndTopic(languageCode, topic, openPage);

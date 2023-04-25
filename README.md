@@ -45,28 +45,24 @@ $ npm run start:dev
 $ npm run start:prod
 ```
 
-## Test
+## Allowed Routes
 
 ```bash
-# unit tests
-$ npm run test
+# quizGameByLanguageAndTopic
+$ http://localhost:3000/pt/Science_and_technology/1
 
-# e2e tests
-$ npm run test:e2e
+# randomQuestionFromQuizGame
+$ http://localhost:3000/pt/random-question
 
-# test coverage
-$ npm run test:cov
+# randomTopicFromQuizGame
+$ http://localhost:3000/pt/random-topic
 ```
 
 ## Support
+You can contact the:
 
-Nest is an MIT-licensed open source project. It can grow thanks to the sponsors and support by the amazing backers. If you'd like to join them, please [read more here](https://docs.nestjs.com/support).
-
-## Stay in touch
-
-- Author - [Kamil Myśliwiec](https://kamilmysliwiec.com)
-- Website - [https://nestjs.com](https://nestjs.com/)
-- Twitter - [@nestframework](https://twitter.com/nestframework)
+[Portifolio](https://soudev.netlify.app/)
+[LinkedIn](https://www.linkedin.com/in/manuelhonoredesousa/)
 
 ## License
 

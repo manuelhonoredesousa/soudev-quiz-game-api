@@ -1,8 +1,8 @@
 {
   "name": "soudev-quiz-game-api",
-  "version": "0.0.1",
-  "description": "",
-  "author": "",
+  "version": "1.0.0",
+  "description": "This is a simple API for a 'quiz game', including more than five diferents language...",
+  "author": "Manuel de Sousa (SouDEV)",
   "private": true,
   "license": "UNLICENSED",
   "scripts": {

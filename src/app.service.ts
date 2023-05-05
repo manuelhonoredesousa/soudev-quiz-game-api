@@ -19,7 +19,13 @@ export class AppService {
         'For random question, you can try: http://quiz-game.com/«languageCode»/Random-Question'
       ],
       languageCode: languageCodeList,
-      topicList
+      topicList,
+      info: {
+        Dev: 'Manuel de Sousa',
+        Site: 'https://soudev-quiz-game.netlify.app/',
+        LikendIn: 'https://www.linkedin.com/in/manuelhonoredesousa/',
+        github: 'https://github.com/manuelhonoredesousa'
+      }
     }
   }
 
